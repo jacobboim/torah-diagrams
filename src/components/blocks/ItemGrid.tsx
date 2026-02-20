@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import type { ItemGridBlock, GridItem } from '../../types/diagram';
+import { sanitizeHtml } from '../../utils/sanitize';
 
 function GridItemCard({
   item,
@@ -20,13 +21,13 @@ function GridItemCard({
       <span className="grid-item-en">{item.english}</span>
       <span
         className="grid-item-desc"
-        dangerouslySetInnerHTML={{ __html: item.description }}
+        dangerouslySetInnerHTML={{ __html: sanitizeHtml(item.description) }}
       />
       {open && item.detail && (
         <div className="grid-item-detail">
           <div
             className="grid-item-detail-text"
-            dangerouslySetInnerHTML={{ __html: item.detail }}
+            dangerouslySetInnerHTML={{ __html: sanitizeHtml(item.detail) }}
           />
         </div>
       )}

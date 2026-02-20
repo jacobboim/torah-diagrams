@@ -133,6 +133,104 @@
   margin-top: 1px;
 }
 
+/* ---- Sefer Level (Top) ---- */
+.nav-sefer {
+  background: color-mix(in srgb, var(--accent-primary) 5%, transparent);
+  padding: 10px 16px 8px;
+  gap: 8px;
+}
+.nav-sefer-icon {
+  font-size: 0.9rem;
+}
+.nav-sefer-name {
+  flex: 1;
+  font-size: 0.62rem;
+  font-weight: 600;
+}
+
+/* ---- Book Level (Middle) ---- */
+.nav-book {
+  margin: 2px 0;
+}
+.nav-book-label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 16px 6px 24px;
+  font-size: 0.7rem;
+  font-family: var(--font-display);
+  color: var(--text-mid);
+  cursor: pointer;
+  user-select: none;
+  transition: background 0.15s, color 0.15s;
+  border-left: 2px solid transparent;
+}
+.nav-book-label:hover {
+  background: var(--hover-highlight, rgba(255,255,255,0.04));
+  color: var(--text-light);
+}
+.nav-book-arrow {
+  font-size: 0.5rem;
+  transition: transform 0.2s;
+  color: var(--text-dim);
+}
+.nav-book.open .nav-book-arrow {
+  transform: rotate(90deg);
+}
+.nav-book-name {
+  flex: 1;
+  font-weight: 500;
+}
+.nav-book-items {
+  padding-left: 8px;
+}
+
+/* ---- Parshah Level ---- */
+.nav-parshah-label {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 16px 4px 32px;
+  font-size: 0.62rem;
+  font-family: var(--font-display);
+  letter-spacing: 0.08em;
+  color: var(--text-dim);
+  text-transform: uppercase;
+}
+.nav-parshah-label.clickable {
+  cursor: pointer;
+  user-select: none;
+  transition: color 0.15s;
+}
+.nav-parshah-label.clickable:hover {
+  color: var(--text-mid);
+}
+.nav-parshah-arrow {
+  font-size: 0.45rem;
+  transition: transform 0.2s;
+}
+.nav-parshah-label.open .nav-parshah-arrow {
+  transform: rotate(90deg);
+}
+.nav-parshah-single {
+  padding: 4px 16px 2px 32px;
+}
+.nav-parshah-single .nav-parshah-label {
+  padding: 0;
+  font-size: 0.58rem;
+}
+.nav-parshah-items {
+  /* entries within a parshah */
+}
+
+/* ---- Count Badge ---- */
+.nav-count {
+  font-size: 0.55rem;
+  color: var(--text-dim);
+  opacity: 0.7;
+  margin-left: auto;
+}
+
 /* ---- Main Content ---- */
 .main-content {
   flex: 1;

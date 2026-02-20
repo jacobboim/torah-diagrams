@@ -1,4 +1,5 @@
 import type { ParableGridBlock } from '../../types/diagram';
+import { sanitizeHtml } from '../../utils/sanitize';
 
 export default function ParableGrid({ block }: { block: ParableGridBlock }) {
   return (
@@ -9,7 +10,7 @@ export default function ParableGrid({ block }: { block: ParableGridBlock }) {
           <span className="parable-title">{p.title}</span>
           <div
             className="parable-body"
-            dangerouslySetInnerHTML={{ __html: p.body }}
+            dangerouslySetInnerHTML={{ __html: sanitizeHtml(p.body) }}
           />
         </div>
       ))}

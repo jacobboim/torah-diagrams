@@ -1,0 +1,434 @@
+{
+  "id": "torah-ohr/shemos/terumah/01-mi-yitnecha-keach",
+  "meta": {
+    "sefer": "Torah Ohr",
+    "book": "Shemos",
+    "parshah": "Terumah",
+    "hebrewTitle": "מי יתנך כאח לי",
+    "englishTitle": "Would That You Were Like a Brother to Me",
+    "subtitle": "The Keruvim: Brothers in Divine Service",
+    "sourceDiscourse": "source-texts/torah-ohr/shemos/terumah/01-מי יתנך כאח.txt"
+  },
+  "blocks": [
+    {
+      "type": "verse",
+      "text": "מִי יִתֶּנְךָ כְּאָח לִי יוֹנֵק שְׁדֵי אִמִּי אֶמְצָאֲךָ בַחוּץ אֶשָּׁקֶךָ",
+      "reference": "Shir HaShirim 8:1"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "Ohr Ein Sof",
+      "hebrew": "אור אין סוף",
+      "english": "The Infinite Light · Source of All",
+      "tagline": "Utterly beyond all worlds—even <span class=\"heb\">חכמה עילאה</span> is like nothing before it. \"<span class=\"heb\">כולא קמיה כלא חשיב</span>\"—All is considered as naught before Him.",
+      "badges": [
+        { "label": "בלי גבול", "variant": "primary" },
+        { "label": "Beyond Comprehension", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Ten Sefirot as a \"Name\"",
+          "content": "Even the loftiest Sefirot—including <span class=\"heb\">חכמה עילאה</span>—are merely <span class=\"heb\">רזא דשמא קדישא</span> (the secret of the Holy Name). Just as a person's name is only an external indication and doesn't touch their true essence, so too the Sefirot are merely a \"name\" relative to <span class=\"heb\">אין סוף</span>."
+        },
+        {
+          "title": "He Is the Knower, the Knowledge, and the Known",
+          "content": "<span class=\"heb\">הוא היודע והוא הדעה והוא הידוע</span>—Unlike created beings where the knower, knowledge, and known are separate, Hashem is completely unified with His wisdom. This is why <span class=\"heb\">חכמה</span> is called <span class=\"heb\">אין סוף</span>—through this unity, the Infinite is revealed."
+        },
+        {
+          "title": "Ani Hashem Lo Shaniti",
+          "content": "<span class=\"heb\">אני ה' לא שניתי</span>—\"I Hashem have not changed.\" The creation of worlds causes no change whatsoever in the Essence. Before creation and after, He remains absolutely the same, for all worlds are as nothing before Him."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "green"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "I",
+      "label": "Chochmah Ila'ah",
+      "hebrew": "חכמה עילאה",
+      "english": "Supernal Wisdom · Adam HaGadol",
+      "tagline": "Called <span class=\"heb\">אדם הגדול</span> and <span class=\"heb\">אנפי רברבי</span> (great face)—the first vessel where <span class=\"heb\">אור אין סוף</span> shines. \"<span class=\"heb\">ה' בחכמה</span>\"—Hashem is revealed through Wisdom.",
+      "badges": [
+        { "label": "שורש התורה", "variant": "primary" },
+        { "label": "אדם הראשון", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why Torah is Called \"Adam\"",
+          "content": "The Torah is called <span class=\"heb\">אדם</span> (\"<span class=\"heb\">זאת התורה אדם</span>\") because its root is in <span class=\"heb\">חכמה עילאה</span>. Just as the brain is the primary vessel for the soul in a human being, <span class=\"heb\">חכמה</span> is the primary vessel for <span class=\"heb\">אור אין סוף</span>."
+        },
+        {
+          "title": "Bitul of Chochmah",
+          "content": "The nature of <span class=\"heb\">חכמה</span> is <span class=\"heb\">ביטול</span>—nullification. The word <span class=\"heb\">חכמה</span> can be read as <span class=\"heb\">כח מה</span>—\"the power of 'what.'\" Because of this total self-nullification, <span class=\"heb\">אור אין סוף</span> can rest within it."
+        },
+        {
+          "title": "Aihu V'Chiyohi Chad",
+          "content": "<span class=\"heb\">איהו וחיוהי חד</span>—\"He and His life-forces are one.\" At the level of <span class=\"heb\">חכמה</span>, there is complete unity between the Infinite Light and the vessel, unlike the lower Sefirot where <span class=\"heb\">איהו וגרמוהי חד</span>—unity with \"vessels.\""
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "green",
+      "toTheme": "purple"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "II",
+      "label": "Torah D'Briah",
+      "hebrew": "תורה דבריאה",
+      "english": "Torah of Creation · Anpei Zutrei",
+      "tagline": "Called <span class=\"heb\">כרוב</span> and <span class=\"heb\">אנפי זוטרי</span> (small face)—the Torah as it descends through <span class=\"heb\">צמצום</span> to be grasped by finite beings. \"<span class=\"heb\">צמצם שכינתו בין בדי הארון</span>.\"",
+      "badges": [
+        { "label": "אדם הקטן", "variant": "primary" },
+        { "label": "צמצום", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "From Infinite to Finite",
+          "content": "For the Infinite Light to be grasped by finite beings, immense <span class=\"heb\">צמצום</span> (contraction) is required. Like a great teacher explaining deep concepts to a small child—the essence remains, but contracted to fit the vessel."
+        },
+        {
+          "title": "The Secret of Keruv",
+          "content": "<span class=\"heb\">כרוב</span> in Aramaic is <span class=\"heb\">כרביא</span>—like a child. The Keruvim had the faces of children (<span class=\"heb\">אנפי זוטרי</span>) because they represent the divine light in its contracted form, accessible to created beings."
+        },
+        {
+          "title": "Tzimtzum Shechinat Between the Staves",
+          "content": "The Shechinah was \"contracted\" between the staves of the Ark—not because Hashem is limited, but to enable revelation to finite beings. Every revelation requires corresponding concealment."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Two Keruvim: Brothers in Service"
+    },
+    {
+      "type": "item-grid",
+      "columns": 2,
+      "items": [
+        {
+          "hebrew": "כרוב אחד מקצה מזה",
+          "english": "Keruv from This End",
+          "theme": "blue",
+          "description": "Represents Z\"A—the flow from Above to below, source of light to the worlds.",
+          "detail": "This Keruv represents <span class=\"heb\">זעיר אנפין דאצילות</span>—the drawing down (<span class=\"heb\">המשכה</span>) of divine light from above to below. It is the source and root for the flow of light into <span class=\"heb\">בריאה-יצירה-עשיה</span>. Like a parent bestowing gifts upon a child."
+        },
+        {
+          "hebrew": "וכרוב אחד מקצה מזה",
+          "english": "Keruv from That End",
+          "theme": "teal",
+          "description": "Represents Nukvah/Malchut—the root of Jewish souls ascending to Hashem.",
+          "detail": "This Keruv represents <span class=\"heb\">מלכות דאצילות</span>, the root of <span class=\"heb\">נשמות ישראל</span>. It is the ascent (<span class=\"heb\">העלאה</span>) from below to above—our yearning for <span class=\"heb\">כלות הנפש</span> to cleave to Hashem. \"<span class=\"heb\">עינינו נשואות אל ה'</span>.\""
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "Faces Toward Each Other: The Dynamic of Service",
+      "intro": "\"<span class=\"heb\">ופניהם איש אל אחיו</span>\"—Their faces were toward each other. When is this achieved?",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "אתערותא דלתתא",
+          "content": "<b>Awakening from Below</b>: Through <span class=\"heb\">קריאת שמע</span>—contemplating how \"<span class=\"heb\">ה' אחד</span>\" and that all worlds are as nothing before Him—one reaches <span class=\"heb\">מסירות נפש באחד</span>. This triggers the response from above."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "אתערותא דלעילא",
+          "content": "<b>Awakening from Above</b>: \"<span class=\"heb\">כמים הפנים לפנים</span>\"—as water reflects a face, so too Hashem responds to our love with His love. When we yearn upward, divine light flows downward."
+        },
+        {
+          "theme": "green",
+          "hebrew": "פנים בפנים",
+          "content": "<b>Face to Face</b>: This is the state of the Keruvim when both awakenings meet—like at <span class=\"heb\">מתן תורה</span> where \"<span class=\"heb\">פנים בפנים דבר ה' עמכם</span>.\" At this level, they are called <span class=\"heb\">אחים</span>—brothers."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Wings: Ascending Through Love and Fear"
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "III",
+      "label": "Kanfei HaKeruvim",
+      "hebrew": "כנפי הכרובים",
+      "english": "The Wings · Ahavah and Yirah",
+      "tagline": "\"<span class=\"heb\">והיו הכרובים פורשי כנפים למעלה</span>\"—Three times daily, the Keruvim spread their wings and ascend. These wings are <span class=\"heb\">אהבה ויראה</span>—love and fear.",
+      "badges": [
+        { "label": "גדפין לפרחא", "variant": "primary" },
+        { "label": "ג׳ תפלות", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Wings to Fly Above",
+          "content": "The Zohar teaches: <span class=\"heb\">אהבה ויראה נקראים גדפין לפרחא לעילא</span>—love and fear are called \"wings to fly above.\" Without them, the soul cannot ascend. They are awakened through the three daily prayers."
+        },
+        {
+          "title": "Ascending to Atzilut",
+          "content": "Three times daily, through <span class=\"heb\">תפלה</span>, the Keruvim ascend from <span class=\"heb\">בריאה-יצירה-עשיה</span> to <span class=\"heb\">אצילות</span>. At that moment, they become <span class=\"heb\">אדם הגדול</span> and <span class=\"heb\">אנפי רברבי</span>—because in Atzilut, <span class=\"heb\">איהו וחיוהי וגרמוהי חד בהון</span>."
+        },
+        {
+          "title": "Tefillah as Connection",
+          "content": "<span class=\"heb\">תפלה</span> means <span class=\"heb\">חיבור</span>—connection, like <span class=\"heb\">נפתולי אלקים נפתלתי</span>. Through prayer, we connect and unite with our source in <span class=\"heb\">אצילות</span>. The Keruvim spreading their wings is the inner meaning of this connection."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "blue",
+      "toTheme": "gold"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "IV",
+      "label": "The Kapores",
+      "hebrew": "הכפורת",
+      "english": "The Covering · Sovev Kol Almin",
+      "tagline": "\"<span class=\"heb\">מן הכפורת תעשו את הכרובים</span>\"—The Keruvim were made from the Kapores itself. This represents <span class=\"heb\">סובב כל עלמין</span>—the encompassing light that surrounds both equally.",
+      "badges": [
+        { "label": "מקיף", "variant": "primary" },
+        { "label": "שוה לכולם", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Encompassing Light",
+          "content": "<span class=\"heb\">סובב כל עלמין</span> is the divine light beyond gradation—it surrounds all worlds equally, without distinction between high and low. This is why the Kapores, which represents this light, encompasses both Keruvim."
+        },
+        {
+          "title": "Source of All Creation",
+          "content": "The ultimate source of all creation is the <span class=\"heb\">אור המקיף</span>. The Keruvim—representing the entire system of descent and ascent—emerge from this single source, symbolized by being hewn from the same piece of gold as the Kapores."
+        },
+        {
+          "title": "Beyond Distinctions",
+          "content": "At the level of <span class=\"heb\">סובב</span>, all distinctions dissolve. <span class=\"heb\">ז\"א</span> and <span class=\"heb\">נוקבא</span>, drawing down and ascending, are equal before the Infinite. This is why the Kapores \"covers\" them both equally."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "יונק שדי אמי: The Nursing Mother of Torah"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Dimension" },
+        { "key": "written", "label": "תורה שבכתב", "theme": "green" },
+        { "key": "oral", "label": "תורה שבעל פה", "theme": "blue" }
+      ],
+      "rows": [
+        {
+          "dimension": "Analogy",
+          "written": "מוסר אביך — Father's Teaching: Like the seed from the father, concentrated and hidden",
+          "oral": "תורת אמך — Mother's Torah: Like the mother who develops and reveals the full form"
+        },
+        {
+          "dimension": "Sefirah",
+          "written": "חכמה (Chochmah) — Brief, allusive, the point of insight",
+          "oral": "בינה (Binah) — Expanded, explained, understanding in depth"
+        },
+        {
+          "dimension": "Revelation",
+          "written": "The mitzvot are hinted at briefly—we know what to do but not all the details",
+          "oral": "The full revelation of how to fulfill each mitzvah with all its particulars"
+        },
+        {
+          "dimension": "Delight",
+          "written": "Like bread—essential nourishment but limited pleasure",
+          "oral": "Like wine that \"gladdens God and man\"—the delight comes from understanding"
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "Milk and the Growth of the Soul",
+      "intro": "\"<span class=\"heb\">יונק שדי אמי</span>\"—Nursing from the mother. The Torah's wisdom is compared to milk that grows the infant soul.",
+      "items": [
+        {
+          "theme": "purple",
+          "hebrew": "חלב מגדיל",
+          "content": "Just as milk grows the infant's physical body and develops the brain until the child can speak and walk, so too Torah <span class=\"heb\">שבעל פה</span> grows the 248 spiritual \"limbs\" of the soul—the 10 Sefirot times 10, times 10, with their root in the 5 <span class=\"heb\">חסדים</span>."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "תלמודו בידו",
+          "content": "\"<span class=\"heb\">אשרי מי שבא לכאן ותלמודו בידו</span>\"—Happy is one who comes to the World to Come with their learning in hand. The Torah learned in this world enables the soul to receive the revelations of <span class=\"heb\">גן עדן</span>."
+        },
+        {
+          "theme": "green",
+          "hebrew": "תענוג בבינה",
+          "content": "The main <span class=\"heb\">תענוג</span> (delight) from learning comes specifically in <span class=\"heb\">בינה</span>—when one truly understands the matter thoroughly. This is \"<span class=\"heb\">יין המשמח</span>\"—the wine that gladdens."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "אמצאך בחוץ: Finding Hashem in the Marketplace"
+    },
+    {
+      "type": "level-card",
+      "theme": "teal",
+      "number": "V",
+      "label": "Baalei Esek",
+      "hebrew": "בעלי עסקים",
+      "english": "Business People · Birurim in the World",
+      "tagline": "\"<span class=\"heb\">אמצאך בחוץ</span>\"—I will find You outside. Even those who cannot constantly study Torah can achieve the level of \"<span class=\"heb\">כאח לי</span>\" through their worldly work of elevating <span class=\"heb\">ניצוצות</span>.",
+      "badges": [
+        { "label": "בירורים", "variant": "primary" },
+        { "label": "אתכפיא", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Hashem's Acquisition",
+          "content": "\"<span class=\"heb\">קונה שמים וארץ</span>\"—Hashem \"acquires\" heaven and earth. Like a purchase where one gives money and receives goods, the six days of work are the \"payment\" and Shabbos is the \"acquisition\"—the elevation of all the sparks refined during the week."
+        },
+        {
+          "title": "Elevating Through Echad",
+          "content": "When the businessman says \"<span class=\"heb\">ה' אחד</span>\" with intention in <span class=\"heb\">קריאת שמע</span>—even just the first verse which requires <span class=\"heb\">כוונה</span> according to all opinions—all his worldly dealings are elevated to the \"<span class=\"heb\">אחד</span>.\" This fulfills \"<span class=\"heb\">ואספת דגנך</span>.\""
+        },
+        {
+          "title": "The Advantage of Iskafia",
+          "content": "<span class=\"heb\">יתרון האור מן החושך</span>—The advantage of light from darkness. The <span class=\"heb\">אתכפיא</span> (self-subduing) of business people who overcome their distractions to pray and study reaches <span class=\"hl\">higher</span> than the service of those who sit and learn without such struggles."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "teal",
+      "toTheme": "red"
+    },
+    {
+      "type": "level-card",
+      "theme": "red",
+      "number": "VI",
+      "label": "Yein HaRekach",
+      "hebrew": "יין הרקח",
+      "english": "Spiced Wine · Torah with Fragrance",
+      "tagline": "\"<span class=\"heb\">אשקך מיין הרקח</span>\"—I will give you spiced wine. The Torah study of those who overcome challenges has both \"taste\" (understanding) and \"fragrance\" (reaching transcendent levels).",
+      "badges": [
+        { "label": "ריח", "variant": "primary" },
+        { "label": "מקיף", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Fragrance from the Supernal",
+          "content": "<span class=\"heb\">ריח</span> (fragrance) comes from the <span class=\"heb\">מקיף</span>—the encompassing, transcendent level. Unlike food which the body enjoys, fragrance is enjoyed by the <span class=\"heb\">נשמה</span> itself. The <span class=\"heb\">אתכפיא</span> of business people reaches this level."
+        },
+        {
+          "title": "Wine Plus Spices",
+          "content": "Regular wine has taste—like <span class=\"heb\">בינה</span>, the understanding one gains. <span class=\"heb\">יין הרקח</span> (spiced wine) has both taste <span class=\"hl\">and</span> fragrance—the <span class=\"heb\">קביעות עתים</span> of busy people contains both inner light and transcendent light."
+        },
+        {
+          "title": "Neshikin—The Kiss",
+          "content": "For business people it says \"<span class=\"heb\">אשקך</span>\"—I will kiss you. <span class=\"heb\">נשיקין</span> is <span class=\"heb\">אתדבקות רוחא ברוחא</span>—spiritual cleaving. Through their self-sacrifice, they achieve a level of connection even higher than constant Torah study."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Three Pillars That Sustain the World"
+    },
+    {
+      "type": "item-grid",
+      "columns": 3,
+      "items": [
+        {
+          "hebrew": "תורה",
+          "english": "Torah",
+          "theme": "green",
+          "description": "The middle pillar—קו האמצעי—drawing from Keter through Tiferes.",
+          "detail": "Torah study draws down <span class=\"heb\">אור אין סוף</span> through the middle line. When we say \"<span class=\"heb\">קוינו לו</span>\"—we drew Him into <span class=\"heb\">קוין</span>—Torah is the central pillar connecting all levels."
+        },
+        {
+          "hebrew": "עבודה",
+          "english": "Service/Prayer",
+          "theme": "purple",
+          "description": "The left pillar—קו השמאל—elevating through Gevurah.",
+          "detail": "Prayer (<span class=\"heb\">עבודה שבלב</span>) is the service of the heart. It represents the ascent, the <span class=\"heb\">רצוא</span>, the yearning upward. \"<span class=\"heb\">עולת תמיד</span>\"—constant elevation."
+        },
+        {
+          "hebrew": "גמילות חסדים",
+          "english": "Acts of Kindness",
+          "theme": "blue",
+          "description": "The right pillar—קו הימין—flowing through Chesed.",
+          "detail": "Acts of kindness draw down divine Chesed into the world. This includes charity (<span class=\"heb\">צדקה</span>) which business people excel in through their earnings. It is the <span class=\"heb\">שוב</span>, the return and bestowal."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Shabbos: The Completion of the Week"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold-dim",
+      "number": "VII",
+      "label": "Yom HaShevi'i",
+      "hebrew": "יום השביעי",
+      "english": "The Seventh Day · Elevation of All",
+      "tagline": "\"<span class=\"heb\">ויכולו השמים</span>\"—from <span class=\"heb\">כלתה נפשי</span>—yearning of the soul. On Shabbos, all the <span class=\"heb\">בירורים</span> of the week ascend to their source. \"<span class=\"heb\">לכה דודי לקראת כלה</span>.\"",
+      "badges": [
+        { "label": "עליית העולמות", "variant": "primary" },
+        { "label": "מלכות", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Six Days of Descent",
+          "content": "During the six weekdays, the <span class=\"heb\">מדות עליונות</span> descend into <span class=\"heb\">בריאה-יצירה-עשיה</span> to enable the work of <span class=\"heb\">בירור</span>. Each day corresponds to one of the six <span class=\"heb\">מדות</span>—from <span class=\"heb\">חסד</span> on Sunday to <span class=\"heb\">יסוד</span> on Friday."
+        },
+        {
+          "title": "The Seventh Day—Ascent",
+          "content": "On Shabbos, everything returns and ascends to its source. This is the <span class=\"heb\">מדה השביעית</span>—<span class=\"heb\">מלכות</span>. The sparks refined through the week's work now rise up, and we say \"<span class=\"heb\">קונה שמים וארץ</span>\"—the acquisition is complete."
+        },
+        {
+          "title": "Kallah—The Bride",
+          "content": "<span class=\"heb\">כלה</span> means both \"bride\" and <span class=\"heb\">כלות הנפש</span>—expiration of the soul in yearning for Hashem. \"<span class=\"heb\">ויכלו</span>\" hints that on Shabbos, all existence yearns to return to and be absorbed in its divine source."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "מעסיס רמוני: Even the \"Empty\" Are Full"
+    },
+    {
+      "type": "prose",
+      "content": "\"<span class=\"heb\">מעסיס רמוני</span>\"—from the juice of my pomegranates. This refers to those who cannot study Torah at all, but are filled with mitzvos like a pomegranate is filled with seeds.<br>The Sages teach: \"<span class=\"heb\">אפילו ריקנים שבך מלאים מצות כרמון</span>\"—even the empty ones among you are full of mitzvos like a pomegranate. <span class=\"heb\">ריקנים</span> doesn't mean sinners—it means those \"empty\" of Torah learning, but full of mitzvos and <span class=\"heb\">דרך ארץ</span>.<br>Mitzvos also awaken the <span class=\"heb\">תענוג העליון</span> because \"<span class=\"heb\">נעוץ תחלתן בסופן</span>\"—the end (physical action) is rooted in the beginning (supernal pleasure). Physical mitzvos, though they seem \"lowest,\" reach the highest source."
+    },
+    {
+      "type": "section-label",
+      "text": "When the Temple Was Destroyed"
+    },
+    {
+      "type": "info-panel",
+      "title": "After the Churban: How We Become Brothers Now",
+      "intro": "When the Beis HaMikdash stood, the Keruvim revealed the unity of Israel and Hashem. After the destruction, how do we achieve this?",
+      "items": [
+        {
+          "theme": "purple",
+          "hebrew": "נגנזו הכרובים",
+          "content": "<b>The Keruvim Were Hidden</b>: The Shechinah journeyed \"from Keruv to Keruv\" as it departed. The revelation that once shone through the physical Keruvim withdrew to its spiritual source in <span class=\"heb\">אצילות</span>."
+        },
+        {
+          "theme": "green",
+          "hebrew": "ד׳ אמות של הלכה",
+          "content": "<b>Four Amos of Halachah</b>: \"<span class=\"heb\">משחרב בית המקדש אין לו להקב\"ה אלא ד' אמות של הלכה</span>\"—After the destruction, Hashem's presence rests specifically in Torah study. This becomes our new \"Beis HaMikdash.\""
+        },
+        {
+          "theme": "gold",
+          "hebrew": "מי יתנך כאח לי",
+          "content": "<b>The Yearning for Brotherhood</b>: This is the request of <span class=\"heb\">כנסת ישראל</span> in exile—\"Would that You be like a brother to me, as in the days of the Temple when we were called <span class=\"heb\">אחים</span> and faced each other <span class=\"heb\">פנים בפנים</span>!\""
+        }
+      ]
+    }
+  ]
+}

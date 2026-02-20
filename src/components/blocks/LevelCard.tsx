@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import type { LevelCardBlock } from '../../types/diagram';
+import { sanitizeHtml } from '../../utils/sanitize';
 
 export default function LevelCard({ block }: { block: LevelCardBlock }) {
   const [open, setOpen] = useState(false);
@@ -20,7 +21,7 @@ export default function LevelCard({ block }: { block: LevelCardBlock }) {
             <div className="level-english">{block.english}</div>
             <div
               className="level-tagline"
-              dangerouslySetInnerHTML={{ __html: block.tagline }}
+              dangerouslySetInnerHTML={{ __html: sanitizeHtml(block.tagline) }}
             />
           </div>
 
@@ -43,7 +44,7 @@ export default function LevelCard({ block }: { block: LevelCardBlock }) {
                   <div className="detail-box-title">{d.title}</div>
                   <div
                     className="detail-box-content"
-                    dangerouslySetInnerHTML={{ __html: d.content }}
+                    dangerouslySetInnerHTML={{ __html: sanitizeHtml(d.content) }}
                   />
                 </div>
               ))}

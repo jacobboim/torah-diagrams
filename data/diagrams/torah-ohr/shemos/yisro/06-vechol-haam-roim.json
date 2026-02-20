@@ -1,0 +1,260 @@
+{
+  "id": "torah-ohr/shemos/yisro/06-vechol-haam-roim",
+  "meta": {
+    "sefer": "Torah Ohr",
+    "book": "Shemos",
+    "parshah": "Yisro",
+    "hebrewTitle": "וכל העם רואים את הקולות",
+    "englishTitle": "And All the People Saw the Sounds",
+    "subtitle": "The Shofar at Sinai: Unifying Fire & Water Through the Simple Sound"
+  },
+  "blocks": [
+    {
+      "type": "verse",
+      "text": "וְכָל הָעָם רֹאִים אֶת הַקּוֹלֹת וְאֶת הַלַּפִּידִם וְאֵת קוֹל הַשֹּׁפָר",
+      "reference": "Shemos 20:15"
+    },
+    {
+      "type": "section-label",
+      "text": "The Opening Questions"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "I",
+      "label": "THE QUESTION",
+      "hebrew": "שאלת השופר",
+      "english": "The Shofar Paradox",
+      "tagline": "Why was there a <span class=\"heb\">שופר</span> (shofar) at Matan Torah? Its simple sound lacks the pleasant melodies of other instruments, yet it was chosen for the greatest revelation.",
+      "badges": [
+        { "label": "Opening Question", "variant": "primary" }
+      ],
+      "details": [
+        {
+          "title": "The Problem",
+          "content": "Other instruments like the <span class=\"heb\">נבל</span> (harp) and <span class=\"heb\">כינור</span> (lyre) produce beautiful, complex harmonies. The shofar produces only a <span class=\"hl\">simple, plain sound</span> (<span class=\"heb\">קול פשוט</span>) with no pleasant melodies—and even instills fear and trembling!"
+        },
+        {
+          "title": "Deeper Paradox",
+          "content": "The word <span class=\"heb\">שופר</span> comes from <span class=\"heb\">שפרו מעשיכם</span> (beautify your deeds) and <span class=\"heb\">שפר</span> meaning beauty and pleasure. How can the simplest, most fear-inducing sound represent beauty and pleasure? Because it draws from the <span class=\"hl\">Source of all Pleasures</span>—beyond any particular pleasure."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "gold"
+    },
+    {
+      "type": "section-label",
+      "text": "Abraham's Service: The Paradigm"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "II",
+      "label": "RATZO V'SHOV",
+      "hebrew": "הלוך ונסוע",
+      "english": "Running & Returning",
+      "tagline": "Abraham achieved the highest levels through constant <span class=\"heb\">רצוא ושוב</span>—the spiritual motion of fire ascending and water descending.",
+      "badges": [
+        { "label": "Fire & Water", "variant": "primary" },
+        { "label": "Core Dynamic", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Angels' Motion",
+          "content": "The verse states <span class=\"heb\">והחיות רצוא ושוב</span> (the living creatures run and return). Angels constantly experience two motions: <b>Ratzo</b>—a burning desire to ascend and dissolve into Ein Sof, and <b>Shov</b>—returning to fulfill Hashem's will below."
+        },
+        {
+          "title": "Abraham's Ascent",
+          "content": "Abraham was <span class=\"heb\">הולך ונסוע הנגבה</span> (going and journeying southward). Through constant ratzo v'shov, he ascended from level to level until becoming a <span class=\"hl\">Merkavah</span> (chariot) to Hashem—total nullification."
+        }
+      ]
+    },
+    {
+      "type": "item-grid",
+      "columns": 2,
+      "items": [
+        {
+          "hebrew": "רצוא",
+          "english": "Ratzo — Running",
+          "theme": "red",
+          "description": "Fire ascending upward",
+          "detail": "<b>Element:</b> Fire (<span class=\"heb\">אש</span>)<br><b>Quality:</b> Yearning to transcend, dissolve into Divinity<br><b>Source:</b> Heart (<span class=\"heb\">יסוד האש שבלב</span>)<br><b>Trigger:</b> Contemplation (<span class=\"heb\">בינה</span>) of how all worlds are nothing before Ein Sof"
+        },
+        {
+          "hebrew": "שוב",
+          "english": "Shov — Returning",
+          "theme": "blue",
+          "description": "Water descending downward",
+          "detail": "<b>Element:</b> Water (<span class=\"heb\">מים</span>)<br><b>Quality:</b> Returning to fulfill Hashem's will below<br><b>Source:</b> Mind (<span class=\"heb\">יסוד המים שבמוח</span>)<br><b>Trigger:</b> Chochmah's nullification recognizing that Hashem's desire is for <span class=\"heb\">דירה בתחתונים</span>"
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "green"
+    },
+    {
+      "type": "section-label",
+      "text": "The Innovation of Matan Torah"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "III",
+      "label": "MATAN TORAH",
+      "hebrew": "מתן תורה",
+      "english": "The Giving of the Torah",
+      "tagline": "Before Sinai, only spiritual giants like Abraham could achieve <span class=\"heb\">רצוא ושוב</span>. Matan Torah enabled <span class=\"hl\">every person</span> to access this through physical mitzvos.",
+      "badges": [
+        { "label": "Universal Access", "variant": "primary" }
+      ],
+      "details": [
+        {
+          "title": "The Question",
+          "content": "Abraham already kept the entire Torah spiritually—<span class=\"heb\">וישמור משמרתי</span>. Why was physical Torah needed? What changed?"
+        },
+        {
+          "title": "The Answer",
+          "content": "Not everyone merits the spiritual illumination needed for ratzo v'shov. Torah was given in <span class=\"hl\">physical mitzvos</span> so that <span class=\"heb\">כל אדם</span> (every person) can achieve through physical action what Abraham achieved through spiritual service. Tefillin, Shabbos, etc. draw down the same lights."
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "Fire & Water in Torah",
+      "intro": "The Torah itself contains both aspects of ratzo v'shov:",
+      "items": [
+        {
+          "theme": "blue",
+          "hebrew": "מים — רמ״ח מ״ע",
+          "content": "<b>248 Positive Commandments</b> are <span class=\"heb\">חסדים</span> (kindnesses)—drawing Divine light from above to below, like water flowing downward. <span class=\"heb\">אשר קדשנו במצותיו</span>—through mitzvos, <span class=\"heb\">קדש העליון</span> is drawn down."
+        },
+        {
+          "theme": "red",
+          "hebrew": "אש — גבורות וצמצומים",
+          "content": "<b>Gevuros & Constrictions:</b> The specific requirements of mitzvos (sukkah not above 20 amos, tzitzis strings must be whole, etc.) are <span class=\"heb\">צמצומים</span>—constrictions that parallel the upward-striving nature of fire."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "green",
+      "toTheme": "teal"
+    },
+    {
+      "type": "section-label",
+      "text": "Why Egypt First?"
+    },
+    {
+      "type": "level-card",
+      "theme": "teal",
+      "number": "IV",
+      "label": "THE CRUCIBLE",
+      "hebrew": "כור הברזל",
+      "english": "The Iron Furnace",
+      "tagline": "Why wasn't Torah given to Abraham? Because the <span class=\"hl\">physical world</span> itself wasn't yet refined enough to receive Ein Sof's light through material objects.",
+      "badges": [
+        { "label": "Egypt's Purpose", "variant": "primary" }
+      ],
+      "details": [
+        {
+          "title": "The Higher Falls Lower",
+          "content": "<span class=\"heb\">כל הגבוה יותר יורד למטה יותר</span> — Whatever is higher, falls lower. The physical world (domem, tzomeach, chai) has its source in <span class=\"hl\">Tohu</span>—higher than Adam's source in Tikkun. Thus food can sustain man, and physical objects can draw Ein Sof."
+        },
+        {
+          "title": "The Refinement",
+          "content": "Egypt (<span class=\"heb\">כור הברזל</span>) refined both Israel and the world. Through the suffering, <span class=\"heb\">הרע נפרד מהטוב</span>—evil separated from good. Only then could physical objects become vessels for <span class=\"heb\">אור אין סוף</span>. This answers why Yaakov married two sisters—before Egypt's refinement, the physical world wasn't aligned with spiritual reality."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "teal",
+      "toTheme": "purple"
+    },
+    {
+      "type": "section-label",
+      "text": "The Shofar's Secret"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "V",
+      "label": "MAKING PEACE",
+      "hebrew": "עושה שלום במרומיו",
+      "english": "Making Peace on High",
+      "tagline": "The shofar's <span class=\"heb\">קול פשוט</span> (simple sound) draws from <span class=\"hl\">Atzmus Ein Sof</span>—where opposites are unified. This creates peace between fire and water.",
+      "badges": [
+        { "label": "Resolution", "variant": "primary" },
+        { "label": "Simple Unity", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Structure of Shofar",
+          "content": "<span class=\"heb\">מן המצר קראתי י-ה ענני במרחב י-ה</span> — One blows into the narrow end, sound emerges from the wide end. This represents drawing from <span class=\"hl\">the Constricted Source</span> (Ein Sof beyond comprehension) and expanding into revelation (Chochmah and Binah)."
+        },
+        {
+          "title": "Why Peace?",
+          "content": "When two opposite kings stand before a greater king, they nullify themselves and can coexist. The shofar draws from <span class=\"heb\">מקור התענוגים</span>—the Source of all pleasures—where fire and water (ratzo and shov) are unified in perfect simplicity. This enables Torah's fire and water to coexist without conflict."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "gold"
+    },
+    {
+      "type": "section-label",
+      "text": "Explaining the Verse"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "VI",
+      "label": "THE REVELATION",
+      "hebrew": "רואים את הקולות",
+      "english": "Seeing the Sounds",
+      "tagline": "At Sinai, Israel <span class=\"hl\">saw</span> what is normally heard—the unity of fire and water, made possible by the shofar's revelation of Atzmus.",
+      "badges": [
+        { "label": "Final Explanation", "variant": "primary" }
+      ],
+      "details": [
+        {
+          "title": "The Verse Decoded",
+          "content": "<b>הקולות</b> — The 5 <span class=\"heb\">קולות</span> (sounds) = 5 Chasadim, drawing light downward (shov)<br><b>הלפידים</b> — The torches = fire/gevuros, yearning upward (ratzo)<br><b>קול השופר</b> — The shofar's sound = the <span class=\"hl\">simple unity</span> that enables both to coexist"
+        },
+        {
+          "title": "Seeing the Heard",
+          "content": "They saw <span class=\"heb\">את הנשמע</span>—what is normally only heard. At Sinai, Divinity was revealed like it will be in the Future: <span class=\"heb\">ונגלה כבוד ה׳ וראו כל בשר יחדיו</span>."
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "Two Types of 'Am'",
+      "intro": "The verse mentions 'the people' twice, referring to two groups:",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "וכל העם רואים",
+          "content": "<b>Israel</b> — Whose souls are rooted in <span class=\"heb\">אין</span> (nothingness/Divinity), and thus can perceive and be affected by Ein Sof itself. They <span class=\"hl\">saw</span> the sounds, the torches, and the shofar—experiencing the unity."
+        },
+        {
+          "theme": "purple-dim",
+          "hebrew": "וירא העם וינועו",
+          "content": "<b>Erev Rav</b> — Whose souls are rooted in <span class=\"heb\">יש</span> (existence), and thus can only perceive bounded phenomena. They trembled and <span class=\"heb\">עמדו מרחוק</span>—stood from afar, unable to truly perceive the infinite revelation."
+        }
+      ],
+      "outro": "This explains why the Erev Rav later said <span class=\"heb\">אלהים אשר ילכו לפנינו</span>—they needed something visible and tangible, rooted in their 'yesh' nature."
+    },
+    {
+      "type": "prose",
+      "content": "<b>Practical Application:</b> The structure of daily <span class=\"heb\">תפילה</span> mirrors this process. <span class=\"heb\">ברכות קריאת שמע</span> arouse ratzo v'shov (like angels' 'wings'). In <span class=\"heb\">שמונה עשרה</span> (silent prayer), we reach <span class=\"heb\">בעמדם תרפינה כנפיהם</span>—standing in such nullification that even ratzo and shov cease, unified in the simple presence of Ein Sof. This is the daily 'shofar' experience."
+    }
+  ]
+}

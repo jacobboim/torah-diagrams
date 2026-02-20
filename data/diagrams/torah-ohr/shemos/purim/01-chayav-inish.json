@@ -1,0 +1,434 @@
+{
+  "id": "torah-ohr/shemos/purim/01-chayav-inish",
+  "meta": {
+    "sefer": "Torah Ohr",
+    "book": "Shemos",
+    "parshah": "Purim",
+    "hebrewTitle": "חייב אינש לבסומי בפוריא",
+    "englishTitle": "Until You Don't Know",
+    "subtitle": "How Purim Defeats Amalek and Completes the Divine Name",
+    "sourceDiscourse": "discourses/torah-ohr/shemos/purim/01-chayav-inish.json"
+  },
+  "blocks": [
+    {
+      "type": "verse",
+      "text": "חַיָּב אִינִישׁ לְבַסּוּמֵי בְּפוּרַיָּא עַד דְּלָא יָדַע בֵּין אָרוּר הָמָן לְבָרוּךְ מָרְדְּכַי",
+      "reference": "Megillah 7b"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "Yad Ramah",
+      "hebrew": "יד רמה",
+      "english": "The Elevated Hand · Above All Emanation",
+      "tagline": "The level that has <b>no hei of identification</b>—it can never become revealed within creation. Accessed only through the soul \"going out\" (<span class=\"heb\">יוצאים</span>) from its vessel in self-sacrifice.",
+      "badges": [
+        { "label": "Above יהוה", "variant": "primary" },
+        { "label": "Teshuvah Ilaah", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why No Definite Article?",
+          "content": "Scripture speaks of \"Yad HaGedolah\" (The Great Hand) and \"Yad HaChazakah\" (The Strong Hand) with the letter hei—indicating they can emerge from concealment to revelation at times. But <span class=\"heb\">ביד רמה</span> has no hei because this level <b>never</b> becomes revealed within the structure of creation."
+        },
+        {
+          "title": "Souls \"Arose in Thought\"",
+          "content": "Israel's souls are from a level <span class=\"hl\">above</span> even the \"one thought\" (<span class=\"heb\">במחשבה אחת</span>) in which God created the world. This is what Chazal mean by \"repentance preceded the world\"—our source predates the emanation of Yud-Hei itself."
+        },
+        {
+          "title": "The War Against Amalek",
+          "content": "<span class=\"heb\">כי יד על כס י-ה</span>—the Hand is <b>upon</b> (above) the Throne and the Name. Only from this supreme level can the war against Amalek be waged successfully, because Amalek's power operates within the system of emanation."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "purple"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "I",
+      "label": "Yud-Hei",
+      "hebrew": "י״ה",
+      "english": "Chochmah & Binah · The Source of Bittul",
+      "tagline": "The first two letters of the Name: the <span class=\"heb\">נקודה בהיכלא</span>—the point (Yud) within the palace (Hei). This is the level of <span class=\"heb\">ביטול</span> where all creation is nullified to its Source.",
+      "badges": [
+        { "label": "Point in Palace", "variant": "primary" },
+        { "label": "365 לא תעשה", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Letter Yud — Pure Point",
+          "content": "The Yud is shaped as a mere point—no length or width. It represents the flash of <span class=\"heb\">חכמה</span> (wisdom) before it expands into detailed understanding. At this level, the one who grasps the insight doesn't feel their own existence as \"the one understanding\"—only the truth itself is felt."
+        },
+        {
+          "title": "The First Hei — Expansion",
+          "content": "The Hei represents <span class=\"heb\">בינה</span> (understanding)—the expansion of that point into \"one thought\" in which the world was created. This is the \"palace\" in which the point of Chochmah shines."
+        },
+        {
+          "title": "Source of Negative Mitzvot",
+          "content": "The 365 negative commandments are rooted in <span class=\"heb\">י״ה</span> and the word <span class=\"heb\">שמור</span>. By <b>not</b> sinning, we don't create coverings that conceal the essential light. The revelation of what was concealed is <span class=\"hl\">greater</span> than drawing down new emanated light."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "blue"
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "II",
+      "label": "Vav-Hei",
+      "hebrew": "ו״ה",
+      "english": "Middot & Garments · The Structure of Service",
+      "tagline": "The Vav (6 middot of the heart) and final Hei (thought, speech, action). This is the system of <span class=\"heb\">השתלשלות</span>—the chain through which divine light descends and is invested in vessels.",
+      "badges": [
+        { "label": "6 Middot", "variant": "primary" },
+        { "label": "248 מצוות עשה", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Letter Vav — Six Middot",
+          "content": "Vav (numerical value 6) represents the six middot: <span class=\"heb\">גדולה, גבורה, תפארת, נצח, הוד, יסוד</span>. These correspond to the three Patriarchs and their service: Abraham's love (Chesed), Isaac's fear (Gevurah), and Jacob's compassion (Tiferet)."
+        },
+        {
+          "title": "The Final Hei — Three Garments",
+          "content": "The final Hei has three lines: two connected (thought and speech, which flow naturally together) and one separate (action, which can occur even without intention). These are the <span class=\"heb\">לבושים</span> through which the soul's emotions express themselves."
+        },
+        {
+          "title": "Drawing Down Light",
+          "content": "The 248 positive commandments draw down divine light to \"dwell in the lower realms.\" This is the meaning of <span class=\"heb\">ברוך</span>—like <span class=\"heb\">מבריך את הגפן</span>, grafting and drawing down. Mordechai represents this aspect of service."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Amalek: The Force That Separates the Name"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Dimension" },
+        { "key": "holiness", "label": "In Holiness", "theme": "blue" },
+        { "key": "amalek", "label": "In Amalek / Kelipah", "theme": "red" }
+      ],
+      "rows": [
+        {
+          "dimension": "רֵאשִׁית / First",
+          "holiness": "\"I am First\" (אני ראשון) — Sovev Kol Almin, the transcendent light, source of all existence",
+          "amalek": "\"First of Nations\" (ראשית גוים) — Source and root of the seven evil middot, encompassing them all"
+        },
+        {
+          "dimension": "אַחֲרִית / Last",
+          "holiness": "\"I am Last\" (אני אחרון) — Memale Kol Almin, divine light descending to animate even the lowest creatures",
+          "amalek": "\"His end is destruction\" (אחריתו עדי אובד) — The intensification of evil at its lowest depth, the primordial serpent"
+        },
+        {
+          "dimension": "Effect on the Name",
+          "holiness": "Complete unity of יהוה — Yud-Hei illuminates Vav-Hei; bittul shines into emotions and actions",
+          "amalek": "Separates י״ה from ו״ה — Creates sense of independent existence (יש) that blocks bittul; gives grip to kelipot"
+        },
+        {
+          "dimension": "What It Causes",
+          "holiness": "\"אין עוד מלבדו\" — No reality besides Him felt; all is nullified to the divine Word",
+          "amalek": "רוח שטות — \"Spirit of folly\" that covers wisdom; one doesn't see how all will be nullified to the Infinite"
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Three Patriarchs: Emotions of the Soul"
+    },
+    {
+      "type": "item-grid",
+      "columns": 3,
+      "items": [
+        {
+          "hebrew": "אברהם",
+          "english": "Abraham · Chesed",
+          "theme": "green",
+          "description": "Love — the \"right arm\" that draws close with expansive kindness.",
+          "detail": "Abraham bequeathed to every Jewish soul a <span class=\"heb\">אהבה טבעית</span> (natural love) that is always present, even when hidden. Because this love is already within us, we can awaken it at any moment with <span class=\"heb\">פתאום</span> (sudden inspiration). \"Abraham, My beloved\" (<span class=\"heb\">אברהם אהבי</span>)."
+        },
+        {
+          "hebrew": "יצחק",
+          "english": "Isaac · Gevurah",
+          "theme": "blue",
+          "description": "Fear — the \"left arm\" that pushes away through recognition of distance.",
+          "detail": "When contemplating that \"His Name alone is exalted\" and even that Name is infinitely beyond all worlds, one feels the <span class=\"heb\">שמאל דוחה</span>—a sense of unworthiness and trembling. This is <span class=\"heb\">פחד יצחק</span>, which brings humility and awe. \"Abraham begot Isaac\" — love leads to fear."
+        },
+        {
+          "hebrew": "יעקב",
+          "english": "Jacob · Rachamim",
+          "theme": "teal",
+          "description": "Compassion — the \"middle bar\" connecting the extremes.",
+          "detail": "The distance felt through Isaac's fear awakens compassion on one's own lowliness. This <span class=\"heb\">רחמים</span> awakens divine Compassion from Above, which extends \"from end to end\" (<span class=\"heb\">מבריח מן הקצה אל הקצה</span>). \"Jacob redeemed Abraham\" — through compassion, we return to love."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Three Pillars: Preparing the Heart for Action"
+    },
+    {
+      "type": "info-panel",
+      "title": "מימינו אש דת למו — From His Right, a Fiery Torah",
+      "intro": "The same three middot manifest as preparation of the heart for the three pillars upon which the world stands.",
+      "items": [
+        {
+          "theme": "green",
+          "hebrew": "גמילות חסדים — מימינו",
+          "content": "<b>Acts of Kindness</b> (Right Side): \"Let your heart not be grieved when you give to him\" — the deed of giving must be accompanied by genuine feeling in the heart. This is Chesed, the <span class=\"heb\">חסד דרועא ימינא</span>."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "עבודה — אש",
+          "content": "<b>Prayer/Service</b> (Left Side): The essence of prayer is <span class=\"heb\">קבלת עול מלכות שמים</span>, rooted in fear. Yet \"because you did not serve Hashem with joy\" teaches that even fear-based service must have inner joy. The fire-lion of the sacrifices was made of <span class=\"heb\">אש</span> (fire/Gevurah) but appeared as a lion (right/love)."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "תורה — דת",
+          "content": "<b>Torah</b> (Middle Path): Called <span class=\"heb\">תורת אמת</span>—truth (<span class=\"heb\">אמת</span>) extends from Alef to Mem to Tav, connecting highest to lowest. Torah contains both permitted and forbidden, pure and impure, and through it we return to unite with the Supreme Essence beyond all separate traits."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Throne (כסא) and the Alef"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple-dim",
+      "number": "III",
+      "label": "Keis Yud-Hei",
+      "hebrew": "כס י-ה",
+      "english": "The Incomplete Throne · Torah's Concealment",
+      "tagline": "\"<span class=\"heb\">כס</span>\" without an Alef — the Throne conceals. Torah descended and clothed itself in physical garments, hiding the Supreme Will within the details of halacha.",
+      "badges": [
+        { "label": "Concealment", "variant": "primary" },
+        { "label": "אלפך חכמה", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Missing Alef",
+          "content": "The Alef represents Torah's source in the <span class=\"heb\">רצון הפשוט</span> (Simple Will) above Chochmah. \"<span class=\"heb\">אאלפך חכמה</span>\" — \"I will teach you wisdom.\" The physical halachot are called <span class=\"heb\">כס אל\"ף</span>—a covering that conceals this supernal light."
+        },
+        {
+          "title": "Why Called a \"Throne\"?",
+          "content": "Just as sitting on a throne lowers the back side (<span class=\"heb\">אחוריים</span>), so too the \"back side\" of Torah descended into physical matters—laws of damages, agriculture, ritual purity. The throne is the vehicle for this lowered aspect."
+        },
+        {
+          "title": "Making the Throne Complete",
+          "content": "When we study Torah <span class=\"heb\">לשמה</span>—for the sake of revealing Hashem's Will—we draw down the Alef into the concealment. Israel makes the Throne complete by revealing Hashem's Oneness even in Torah's physical garments. But one who says \"<span class=\"heb\">אין לי אלא תורה</span>\" (I have nothing but Torah) — satisfied with only the external — this is Amalek's interference."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Three Hands: Levels of Revelation"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "hand", "label": "Level of \"Hand\"" },
+        { "key": "hebrew", "label": "Hebrew", "theme": "purple" },
+        { "key": "nature", "label": "Nature", "theme": "blue" },
+        { "key": "revelation", "label": "Can Be Revealed?", "theme": "green" }
+      ],
+      "rows": [
+        {
+          "hand": "The Great Hand",
+          "hebrew": "היד הגדולה",
+          "nature": "Gedulah/Chesed — the essential love of the soul for Hashem that sometimes emerges into revealed feeling in the heart",
+          "revelation": "YES — has the hei of identification; can emerge from concealment at times"
+        },
+        {
+          "hand": "The Strong Hand",
+          "hebrew": "היד החזקה",
+          "nature": "Gevurah — fear and sense of distance from accepting the yoke of Heaven; feeling one has \"sinned\" even through momentary distraction",
+          "revelation": "YES — has the hei of identification; can be felt in the heart when we truly contemplate the King standing over us"
+        },
+        {
+          "hand": "The Elevated Hand",
+          "hebrew": "יד רמה",
+          "nature": "Teshuvah Ilaah — the soul \"going out\" from its vessel, returning to its source above the beginning of creation itself",
+          "revelation": "NO — no hei of identification; requires exiting all created existence; never revealed within the system of worlds"
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Haman & Mordechai: The Transformation of Evil"
+    },
+    {
+      "type": "item-grid",
+      "columns": 2,
+      "items": [
+        {
+          "hebrew": "ארור המן",
+          "english": "Cursed is Haman",
+          "theme": "red",
+          "description": "The kelipah covering the letters Yud-Hei and the 365 negative mitzvot.",
+          "detail": "Haman descends from the \"root of the serpent, which is Amalek.\" His very existence creates a barrier to the <span class=\"heb\">אור העצמי</span> (essential light). The verse <span class=\"heb\">שמר עם י״ה = שס״ה</span> — \"Guard\" with Yud-Hei equals 365, the negative commandments that reveal what was concealed."
+        },
+        {
+          "hebrew": "ברוך מרדכי",
+          "english": "Blessed is Mordechai",
+          "theme": "green",
+          "description": "The service of tzaddikim in positive mitzvot, drawing down Vav-Hei light.",
+          "detail": "<span class=\"heb\">ברוך</span> from the root <span class=\"heb\">מבריך</span> (grafting/drawing down). Mordechai represents drawing down emanated light through the 248 positive commandments, making a dwelling for Hashem in the lower worlds. When Haman's kelipah is broken, it becomes \"garments and horses\" for Mordechai."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "content": "<b>\"Maher\" — Hurry!</b><br>Achashverosh told Haman: \"<span class=\"heb\">מהר קח את הלבוש ואת הסוס</span>\" — Hurry, take the garment and the horse. This alludes to <span class=\"heb\">אחישנה</span> (I will hasten it) versus <span class=\"heb\">בעתה</span> (in its time). When Israel merits to transform darkness to light <b>before</b> the appointed time, the very evil they transform becomes garments and elevation for holiness. But if redemption comes only \"in its time,\" the kelipot are simply destroyed without contributing anything — they are \"lost entirely.\""
+    },
+    {
+      "type": "section-label",
+      "text": "Purim & Yom Kippur: One Dimension"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "aspect", "label": "Aspect" },
+        { "key": "yomkippur", "label": "Yom Kippur", "theme": "purple" },
+        { "key": "purim", "label": "Purim", "theme": "gold" }
+      ],
+      "rows": [
+        {
+          "aspect": "Connection",
+          "yomkippur": "\"יום הכפורים\" — the original",
+          "purim": "\"כ-פורים\" — \"like Purim\" (Tikkunei Zohar)"
+        },
+        {
+          "aspect": "Level Accessed",
+          "yomkippur": "לפני ה׳ תטהרו — \"Before Hashem\" you shall be purified; above the Name",
+          "purim": "Same level — through מסירות נפש Israel reached their soul's source that \"preceded the world\""
+        },
+        {
+          "aspect": "Mode of Service",
+          "yomkippur": "No eating/drinking — elevating above the contracted soul clothed in the body",
+          "purim": "Drinking wine — because exile's concealments require the nullification of דעת to access what's above דעת"
+        },
+        {
+          "aspect": "The \"Goral\" (Lot)",
+          "yomkippur": "Two goats — one \"for Hashem\" and one \"for Azazel\"; a level above choice and understanding",
+          "purim": "Haman cast a \"pur\" (lot) — trying to access the level where even sins don't create barriers"
+        },
+        {
+          "aspect": "Self-Sacrifice",
+          "yomkippur": "Five afflictions — denying the body",
+          "purim": "Actual readiness for martyrdom — anyone could have denied Judaism to be saved, yet all stood firm"
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Ad D'Lo Yada: The Ultimate Unity"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "IV",
+      "label": "Ad D'Lo Yada",
+      "hebrew": "עד דלא ידע",
+      "english": "Until You Don't Know · Beyond All Distinctions",
+      "tagline": "At this level, there is <b>no distinction</b> between revealing concealed light (Yud-Hei/Arur Haman) and drawing down emanated light (Vav-Hei/Baruch Mordechai). We transcend the entire Name.",
+      "badges": [
+        { "label": "Above 613", "variant": "primary" },
+        { "label": "Self-Sacrifice", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Nullification of Daat",
+          "content": "Through intoxicating wine, the <span class=\"heb\">דעת</span> (understanding/ego) is nullified. When understanding is lost, one can come to a level <span class=\"hl\">above understanding in essence</span>. During exile, this is the only way to access such exalted heights."
+        },
+        {
+          "title": "Above Both Positive and Negative",
+          "content": "The 365 negative mitzvot (Yud-Hei) reveal concealed light. The 248 positive mitzvot (Vav-Hei) draw down emanated light. At the level of <span class=\"heb\">עד דלא ידע</span>, we stand above the entire framework — above all 613 commandments, above the complete Name itself."
+        },
+        {
+          "title": "Purim in Every Soul",
+          "content": "\"Purim is the revelation of this essence in every soul.\" Yet an illumination of this level shines <span class=\"hl\">every day</span> — in Kriyat Shema, in self-sacrifice when saying <span class=\"heb\">אחד</span>, each person according to their measure. Daily, we taste what Purim reveals in full."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Breaking Down the Opening Teaching"
+    },
+    {
+      "type": "info-panel",
+      "title": "Each Word of the Gemara Explained",
+      "intro": "The ma'amar systematically unpacks each element of the obligation to drink on Purim.",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "חייב אינש — Obligated",
+          "content": "This unusual obligation reveals something unique about Purim's spiritual opportunity — access to the highest level of service that exists."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "לבסומי — To become intoxicated",
+          "content": "Wine nullifies <span class=\"heb\">דעת</span> (knowledge/ego), allowing access to levels above intellect. During exile, this is the <b>only</b> way to reach the supreme bittul that transcends all distinction."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "בפוריא — On Purim",
+          "content": "Purim parallels Yom Kippur (<span class=\"heb\">כ-פורים</span>). Both are days of <span class=\"heb\">תשובה עילאה</span> when we access our soul's source above creation itself — the level that \"preceded the world.\""
+        },
+        {
+          "theme": "green",
+          "hebrew": "עד דלא ידע — Until you don't know",
+          "content": "Reaching a level above <span class=\"heb\">דעת</span> where all distinctions dissolve. This is the <span class=\"heb\">יד רמה</span> — above the entire Name, above both keis and Yud-Hei."
+        },
+        {
+          "theme": "red",
+          "hebrew": "ארור המן — Cursed is Haman",
+          "content": "The kelipah covering Yud-Hei. When subdued, it reveals the essential light of the 365 negative commandments — the revelation of what was hidden."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "לברוך מרדכי — Blessed is Mordechai",
+          "content": "The drawing down of Vav-Hei through the 248 positive commandments. Making a dwelling for Hashem in the lower worlds."
+        }
+      ],
+      "outro": "At the level of <span class=\"heb\">עד דלא ידע</span>, there is no distinction between these two modes of service — we have transcended the entire framework of the Divine Name."
+    },
+    {
+      "type": "section-label",
+      "text": "Daily Application"
+    },
+    {
+      "type": "parable-grid",
+      "items": [
+        {
+          "icon": "🔥",
+          "title": "The Daily Battle with Amalek",
+          "body": "Every day we face Amalek's challenge: the sense of independent existence (yeshut) that covers the bittul we should feel. When your emotions feel like \"yours\" — separate from divine will — that's Amalek preventing the Name from being complete."
+        },
+        {
+          "icon": "📜",
+          "title": "Torah Lishmah",
+          "body": "Don't be satisfied with understanding the physical halachot alone. Ask: Where is the Alef in this learning? This transforms \"I have nothing but Torah\" into making the Throne complete by revealing the Supreme Will within Torah's garments."
+        },
+        {
+          "icon": "💫",
+          "title": "The Path of the Avot",
+          "body": "Start with Abraham's love → Let contemplation lead to Isaac's awe → Don't stay in the distance — Jacob's compassion brings you back close. This isn't one-time but the rhythm of authentic divine service."
+        },
+        {
+          "icon": "✡️",
+          "title": "Purim Throughout the Year",
+          "body": "In Kriyat Shema daily, when saying \"Echad,\" be prepared to give your life for Hashem's Oneness. This moment of mesirut nefesh is your daily access to the essence of Purim — beyond all distinctions."
+        }
+      ]
+    }
+  ]
+}

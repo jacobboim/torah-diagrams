@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import type { InfoPanelBlock } from '../../types/diagram';
+import { sanitizeHtml } from '../../utils/sanitize';
 
 export default function InfoPanel({ block }: { block: InfoPanelBlock }) {
   const [open, setOpen] = useState(false);
@@ -16,7 +17,7 @@ export default function InfoPanel({ block }: { block: InfoPanelBlock }) {
             <div
               className="prose-block"
               style={{ marginTop: 10 }}
-              dangerouslySetInnerHTML={{ __html: block.intro }}
+              dangerouslySetInnerHTML={{ __html: sanitizeHtml(block.intro) }}
             />
           )}
 
@@ -25,7 +26,7 @@ export default function InfoPanel({ block }: { block: InfoPanelBlock }) {
               <span className="side-item-heb">{item.hebrew}</span>
               <span
                 className="side-item-en"
-                dangerouslySetInnerHTML={{ __html: item.content }}
+                dangerouslySetInnerHTML={{ __html: sanitizeHtml(item.content) }}
               />
             </div>
           ))}
@@ -34,7 +35,7 @@ export default function InfoPanel({ block }: { block: InfoPanelBlock }) {
             <div
               className="prose-block"
               style={{ marginTop: 12, borderTop: '1px solid rgba(255,255,255,0.07)', paddingTop: 12 }}
-              dangerouslySetInnerHTML={{ __html: block.outro }}
+              dangerouslySetInnerHTML={{ __html: sanitizeHtml(block.outro) }}
             />
           )}
         </div>

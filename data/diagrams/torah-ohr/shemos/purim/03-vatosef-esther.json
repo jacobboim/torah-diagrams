@@ -1,0 +1,430 @@
+{
+  "id": "torah-ohr/shemos/purim/03-vatosef-esther",
+  "meta": {
+    "sefer": "Torah Ohr",
+    "book": "Shemos",
+    "parshah": "Purim",
+    "hebrewTitle": "ותוסף אסתר ותדבר לפני המלך",
+    "englishTitle": "Hidden Devotion",
+    "subtitle": "Prayer from the Essence of the Soul",
+    "sourceDiscourse": "discourses/torah-ohr/shemos/purim/03-vatosef-esther.json"
+  },
+  "blocks": [
+    {
+      "type": "verse",
+      "text": "וַתּוֹסֶף אֶסְתֵּר וַתְּדַבֵּר לִפְנֵי הַמֶּלֶךְ וַתִּפֹּל לִפְנֵי רַגְלָיו וַתֵּבְךְּ וַתִּתְחַנֶּן לוֹ לְהַעֲבִיר אֶת רָעַת הָמָן הָאֲגָגִי",
+      "reference": "Esther 8:3"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "Alma D'Iskasya",
+      "hebrew": "עלמא דאתכסיא",
+      "english": "The Hidden World · Essence Beyond Revelation",
+      "tagline": "The dimension of Divinity that is <b>inherently concealed</b>—not light that happens to be hidden, but the <span class=\"heb\">מאור</span> (Luminary) Itself that exists above the very concept of revelation.",
+      "badges": [
+        { "label": "Beyond Light", "variant": "primary" },
+        { "label": "לילה", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Two Directions of Ohr Ein Sof",
+          "content": "The Infinite Light extends in two \"directions\": <b>downward</b> without end (<span class=\"heb\">למטה מטה עד אין תכלית</span>)—the tendency toward revelation—and <b>upward</b> without limit (<span class=\"heb\">למעלה מעלה עד אין קץ</span>)—the tendency toward concealment. \"Night\" represents this higher direction."
+        },
+        {
+          "title": "Not Absence but Transcendence",
+          "content": "\"Night\" doesn't mean lack of light—it means a level <span class=\"hl\">so high</span> that revelation itself doesn't apply. This is the source of the soul's deepest connection to Hashem, beyond all feeling and understanding."
+        },
+        {
+          "title": "The \"Esther\" of Every Soul",
+          "content": "Every Jew possesses this hidden connection in the very essence of their being. Like Queen Esther whose name means \"concealment,\" this bond exists unchanged whether we feel it or not—waiting to be revealed."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "purple"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "I",
+      "label": "Esther",
+      "hebrew": "אסתר",
+      "english": "Hidden Devotion · The Rose Among Thorns",
+      "tagline": "From <span class=\"heb\">הסתר אסתיר פני</span>—\"I will surely hide My face.\" The soul's devotion when <b>everything is dark</b>—when we don't feel Hashem's presence, when the heart is cold and prayer feels empty.",
+      "badges": [
+        { "label": "Concealment", "variant": "primary" },
+        { "label": "Emunah", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Rose Hidden by Thorns",
+          "content": "\"<span class=\"heb\">כשושנה בין החוחים</span>—Like a rose among thorns, so is My beloved\" (Shir HaShirim 2:2). The thorns are our worldly concerns, material desires, and anxieties that create barriers—preventing us from feeling the Divine light already in our souls."
+        },
+        {
+          "title": "Hidden ≠ Absent",
+          "content": "Don't think that someone who doesn't <i>feel</i> this connection doesn't <i>have</i> it. Every single Jew possesses this essential love for Hashem deep in their soul—it's just hidden. The rose is still there, whole and perfect."
+        },
+        {
+          "title": "The Work of Avodah",
+          "content": "The work of Divine service is to remove the thorns and reveal the rose—to take our hidden love (the \"Esther\" level) and bring it into consciousness. This is why the name \"Esther\" is so appropriate for prayer."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "blue"
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "II",
+      "label": "Rachel",
+      "hebrew": "רחל",
+      "english": "Revealed Devotion · The Silent Sheep",
+      "tagline": "\"<span class=\"heb\">כרחל לפני גוזזיה נאלמה</span>—Like a sheep before her shearers is silent.\" The soul's <b>revealed</b> nullification—when we actually feel the pull toward unity with Hashem.",
+      "badges": [
+        { "label": "Alma D'Isgalya", "variant": "primary" },
+        { "label": "Mesiras Nefesh", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Instinctive Self-Sacrifice",
+          "content": "Just as a sheep instinctively stretches out its neck for slaughter without resistance, every Jewish soul possesses an innate <span class=\"heb\">ביטול</span>—a natural willingness to give up everything for Hashem. This is <span class=\"heb\">מסירת נפש</span> that burns in every Jewish heart."
+        },
+        {
+          "title": "When the Light Shines",
+          "content": "\"Rachel\" represents this devotion when it's <b>revealed</b>—when we actually <i>feel</i> the connection, when Divine light shines in our consciousness. This happens through <span class=\"heb\">עלמא דאתגליא</span>, the revealed Divine light that extends outward into the worlds."
+        },
+        {
+          "title": "The Challenge",
+          "content": "This level requires sustained spiritual work and awareness to maintain. It comes through <span class=\"heb\">התבוננות</span> (contemplation) that awakens the heart—but it depends on our spiritual state and effort."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Four Types of Spiritual 'Time'"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "time", "label": "Expression" },
+        { "key": "meaning", "label": "Literal", "theme": "purple" },
+        { "key": "spiritual", "label": "Spiritual Dimension", "theme": "blue" },
+        { "key": "experience", "label": "Our Experience", "theme": "green" }
+      ],
+      "rows": [
+        {
+          "time": "יום הזה (This Day)",
+          "meaning": "Present daylight",
+          "spiritual": "Revealed Divine light actively shining in worlds",
+          "experience": "We feel Hashem's presence—\"זה א-לי!\" (This is my G-d!)"
+        },
+        {
+          "time": "ביום ההוא (On That Day)",
+          "meaning": "Distant day",
+          "spiritual": "Power of revelation still contained in Essence",
+          "experience": "Potential exists but hasn't emerged into consciousness"
+        },
+        {
+          "time": "הלילה הזה (This Night)",
+          "meaning": "Present night",
+          "spiritual": "Essential hiddenness made tangible through faith",
+          "experience": "Perfect faith that's as certain as seeing"
+        },
+        {
+          "time": "בלילה ההוא (On That Night)",
+          "meaning": "Distant night",
+          "spiritual": "Complete concealment remaining distant",
+          "experience": "Total darkness—even faith feels far"
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Secret of Prayer: Laylah HaZeh"
+    },
+    {
+      "type": "level-card",
+      "theme": "teal",
+      "number": "III",
+      "label": "Laylah HaZeh",
+      "hebrew": "לילה הזה",
+      "english": "This Night · When Faith Becomes Sight",
+      "tagline": "Even though \"night\" represents essential hiddenness, the Torah speaks of \"<span class=\"heb\">לילה הזה</span>\"—<b>this</b> night. The word \"<span class=\"heb\">זה</span>\" implies something immediate, something you can <b>point to</b>.",
+      "badges": [
+        { "label": "Pesach Night", "variant": "primary" },
+        { "label": "Simple Faith", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Faith as Certain as Seeing",
+          "content": "When you believe in Hashem with complete certainty—not because you've figured it out intellectually, but with simple, pure faith—that faith becomes like <b>seeing</b>. You can't see His Essence (it's still \"night\"), but your certainty makes it <span class=\"hl\">present</span>."
+        },
+        {
+          "title": "The Secret for Every Jew",
+          "content": "Even if you're in <span class=\"heb\">לילה</span>—even if you don't feel Hashem, even if your heart is cold—you can still reach <span class=\"heb\">לילה הזה</span>. Through pure faith and crying out, the hidden connection becomes real, as if you were seeing with your eyes."
+        },
+        {
+          "title": "This Is the Name 'Esther'",
+          "content": "Prayer isn't about feeling—it's about revealing what's always been hidden inside. This is why the name \"Esther\" is used: prayer reveals the hidden essence, transforming \"night\" into \"<span class=\"hl\">this</span> night.\""
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Two Types of Crying Out"
+    },
+    {
+      "type": "item-grid",
+      "columns": 2,
+      "items": [
+        {
+          "hebrew": "צעקה מדעת",
+          "english": "Crying from Understanding",
+          "theme": "blue",
+          "description": "After contemplating Hashem's greatness, the heart becomes overwhelmed and cries out in love.",
+          "detail": "This is the \"Rachel\" level—revealed devotion that comes from spiritual awareness. It requires <span class=\"heb\">התבוננות</span> (contemplation) and emotional preparation. It appears elevated but exists <b>within</b> understanding."
+        },
+        {
+          "hebrew": "צעקה בלי דעת",
+          "english": "Crying Without Understanding",
+          "theme": "purple",
+          "description": "When pressure or desperation forces a cry from the depths—without any contemplation.",
+          "detail": "At first this seems less elevated—like an animal's instinctive cry. But it's actually <b>beyond</b> understanding! It reveals the essential connection—<span class=\"heb\">אמונה פשוטה</span> and <span class=\"heb\">ביטול עצמי</span>—from the very core of who we are."
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "The Midrash: 'What Is This Bleating?'",
+      "intro": "When the Jewish people cried out under Haman's decree, Hashem asked the angels a striking question:",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "מה קול גדייא — What is this bleating of kids?",
+          "content": "From <b>Hashem's</b> perspective—which is beyond all understanding—there's no difference between crying with knowledge and crying without. Both are equally \"below knowledge\" to the Infinite One."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "קול בני ישראל — The voice of Israel's children",
+          "content": "The <b>angels</b>, who exist within consciousness, could distinguish: This isn't like an animal's cry—it reveals something <span class=\"hl\">deeper</span> than intellectual devotion. It comes from the <b>essential</b> bond, beyond reason."
+        }
+      ],
+      "outro": "When a Jew cries \"Hashem, help me!\" from distress—that cry emerges from <span class=\"heb\">ביטול עצמי</span>, the unshakeable knowledge that He alone can save. This is how the \"Esther\" dimension becomes revealed."
+    },
+    {
+      "type": "section-label",
+      "text": "The Work: In Clay and Bricks"
+    },
+    {
+      "type": "item-grid",
+      "columns": 3,
+      "items": [
+        {
+          "hebrew": "בחומר",
+          "english": "In Clay",
+          "theme": "teal",
+          "description": "Kal va'chomer — Talmudic logical reasoning",
+          "detail": "The hard work of Torah study that requires intense mental exertion. Struggling through difficult <span class=\"heb\">סוגיות</span> even when your mind resists."
+        },
+        {
+          "hebrew": "ובלבנים",
+          "english": "And Bricks",
+          "theme": "blue",
+          "description": "Libun halachah — Clarifying Torah law",
+          "detail": "Laboring to remove doubts and arrive at truth. Working through confusion until you reach clarity in <span class=\"heb\">הלכה</span>."
+        },
+        {
+          "hebrew": "ובכל עבודה בשדה",
+          "english": "All Work in the Field",
+          "theme": "green",
+          "description": "Beraisos — The extensive outer teachings",
+          "detail": "Study that seems endless—<span class=\"heb\">משניות</span> and <span class=\"heb\">ברייתות</span> that feel dry and distant."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "content": "<b>Why Does Deep Prayer Require Torah Toil?</b><br>When you struggle with the darkness of your material nature—forcing yourself to learn when your body resists, pushing through confusion—you're <b>transforming darkness into light</b>. This inner transformation awakens the same transformation Above: the transcendent Essence (\"night\") becomes revealed light (\"this night\")."
+    },
+    {
+      "type": "section-label",
+      "text": "The Two Battles: Evil vs. Plot"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "aspect", "label": "Aspect" },
+        { "key": "evil", "label": "Haman's Evil (רעת המן)", "theme": "red" },
+        { "key": "plot", "label": "Haman's Plot (מחשבתו)", "theme": "purple" }
+      ],
+      "rows": [
+        {
+          "aspect": "Spiritual Enemy",
+          "evil": "Seven evil nations / General kelipah",
+          "plot": "Amalek specifically / ראשית גוים"
+        },
+        {
+          "aspect": "What It Represents",
+          "evil": "Physical desires, material attachments, obvious sins",
+          "plot": "Spiritual arrogance, subtle self-importance"
+        },
+        {
+          "aspect": "Source",
+          "evil": "חומר הגוף — The material body",
+          "plot": "מחשבה — Thought that whispers \"look how spiritual I've become\""
+        },
+        {
+          "aspect": "Can Be Defeated By",
+          "evil": "Divine light — when holiness shines, darkness flees",
+          "plot": "Cannot be defeated by light alone — requires a higher strategy"
+        },
+        {
+          "aspect": "Esther's Response",
+          "evil": "First plea: Fasting and crying out — revealing the hidden Esther level",
+          "plot": "Second plea: \"Falling before His feet\" — accessing angelic elevation"
+        }
+      ]
+    },
+    {
+      "type": "level-card",
+      "theme": "red",
+      "number": "IV",
+      "label": "Kelipas Amalek",
+      "hebrew": "קליפת עמלק",
+      "english": "The Unique Evil · Kingship Without a Crown",
+      "tagline": "\"<span class=\"heb\">ראשית גוים עמלק</span>—The first of nations.\" Amalek represents <span class=\"heb\">חוצפה</span> and <span class=\"heb\">גסות הרוח</span>—the stubborn refusal to yield even when confronted with truth.",
+      "badges": [
+        { "label": "מלכותא בלא תגא", "variant": "primary" },
+        { "label": "Spiritual Pride", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why Amalek Is Different",
+          "content": "Other nations (seven Canaanite nations) represent negative traits that can be conquered by the light of holiness—they naturally retreat when Divine light shines. But Amalek <i>saw</i> all the miracles of the Exodus and attacked anyway—pure <span class=\"heb\">עזות</span> (brazenness) for its own sake."
+        },
+        {
+          "title": "In Our Inner World",
+          "content": "You learn Torah, pray with intention, overcome physical desires—and then a subtle voice whispers: \"Look how spiritual I've become.\" This sense of spiritual self-importance is the \"plot of Haman\"—it prevents true <span class=\"heb\">ביטול</span> even after defeating the \"evil.\""
+        },
+        {
+          "title": "The War from Generation to Generation",
+          "content": "\"<span class=\"heb\">מלחמה לה׳ בעמלק מדור דור</span>\"—Even when we defeat all other enemies, the battle against Amalek continues forever. It attacks precisely when you've achieved spiritual success."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "red",
+      "toTheme": "gold"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "V",
+      "label": "Raglei HaShechinah",
+      "hebrew": "רגלי השכינה",
+      "english": "His Feet · The Angels' Elevation",
+      "tagline": "Esther \"<span class=\"heb\">ותפול לפני רגליו</span>—fell before His feet.\" The angels (<span class=\"heb\">שרפים עומדים</span>) exist in a state of <span class=\"heb\">התפשטות</span> (expansiveness)—awareness of <b>His</b> infinite greatness, not their own humility.",
+      "badges": [
+        { "label": "Holy Pride", "variant": "primary" },
+        { "label": "גאות בקדושה", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Paradox",
+          "content": "To defeat the arrogance of Amalek, you need... arrogance in holiness? Not feeling great because <i>you</i> achieved something spiritually—but experiencing the greatness of <b>Hashem Himself</b> so intensely that you disappear entirely. Only His greatness remains."
+        },
+        {
+          "title": "Rabbi Shimon bar Yochai",
+          "content": "He said \"<span class=\"heb\">יכולני לפטור את כל העולם מן הדין</span>\"—seemingly arrogant! Yet the Zohar teaches he was in complete <span class=\"heb\">ביטול</span>: \"<span class=\"heb\">אנא סימנא בעלמא</span>—I am merely a sign.\" His consciousness of self was gone; only awareness of Hashem remained."
+        },
+        {
+          "title": "The Fifty-Cubit Gallows",
+          "content": "Haman was hanged on a tree <b>fifty cubits high</b>—representing <span class=\"heb\">בינה</span>, the fiftieth gate. At that level of elevation, there's no room for <span class=\"heb\">קליפת עמלק</span>. Baseless arrogance (<span class=\"heb\">מלכותא בלא תגא</span>) is nullified by the greatness that <b>is</b> the basis of everything."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Why Esther Came Twice"
+    },
+    {
+      "type": "item-grid",
+      "columns": 2,
+      "items": [
+        {
+          "hebrew": "פעם ראשונה",
+          "english": "First Time",
+          "theme": "purple",
+          "description": "Defeating Haman's Evil — Physical obstacles removed",
+          "detail": "Through fasting, crying out, and awakening simple faith (\"Esther\" level), she revealed the hidden connection and eliminated Haman himself—the victory over <b>physical</b> desires and material attachment."
+        },
+        {
+          "hebrew": "פעם שניה",
+          "english": "Second Time",
+          "theme": "gold",
+          "description": "Defeating Haman's Plot — Spiritual obstacles removed",
+          "detail": "Through \"falling before His feet\"—accessing the level of the angels' elevation—she removed the \"plot of Haman\"—the victory over <b>spiritual</b> arrogance and self-importance."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Daily Application"
+    },
+    {
+      "type": "parable-grid",
+      "items": [
+        {
+          "icon": "🌹",
+          "title": "The Hidden Rose",
+          "body": "You don't need to feel inspired to pray authentically. Even when your heart is cold and material worries fill your mind—the essential connection is still there, like a rose among thorns, waiting to be revealed through simple crying out."
+        },
+        {
+          "icon": "⚔️",
+          "title": "The Two-Front Battle",
+          "body": "First defeat Haman's evil (choosing Torah despite exhaustion, giving tzedakah despite pressure). Then guard against Haman's plot—don't let spiritual success whisper \"look how dedicated I am.\" It's all Him."
+        },
+        {
+          "icon": "📖",
+          "title": "Torah Toil",
+          "body": "Work through a difficult sugya when your mind resists. Clarify halachah until you reach truth. This struggle transforms darkness to light—creating the spiritual energy that reveals the transcendent Essence."
+        },
+        {
+          "icon": "👑",
+          "title": "Holy vs. Unholy Pride",
+          "body": "When you learn Torah, ask: Am I in awe of my understanding, or of His wisdom? When you pray, is it my connection that feels good, or am I overwhelmed by His infinite patience? The difference determines Amalek or kedushah."
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "The Ultimate Message",
+      "intro": "This discourse delivers one of the most liberating teachings in Chassidus:",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "אסתר = הסתרה",
+          "content": "Our connection to Hashem isn't dependent on our spiritual state. Whether we're on fire with inspiration or frozen in darkness, the essential bond exists <b>unchanged</b> in the core of our being."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "תפילה פשוטה",
+          "content": "How do we access it? Through simple, honest crying out: \"Hashem, I need You. Help me.\" That's it. No sophisticated meditation required. Just faith that He hears you and only He can help."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "לילה הזה",
+          "content": "Every sincere prayer is Esther falling before the King. Even the deepest concealment can become \"<span class=\"heb\">זה</span>\"—tangible and real—until all hiddenness becomes light with the revelation of Moshiach."
+        }
+      ]
+    }
+  ]
+}

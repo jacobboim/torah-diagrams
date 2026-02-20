@@ -1,0 +1,448 @@
+{
+  "id": "torah-ohr/shemos/purim/02-kiblu-hayehudim",
+  "meta": {
+    "sefer": "Torah Ohr",
+    "book": "Shemos",
+    "parshah": "Purim",
+    "hebrewTitle": "וקיבל היהודים את אשר החלו לעשות",
+    "englishTitle": "The Vessels of Eternity",
+    "subtitle": "How Purim Completed What Sinai Began",
+    "sourceDiscourse": "discourses/torah-ohr/shemos/purim/02-kiblu-hayehudim.json"
+  },
+  "blocks": [
+    {
+      "type": "verse",
+      "text": "וְקִבֵּל הַיְּהוּדִים אֵת אֲשֶׁר הֵחֵלּוּ לַעֲשׂוֹת",
+      "reference": "Esther 9:23"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "Ohr Ein Sof",
+      "hebrew": "אור אין סוף",
+      "english": "The Infinite Light · His Essence",
+      "tagline": "Above all \"Names\" and revelations. Even <span class=\"heb\">סובב כל עלמין</span> is merely His \"Name\"—a radiance, not His Essence. His true Being is <span class=\"heb\">גאה על גאותניא</span>—exalted above all that is exalted.",
+      "badges": [
+        { "label": "Beyond Names", "variant": "primary" },
+        { "label": "כי הוא צוה ונבראו", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Only His Name Is Exalted",
+          "content": "The verse says <span class=\"heb\">יהללו את שם ה׳ כי נשגב שמו לבדו</span>—\"Let them praise the <b>Name</b> of Hashem, for His Name alone is exalted.\" All creation relates only to Hashem's Names—not to His unknowable Essence, which transcends even <span class=\"heb\">סובב כל עלמין</span>."
+        },
+        {
+          "title": "The Yearning for Essence",
+          "content": "When one contemplates that even the highest revelations are merely \"Names,\" the heart awakens in great love—a powerful flame in the quality of <span class=\"heb\">רצוא</span>—to expire the soul into His Essence alone, desiring no pleasure in this world or the World to Come, only Hashem Himself."
+        },
+        {
+          "title": "The Future Vision",
+          "content": "In the future: <span class=\"heb\">כי עין בעין יראו</span>—\"eye to eye they shall see.\" The revelation of His very Essence, causing tears of overwhelming joy (<span class=\"heb\">בבכי יבואו</span>)—vessels unable to contain the pleasure."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "purple"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "I",
+      "label": "World of Tohu",
+      "hebrew": "עולם התהו",
+      "english": "The World of Chaos · Root of Vessels",
+      "tagline": "The \"kings who reigned in Edom <b>before</b> a king reigned over Israel\" (<span class=\"heb\">לפני מלך מלך לבני ישראל</span>). When their vessels shattered, sparks fell to the lowest depths—the higher the fall, the further it reaches.",
+      "badges": [
+        { "label": "Before Tikkun", "variant": "primary" },
+        { "label": "Root of Physical", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Secret of Physicality",
+          "content": "The vitality of physical and material things—inanimate, vegetative, animal—comes from what fell in the <span class=\"heb\">שבירת הכלים</span> (Breaking of the Vessels) of Tohu. This is <span class=\"hl\">above</span> the lights drawn in the vessels of <span class=\"heb\">תיקון</span>."
+        },
+        {
+          "title": "Why Food Sustains Life",
+          "content": "The root of food is <b>higher</b> than the living soul of a person! That's why food sustains and revives—the food's higher root (from Tohu) draws the soul to clothe in the body. Physical matter serves spiritual life precisely because its source is higher."
+        },
+        {
+          "title": "Physical Mitzvot Give Life to Atzilut",
+          "content": "<span class=\"heb\">אשר יעשה אדם וחי בהם</span>—\"which a person shall do and <b>live</b> by them.\" The <span class=\"heb\">אדם</span> refers to the supernal Adam of Atzilut, which \"lives\" from the physical mitzvot! Because only through them are lights drawn into vessels."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "blue"
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "II",
+      "label": "World of Tikkun",
+      "hebrew": "עולם התיקון",
+      "english": "The World of Rectification · Light in Vessels",
+      "tagline": "Where lights are measured according to their vessels. The realm of <span class=\"heb\">אצילות</span> and the spiritual service of souls—including Avraham's exalted <span class=\"heb\">רצוא ושוב</span>.",
+      "badges": [
+        { "label": "Atzilut", "variant": "primary" },
+        { "label": "Spiritual Service", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Avraham's Excellence",
+          "content": "Avraham embodied <span class=\"heb\">הלוך ונסוע</span> (going and journeying)—constant <span class=\"heb\">רצוא ושוב</span>. His soul's root in <span class=\"heb\">חסד דאצילות</span> made him a vessel for transcendent light. His name \"אברהם\" contains <span class=\"heb\">עבר מה</span>—a limb (<span class=\"heb\">אבר</span>) for the quality of utter nullification (<span class=\"heb\">מה</span>)."
+        },
+        {
+          "title": "How Avraham \"Kept Torah\"",
+          "content": "When the Sages say Avraham kept the entire Torah, they don't mean physically—there were no Kohanim yet for terumot. Rather, through his spiritual service in boundless love, he drew down the <b>same Divine illuminations</b> that we draw through physical mitzvot after Sinai."
+        },
+        {
+          "title": "The Limitation",
+          "content": "Avraham's spiritual vessels could receive the light as it is in Atzilut. But the physical mitzvot themselves, from <span class=\"heb\">לפני מלך מלך</span> (Tohu), were not yet given. His service was exalted, but there was still an innovation waiting at Sinai."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Great Question: Sinai vs. Avraham"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "aspect", "label": "Aspect" },
+        { "key": "avraham", "label": "Avraham Avinu", "theme": "blue" },
+        { "key": "sinai", "label": "Matan Torah", "theme": "gold" }
+      ],
+      "rows": [
+        {
+          "aspect": "Type of Service",
+          "avraham": "Spiritual ratzo v'shov — love and nullification in the soul",
+          "sinai": "Physical mitzvot — 248 positive and 365 negative commandments"
+        },
+        {
+          "aspect": "Source of Vessels",
+          "avraham": "Soul's root in Chesed of Atzilut — vessels of Tikkun",
+          "sinai": "Physical objects from Tohu — higher than the lights themselves"
+        },
+        {
+          "aspect": "Who Can Achieve It?",
+          "avraham": "Only souls from exceedingly high roots (the Avot)",
+          "sinai": "Every Jewish soul, regardless of spiritual level"
+        },
+        {
+          "aspect": "What It Accomplishes",
+          "avraham": "Drawing Divine light through personal nullification",
+          "sinai": "The physical deed itself draws light — vessel causes illumination"
+        },
+        {
+          "aspect": "Relationship to Evil",
+          "avraham": "\"Not like Avraham from whom Yishmael emerged\" — couldn't transform darkness",
+          "sinai": "Power to transform darkness to light through Essence-light"
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Why Physical Mitzvot Transcend Spiritual Service"
+    },
+    {
+      "type": "info-panel",
+      "title": "The Parable of Fire",
+      "intro": "The element of fire stands above all four elements, beneath the sphere of the moon. Yet it doesn't illuminate at night! Why?",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "אש היסודי — Elemental Fire",
+          "content": "The elemental fire is <b>spiritual</b>, not physical. It's above the level of \"light\" entirely. On its own, it remains concealed and doesn't illuminate."
+        },
+        {
+          "theme": "red",
+          "hebrew": "פתילה ועצים — Wick and Wood",
+          "content": "Only when fire catches in a wick and wood does it become somewhat physical. Then it enters the category of \"illuminating light.\" The physical vessel makes the spiritual light reveal itself."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "כשכלה הפתילה — When the Wick Ends",
+          "content": "When there's no wick for the fire to catch, the light withdraws to its source—from revelation to concealment. Darkness is made below. <b>Light cannot exist without a vessel.</b>"
+        }
+      ],
+      "outro": "So too with Divine light: Ohr Ein Sof needs the vessels of physical mitzvot to be revealed. And more: the vessel's root (from Tohu) is higher than the light, so the vessel actually <b>causes</b> the light to be drawn."
+    },
+    {
+      "type": "section-label",
+      "text": "Na'aseh V'Nishmah: The Secret of Vessels"
+    },
+    {
+      "type": "item-grid",
+      "columns": 2,
+      "items": [
+        {
+          "hebrew": "נעשה",
+          "english": "We Will Do",
+          "theme": "green",
+          "description": "Creating the vessels through physical mitzvah performance.",
+          "detail": "<span class=\"heb\">נעשה</span> is the quality of a <b>vessel</b>—actually performing the mitzvah with wool, parchment, coins, physical breath. The 248 mitzvot are <span class=\"heb\">רמ״ח אברים דמלכא</span>—248 limbs of the King, vessels in which Hashem's light clothes in their innermost dimension."
+        },
+        {
+          "hebrew": "ונשמע",
+          "english": "We Will Hear/Gather",
+          "theme": "blue",
+          "description": "The lights are gathered and collected into the vessels.",
+          "detail": "<span class=\"heb\">נשמע</span> from the language of <span class=\"heb\">וישמע שאול</span>—gathering and collecting. When we make the vessels (<span class=\"heb\">נעשה</span>), the illuminations from Ohr Ein Sof are automatically gathered within them (<span class=\"heb\">נשמע</span>). The vessel causes the light to be drawn."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "content": "<b>Why Action Must Come First:</b><br>There is no light without a vessel. \"Light\" means illumination spreading from the luminary outward—its purpose is to illuminate something else. When there is no vessel, the light doesn't spread but remains included in its source, the essence of the luminary.<br>This is why Israel put <span class=\"heb\">נעשה</span> before <span class=\"heb\">נשמע</span>: not merely as a pledge of obedience, but as a cosmic truth—the <b>vessel</b> (physical deed) is what draws the <b>light</b> (Divine illumination). And since the vessel's root in Tohu is higher than the light of Tikkun, the vessel has the power to cause illumination."
+    },
+    {
+      "type": "section-label",
+      "text": "The Horse and Rider: Levush Malchut"
+    },
+    {
+      "type": "level-card",
+      "theme": "teal",
+      "number": "III",
+      "label": "Levush & Sus",
+      "hebrew": "לבוש מלכות וסוס",
+      "english": "Royal Garment & Horse · Drawing the King",
+      "tagline": "\"<span class=\"heb\">יביאו לבוש מלכות וסוס אשר רכב עליו המלך</span>\" — Let them bring royal raiment and a horse upon which <b>the King</b> rode. The Megillah's hidden teaching on drawing Ohr Ein Sof into vessels.",
+      "badges": [
+        { "label": "Torah & Mitzvot", "variant": "primary" },
+        { "label": "Complete Nullification", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Garment = Torah & Mitzvot",
+          "content": "<span class=\"heb\">עוטה אור כשלמה</span>—\"He wraps Himself in light like a garment.\" <span class=\"heb\">אין אור אלא תורה</span>—\"Light refers only to Torah.\" Torah is a garment for Ohr Ein Sof, and the mitzvot are garments in which <span class=\"heb\">חסד דרועא ימינא</span> is clothed."
+        },
+        {
+          "title": "The Horse = Nullification",
+          "content": "<span class=\"heb\">סוס</span> = 2 × <span class=\"heb\">גס</span> (haughty), corresponding to <span class=\"heb\">כי גאה גאה</span> (\"for He is exalted above the exalted\"). The \"horse\" is complete nullification to His Essence, which is even above Sovev Kol Almin. Through this nullification, Ohr Ein Sof is drawn into the garment of mitzvot."
+        },
+        {
+          "title": "Mitzvot Require Kavvanah",
+          "content": "<span class=\"heb\">מצוות צריכות כוונה</span>—mitzvot require intention. <span class=\"heb\">אם ישים אליו לבו רוחו ונשמתו אליו יאסף</span>—\"If he puts his heart to it, His spirit and soul He will gather to him.\" Ohr Ein Sof dwells only in one who is nullified to Him."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Two Types of \"Horses\" — Two Directions"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "aspect", "label": "Aspect" },
+        { "key": "ascending", "label": "סוס העולה — Ascending Horse", "theme": "gold" },
+        { "key": "descending", "label": "סוס היורד — Descending Horse", "theme": "teal" }
+      ],
+      "rows": [
+        {
+          "aspect": "Direction",
+          "ascending": "From below to above — elevating to great mountains",
+          "descending": "From above to below — descending to great valleys"
+        },
+        {
+          "aspect": "Mode of Service",
+          "ascending": "רצוא — Advance and yearning to be included in Hashem",
+          "descending": "שוב — Descent to fulfill Hashem's will in the lower worlds"
+        },
+        {
+          "aspect": "Effect on Klipot",
+          "ascending": "\"גאה על גיותניא\" — No sustenance given to the external forces; they cannot reach this height",
+          "descending": "Transform darkness to light — descend to where klipot exist and refine them"
+        },
+        {
+          "aspect": "Source",
+          "ascending": "The middot (character traits) — \"there is someone who loves\"",
+          "descending": "Binah (Understanding) — the encompassing power that contains opposites"
+        },
+        {
+          "aspect": "Shirat HaYam",
+          "ascending": "\"סוס ורכבו רמה\" — Horse and rider He elevated (רמה)",
+          "descending": "\"סוס ורכבו רמה בים\" — He threw (רמה) into the sea; from elevation comes the casting down"
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "Why Love Alone Cannot Transform Evil",
+      "intro": "\"Not like Avraham from whom Yishmael emerged.\" Despite all his exalted service, Avraham couldn't effect transformation of darkness to light.",
+      "items": [
+        {
+          "theme": "green",
+          "hebrew": "חסד דזעיר אנפין — Chesed of Z\"A",
+          "content": "Avraham is <span class=\"heb\">חסד דזעיר אנפין</span>. From the middot of Atzilut, the external forces can nurse—<span class=\"heb\">זה לעומת זה</span> (\"this opposite that\"). Yishmael emerged from Avraham, being the chesed of kelipah. The middot themselves cannot descend to remove impurity."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "תבוא אמו ותקנח — Let the Mother Come",
+          "content": "<span class=\"heb\">אם</span> (mother) refers to <span class=\"heb\">בינה</span>. The cleansing from evil comes only through Binah—nullification to Hashem where the person's existence isn't felt at all. In love, \"there is someone who loves\"; in contemplation of His greatness, only Divine truth is felt."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "בינה — The Encompassing Power",
+          "content": "Binah is <span class=\"heb\">בחינת מקיף</span>—encompassing. Thought can contain two opposite things; there's no dominance of <span class=\"heb\">זה לעומת זה</span> there. Because Binah encompasses, there's no limit to how far it can descend. It reaches the very bottom to refine the klipot."
+        }
+      ],
+      "outro": "This is <span class=\"heb\">כי תרכב על סוסיך מרכבתיך ישועה</span>—\"Your chariots of <b>salvation</b>.\" The second horse draws the power to transform darkness, saving the Divine soul from what opposes it."
+    },
+    {
+      "type": "section-label",
+      "text": "Sinai to Purim: From Beginning to Completion"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold-dim",
+      "number": "IV",
+      "label": "Me'at Me'at",
+      "hebrew": "מעט מעט אגרשנו",
+      "english": "Little by Little · The Gradual Process",
+      "tagline": "At Matan Torah, the lights began entering the vessels—but only <span class=\"heb\">מעט מעט</span> (little by little). The illuminations were drawn as <span class=\"heb\">מקיף</span> (encompassing), not yet settled <span class=\"heb\">בפנימיות</span> (internally).",
+      "badges": [
+        { "label": "Beginning", "variant": "primary" },
+        { "label": "Encompassing", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Gradual Conquest",
+          "content": "Just as Ohr Ein Sof wasn't yet drawn in completeness at Sinai, so too the conquest of the Land and refinement of the nations was <span class=\"heb\">מעט מעט אגרשנו</span>—little by little, not in completeness."
+        },
+        {
+          "title": "Kafa Aleihem Har",
+          "content": "\"<span class=\"heb\">כפה עליהם הר כגיגית</span>\"—He held the mountain over them like a barrel. This was the revelation of Supreme Love that awakened love in Jewish souls. But it was <b>awakening from Above</b>—the lights entered only as encompassing, not fully internalized."
+        },
+        {
+          "title": "Something Was Still Missing",
+          "content": "The complete indwelling—where the lights <b>settle</b> in the vessels internally—required something more: the complete nullification of <span class=\"heb\">שוב</span>, not just the <span class=\"heb\">רצוא</span>. This would come at Purim."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold-dim",
+      "toTheme": "gold"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "V",
+      "label": "V'Kibel HaYehudim",
+      "hebrew": "וקבל היהודים",
+      "english": "The Jews Accepted · Complete Internalization",
+      "tagline": "\"<span class=\"heb\">קבלו היהודים את אשר החלו לעשות</span>\"—The Jews <b>accepted</b> (completed) that which they had <b>begun</b> to do at Sinai. Not \"little by little\" but <b>all at once</b>, in ultimate completeness.",
+      "badges": [
+        { "label": "Completion", "variant": "primary" },
+        { "label": "Internal", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Self-Sacrifice for an Entire Year",
+          "content": "From the 13th of Nisan when Haman's decree was issued until the 13th of Adar—<b>an entire year</b>—every Jew lived ready to die. Anyone who apostatized would have been saved, yet it didn't occur to Israel to do so. They stood in complete nullification."
+        },
+        {
+          "title": "The Vessel Was Completed",
+          "content": "This wasn't <span class=\"heb\">רצוא</span>—the movement of love where \"there is someone who loves.\" This was pure <span class=\"heb\">שוב</span>—complete nullification with no self at all, only doing Hashem's will. Such nullification is the true vessel for His Essence."
+        },
+        {
+          "title": "Lights Settled in Vessels",
+          "content": "Through this complete nullification, what began at Sinai was finally completed: the lights that had entered <span class=\"heb\">מעט מעט</span> now settled completely, internally. The vessels became fully filled—<span class=\"heb\">קבלו</span>, received and internalized."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Yehudim: The Quality of Acknowledgment"
+    },
+    {
+      "type": "item-grid",
+      "columns": 2,
+      "items": [
+        {
+          "hebrew": "ברכה",
+          "english": "Blessing",
+          "theme": "blue",
+          "description": "Revelation from concealment — from world to world.",
+          "detail": "<span class=\"heb\">ברכה</span> is the quality of <b>revelation</b>—drawing from a higher world to a lower world. <span class=\"heb\">ברוך ה׳ אלקי ישראל מן העולם ועד העולם</span>. Created beings can grasp the illumination and bless Hashem for the excellence of this light."
+        },
+        {
+          "hebrew": "הודאה",
+          "english": "Acknowledgment",
+          "theme": "gold",
+          "description": "Toward the Essence itself — beyond any revelation.",
+          "detail": "<span class=\"heb\">הודאה</span> is much <b>higher</b> than blessing—it is toward the Essence of Ein Sof itself, which cannot possibly come to revelation. Like one who acknowledges the truth even though he has no grasp of it. The complete nullification of <span class=\"heb\">הודאה</span> is the vessel for His Essence."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "content": "<b>Why They Are Called \"Yehudim\":</b><br>Self-sacrifice (<span class=\"heb\">מסירות נפש</span>) doesn't come from reason and intellect—the intellect doesn't obligate a person to give his life. In this movement, the person's existence isn't felt at all. It's pure <span class=\"heb\">הודאה</span>—acknowledgment beyond comprehension.<br>Because Israel stood in such complete nullification through their year-long readiness for martyrdom, they were called <span class=\"heb\">יהודים</span>—in the quality of <span class=\"heb\">הודאה</span> that is above intellect, from which comes <span class=\"heb\">מסירות נפש</span>. They stood \"in the absence of any desire or will except for Hashem alone.\""
+    },
+    {
+      "type": "section-label",
+      "text": "The Angel Michoel: Delivering the Garment"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "VI",
+      "label": "Michoel Kahana Rabba",
+      "hebrew": "מיכאל כהנא רבא",
+      "english": "Michoel the Great Priest · Minister of Chesed",
+      "tagline": "\"<span class=\"heb\">ונתון הלבוש והסוס על יד איש משרי המלך הפרתמים</span>\"—The garment and horse are given through \"one of the king's most noble princes.\" The Zohar reveals: This is <span class=\"heb\">מיכאל כהנא רבא</span>.",
+      "badges": [
+        { "label": "שר של חסד", "variant": "primary" },
+        { "label": "Gan Eden Garments", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Role of Michoel",
+          "content": "The drawing of garments to Jewish souls in Gan Eden—the Divine revelation for souls' pleasure, earned through mitzvot—comes through the angel Michoel. He is called <span class=\"heb\">כהנא רבא</span> because he is the minister of Chesed."
+        },
+        {
+          "title": "Greater Honor",
+          "content": "\"This is much greater honor and glory when the royal garment is given through Michoel the Great Priest than through another.\" The excellence of the reward reflects the excellence of the service."
+        },
+        {
+          "title": "In the Future",
+          "content": "In the future, the righteous will have <span class=\"heb\">קדוש</span> (Holy) said before them. The essential <span class=\"heb\">קודש</span> will be below, with Jewish souls, and the angels will call to Israel to receive illumination from them—<b>from below upward</b>."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Practical Application"
+    },
+    {
+      "type": "parable-grid",
+      "items": [
+        {
+          "icon": "🪙",
+          "title": "The Physical Deed Matters",
+          "body": "The wool of tzitzit, the leather of tefillin, the coins of tzedakah—these aren't just containers for light. Their root in Tohu is higher than the light itself. The physical act has supreme value, actualizing vessels that transcend even spiritual service."
+        },
+        {
+          "icon": "🕯️",
+          "title": "Beyond Spiritual Highs",
+          "body": "Sometimes mitzvot feel mechanical, without inspiration. But when performed in pure nullification—\"I'm doing this only because You commanded\"—you access the shov, the vessel, the completion that even Avraham couldn't reach. The feeling doesn't matter; the deed does."
+        },
+        {
+          "icon": "✨",
+          "title": "The Power to Transform",
+          "body": "Your physical mitzvot, done in complete nullification, draw Essence-light that doesn't recognize the existence of darkness. This is how we transform chashoch linhora—the second horse that descends to the lowest places with the King's light."
+        },
+        {
+          "icon": "🙏",
+          "title": "Living With Hoda'ah",
+          "body": "Not everything needs to be understood or felt. The highest service is pure acknowledgment: \"I don't understand, but I acknowledge this is truth.\" This is the mesirut nefesh available every day—the death of ego, understanding, and feeling."
+        }
+      ]
+    }
+  ]
+}
