@@ -10,7 +10,20 @@
   --font-hebrew: 'Noto Serif Hebrew', serif;
 }
 
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+*, *::before, *::after { 
+  box-sizing: border-box; 
+  margin: 0; 
+  padding: 0; 
+  max-width: 100%;
+}
+
+/* Global overflow fix for mobile */
+@media (max-width: 768px) {
+  *, *::before, *::after {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+}
 
 body {
   background: var(--bg-body);

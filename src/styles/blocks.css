@@ -57,6 +57,7 @@
   margin-bottom: 4px;
   cursor: pointer;
   transition: transform 0.15s;
+  max-width: 100%;
 }
 .level-card:hover { transform: translateY(-1px); }
 
@@ -68,6 +69,7 @@
   transition: box-shadow 0.2s;
   position: relative;
   overflow: hidden;
+  max-width: 100%;
 }
 .level-card:hover .level-inner {
   box-shadow: 0 4px 28px rgba(0,0,0,0.45);
@@ -97,7 +99,11 @@
   justify-content: space-between;
   gap: 16px;
 }
-.level-text { flex: 1; }
+.level-text { 
+  flex: 1; 
+  min-width: 0; /* Prevents flex child from overflowing */
+  overflow: hidden;
+}
 
 .level-number {
   font-family: var(--font-display);
@@ -123,12 +129,16 @@
   font-style: italic;
   color: var(--text-mid);
   margin-bottom: 8px;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 .level-tagline {
   font-size: 0.85rem;
   color: var(--text-body);
   line-height: 1.65;
   font-weight: 450;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 .level-tagline .heb {
   font-family: var(--font-hebrew);
@@ -177,6 +187,8 @@
   border: 1px solid var(--detail-border, rgba(255,255,255,0.08));
   border-radius: 4px;
   padding: 10px 12px;
+  min-width: 0;
+  overflow: hidden;
 }
 .detail-box-title {
   font-size: 0.78rem;
@@ -192,6 +204,8 @@
   line-height: 1.7;
   color: var(--text-body);
   font-weight: 450;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 .detail-box-content .hl { color: var(--text-light); font-weight: 550; }
 .detail-box-content .heb { font-family: var(--font-hebrew); font-size: 0.95em; }
@@ -260,6 +274,8 @@
   display: grid;
   gap: 12px;
   margin-top: 4px;
+  max-width: 100%;
+  overflow: hidden;
 }
 .item-grid[data-cols="2"] { grid-template-columns: 1fr 1fr; }
 .item-grid[data-cols="3"] { grid-template-columns: 1fr 1fr 1fr; }
@@ -273,6 +289,8 @@
   text-align: center;
   cursor: pointer;
   transition: box-shadow 0.2s, transform 0.15s;
+  min-width: 0;
+  overflow: hidden;
 }
 .grid-item:hover {
   transform: translateY(-2px);
@@ -299,6 +317,8 @@
   line-height: 1.6;
   font-style: italic;
   font-weight: 450;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 .grid-item-detail {
   margin-top: 10px;
@@ -312,6 +332,8 @@
   line-height: 1.65;
   font-style: normal;
   font-weight: 450;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 /* ================================================================
@@ -370,6 +392,8 @@
   display: block;
   line-height: 1.6;
   font-weight: 450;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 /* ================================================================
@@ -401,6 +425,8 @@
   line-height: 1.6;
   font-style: italic;
   font-weight: 450;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 /* ================================================================
@@ -435,6 +461,8 @@
   vertical-align: top;
   font-size: 0.82rem;
   font-weight: 450;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 .contrast-table tr:hover td { background: var(--hover-highlight, rgba(255,255,255,0.02)); }
 .contrast-table td:first-child { color: var(--text-light); font-weight: 500; }
@@ -448,15 +476,55 @@
   line-height: 1.75;
   padding: 4px 0;
   font-weight: 450;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 .prose-block b { color: var(--text-light); font-weight: 600; }
 
 /* ================================================================
    RESPONSIVE
    ================================================================ */
-@media (max-width: 620px) {
-  .item-grid[data-cols="3"] { grid-template-columns: 1fr; }
-  .item-grid[data-cols="4"] { grid-template-columns: 1fr 1fr; }
-  .parables-grid { grid-template-columns: 1fr 1fr; }
-  .detail-grid { grid-template-columns: 1fr; }
+
+/* Tablet */
+@media (max-width: 768px) {
+  .diagram-header {
+    padding: 40px 16px 28px;
+  }
+  .diagram-header::after {
+    width: 200px;
+  }
+  .diagram-header-hebrew {
+    font-size: 1.8rem;
+  }
+  .diagram-header-title {
+    font-size: 0.85rem;
+    letter-spacing: 0.12em;
+  }
+  .level-inner {
+    padding: 14px 16px;
+  }
+  
+  /* Make grids 2 columns max on tablet */
+  .item-grid[data-cols="3"],
+  .item-grid[data-cols="4"] { 
+    grid-template-columns: 1fr 1fr; 
+  }
+}
+
+/* Phone */
+@media (max-width: 520px) {
+  /* Make grids single column on mobile */
+  .item-grid[data-cols="2"],
+  .item-grid[data-cols="3"],
+  .item-grid[data-cols="4"] { 
+    grid-template-columns: 1fr; 
+  }
+  
+  .parables-grid { 
+    grid-template-columns: 1fr; 
+  }
+  
+  .detail-grid { 
+    grid-template-columns: 1fr; 
+  }
 }
