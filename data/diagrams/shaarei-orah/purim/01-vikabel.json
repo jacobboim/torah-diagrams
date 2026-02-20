@@ -1,0 +1,408 @@
+{
+  "id": "shaarei-orah/purim/01-vikabel",
+  "meta": {
+    "sefer": "Shaarei Orah",
+    "parshah": "Purim",
+    "hebrewTitle": "וקבל היהודים",
+    "englishTitle": "And the Jews Accepted",
+    "subtitle": "Why Purim Completes What Sinai Began",
+    "sourceDiscourse": "source-texts/shaarei-orah/01-vikabel.txt"
+  },
+  "blocks": [
+    {
+      "type": "verse",
+      "text": "וְקִבֵּל הַיְּהוּדִים אֵת אֲשֶׁר הֵחֵלּוּ לַעֲשׂוֹת",
+      "reference": "Esther 9:23"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "Essence Beyond Worlds",
+      "hebrew": "עצמות א״ס",
+      "english": "Atzmut Ein Sof · The Infinite Essence",
+      "tagline": "Beyond the categories of concealment and revelation, where <span class=\"heb\">כחשיכה כאורה</span>—darkness and light are equal. The source from which Torah and Mitzvot are \"hewn.\"",
+      "badges": [
+        { "label": "מקור התורה", "variant": "primary" },
+        { "label": "Beyond Intellect", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Beyond the Chain of Worlds",
+          "content": "The Essence (<span class=\"heb\">עצמות</span>) is utterly beyond the entire system of <span class=\"heb\">השתלשלות</span>—even beyond Sovev and Memale. It is not merely \"hidden\" light but the Source where concealment and revelation have no meaning at all."
+        },
+        {
+          "title": "Where Purim Reaches",
+          "content": "Through <span class=\"heb\">מסירות נפש</span> (self-sacrifice) the Jews of Purim touched this level, achieving what even Matan Torah could not—a connection rooted in their own initiative, drawing down the Torah anew from its ultimate Source."
+        },
+        {
+          "title": "The Pleasure in Lowliness",
+          "content": "God's deepest desire (<span class=\"heb\">נתאוה</span>) is for a \"dwelling in the lower worlds.\" This primordial will, hidden in the Essence, is specifically awakened by service from below—<span class=\"heb\">נעוץ תחלתן בסופן</span>."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "blue"
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "I",
+      "label": "Encompassing Light",
+      "hebrew": "סובב כל עלמין",
+      "english": "Sovev Kol Almin · Transcendent Light",
+      "tagline": "The divine light that surrounds all worlds equally—like a circle with no \"above\" or \"below.\" This is the Name <span class=\"heb\">הוי״ה</span>, beyond the chain of cause and effect.",
+      "badges": [
+        { "label": "שם הוי״ה", "variant": "primary" },
+        { "label": "Makkif", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "He Commanded and They Existed",
+          "content": "At this level, creation happens through <span class=\"heb\">כי הוא צוה ונבראו</span>—\"He commanded and they were created\" spontaneously. Unlike Memale where God \"makes\" through direct action, Sovev merely \"wills\" and reality emerges <span class=\"heb\">ממילא ומאליהם</span>."
+        },
+        {
+          "title": "Abraham's Service",
+          "content": "Abraham served at this level—<span class=\"heb\">והאמין בהוי״ה</span>—his love and devotion reached beyond the angels' service in Elokim. His <span class=\"heb\">רצוא ושוב</span> was in the Name YHVH, walking \"before Me\" (<span class=\"heb\">התהלך לפני</span>)."
+        },
+        {
+          "title": "Still a \"Name\"",
+          "content": "Yet even Sovev is called a <span class=\"heb\">שם</span> (Name)—an indication, not the Essence itself. As lofty as it is, it relates to worlds and thus remains distinct from the true <span class=\"heb\">עצמות</span>."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "blue",
+      "toTheme": "teal"
+    },
+    {
+      "type": "level-card",
+      "theme": "teal",
+      "number": "II",
+      "label": "Filling Light",
+      "hebrew": "ממלא כל עלמין",
+      "english": "Memale Kol Almin · Immanent Light",
+      "tagline": "The divine energy that fills worlds in graduated measure—each world receiving according to its capacity. This is the Name <span class=\"heb\">אלקים</span>, the power of the Actor in the acted-upon.",
+      "badges": [
+        { "label": "שם אלקים", "variant": "primary" },
+        { "label": "Or Pnimi", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Creation Through Speech",
+          "content": "Here, <span class=\"heb\">בראשית ברא אלקים</span>—God \"creates\" through the Ten Utterances. The letters of divine speech become the actual life-force sustaining each creation, like <span class=\"heb\">יהי אור</span> continuously creating light."
+        },
+        {
+          "title": "The Angels' Service",
+          "content": "The angels' <span class=\"heb\">רצוא ושוב</span> (running and returning) operates at this level—<span class=\"heb\">והחיות רצוא ושוב כמראה הבזק</span>. They receive divine light within their vessels, but cannot contain it fully, causing the flame-like motion."
+        },
+        {
+          "title": "Chain of Cause and Effect",
+          "content": "This is the realm of <span class=\"heb\">השתלשלות</span>—graduated descent from cause to effect, where light diminishes as it descends through the four worlds of Atzilut, Beriah, Yetzirah, and Asiyah."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Great Question: Sinai vs. Purim"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Dimension" },
+        { "key": "sinai", "label": "Matan Torah (Sinai)", "theme": "blue" },
+        { "key": "purim", "label": "Purim", "theme": "gold" }
+      ],
+      "rows": [
+        {
+          "dimension": "Nature of Revelation",
+          "sinai": "Souls departed at each utterance; visible voices; overwhelming divine presence",
+          "purim": "Hidden miracle; no open prophecy; God's name not mentioned in Megillah"
+        },
+        {
+          "dimension": "Source of Initiative",
+          "sinai": "כפה עליהם הר כגיגית — Awakening from Above; the mountain held over them",
+          "purim": "מסירות נפש — Self-sacrifice from their own choice, from below"
+        },
+        {
+          "dimension": "Acceptance Status",
+          "sinai": "החלו לעשות — Only a beginning; could claim coercion",
+          "purim": "קיימו וקבלו — Established & confirmed eternally; מודעא רבא לאורייתא"
+        },
+        {
+          "dimension": "Level Accessed",
+          "sinai": "Revelation through Names (YHVH, Elokim) — still within the system of worlds",
+          "purim": "Touched the עצמות through self-sacrifice; renewed Torah from its source"
+        },
+        {
+          "dimension": "Joy Type",
+          "sinai": "שמחת לבו — Joy in God's heart, in concealment",
+          "purim": "שמחה וששון — Revealed joy in the receivers; obligated to drink עד דלא ידע"
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Two Types of Divine Awakening"
+    },
+    {
+      "type": "item-grid",
+      "columns": 2,
+      "items": [
+        {
+          "hebrew": "אתערותא דלעילא",
+          "english": "Awakening from Above",
+          "theme": "blue",
+          "description": "At Sinai: God initiated the revelation, overwhelming Israel with love.",
+          "detail": "Like a father embracing a child, God \"forced\" their acceptance through the mountain held overhead. Though they said <span class=\"heb\">נעשה ונשמע</span>, this came from the <span class=\"heb\">מקיף</span> descending upon them—not from their own depths. Such awakening, while exalted, remains within the system of <span class=\"heb\">השתלשלות</span>."
+        },
+        {
+          "hebrew": "אתערותא דלתתא",
+          "english": "Awakening from Below",
+          "theme": "gold",
+          "description": "At Purim: Israel initiated through self-sacrifice, choosing martyrdom.",
+          "detail": "Through <span class=\"heb\">נעוץ תחלתן בסופן</span>—the end embedded in the beginning—the \"low\" action from below awakens the <span class=\"hl\">highest</span> response. When Israel was \"dust of the earth\" and still chose God, they touched the primordial Divine pleasure that preceded all worlds."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Paradox of Lowliness"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "III",
+      "label": "The Power of Humility",
+      "hebrew": "שפלות",
+      "english": "Lowliness · The Dwelling of the Most High",
+      "tagline": "The nature of true exaltedness is to dwell specifically with the lowly. <span class=\"heb\">כי רם ה׳ ושפל יראה</span>—Though God is high, He sees the humble.",
+      "badges": [
+        { "label": "דירה בתחתונים", "variant": "primary" },
+        { "label": "Paradox", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Royal Nature",
+          "content": "Just as a human king who is truly exalted will lower himself to help the downtrodden (it being his glory to do so), so too the Holy One: <span class=\"heb\">גאה על גוותניא</span>—He is exalted over the arrogant, but <span class=\"heb\">את דכא ושפל רוח</span>—He dwells with the crushed and lowly."
+        },
+        {
+          "title": "Purim's Double Merit",
+          "content": "The Jews in Persia had two things: (1) מסירות נפש—self-sacrifice that rose to the Essence, and (2) extreme lowliness—they were \"like dust,\" condemned to death. The combination allowed the lofty light to descend and settle in their vessels."
+        },
+        {
+          "title": "The Key to Torah Study",
+          "content": "<span class=\"heb\">ונפשי כעפר לכל תהיה, פתח לבי בתורתך</span>—\"Let my soul be like dust to all, then open my heart to Your Torah.\" Lowliness is the prerequisite for receiving divine wisdom."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "green"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "IV",
+      "label": "Self-Sacrifice",
+      "hebrew": "מסירות נפש",
+      "english": "Mesirut Nefesh · Beyond Reason",
+      "tagline": "The point of simple will (<span class=\"heb\">נקודת הרצון הפשוט</span>) where all 600,000 souls become one. Beyond intellect, beyond distinction—pure surrender to the Divine.",
+      "badges": [
+        { "label": "למעלה מהדעת", "variant": "primary" },
+        { "label": "Inheritance", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Beyond Commandment",
+          "content": "Self-sacrifice is not written as a commandment in Torah because it is an <span class=\"heb\">ירושה</span> (inheritance) in the natural soul of every Jew from the Patriarchs. It lies deeper than reason, in the essential will to cleave to God at any cost."
+        },
+        {
+          "title": "The Unity of Israel",
+          "content": "When the intellect operates, people differ—<span class=\"heb\">אין דעותיהן שוות</span>. But in self-sacrifice, all become <span class=\"heb\">כאיש אחד</span>—as one person. This is why the verse says <span class=\"heb\">וקבל</span> (singular), not <span class=\"heb\">וקבלו</span> (plural)."
+        },
+        {
+          "title": "Touching the Source",
+          "content": "Because self-sacrifice rises above all \"names\" and \"worlds\" to the Essence itself, it has the power to <span class=\"heb\">לקיים את התורה</span>—to establish the Torah from its root source, causing a new emanation from the Infinite."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Torah & Mitzvot as Vessels"
+    },
+    {
+      "type": "info-panel",
+      "title": "The Anatomy of the Supernal Adam",
+      "intro": "The 613 mitzvot correspond to the structure of the spiritual \"body\"—channels for divine light to flow and rest in vessels.",
+      "items": [
+        {
+          "theme": "green",
+          "hebrew": "רמ״ח מצוות עשה",
+          "content": "<b>248 Positive Commandments</b> = רמ״ח אברים (organs) of the King. Like limbs that receive and reveal life-force, they draw down light from Sovev into revealed vessels. Associated with ו״ה of the Name and <span class=\"heb\">חסדים</span> (kindnesses)."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "שס״ה מצוות לא תעשה",
+          "content": "<b>365 Prohibitions</b> = שס״ה גידים (sinews/blood-vessels). The blood vessels contain the soul in concealment—<span class=\"heb\">כי הדם הוא הנפש</span>. Prohibitions preserve the hidden essence, rooted in י״ה and <span class=\"heb\">גבורות</span> (restraints)."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "סוס ורוכב",
+          "content": "<b>Horse and Rider</b>: The mitzvot are \"horses\" that carry the divine \"Rider.\" Some ascend (or yashar) and some descend (or chozer). <span class=\"heb\">סוס</span> = 2×63 = two types of ascent/descent, like Na'aseh (vessels) and Nishma (lights)."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "לבוש מלכות",
+          "content": "<b>Royal Garment</b>: The Torah is the <span class=\"heb\">לבוש</span> that the King \"wore\" before creating. <span class=\"heb\">עוטה אור כשלמה</span>—\"Wrapped in light as a garment.\" Through self-sacrifice, the Jews merited this supernal garment."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Why Called \"Yehudim\"?"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold-dim",
+      "number": "V",
+      "label": "Acknowledgment",
+      "hebrew": "הודאה",
+      "english": "Hoda'ah · Gratitude Beyond Understanding",
+      "tagline": "Throughout the Megillah, Israel is called <span class=\"heb\">יהודים</span> (Yehudim)—from the root <span class=\"heb\">הודאה</span>, acknowledgment. This reflects their transcendent mode of connection.",
+      "badges": [
+        { "label": "Beyond Intellect", "variant": "primary" },
+        { "label": "To the Essence", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Blessing vs. Acknowledgment",
+          "content": "<span class=\"heb\">ברכה</span> (blessing) is the flow from concealment to revelation—from the hidden source to manifest worlds. <span class=\"heb\">הודאה</span> (acknowledgment) goes the other direction: toward the Essence itself, which can never be \"revealed\" but only acknowledged."
+        },
+        {
+          "title": "Leah's Praise",
+          "content": "<span class=\"heb\">הפעם אודה את ה׳</span>—\"This time I will give thanks.\" Leah named her fourth son Yehudah because she received beyond her \"portion,\" beyond what intellect could grasp—pure gratitude for the incomprehensible."
+        },
+        {
+          "title": "The Silent Prayer",
+          "content": "This is why the Amidah is recited silently—<span class=\"heb\">הודאה</span> to the Essence cannot be expressed in words, only in the silent surrender of the heart."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Four Gifts of Purim"
+    },
+    {
+      "type": "item-grid",
+      "columns": 4,
+      "items": [
+        {
+          "hebrew": "אורה",
+          "english": "Light",
+          "theme": "gold",
+          "description": "\"Orah\"—feminine, the source that illuminates.",
+          "detail": "Not just \"light\" but the <span class=\"hl\">source of light</span>—the <span class=\"heb\">פלא</span> (hidden wonder) that precedes the <span class=\"heb\">אלף</span> (teaching). Through self-sacrifice from below, they merited light named for them—<span class=\"heb\">ליהודים היתה אורה</span>."
+        },
+        {
+          "hebrew": "שמחה",
+          "english": "Joy",
+          "theme": "green",
+          "description": "Revealed joy—feasting and celebration.",
+          "detail": "At Sinai there was <span class=\"heb\">שמחת לבו</span>—joy in God's heart, concealed. At Purim, <span class=\"heb\">ליהודים היתה שמחה</span>—the joy was revealed in <span class=\"hl\">them</span>, because the concealed delight in \"dwelling below\" was finally manifest."
+        },
+        {
+          "hebrew": "ששון",
+          "english": "Gladness",
+          "theme": "blue",
+          "description": "Inner exultation at completion.",
+          "detail": "Gladness comes specifically at the <span class=\"hl\">completion</span> of something good. Purim was the גמר—the finish of what began at Sinai. Hence both שמחה (external joy) and ששון (inner gladness)."
+        },
+        {
+          "hebrew": "יקר",
+          "english": "Honor",
+          "theme": "purple",
+          "description": "Preciousness—divine delight beyond measure.",
+          "detail": "<span class=\"heb\">יקר</span> = 310 = half of <span class=\"heb\">כתר</span> (620). The supernal delight usually too lofty to descend. In the future, <span class=\"heb\">ולא יכנף עוד מוריך</span>—no more veils. At Purim, they already tasted this level."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Why Purim Joy Exceeds All Festivals"
+    },
+    {
+      "type": "prose",
+      "content": "The obligation to drink <span class=\"heb\">עד דלא ידע</span>—until one cannot distinguish \"cursed is Haman\" from \"blessed is Mordechai\"—is not about moral confusion. Rather, it accesses the level where <span class=\"heb\">כחשיכה כאורה</span>—darkness and light are equal before the Essence. At that level, distinctions dissolve in the Infinite Unity.<br><br>This also explains why <span class=\"heb\">מלאכה מותרת בפורים</span>—work is permitted on Purim. Holiday rest exists because worldly work \"opposes\" holy joy. But Purim's joy comes from the Essence where work has no \"reality\" to oppose—<span class=\"heb\">קמיה כולא כלא</span>. The physical cannot diminish the infinite."
+    },
+    {
+      "type": "section-label",
+      "text": "Eat, Drink, and the Source of Torah"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "aspect", "label": "Aspect" },
+        { "key": "eating", "label": "אכלו רעים — Eating", "theme": "green" },
+        { "key": "drinking", "label": "שתו ושכרו — Drinking", "theme": "gold" }
+      ],
+      "rows": [
+        {
+          "aspect": "Who",
+          "eating": "רעים לעילא — The \"Friends\" above (Chochmah & Binah)",
+          "drinking": "דודים לתתא — The \"Beloved\" below (Z\"A & Malkhut)"
+        },
+        {
+          "aspect": "Mode",
+          "eating": "Within intellect—nourishing wisdom and understanding",
+          "drinking": "Beyond intellect—intoxication, עד דלא ידע"
+        },
+        {
+          "aspect": "Effect",
+          "eating": "Adds light to existing worlds (Sefiros)",
+          "drinking": "Renews Torah from its source in the Essence"
+        },
+        {
+          "aspect": "Corresponds to",
+          "eating": "Yom Tov joy—commanded, measured, within Sefirot",
+          "drinking": "Purim joy—beyond command, unmeasured, from Atzmut"
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Eternal Purim"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "VI",
+      "label": "Never Ceasing",
+      "hebrew": "לא יעברו",
+      "english": "Lo Ya'avru · Will Never Pass",
+      "tagline": "<span class=\"heb\">וימי הפורים האלה לא יעברו מתוך היהודים וזכרם לא יסוף מזרעם</span>—\"These days of Purim will never cease from among the Jews, and their memory will never depart from their descendants.\"",
+      "badges": [
+        { "label": "Eternal", "variant": "primary" },
+        { "label": "Beyond Mashiach", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "All Festivals Will Be Nullified",
+          "content": "The Sages teach that in the Messianic era, all festivals will be nullified—<span class=\"heb\">כל המועדים בטלים</span>—except for Purim. Why? Because Purim already reached the level that will be revealed then."
+        },
+        {
+          "title": "Connected to the Eternal",
+          "content": "Because Purim touched the <span class=\"heb\">עצמות</span>—which is <span class=\"heb\">נצחי וקיים לעד</span> (eternal and everlasting)—its impression in Israel can never fade. Sinai's light could be \"lost\" through sin, but what comes from the Essence endures forever."
+        },
+        {
+          "title": "Future Joy Without Tears",
+          "content": "In the future, <span class=\"heb\">בבכי יבואו</span>—they will come weeping from the overwhelming light they cannot contain. But Purim achieved <span class=\"heb\">משתה ושמחה</span>—the light settling in vessels. This becomes the template for eternal joy."
+        }
+      ]
+    }
+  ]
+}

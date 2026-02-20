@@ -1,0 +1,567 @@
+{
+  "id": "shaarei-orah/purim/02-yaviu-levush-malchut",
+  "meta": {
+    "sefer": "Shaarei Orah",
+    "parshah": "Purim",
+    "hebrewTitle": "יביאו לבוש מלכות",
+    "englishTitle": "Royal Garment, Horse & Crown — Cosmic Hierarchy",
+    "subtitle": "The Mitteler Rebbe · Parshat Purim",
+    "sourceDiscourse": "discourses/shaarei-orah/purim/02-yaviu-levush-malchut.json"
+  },
+  "blocks": [
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "The Absolute",
+      "hebrew": "אין סוף / עצמות",
+      "english": "Ein Sof · The Infinite Essence",
+      "tagline": "\"Kadmon l'chol HaKadmonim\" — before all. Absolutely simple, infinite light. \"I, Hashem, have not changed\" — <span class=\"heb\">יחיד</span>: singularity in which creation does not register as a separate reality at all.",
+      "badges": [
+        { "label": "Absolute", "variant": "primary" },
+        { "label": "Yachid", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Nature",
+          "content": "Absolutely simple (<span class=\"hl\">pashut b'tachlit</span>). No distinction between \"before\" and \"after\" creation. From this perspective, the entire chain of worlds is \"as nothing\" (<span class=\"heb\">כלא חשיב</span>)."
+        },
+        {
+          "title": "Tzimtzum",
+          "content": "From absolute infinity no specific Sefirah could emerge — only infinite emanations in infinite forms. Tzimtzum creates the <span class=\"hl\">Chalal</span> (empty space) for the Kav to enter and produce a measured chain of worlds."
+        },
+        {
+          "title": "Kol Yachol",
+          "content": "The All-Capable One can do everything, including limiting Himself. Creating boundaries is an expression of infinite power, not a diminishment. \"Amar l'olamo dai\" — He said to His world: Enough!"
+        },
+        {
+          "title": "Igul HaGadol",
+          "content": "The pre-Tzimtzum encompassing light becomes the <span class=\"hl\">Levush Malchut</span> after Tzimtzum — wrapping around the entire Parzuf Adam like a talit, sustaining all existence as Yesh from afar."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "purple"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "I",
+      "label": "Concealment of All Concealments",
+      "hebrew": "סתימו דכל סתימין / רדל\"א",
+      "english": "Stimu d'Chol Stimmin · Reisha d'Lo Ityada",
+      "tagline": "Concealed even from the hidden worlds. Root of <span class=\"heb\">אסתר</span> / Megillat Esther. \"Astir Panai ba'yom ha'hu\" — even in the future revelation this remains hidden. Source of Purim's concealed miracle — deeper than all open wonders.",
+      "badges": [
+        { "label": "Esther's Root", "variant": "primary" },
+        { "label": "Never Nullified", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Three Levels of Concealment",
+          "content": "<span class=\"hl\">Almin d'Itgaliyan</span> — revealed worlds · <span class=\"hl\">Almin Stimin</span> — Atik/Arich, hidden worlds · <span class=\"hl\">Stimu d'Chol Stimmin</span> — concealed even from the hidden worlds. Future revelation = level 2 unveiled. Purim touches level 3."
+        },
+        {
+          "title": "Why Purim Surpasses the Future",
+          "content": "Open miracles come from hidden worlds being revealed. Purim's hidden miracle comes from <span class=\"hl\">above</span> even the hidden worlds. Like the great torch: faint distant light proves a far larger source than any bright nearby candle."
+        },
+        {
+          "title": "The Galut Paradox",
+          "content": "The hester panim of galut originates from a <span class=\"hl\">higher</span> source than the revelations of the future. The deepest concealment = the highest origin. \"Whoever is not in hester panim is not from them.\""
+        },
+        {
+          "title": "The Third Day",
+          "content": "<span class=\"heb\">יחיינו מיומיים, ביום השלישי יקימנו</span> — He will revive from two days (Chochmah + Binah), on the third day (above both). Esther's root lies here. <span class=\"hl\">\"Yamei HaPurim lo ya'avru\"</span> — Purim will never pass away."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "gold"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "II",
+      "label": "Crown of Divine Sovereignty",
+      "hebrew": "כתר דמלכות דאין סוף / ענג הפשוט",
+      "english": "Keter d'Malchut d'Ein Sof · Oneg HaPashut · Simple Divine Delight",
+      "tagline": "\"Nachat ruach\" that arises when a mitzvah is performed in deed. Source of the royal crown. Exclusive to Israel — root of Yechidah. Formed through <span class=\"heb\">נעשה</span> — bitul ratzon beyond all reason.",
+      "badges": [
+        { "label": "כתר מלכות", "variant": "primary" },
+        { "label": "Israel Only", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Na'aseh and the Crown",
+          "content": "At Sinai, <span class=\"hl\">Na'aseh v'Nishma</span> — \"we will do\" before \"we will hear\" — is bitul beyond reason, reaching <span class=\"hl\">Keter she'b'Keter</span>. Two crowns were given: one for Na'aseh, one for Nishma = 620 pillars of light (<span class=\"heb\">תר״ח עמודי אור</span>)."
+        },
+        {
+          "title": "Why Israel Alone",
+          "content": "The crown = <span class=\"hl\">sha'ashuei ha'Melech</span>, the Essence's own inner delight. Haman's power reaches only the Makif d'Chayah (Chochmah level). Only Israel's <span class=\"hl\">Yechidah</span> — rooted in the Essence — can form the crown through absolute bitul."
+        },
+        {
+          "title": "Crown → Garment (not the reverse)",
+          "content": "The Keter is the <span class=\"hl\">source</span> of the Levush. The delight from \"Na'aseh\" motivates the entire system of Malchut. <span class=\"heb\">סוף מעשה עלה במחשבה תחילה</span> — the end of action arose first in the primordial thought."
+        },
+        {
+          "title": "Purim Completes Sinai",
+          "content": "Sinai = <span class=\"hl\">techilat ha-kabbalah</span> (beginning). Purim = <span class=\"hl\">gmar ha-kabbalah</span> (completion). The Jews chose death over conversion — mesirut nefesh in actual deed, not merely in speech or intention. \"V'kibel haYehudim.\""
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "gold-dim"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold-dim",
+      "number": "III",
+      "label": "Primordial Will",
+      "hebrew": "מלכות דאין סוף / רצון קדום / אנא אמלוך",
+      "english": "Malchut d'Ein Sof · Ratzon Kadum · \"I Shall Reign\"",
+      "tagline": "The first glimmer toward creation — not the Essence itself, but its \"last\" dimension. \"Re'uta d'Chol Re'utin\" — every subsequent divine will is contained equally within this one primordial will.",
+      "badges": [
+        { "label": "אנא אמלוך", "variant": "primary" }
+      ],
+      "details": [
+        {
+          "title": "Mashal: The King's Palace",
+          "content": "The king's single decision to build contains every detail — foundation and plaster — equally. From the Ratzon Kadum, the highest Sefirah and the lowest mineral are equally present. Hierarchy only appears in the revealed will."
+        },
+        {
+          "title": "Mashal: The Merchant",
+          "content": "The merchant's overall intent (to profit) contains every travel preparation as essentially as the main transaction. The Ratzon Kadum sustains every detail equally in concealment (he'elem) — what appears trivial in the revealed will is equally essential in the primordial."
+        },
+        {
+          "title": "It'aruta d'l'Tata",
+          "content": "<span class=\"heb\">יביאו</span> — \"let them bring.\" Divine Kingship depends on arousal from below. \"Who would He reign over?\" The thought \"Ana Emloch\" arose because of the end-goal: a dwelling for the Infinite in the lower realms through physical mitzvot."
+        },
+        {
+          "title": "Source of the Kav",
+          "content": "The <span class=\"hl\">Kav v'Chut</span> (line of light after Tzimtzum) emerges from Malchut d'Ein Sof and creates Parzuf Adam — the human-form template of all the Sefirot. Above the entire Kav: the pre-Tzimtzum Igul HaGadol as Levush Malchut."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold-dim",
+      "toTheme": "blue"
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "IV",
+      "label": "Encompassing Light",
+      "hebrew": "סובב כל עלמין / גלגלתא",
+      "english": "Sovev Kol Almin · Galgalta (Outer Keter) · Levush Malchut · Sus",
+      "tagline": "Highest root — yet manifests most externally. Source of <span class=\"heb\">יש מאין</span> at every level. Encompasses all four worlds <b>equally</b> — no hierarchy in Yesh-ness. Also corresponds to the <span class=\"heb\">סוס</span> (horse = 2×S\"AG = 126).",
+      "badges": [
+        { "label": "לבוש מלכות", "variant": "primary" },
+        { "label": "סוס / Sus", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Yesh from Sovev — Universal Rule",
+          "content": "Every entity's spiritual life-force flows through Memale. But the fact that it exists as a concrete <span class=\"hl\">Yesh</span> — a \"something\" — comes from Sovev. Even Chochmah's identity as \"Chochmah\" (rather than formless light) comes from Sovev."
+        },
+        {
+          "title": "Ko'ach HaHiyuli",
+          "content": "Like the soul's undifferentiated potential sustaining sight, hearing, and walking equally — Sovev sustains the Yesh of Chochmah and a blade of grass equally. No hierarchy in Yesh-ness from Sovev's perspective. This is the great equalizer."
+        },
+        {
+          "title": "Why More External = Higher Root",
+          "content": "An Ein Sof light cannot be contained in pnimiyut — it would overwhelm everything. It can only manifest as an external garment. The exaltedness of the source is WHY it appears externally. Galgalta (outer Keter) is from a higher root than Mo'S (inner Keter)."
+        },
+        {
+          "title": "The Sus — Horse of Letters",
+          "content": "Sus (סוס) = 2 × 63 (S\"AG). Two Samechs (ס — round, closed, concealed Peleh) linked by Vav: upper concealment → lower concealment. Carries divine light from the spiritual realm all the way to physical gashmiyut — farther than any inner light can reach."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "blue",
+      "toTheme": "purple-dim"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple-dim",
+      "number": "V",
+      "label": "Hidden Wisdom",
+      "hebrew": "מוחא סתימאה / כתר פנימי",
+      "english": "Mochah Stima'ah · Inner Keter · Source of All Inner Lights",
+      "tagline": "The \"Ayin\" from which Chochmah emerges. Called \"stima'ah\" not because it hides intentionally — but because it <b>cannot project far enough</b> to reach the physical realm. A brilliant candle that illuminates its room but not the distant field.",
+      "badges": [
+        { "label": "Inner Keter", "variant": "primary" },
+        { "label": "Mo'S", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Mo'S vs. Galgalta — The Paradox",
+          "content": "<span class=\"hl\">Mo'S</span>: brighter, more refined, illuminates pnimiyut — but lower root, cannot descend to the physical. <span class=\"hl\">Galgalta</span>: more external, \"lower\" in appearance — but higher root, illuminates the most distant places through mitzvot in action."
+        },
+        {
+          "title": "The Engraved Gem",
+          "content": "Letters engraved in a brilliant gem are invisible — the radiance overwhelms all contrast. Press it into wax: the letters appear clearly. Mo'S's brilliance conceals within its own domain. Only through the external vessel do the blueprints of creation become visible."
+        },
+        {
+          "title": "\"Lo Mitpate'ach\"",
+          "content": "Chochmah of Atzilut opens to 32 paths. But Mo'S <span class=\"heb\">לא מתפתח לל״ב שבילין</span> — does not open to 32 paths. \"The brain quiet and settled in its place\" — not because it is superior, but because its power is insufficient to project outward and downward."
+        },
+        {
+          "title": "Razi d'Oraita vs. Halachot",
+          "content": "Kabbalistic secrets come from Mo'S — brilliant \"Or Tzach\" (pure light). Yet even Or Tzach \"is dark compared to Atik HaAtikin.\" The great torch (Galgalta/Halachot) appears dim — yet its source far exceeds the small candle (Mo'S/Kabbalah)."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple-dim",
+      "toTheme": "green"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "VI",
+      "label": "Beginning of the Chain",
+      "hebrew": "חכמה עילאה / שם מ\"ה / ראשית",
+      "english": "Chochmah Ila'ah · Shem M\"AH (45) · Reshit HaGilui · Root of Torah",
+      "tagline": "\"V'haChochmah me'Ayin timatze\" — found from Ayin (nothingness). First link in the chain of Hishtalshelut. <span class=\"heb\">כח מה</span> — the power of nullification. Root of Torah. Moshe's soul-root. <span class=\"heb\">מרדכי = מר דקיא</span>.",
+      "badges": [
+        { "label": "Torah Root", "variant": "primary" },
+        { "label": "Mordechai", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Reshit — First Link",
+          "content": "\"Bereishit\" → <span class=\"heb\">בחכמתא</span> (with wisdom). Chochmah is \"reshit\" because after it comes second and third — it belongs to Memale Kol Almin. The Ayin is its source above; Chochmah is the first point of revelation, not the Ayin itself."
+        },
+        {
+          "title": "Moshe's Heaviness of Mouth",
+          "content": "Moshe's soul-root was in the Ayin itself — beyond all expression. Torah was given through him because he could access that source, but bringing it into speech (Written and Oral Torah) was a descent for his soul."
+        },
+        {
+          "title": "The Aleph of Adam",
+          "content": "Shem M\"AH (45 = <span class=\"heb\">אדם</span>) pervades all of Atzilut. The Aleph (א) = upper Yud (Chochmah above) + Vav (connector) + lower Yud (Chochmah below). Through this structure, opposites are united — right and left, Chesed and Gevurah."
+        },
+        {
+          "title": "Torah vs. Mitzvot Resolved",
+          "content": "Torah originates in Chochmah — <span class=\"hl\">Memale</span>, inner revelation. Mitzvot (physical objects) connect to <span class=\"hl\">Sovev</span> — above Chochmah. Each has a unique advantage: Torah for inner depth; Mitzvot for connection to the Essence. Both are necessary and neither subsumes the other."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "green",
+      "toTheme": "teal"
+    },
+    {
+      "type": "level-card",
+      "theme": "teal",
+      "number": "VII",
+      "label": "Chain of Worlds",
+      "hebrew": "שלשלת ההשתלשלות / ממלא כל עלמין",
+      "english": "Hishtalshelut · Memale Kol Almin · Atzilut → Beriah → Yetzirah → Asiyah",
+      "tagline": "Inner light descending level by level. Intellect births emotion; emotion clothes in thought; thought descends to speech and action. Metatron — the \"small face\" with contracted consciousness — carries light through 18,000 worlds at night.",
+      "badges": [
+        { "label": "Inner Chain", "variant": "primary" },
+        { "label": "Memale", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "18 Brachot / Amidah",
+          "content": "The 18 blessings correspond to the 18 vertebrae of the spine — the spinal cord extending from the brain. Bowing in \"Baruch\" = drawing brain-consciousness through each vertebra. Three times daily, drawing Sovev into Memale from Atzilut to Beriah."
+        },
+        {
+          "title": "Metatron — Night Horse",
+          "content": "\"The Holy One rides His swift Cherub through 18,000 worlds.\" Metatron = \"measured/limited.\" Atzilut's 18 brachot × 1,000 degrees = 18,000. The 2 missing Alephs = Chochmah and Binah (Keter) which cannot enter Metatron's contracted form."
+        },
+        {
+          "title": "Origin of Kelim (Vessels)",
+          "content": "Orot (lights) come from the Kav — through Hishtalshelut. But <span class=\"hl\">Kelim</span> — the power of each light to exist as a bounded \"something\" — come from Sovev (Makif HaKlali), not the Kav. Kelim from the chain would dissolve back into their source."
+        },
+        {
+          "title": "Mati v'Lo Mati",
+          "content": "\"Touching and not touching\" — the dynamic of Makif relating to Pnimi. The vessel's \"Shov\" (drawing-down) comes <span class=\"hl\">before</span> the light's \"Ratzo\" (ascent) — proving the vessel is from a higher source than the light it contains."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "teal",
+      "toTheme": "red"
+    },
+    {
+      "type": "level-card",
+      "theme": "red",
+      "number": "VIII",
+      "label": "Physical World · Mitzvot in Action",
+      "hebrew": "עולם הגשמי / מצוות במעשה",
+      "english": "Gashmiyut · Physical Mitzvot · The Farthest Point — From the Highest Source",
+      "tagline": "Leather, wool, fruit, coins become portals to <span class=\"heb\">סובב כל עלמין</span>. 248 mitzvot = 248 limbs of the divine Adam. The most physical = proof of the highest source. <span class=\"heb\">מהר!</span> — Hasten the birurim!",
+      "badges": [
+        { "label": "Sof Ma'aseh", "variant": "primary" },
+        { "label": "Gmar Kabbalah", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Tzurah and Chomer",
+          "content": "Every created being has: <span class=\"hl\">Tzurah</span> (form/soul) from Memale — the Ten Utterances, specific letter-combinations. <span class=\"hl\">Chomer</span> (substance/body) from Sovev — \"Ki Hu tzivah.\" \"Vayehi chen\" — after the spiritual form, Sovev separately commands the physical substance into being."
+        },
+        {
+          "title": "Halachah = Ma'or Reaching Farthest",
+          "content": "Halachot (tumah/taharah, kosher/treif) deal with the most physical matters — yet originate from the <span class=\"hl\">Ma'or</span> (the Essence itself, not merely the Or). Even Kabbalistic secrets are \"a candle\" compared to the great torch of the Halachot's concealed inner light."
+        },
+        {
+          "title": "Amalek — Waves Without Substance",
+          "content": "Ocean waves rise high — but water flows downward; wind alone lifts them. Amalek = pure gasut haruach without inner content. Not a middah (which can be transformed) but brazenness alone. The shilya (afterbirth) — discarded at birth. Amalek's \"tikkun\" IS its dissolution."
+        },
+        {
+          "title": "Maher — Hasten the Redemption",
+          "content": "<span class=\"heb\">זכו — אחישנה, לא זכו — בעיתה</span>. Every mitzvah extracts sparks from Nogah. When all 288 sparks are refined, kelipot collapse. Hastening the birur is cosmic compassion — giving even the forces of darkness a chance at rectification rather than annihilation."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Three Royal Items — Megillat Esther 6:8"
+    },
+    {
+      "type": "verse",
+      "text": "יָבִיאוּ לְבוּשׁ מַלְכוּת אֲשֶׁר לָבַשׁ בּוֹ הַמֶּלֶךְ וְסוּס אֲשֶׁר רָכַב עָלָיו הַמֶּלֶךְ וַאֲשֶׁר נִתַּן כֶּתֶר מַלְכוּת בְּרֹאשׁוֹ",
+      "reference": "Esther 6:8"
+    },
+    {
+      "type": "item-grid",
+      "columns": 3,
+      "items": [
+        {
+          "hebrew": "לְבוּשׁ מַלְכוּת",
+          "english": "Levush Malchut",
+          "theme": "blue",
+          "description": "Royal Garment = Sovev / Galgalta. Pre-Tzimtzum encompassing light wrapping Parzuf Adam like a talit. Mitzvah objects before performance. Provided by Haman — holy hitnasut after birur.",
+          "detail": "The Levush = divine <b>ge'ut</b> (exaltedness). Haman's root after birur is holy <b>hitnasut</b> — elevated heart in divine service (\"b'nei banav shel Haman lamdu Torah b'rabbim\"). He provides this garment because his root is the very quality of exaltedness that transcends reason. \"Hashem Melech Ge'ut Lavesh.\""
+        },
+        {
+          "hebrew": "סוּס",
+          "english": "Sus · The Horse",
+          "theme": "green",
+          "description": "Letter-vehicles (tzirufei otiyot). Sus (סוס) = 2×63 (S\"AG). Two Samechs linked by Vav: upper concealment → lower concealment. Carries light to physical gashmiyut. Also provided by Haman through birur of S\"AG.",
+          "detail": "The horse is <b>stronger than the rider</b> — S\"AG (63) > M\"AH (45). Samech = round, closed, the concealed Peleh. Haman's shattered S\"AG (from Shevirat HaKelim) after birur becomes the holy vehicle carrying highest light to the farthest places. \"Ki tirkav al susecha — yeshuah\" = 370 lights of Arich illuminating Chochmah."
+        },
+        {
+          "hebrew": "כֶּתֶר מַלְכוּת",
+          "english": "Keter Malchut",
+          "theme": "gold",
+          "description": "Royal Crown = Keter d'Malchut d'Ein Sof. Oneg HaPashut — formed only through actual mitzvah performance. Israel's exclusive domain (Yechidah). Cannot come through Haman.",
+          "detail": "\"B'Rosho\" — the crown was placed on the <b>horse's head</b>: the refined letter-vehicles receive the crown. Sandalfon binds crowns for the King from the prayers of Israel. The letters of Nogah, refined through teshuvah from the depths of the heart, become the <b>avanei ha'keter</b> — crown-stones of Keter Malchut."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Key Distinctions & Supporting Teachings"
+    },
+    {
+      "type": "info-panel",
+      "title": "Core Conceptual Pairs",
+      "items": [
+        {
+          "theme": "blue",
+          "hebrew": "סובב vs. ממלא",
+          "content": "<b style=\"color:var(--blue-bright)\">Sovev</b> — encompasses all worlds equally; source of the Yesh (physical substance) of each thing · <b style=\"color:var(--green-bright)\">Memale</b> — fills worlds from within through the chain of cause-and-effect, level by level"
+        },
+        {
+          "theme": "green",
+          "hebrew": "אור vs. מאור",
+          "content": "<b style=\"color:var(--green-bright)\">Or</b> (light) — Torah, inner illumination, brilliant nearby · <b style=\"color:var(--gold-bright)\">Ma'or</b> (luminary) — the Essence itself, source of Halachot reaching the farthest place; faint yet from the greatest source"
+        },
+        {
+          "theme": "gold",
+          "hebrew": "לבוש vs. כתר",
+          "content": "<b style=\"color:var(--blue-bright)\">Levush</b> — mitzvah object before performance; Sovev from afar · <b style=\"color:var(--gold-bright)\">Keter</b> — the actual performance of the mitzvah; divine delight (Oneg HaPashut); from a higher root still"
+        },
+        {
+          "theme": "purple-dim",
+          "hebrew": "גלגלתא vs. מוחא סתימאה",
+          "content": "<b style=\"color:var(--blue-bright)\">Galgalta</b> (outer Keter) — highest root, source of kelim, reaches farthest into the physical · <b style=\"color:#c090e0\">Mo'S</b> (inner Keter) — more refined and brighter internally, but cannot descend as far"
+        },
+        {
+          "theme": "red",
+          "hebrew": "רצו vs. שוב",
+          "content": "<b>Ratzo</b> — ecstatic ascent toward the Infinite · <b>Shov</b> — return to action. At Sinai, Israel chose Shov (\"v'shamanu v'asinu\") — proving genuine bitul; they wanted to serve, not merely to be absorbed"
+        },
+        {
+          "theme": "purple",
+          "hebrew": "יחיד vs. אחד",
+          "content": "<b style=\"color:var(--purple-bright)\">Yachid</b> — absolute singularity; creation does not register as a separate reality at all (Sovev's perspective) · <b>Echad</b> — unity encompassing multiplicity (Memale's perspective)"
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "Mordechai & Esther",
+      "items": [
+        {
+          "theme": "green",
+          "hebrew": "מרדכי = מר דקיא / מור דרור",
+          "content": "Yesod Abba / Chochmah Ila'ah — purifies through bitterness from a place of purity.<br><b>Mor Dror</b>: in the inner sanctuary of Binah (Alma d'Cherut — world of freedom, where no evil can enter).<br><b>Mira Dakia</b>: descending to refine Nogah — \"Hinei Hashem yotzei mi'mekomo\" — going forth to engage with tumah and taharah, kosher and treif."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "אסתר = סתימו דכל סתימין",
+          "content": "Shechinah / Malchut of Atzilut becoming Atik/Keter of Beriah. Her root is in the concealment that remains hidden even during the future revelation — \"Astir Panai ba'yom ha'hu.\" Even on THAT day, the inner face remains hidden. This is why Megillat Esther will never be nullified."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "שמן המור וששת חודשים",
+          "content": "The soul's ascent: six months of <b>shemen ha'mor</b> (Gevurot d'Abba — purifying through Chochmah's judgment) and six months of <b>besamim</b> (Gevurot d'Imma — fragrances of Binah). Each level requires forgetting the prior pleasure. \"Ashrei mi she'ba l'kan v'talmudo b'yado.\""
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "Soul-Levels at Each Cosmic Level",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "יחידה",
+          "content": "<b>Yechidah</b> — root in the Essence itself. Exclusive to Israel. Forms the Keter through bitul ratzon (Na'aseh). \"Yisrael alah b'machshavah.\""
+        },
+        {
+          "theme": "purple",
+          "hebrew": "חיה",
+          "content": "<b>Chayah</b> — Makif d'Chayah; Chochmah level. Haman's power reaches here (after birur). Source of holy hitnasut — elevated heart in divine service."
+        },
+        {
+          "theme": "green",
+          "hebrew": "נשמה",
+          "content": "<b>Neshamah</b> — drawn from Chochmah (\"Ki Atah Avinu\"). Root of bitul ha'yesh / koach Mah. Mordechai's soul-level. The purifying power of the Halachot flows from here."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "רוח",
+          "content": "<b>Ruach</b> — emotional attributes / midot. The heart's fire. \"Einav l'mata v'libo l'ma'alah\" — eyes below in bitul, heart above in holy passion. The 1/64 of legitimate holy daring."
+        },
+        {
+          "theme": "red",
+          "hebrew": "נפש",
+          "content": "<b>Nefesh</b> — vitality connected to the body. Physical performance of mitzvot refines the Nefesh and connects it directly to Sovev — the highest encompassing light."
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "The Four Mashalim of Yesh & Ayin — Ki El De'ot",
+      "intro": "Each mashal reveals the same four-level structure and two types of Ayin. \"Ki El De'ot Hashem\" — He sustains two simultaneous perspectives: De'ah Elyonah (from G-d's vantage: all is as nothing) and De'ah Tachtonah (from creation's vantage: all emerges from concealment into being).",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "הים והמעין",
+          "content": "<b>The Deep & the Spring</b> — Tehom (true Yesh) → underground seep (Ayin of source) → spring (Ayin of emergence) → river (revealed limited Yesh). Four levels; two dimensions of nothingness."
+        },
+        {
+          "theme": "green",
+          "hebrew": "רב ותלמיד",
+          "content": "<b>Teacher & Student</b> — Teacher's depth → transmission (as nothing) → bitul of receiving (student cannot transmit while absorbing) → student's new Yesh. Bitul ha'yesh l'Ayin revealed."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "הגרעין הנזרע",
+          "content": "<b>The Planted Seed</b> — Essential growth-force → specific power → seed's dissolution (bitul ha'yesh) → new plant. The death of the old form is the precondition for new life from a higher source."
+        },
+        {
+          "theme": "red",
+          "hebrew": "הטיפה והיוצא ממנה",
+          "content": "<b>Drop & Offspring</b> — Soul's essential hiyuli → tipah in the brain → transformation/descent → child with 248 limbs. The 248 mitzvot as offspring of Chochmah at full capacity. The most physical proves the fullest source."
+        }
+      ],
+      "outro": "Two types of bitul emerge from all four mashalim:<br><b style=\"color:var(--blue-bright)\">Bitul ha'Yesh l'Ayin</b> — nullifying the finite ego back toward its source (river to spring, student overwhelmed by teacher). This is Chochmah / koach Mah.<br><b style=\"color:var(--gold-bright)\">Bitul Atzmi</b> — essential nullification: standing before the Essence where the question of \"self\" never arises. Like standing before a king — not an act but a state of truth. Israel's Na'aseh."
+    },
+    {
+      "type": "info-panel",
+      "title": "גָּאֹה גָּאָה — Two Exaltednesses & The 1/64 Principle",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "Two Levels of Ga'oh Ga'ah",
+          "content": "<b>Ga'ah #1</b>: Levush Malchut — external sovereignty extended to creation (Malchut d'Ein Sof).<br><br><b>Ga'ah #2</b>: Yesh HaAmiti — the Essence's own genuine, absolute reality. Not merely \"above nothing\" but essentially, truly Real.<br><br>Through these two levels of holy exaltedness (2×S\"AG = Sus in kedushah), the horse and rider of kelipah are cast into the sea."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "The 1/64 Principle",
+          "content": "Chochmah has 32 paths (לב). These extend to the heart (32 in brain + 32 in heart = 64).<br><br>A Torah scholar needs exactly <b style=\"color:var(--gold-bright)\">1/64 of gasut</b> (holy daring) — acting as a crown, enabling the heart's aspiration to connect to the mind's bitul.<br><br>More = harmful arrogance. None = paralysis. In kelipah: Amalek's chutzpah. In kedushah: the spark of holy daring — \"einav l'mata v'libo l'ma'alah.\""
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Six Key Parables — Why the Highest Descends Lowest"
+    },
+    {
+      "type": "parable-grid",
+      "items": [
+        {
+          "icon": "🔥",
+          "title": "The Great Torch",
+          "body": "A great bonfire projects faint light to a great distance. A small candle placed there gives more local light — but from a lesser source. Halachot in physical matters = light from the Ma'or (Essence). Even brilliant Kabbalistic secrets are a small candle by comparison."
+        },
+        {
+          "icon": "🛢️",
+          "title": "The Overflowing Barrel",
+          "body": "Overflow proves the barrel is completely full. Torah Nigleh = \"noblot Chochmah Stima'ah\" — fallen leaves of Hidden Wisdom. They descend so low because the source is filled beyond measure. Overflow is a sign of superabundance, not waste."
+        },
+        {
+          "icon": "🌱",
+          "title": "Procreation",
+          "body": "Physical offspring only come when the mind (mochin) reaches full maturity. The child is physical — seemingly \"lower\" than the parent's intellect — yet proves the fullness of power. The 248 physical mitzvot = 248 limbs of Chochmah at its fullest capacity."
+        },
+        {
+          "icon": "💎",
+          "title": "The Engraved Gem",
+          "body": "Engraved letters are invisible in a brilliant gem — the radiance overwhelms all contrast. Press it into wax: letters appear clearly. The Tehiru Ila'ah concealed creation's blueprints; they become visible only through external physical vessels."
+        },
+        {
+          "icon": "🎓",
+          "title": "Teacher & Student",
+          "body": "The teacher's depth is the \"true Yesh.\" What he transmits is \"as nothing\" compared to it. While receiving, the student is in bitul. After absorbing, he can share — a new, limited Yesh emerges. Two types of Ayin; four levels in every transmission."
+        },
+        {
+          "icon": "🌊",
+          "title": "Waves & Afterbirth",
+          "body": "Waves rise high — but water flows downward; wind alone lifts them. Amalek = wind without substance. The shilya (afterbirth) protects during gestation but is discarded at birth. Amalek's \"tikkun\" is its own dissolution once the birurim are complete."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Torah vs. Mitzvot — The Core Contrast"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Dimension" },
+        { "key": "torah", "label": "Torah", "theme": "green" },
+        { "key": "mitzvot", "label": "Mitzvot", "theme": "blue" }
+      ],
+      "rows": [
+        { "dimension": "Root", "torah": "Chochmah — reshit ha'hishtalshelut (first link in the chain)", "mitzvot": "Sovev / Galgalta — highest root of Ein Sof, above the chain entirely" },
+        { "dimension": "Mode", "torah": "Memale — fills worlds from within, level by level", "mitzvot": "Sovev — encompasses all four worlds equally, no hierarchy" },
+        { "dimension": "Medium", "torah": "Intellect, understanding, spiritual apprehension", "mitzvot": "Physical objects — leather, wool, fruit, coins" },
+        { "dimension": "Analogy", "torah": "Mo'S — brilliant candle illuminating its own room", "mitzvot": "Galgalta — great torch projecting to the farthest distance" },
+        { "dimension": "Advantage", "torah": "Inner revealed light — deep comprehension and connection", "mitzvot": "Connects to the Essence; root above Chochmah itself" },
+        { "dimension": "In the Future", "torah": "Embodied in ta'amei mitzvot (reasons for mitzvot revealed)", "mitzvot": "Sovev revealed through the physical garment — never nullified" },
+        { "dimension": "At Sinai", "torah": "Nishma — hearing / understanding; inner Torah illuminated", "mitzvot": "Na'aseh — doing; the crown formed from bitul ratzon beyond reason" }
+      ]
+    }
+  ]
+}

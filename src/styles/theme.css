@@ -1,0 +1,115 @@
+/* ============================================================
+   Shared Theme — Two Schemes: Midnight Sapphire (dark) & Morning Light (light)
+   Toggle via [data-scheme="dark" | "light"] on <html>.
+   Default = dark (Midnight Sapphire).
+   ============================================================ */
+
+:root {
+  --font-display: 'Cinzel Decorative', serif;
+  --font-body: 'Cormorant Garamond', serif;
+  --font-hebrew: 'Noto Serif Hebrew', serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg-body);
+  color: var(--text-light);
+  font-family: var(--font-body);
+  min-height: 100vh;
+  background-image: var(--bg-gradient);
+  transition: background-color 0.35s ease, color 0.35s ease;
+}
+
+/* ================================================================
+   DARK — Midnight Sapphire  (default)
+   Deep navy with silver-blue accents
+   ================================================================ */
+:root,
+[data-scheme="dark"] {
+  --gold-bright: #a8c8f0;
+  --gold-mid: #7098cc;
+  --gold-dim: #4a6894;
+  --purple-bright: #b0a0e0;
+  --purple: #7868b8;
+  --purple-dim: #5848a0;
+  --blue-bright: #88c4f8;
+  --green-bright: #70c8b0;
+  --teal-bright: #60b8d8;
+  --red-bright: #d88888;
+
+  --bg-body: #0c1220;
+  --border: #283850;
+  --text-light: #d0ddf0;
+  --text-body: #b8c8e0;
+  --text-mid: #8898b8;
+  --text-dim: #506080;
+  --sidebar-bg: rgba(8,12,24,0.96);
+  --accent-primary: #7098cc;
+
+  --bg-gradient:
+    radial-gradient(ellipse at 20% 10%, rgba(64,100,180,0.08) 0%, transparent 55%),
+    radial-gradient(ellipse at 80% 90%, rgba(40,60,120,0.06) 0%, transparent 55%);
+
+  --card-bg-mix: 85%;
+  --card-bg-mix2: 78%;
+  --overlay-bg: rgba(0,0,0,0.5);
+  --info-panel-bg: rgba(12,18,36,0.8);
+  --detail-bg: rgba(255,255,255,0.04);
+  --detail-border: rgba(255,255,255,0.08);
+  --hover-highlight: rgba(255,255,255,0.04);
+}
+
+/* ================================================================
+   LIGHT — Morning Light
+   Clean white with soft blue accents
+   ================================================================ */
+[data-scheme="light"] {
+  --gold-bright: #8a6820;
+  --gold-mid: #6a5018;
+  --gold-dim: #4a3810;
+  --purple-bright: #6840a0;
+  --purple: #503088;
+  --purple-dim: #382068;
+  --blue-bright: #1868b0;
+  --green-bright: #187838;
+  --teal-bright: #106878;
+  --red-bright: #b04028;
+
+  --bg-body: #f8fafe;
+  --border: #c0cce0;
+  --text-light: #1a2030;
+  --text-body: #2a3850;
+  --text-mid: #4a5870;
+  --text-dim: #7888a0;
+  --sidebar-bg: rgba(240,244,252,0.97);
+  --accent-primary: #1868b0;
+
+  --bg-gradient:
+    radial-gradient(ellipse at 20% 10%, rgba(60,100,180,0.05) 0%, transparent 55%),
+    radial-gradient(ellipse at 80% 90%, rgba(80,120,200,0.03) 0%, transparent 55%);
+
+  --card-bg-mix: 92%;
+  --card-bg-mix2: 86%;
+  --overlay-bg: rgba(0,0,0,0.25);
+  --info-panel-bg: color-mix(in srgb, #f8fafe 92%, #c0cce0);
+  --detail-bg: color-mix(in srgb, #f8fafe 94%, #c0cce0);
+  --detail-border: color-mix(in srgb, #c0cce0 30%, transparent);
+  --hover-highlight: rgba(0,0,0,0.03);
+}
+
+
+/* ============================================================
+   Block-theme accent-color map
+   Each card reads [data-theme] → derives accent, backgrounds, border.
+   Uses --card-bg-mix to adapt to dark/light automatically.
+   ============================================================ */
+
+[data-theme="gold"]       { --accent: var(--gold-bright); --accent2: var(--gold-mid);    --bg1: color-mix(in srgb, var(--bg-body) var(--card-bg-mix),  var(--gold-bright)); --bg2: color-mix(in srgb, var(--bg-body) var(--card-bg-mix2), var(--gold-bright)); --border-a: color-mix(in srgb, var(--gold-bright) 70%, transparent); }
+[data-theme="gold-dim"]   { --accent: var(--gold-mid);    --accent2: var(--gold-dim);    --bg1: color-mix(in srgb, var(--bg-body) var(--card-bg-mix),  var(--gold-mid));    --bg2: color-mix(in srgb, var(--bg-body) var(--card-bg-mix2), var(--gold-mid));    --border-a: color-mix(in srgb, var(--gold-mid) 45%, transparent); }
+[data-theme="purple"]     { --accent: var(--purple-bright); --accent2: var(--purple);    --bg1: color-mix(in srgb, var(--bg-body) var(--card-bg-mix),  var(--purple-bright)); --bg2: color-mix(in srgb, var(--bg-body) var(--card-bg-mix2), var(--purple-bright)); --border-a: color-mix(in srgb, var(--purple-bright) 60%, transparent); }
+[data-theme="purple-dim"] { --accent: var(--purple);        --accent2: var(--purple-dim); --bg1: color-mix(in srgb, var(--bg-body) var(--card-bg-mix),  var(--purple));       --bg2: color-mix(in srgb, var(--bg-body) var(--card-bg-mix2), var(--purple));       --border-a: color-mix(in srgb, var(--purple) 50%, transparent); }
+[data-theme="blue"]       { --accent: var(--blue-bright);  --accent2: color-mix(in srgb, var(--blue-bright) 55%, var(--bg-body));  --bg1: color-mix(in srgb, var(--bg-body) var(--card-bg-mix),  var(--blue-bright));  --bg2: color-mix(in srgb, var(--bg-body) var(--card-bg-mix2), var(--blue-bright));  --border-a: color-mix(in srgb, var(--blue-bright) 60%, transparent); }
+[data-theme="green"]      { --accent: var(--green-bright); --accent2: color-mix(in srgb, var(--green-bright) 55%, var(--bg-body)); --bg1: color-mix(in srgb, var(--bg-body) var(--card-bg-mix),  var(--green-bright)); --bg2: color-mix(in srgb, var(--bg-body) var(--card-bg-mix2), var(--green-bright)); --border-a: color-mix(in srgb, var(--green-bright) 55%, transparent); }
+[data-theme="teal"]       { --accent: var(--teal-bright);  --accent2: color-mix(in srgb, var(--teal-bright) 55%, var(--bg-body));  --bg1: color-mix(in srgb, var(--bg-body) var(--card-bg-mix),  var(--teal-bright));  --bg2: color-mix(in srgb, var(--bg-body) var(--card-bg-mix2), var(--teal-bright));  --border-a: color-mix(in srgb, var(--teal-bright) 55%, transparent); }
+[data-theme="red"]        { --accent: var(--red-bright);   --accent2: color-mix(in srgb, var(--red-bright) 55%, var(--bg-body));   --bg1: color-mix(in srgb, var(--bg-body) var(--card-bg-mix),  var(--red-bright));   --bg2: color-mix(in srgb, var(--bg-body) var(--card-bg-mix2), var(--red-bright));   --border-a: color-mix(in srgb, var(--red-bright) 55%, transparent); }

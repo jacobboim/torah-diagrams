@@ -1,0 +1,462 @@
+/* ============================================================
+   Block Component Styles
+   One section per block type, matching the original HTML diagram.
+   ============================================================ */
+
+/* ---- Diagram Header ---- */
+.diagram-header {
+  text-align: center;
+  padding: 52px 24px 36px;
+  border-bottom: 1px solid var(--border);
+  position: relative;
+}
+.diagram-header::after {
+  content: '';
+  position: absolute;
+  bottom: 0; left: 50%;
+  transform: translateX(-50%);
+  width: 340px; height: 1px;
+  background: linear-gradient(to right, transparent, var(--accent-primary, var(--gold-bright)), transparent);
+}
+.diagram-header-hebrew {
+  font-family: var(--font-hebrew);
+  font-size: 2.4rem;
+  color: var(--accent-primary, var(--gold-bright));
+  text-shadow: 0 0 40px color-mix(in srgb, var(--accent-primary, var(--gold-bright)) 35%, transparent);
+  margin-bottom: 10px;
+}
+.diagram-header-title {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  color: var(--accent-primary, var(--gold-mid));
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+.diagram-header-sub {
+  font-size: 0.95rem;
+  color: var(--text-dim);
+  font-style: italic;
+}
+
+/* ---- Click Hint ---- */
+.click-hint {
+  text-align: center;
+  font-size: 0.7rem;
+  color: var(--text-dim);
+  font-style: italic;
+  margin-bottom: 28px;
+  letter-spacing: 0.05em;
+}
+
+/* ================================================================
+   LEVEL CARD
+   ================================================================ */
+.level-card {
+  position: relative;
+  margin-bottom: 4px;
+  cursor: pointer;
+  transition: transform 0.15s;
+}
+.level-card:hover { transform: translateY(-1px); }
+
+.level-inner {
+  border: 1px solid var(--border-a, var(--border));
+  border-radius: 6px;
+  padding: 18px 22px;
+  background: linear-gradient(135deg, var(--bg1, #222) 0%, var(--bg2, #333) 100%);
+  transition: box-shadow 0.2s;
+  position: relative;
+  overflow: hidden;
+}
+.level-card:hover .level-inner {
+  box-shadow: 0 4px 28px rgba(0,0,0,0.45);
+}
+/* Accent bar left */
+.level-inner::after {
+  content: '';
+  position: absolute;
+  top: 0; left: 0;
+  width: 4px; height: 100%;
+  border-radius: 6px 0 0 6px;
+  background: var(--accent, var(--gold-mid));
+}
+
+/* Gold pulse animation for the top-most card */
+.level-card[data-theme="gold"] .level-inner {
+  animation: pulse-glow 4s ease-in-out infinite;
+}
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 16px color-mix(in srgb, var(--gold-bright) 15%, transparent); }
+  50%      { box-shadow: 0 0 36px color-mix(in srgb, var(--gold-bright) 32%, transparent); }
+}
+
+.level-top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+}
+.level-text { flex: 1; }
+
+.level-number {
+  font-family: var(--font-display);
+  font-size: 0.55rem;
+  letter-spacing: 0.18em;
+  color: var(--text-dim);
+  margin-bottom: 5px;
+  text-transform: uppercase;
+}
+.level-hebrew {
+  font-family: var(--font-hebrew);
+  font-size: 1.35rem;
+  line-height: 1.3;
+  margin-bottom: 3px;
+  color: var(--accent, var(--gold-mid));
+}
+/* Text shadow only for gold theme */
+[data-theme="gold"] .level-hebrew {
+  text-shadow: 0 0 20px color-mix(in srgb, var(--gold-bright) 35%, transparent);
+}
+.level-english {
+  font-size: 0.82rem;
+  font-style: italic;
+  color: var(--text-mid);
+  margin-bottom: 8px;
+}
+.level-tagline {
+  font-size: 0.85rem;
+  color: var(--text-body);
+  line-height: 1.65;
+  font-weight: 450;
+}
+.level-tagline .heb {
+  font-family: var(--font-hebrew);
+  font-size: 0.95em;
+}
+
+/* Badges */
+.level-badge {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 5px;
+  flex-shrink: 0;
+}
+.badge {
+  font-size: 0.58rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 2px 7px;
+  border-radius: 2px;
+  white-space: nowrap;
+  font-family: var(--font-display);
+}
+.badge-primary {
+  border: 1px solid var(--accent, var(--gold-bright));
+  color: var(--accent, var(--gold-bright));
+}
+.badge-secondary {
+  border: 1px solid color-mix(in srgb, var(--accent, var(--gold-mid)) 50%, transparent);
+  color: var(--accent2, var(--gold-mid));
+}
+
+/* Expandable detail grid */
+.level-details {
+  margin-top: 16px;
+  padding-top: 14px;
+  border-top: 1px solid rgba(255,255,255,0.07);
+}
+.detail-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+.detail-box {
+  background: var(--detail-bg, rgba(255,255,255,0.04));
+  border: 1px solid var(--detail-border, rgba(255,255,255,0.08));
+  border-radius: 4px;
+  padding: 10px 12px;
+}
+.detail-box-title {
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-light);
+  margin-bottom: 6px;
+  font-family: var(--font-body);
+  font-weight: 600;
+}
+.detail-box-content {
+  font-size: 0.84rem;
+  line-height: 1.7;
+  color: var(--text-body);
+  font-weight: 450;
+}
+.detail-box-content .hl { color: var(--text-light); font-weight: 550; }
+.detail-box-content .heb { font-family: var(--font-hebrew); font-size: 0.95em; }
+
+/* ================================================================
+   CONNECTOR
+   ================================================================ */
+.connector {
+  display: flex;
+  justify-content: center;
+  height: 22px;
+}
+.connector-line {
+  width: 2px;
+  height: 100%;
+}
+
+/* ================================================================
+   SECTION LABEL
+   ================================================================ */
+.section-label {
+  text-align: center;
+  font-family: var(--font-display);
+  font-size: 0.6rem;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  margin: 40px 0 16px;
+  position: relative;
+}
+.section-label::before,
+.section-label::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  width: 25%;
+  height: 1px;
+}
+.section-label::before { left: 0; background: linear-gradient(to right, transparent, var(--border)); }
+.section-label::after  { right: 0; background: linear-gradient(to left, transparent, var(--border)); }
+
+/* ================================================================
+   VERSE
+   ================================================================ */
+.verse-block {
+  text-align: center;
+  font-family: var(--font-hebrew);
+  font-size: 1.05rem;
+  color: var(--text-mid);
+  margin-bottom: 18px;
+  font-style: italic;
+  line-height: 1.9;
+}
+.verse-ref {
+  display: block;
+  font-size: 0.7rem;
+  color: var(--text-dim);
+  font-family: var(--font-body);
+  margin-top: 4px;
+}
+
+/* ================================================================
+   ITEM GRID  (e.g. three royal items)
+   ================================================================ */
+.item-grid {
+  display: grid;
+  gap: 12px;
+  margin-top: 4px;
+}
+.item-grid[data-cols="2"] { grid-template-columns: 1fr 1fr; }
+.item-grid[data-cols="3"] { grid-template-columns: 1fr 1fr 1fr; }
+.item-grid[data-cols="4"] { grid-template-columns: 1fr 1fr 1fr 1fr; }
+
+.grid-item {
+  border: 1px solid var(--border-a, var(--border));
+  border-radius: 6px;
+  padding: 16px 14px;
+  background: rgba(255,255,255,0.03);
+  text-align: center;
+  cursor: pointer;
+  transition: box-shadow 0.2s, transform 0.15s;
+}
+.grid-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 24px rgba(0,0,0,0.4);
+}
+.grid-item-heb {
+  font-family: var(--font-hebrew);
+  font-size: 1.4rem;
+  display: block;
+  margin-bottom: 4px;
+  color: var(--accent, var(--gold-mid));
+}
+.grid-item-en {
+  font-family: var(--font-display);
+  font-size: 0.63rem;
+  letter-spacing: 0.1em;
+  display: block;
+  margin-bottom: 8px;
+  color: var(--accent, var(--gold-mid));
+}
+.grid-item-desc {
+  font-size: 0.8rem;
+  color: var(--text-body);
+  line-height: 1.6;
+  font-style: italic;
+  font-weight: 450;
+}
+.grid-item-detail {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid rgba(255,255,255,0.07);
+  text-align: left;
+}
+.grid-item-detail-text {
+  font-size: 0.82rem;
+  color: var(--text-body);
+  line-height: 1.65;
+  font-style: normal;
+  font-weight: 450;
+}
+
+/* ================================================================
+   INFO PANEL  (collapsible accordion)
+   ================================================================ */
+.info-panel {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--info-panel-bg, rgba(12,18,36,0.8));
+  overflow: hidden;
+  margin-bottom: 4px;
+}
+.info-panel-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 13px 18px;
+  cursor: pointer;
+  user-select: none;
+}
+.info-panel-header:hover { background: rgba(255,255,255,0.03); }
+.info-panel-title {
+  font-family: var(--font-display);
+  font-size: 0.63rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent-primary, var(--gold-mid));
+}
+.info-panel-arrow {
+  font-size: 0.7rem;
+  color: var(--text-dim);
+  transition: transform 0.2s;
+}
+.info-panel.open .info-panel-arrow { transform: rotate(180deg); }
+.info-panel-body {
+  padding: 4px 18px 18px;
+  border-top: 1px solid rgba(255,255,255,0.05);
+}
+
+/* Side items inside info-panel */
+.side-item {
+  border-left: 2px solid var(--accent, var(--border));
+  padding: 9px 11px;
+  margin-top: 10px;
+  border-radius: 0 3px 3px 0;
+}
+.side-item-heb {
+  font-family: var(--font-hebrew);
+  font-size: 0.9rem;
+  display: block;
+  margin-bottom: 3px;
+}
+.side-item-en {
+  font-size: 0.82rem;
+  color: var(--text-body);
+  display: block;
+  line-height: 1.6;
+  font-weight: 450;
+}
+
+/* ================================================================
+   PARABLE GRID
+   ================================================================ */
+.parables-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+}
+.parable-card {
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: 12px;
+  background: rgba(255,255,255,0.03);
+}
+.parable-icon  { font-size: 1.3rem; display: block; margin-bottom: 6px; }
+.parable-title {
+  font-family: var(--font-display);
+  font-size: 0.6rem;
+  color: var(--accent-primary, var(--gold-mid));
+  letter-spacing: 0.1em;
+  display: block;
+  margin-bottom: 5px;
+}
+.parable-body {
+  font-size: 0.8rem;
+  color: var(--text-body);
+  line-height: 1.6;
+  font-style: italic;
+  font-weight: 450;
+}
+
+/* ================================================================
+   CONTRAST TABLE
+   ================================================================ */
+.contrast-table-wrap {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  overflow: hidden;
+  background: var(--info-panel-bg, rgba(12,18,36,0.8));
+}
+.contrast-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.75rem;
+}
+.contrast-table th {
+  padding: 8px 12px;
+  font-family: var(--font-display);
+  font-size: 0.58rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+}
+.contrast-table td {
+  padding: 8px 12px;
+  border-bottom: 1px solid rgba(255,255,255,0.04);
+  line-height: 1.6;
+  color: var(--text-body);
+  vertical-align: top;
+  font-size: 0.82rem;
+  font-weight: 450;
+}
+.contrast-table tr:hover td { background: var(--hover-highlight, rgba(255,255,255,0.02)); }
+.contrast-table td:first-child { color: var(--text-light); font-weight: 500; }
+
+/* ================================================================
+   PROSE BLOCK
+   ================================================================ */
+.prose-block {
+  font-size: 0.84rem;
+  color: var(--text-body);
+  line-height: 1.75;
+  padding: 4px 0;
+  font-weight: 450;
+}
+.prose-block b { color: var(--text-light); font-weight: 600; }
+
+/* ================================================================
+   RESPONSIVE
+   ================================================================ */
+@media (max-width: 620px) {
+  .item-grid[data-cols="3"] { grid-template-columns: 1fr; }
+  .item-grid[data-cols="4"] { grid-template-columns: 1fr 1fr; }
+  .parables-grid { grid-template-columns: 1fr 1fr; }
+  .detail-grid { grid-template-columns: 1fr; }
+}
