@@ -1,0 +1,527 @@
+{
+  "id": "torah-ohr/shemos/titzaveh/01-ואתה תצוה",
+  "meta": {
+    "sefer": "Torah Ohr",
+    "book": "Shemos",
+    "parshah": "Titzaveh",
+    "hebrewTitle": "ואתה תצוה את בני ישראל",
+    "englishTitle": "The Sacred Wedding",
+    "subtitle": "How Aharon and Moshe Unite Jewish Souls with the Infinite",
+    "sourceDiscourse": "discourses/torah-ohr/shemos/titzaveh/01-ואתה תצוה.json"
+  },
+  "blocks": [
+    {
+      "type": "verse",
+      "text": "וְאַתָּה תְּצַוֶּה אֶת בְּנֵי יִשְׂרָאֵל וְיִקְחוּ אֵלֶיךָ שֶׁמֶן זַיִת זָךְ כָּתִית לַמָּאוֹר לְהַעֲלֹת נֵר תָּמִיד",
+      "reference": "Shemos 27:20"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "Ein Sof",
+      "hebrew": "אין סוף ברוך הוא",
+      "english": "The Infinite Blessed One · Beyond All Comprehension",
+      "tagline": "The Divine Essence that <b>no thought can grasp</b>. Yet this very Essence is invested in mitzvot—making one moment of mitzvah performance surpass all the pleasures of Gan Eden!",
+      "badges": [
+        { "label": "Anochi", "variant": "primary" },
+        { "label": "Source of All Joy", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Beyond Radiance — The Essence Itself",
+          "content": "Gan Eden offers <span class=\"heb\">זיו השכינה</span> (radiance of the Divine Presence)—like admiring a King's beautiful painting. Mitzvot offer the <b>Essence</b>—like embracing the King Himself. \"<span class=\"heb\">לית מחשבה תפיסא ביה</span>\"—no thought can grasp Him."
+        },
+        {
+          "title": "Avarin D'Malka — Limbs of the King",
+          "content": "The Zohar calls mitzvot \"<span class=\"heb\">אברין דמלכא</span>\"—limbs of the King. Just as limbs are vessels for the soul's life-force, mitzvot are vessels for the Infinite Light itself. This is why \"<span class=\"heb\">לפני ה׳</span>\" (before Hashem) appears with <i>all</i> mitzvot."
+        },
+        {
+          "title": "\"Anochi Metzavecha Hayom\"",
+          "content": "\"<span class=\"heb\">אשר אנכי מצוך היום</span>\"—\"that <i>I</i> command you <i>today</i>.\" \"<span class=\"heb\">אנכי</span>\" refers to Hashem's very Essence—the \"I am Who I am\" that transcends all names. <span class=\"hl\">This</span> is what's invested in mitzvot!"
+        },
+        {
+          "title": "Better Than the World to Come",
+          "content": "\"<span class=\"heb\">יפה שעה אחת בתשובה ומעשים טובים בעולם הזה מכל חיי עולם הבא</span>\"—One hour of repentance and good deeds surpasses <b>all</b> the life of the World to Come. Because \"<span class=\"heb\">כל</span>\" represents all of Gan Eden—and mitzvot connect to what's <i>above</i> it."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "green"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "I",
+      "label": "Moshe",
+      "hebrew": "שושבינא דמלכא",
+      "english": "Best Man of the King · Drawing Down Torah",
+      "tagline": "Moshe is the <span class=\"heb\">שושבינא דמלכא</span>—escorting the <b>King</b> (Hashem/Torah) down to meet the bride (souls). Through Torah, he draws <span class=\"heb\">יחודא עילאה</span> (Higher Unity) into this world—a <b>perpetual light</b> beyond time.",
+      "badges": [
+        { "label": "Ner Tamid", "variant": "primary" },
+        { "label": "Shuv", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Torah: Above the Sun",
+          "content": "The Zohar says: \"What profit has a person in all their labor <i>under the sun</i>?\"—this excludes Torah study, which is <b>above</b> the sun. Moshe, who was \"heavy of speech,\" accessed this transcendent level—so high it couldn't easily be expressed."
+        },
+        {
+          "title": "\"V'Atah Tetzaveh\" — Connection",
+          "content": "\"<span class=\"heb\">תצוה</span>\" comes from \"<span class=\"heb\">צוותא</span>\"—connection. Moshe <i>connects</i> Jewish souls with Ein Sof through the letters of Torah. \"<span class=\"heb\">מאת</span>\" (from) spells aleph-through-tav—the letters of Torah itself!"
+        },
+        {
+          "title": "Yichuda Ila'a — The Higher Unity",
+          "content": "Torah study achieves <span class=\"heb\">יחודא עילאה</span>—where \"<span class=\"heb\">כחשיכה כאורה</span>\" (darkness and light are the same). No \"evening becoming morning\"—only eternal NOW. Rabbi Shimon bar Yochai said: \"<span class=\"heb\">בחד קטירא אתקטרנא</span>\"—I am bound in one bond with Hashem."
+        },
+        {
+          "title": "\"Ner Tamid\" — Perpetual, Beyond Time",
+          "content": "Moshe's contribution is \"<span class=\"heb\">להעלות נר תמיד</span>\"—a <b>perpetual</b> lamp. \"<span class=\"heb\">תמיד</span>\" means constant—<i>beyond time</i>. From Ein Sof's perspective, there's no process, no journey—only timeless unity that Torah draws down."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "green",
+      "toTheme": "blue"
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "II",
+      "label": "Aharon",
+      "hebrew": "שושבינא דמטרוניתא",
+      "english": "Best Man of the Queen · Elevating Souls",
+      "tagline": "Aharon is the <span class=\"heb\">שושבינא דמטרוניתא</span>—escorting the <b>bride</b> (Jewish souls) toward the groom (Hashem). He kindles the soul's passionate <span class=\"heb\">רצוא</span> (yearning) and reveals the <span class=\"heb\">שמחה של מצוה</span>—joy of mitzvot.",
+      "badges": [
+        { "label": "Mei'erev Ad Boker", "variant": "primary" },
+        { "label": "Ratzo", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Wedding Escort",
+          "content": "At a wedding, bride and groom need a <span class=\"heb\">שושבין</span> (escort) because they're too bashful to approach alone. Jewish souls want to unite with Hashem but can't bridge the gap—Aharon empowers finite souls to transcend limitations and embrace the Infinite."
+        },
+        {
+          "title": "Simchah Shel Mitzvah",
+          "content": "Every mitzvah is a \"wedding\"—the soul uniting with the Divine Essence invested in that commandment. This produces <span class=\"heb\">שמחה של מצוה</span>—the joy of the mitzvah. Aharon, as one of the Seven Shepherds, specifically generates this joy in souls."
+        },
+        {
+          "title": "Two Stages: Ya'aroch & U'v'ha'alot",
+          "content": "\"<span class=\"heb\">יערך</span>\" (arranging)—the person's preparation through <span class=\"heb\">התבוננות</span> (contemplation). \"<span class=\"heb\">ובהעלות</span>\" (kindling)—what comes from Above, the <span class=\"heb\">אהבה בכל מאדך</span> (love beyond measure) that transcends natural capacity."
+        },
+        {
+          "title": "\"From Evening to Morning\" — In Time",
+          "content": "Aharon's timing is \"<span class=\"heb\">מערב עד בקר</span>\"—a journey <i>within</i> time. \"<span class=\"heb\">בראשא חשוך והדר נהורא</span>\"—first darkness, then light. The soul begins in concealment, gradually awakening through prayer and mitzvot until reaching illumination."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "blue",
+      "toTheme": "purple"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "III",
+      "label": "The Parochet",
+      "hebrew": "מחוץ לפרכת",
+      "english": "Outside the Curtain · Yichuda Tata'a",
+      "tagline": "The <span class=\"heb\">פרכת</span> (curtain) represents the <span class=\"heb\">פרסא</span>—the barrier between Atzilut and the lower worlds. Aharon works \"outside the curtain\"—in <span class=\"heb\">יחודא תתאה</span>, where souls experience separation and must <i>yearn</i> for higher connection.",
+      "badges": [
+        { "label": "Elokim / Shield", "variant": "primary" },
+        { "label": "Melo Kol Ha'aretz", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Havayah and Elokim — Sun and Shield",
+          "content": "\"<span class=\"heb\">כי שמש ומגן הוי״ה אלקים</span>\"—<span class=\"heb\">הוי״ה</span> is like the sun (essential light), <span class=\"heb\">אלקים</span> is like a shield covering it. Without this concealment, infinite light would nullify all existence. The <span class=\"heb\">פרכת</span> allows worlds to exist as \"something.\""
+        },
+        {
+          "title": "Yichuda Tata'a — The Lower Unity",
+          "content": "In <span class=\"heb\">יחודא תתאה</span>, worlds exist as \"<span class=\"heb\">יש</span>\" (something)—but recognize their dependence on Divine energy. \"<span class=\"heb\">מלא כל הארץ כבודו</span>\"—His glory <i>fills</i> the earth. This is the realm where Aharon's service awakens longing."
+        },
+        {
+          "title": "Versus Yichuda Ila'a — The Higher Unity",
+          "content": "In <span class=\"heb\">יחודא עילאה</span>, there are no separate worlds—\"<span class=\"heb\">אין עוד מלבדו</span>\" literally. Everything is nullified in the Infinite. The <span class=\"heb\">פרכת</span> separates \"<span class=\"heb\">קדש</span>\" from \"<span class=\"heb\">קדש הקדשים</span>\"—lower from higher unity."
+        },
+        {
+          "title": "Ratzo — The Heart Runs",
+          "content": "The <span class=\"heb\">שמחה של מצוה</span> is a <span class=\"heb\">רצוא</span>—\"<span class=\"heb\">רץ לבך</span>\" (the heart runs) toward <span class=\"heb\">יחודא עילאה</span>. The joy awakens desire to transcend limitations and unite with the Infinite—moving from \"outside the curtain\" toward what's within."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "teal"
+    },
+    {
+      "type": "level-card",
+      "theme": "teal",
+      "number": "IV",
+      "label": "Chochmah/Bittul",
+      "hebrew": "שמן זית זך",
+      "english": "Pure Olive Oil · The Wisdom of Self-Nullification",
+      "tagline": "The <span class=\"heb\">שמן</span> (oil) represents <span class=\"heb\">חכמה</span>—wisdom as <span class=\"heb\">ביטול</span> (self-nullification). Just as oil gets completely consumed in the flame, the <i>batul</i> person is absorbed entirely in Divine light.",
+      "badges": [
+        { "label": "Katit La'Ma'or", "variant": "primary" },
+        { "label": "Shirayim", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why Olive Oil Specifically?",
+          "content": "Olives are <b>bitter</b> and cause forgetting Torah. They represent the <span class=\"heb\">גוף</span> (body) and <span class=\"heb\">נפש הבהמית</span> (animal soul). But <i>olive oil</i> restores seventy years of learning—through crushing the ego, wisdom-as-bittul emerges."
+        },
+        {
+          "title": "Katit — Crushing = Itkafya",
+          "content": "\"<span class=\"heb\">כתית</span>\" (crushed) represents \"<span class=\"heb\">איתכפיא סטרא אחרא</span>\"—subduing the \"other side.\" The Sages say: \"<span class=\"heb\">שמשים עצמו כשיריים</span>\"—making oneself like \"leftovers.\" When you're \"nothing,\" foreign desires naturally fall away."
+        },
+        {
+          "title": "\"Mi Li BaShamayim?\" — Not Even Gan Eden",
+          "content": "True bittul declares: \"<span class=\"heb\">מי לי בשמים</span>\"—What do I have in heaven? Not even Gan Eden! Because even spiritual pleasure involves a \"someone\" experiencing it. The Alter Rebbe said: \"I want nothing but <span class=\"hl\">You Yourself</span>.\""
+        },
+        {
+          "title": "The Chacham Who \"Sees\"",
+          "content": "\"<span class=\"heb\">איזהו חכם? הרואה את הנולד</span>\"—Who is wise? One who <i>sees</i> what is \"born\" (nolad)—constantly being created <span class=\"heb\">יש מאין</span> (something from nothing). This awareness of continuous creation produces profound bittul."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "teal",
+      "toTheme": "red"
+    },
+    {
+      "type": "level-card",
+      "theme": "red",
+      "number": "V",
+      "label": "This World",
+      "hebrew": "היום לעשותם",
+      "english": "Today to Perform Them · The Arena of Action",
+      "tagline": "\"<span class=\"heb\">היום לעשותם</span>\"—<b>Today</b>, in this physical world, is where mitzvot can be performed. The soul's journey, the crushing, the kindling—all happens <i>here</i>, where darkness is transformed to light.",
+      "badges": [
+        { "label": "Olam HaAsiyah", "variant": "primary" },
+        { "label": "Wedding Chamber", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why Specifically This World?",
+          "content": "Souls could bask in Gan Eden's radiance—but only in this physical world can they connect with the <b>Essence</b> through mitzvot. The Sages emphasize: \"<span class=\"heb\">היום לעשותם ולא למחר לעשותם</span>\"—today (this world) to perform them, not tomorrow (World to Come)."
+        },
+        {
+          "title": "Creating Gan Eden",
+          "content": "\"<span class=\"heb\">לעבדה ולשמרה</span>\"—Adam was placed in Gan Eden \"to work it and guard it.\" The Zohar: \"<span class=\"heb\">לעבדה</span>\" = positive mitzvot, \"<span class=\"heb\">לשמרה</span>\" = negative mitzvot. Through mitzvah performance <i>here</i>, we <b>create</b> Gan Eden!"
+        },
+        {
+          "title": "From Darkness to Light",
+          "content": "This world is called \"<span class=\"heb\">ערב</span>\" (evening)—a place of concealment and darkness. But this is precisely where \"<span class=\"heb\">מערב עד בקר</span>\" unfolds—the journey from darkness to the \"morning\" of illumination. Only here can transformation occur."
+        },
+        {
+          "title": "The Complete Circuit",
+          "content": "Aharon awakens the soul's <span class=\"heb\">רצוא</span> (upward yearning), Moshe provides the <span class=\"heb\">שוב</span> (downward drawing). Together they create complete <span class=\"heb\">עבודת ה׳</span>: the soul striving upward <i>meets</i> the light descending downward—right here in this world."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Two Cosmic Escorts"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "aspect", "label": "Aspect" },
+        { "key": "aharon", "label": "Aharon", "theme": "blue" },
+        { "key": "moshe", "label": "Moshe", "theme": "green" }
+      ],
+      "rows": [
+        {
+          "aspect": "Title",
+          "aharon": "שושבינא דמטרוניתא — Best Man of the Bride (souls)",
+          "moshe": "שושבינא דמלכא — Best Man of the King (Hashem)"
+        },
+        {
+          "aspect": "Function",
+          "aharon": "Elevates souls upward through passion and joy",
+          "moshe": "Draws Torah/Divine unity downward into souls"
+        },
+        {
+          "aspect": "Movement",
+          "aharon": "רצוא — Running toward, yearning upward",
+          "moshe": "שוב — Returning, drawing down"
+        },
+        {
+          "aspect": "Timing",
+          "aharon": "מערב עד בקר — From evening to morning (in time)",
+          "moshe": "נר תמיד — Perpetual lamp (beyond time)"
+        },
+        {
+          "aspect": "Realm",
+          "aharon": "יחודא תתאה — Lower Unity (outside the curtain)",
+          "moshe": "יחודא עילאה — Higher Unity (timeless)"
+        },
+        {
+          "aspect": "Result",
+          "aharon": "שמחה של מצוה — Joy of mitzvah performance",
+          "moshe": "Union with Torah's essence—bound with Hashem"
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Gan Eden vs. Mitzvot"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "aspect", "label": "Aspect" },
+        { "key": "ganeden", "label": "Gan Eden", "theme": "purple" },
+        { "key": "mitzvot", "label": "Mitzvot", "theme": "gold" }
+      ],
+      "rows": [
+        {
+          "aspect": "Source",
+          "ganeden": "זיו השכינה — Divine radiance, reflected light",
+          "mitzvot": "אין סוף ברוך הוא — The Essence Itself"
+        },
+        {
+          "aspect": "Category",
+          "ganeden": "מעשה ידיו — His \"handiwork\"",
+          "mitzvot": "אברין דמלכא — His \"limbs\""
+        },
+        {
+          "aspect": "Perception",
+          "ganeden": "Comprehensible to souls (though infinitely vast)",
+          "mitzvot": "Beyond all comprehension—\"no thought grasps\""
+        },
+        {
+          "aspect": "Analogy",
+          "ganeden": "Admiring the King's beautiful palace",
+          "mitzvot": "Embracing the King Himself"
+        },
+        {
+          "aspect": "Mishnah's Teaching",
+          "ganeden": "\"All the life of the World to Come\"",
+          "mitzvot": "\"One hour of teshuvah and good deeds\" surpasses it"
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Olive Oil: A Spiritual Map"
+    },
+    {
+      "type": "item-grid",
+      "columns": 4,
+      "items": [
+        {
+          "hebrew": "זית",
+          "english": "Olive",
+          "theme": "red",
+          "description": "The bitter fruit that causes forgetting.",
+          "detail": "Represents the <span class=\"heb\">גוף</span> (body) and <span class=\"heb\">נפש הבהמית</span> (animal soul)—sourced from the realm of <span class=\"heb\">קליפה</span>, the \"skin of the serpent.\" Bitter, associated with ego and worldly desire."
+        },
+        {
+          "hebrew": "כתית",
+          "english": "Crushing",
+          "theme": "purple",
+          "description": "Pressing in a mortar—subduing the ego.",
+          "detail": "\"<span class=\"heb\">איתכפיא סטרא אחרא</span>\"—subduing the \"other side.\" Making oneself like \"<span class=\"heb\">שיריים</span>\" (leftovers). When \"I\" dissolves, foreign desires naturally fall away."
+        },
+        {
+          "hebrew": "שמן",
+          "english": "Oil",
+          "theme": "teal",
+          "description": "Pure liquid—Chochmah as bittul.",
+          "detail": "Unlike the wick which leaves ash, oil is <b>completely consumed</b>—nothing remains. The <span class=\"heb\">בטל</span> person is entirely absorbed in Divine light, wanting nothing but \"<span class=\"hl\">You Yourself</span>.\""
+        },
+        {
+          "hebrew": "מאור",
+          "english": "Light",
+          "theme": "gold",
+          "description": "Divine radiance illuminating the soul.",
+          "detail": "\"<span class=\"heb\">כי נר מצוה ותורה אור</span>\"—mitzvot are candles, Torah is light. The crushing produces illumination—the <span class=\"heb\">שמחה של מצוה</span> and connection with Ein Sof that was the goal all along."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Two Stages of Aharon's Work"
+    },
+    {
+      "type": "item-grid",
+      "columns": 2,
+      "items": [
+        {
+          "hebrew": "יערך",
+          "english": "He Shall Arrange",
+          "theme": "blue",
+          "description": "Preparation from below—the person's effort.",
+          "detail": "Related to \"<span class=\"heb\">ערובה</span>\"—something guaranteed/established. The soul prepares through <span class=\"heb\">התבוננות</span> (deep contemplation) on Hashem's greatness—\"remembering Hashem with depth of understanding, from the innermost heart.\" This corresponds to <b>Pesukei D'Zimrah</b> in prayer."
+        },
+        {
+          "hebrew": "ובהעלות",
+          "english": "And When He Kindles",
+          "theme": "gold",
+          "description": "Elevation from Above—the Divine response.",
+          "detail": "\"<span class=\"heb\">להעלות</span>\" means to elevate and kindle. This is the drawing down of <span class=\"heb\">אהבה בכל מאדך</span>—love beyond measure, beyond what the limited soul could generate alone. \"<span class=\"heb\">למעלה מכדי שתוכל נפשו שאת</span>\"—beyond what the soul could naturally bear. This corresponds to <b>Kriat Shema</b>."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Key Kabbalistic Concepts"
+    },
+    {
+      "type": "info-panel",
+      "title": "The Two Unities",
+      "intro": "The Alter Rebbe distinguishes between two perspectives on Divine unity—and the curtain (Parochet) that separates them.",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "יחודא עילאה — Higher Unity",
+          "content": "From Hashem's perspective: \"<span class=\"heb\">אין עוד מלבדו</span>\"—there is nothing besides Him <i>literally</i>. All worlds are nullified like the sun's rays within the sun. \"<span class=\"heb\">כחשיכה כאורה</span>\"—darkness and light are identical. Moshe's \"<span class=\"heb\">נר תמיד</span>\" draws this level down through Torah."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "יחודא תתאה — Lower Unity",
+          "content": "The perspective <i>through</i> <span class=\"heb\">אלקים</span>: worlds exist as \"<span class=\"heb\">יש</span>\" (something), but recognize their complete dependence on Divine energy. \"<span class=\"heb\">מלא כל הארץ כבודו</span>\"—His glory <i>fills</i> the earth. Aharon's work happens here—awakening <span class=\"heb\">רצוא</span> toward the higher unity."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "הפרכת — The Curtain",
+          "content": "The <span class=\"heb\">פרסא</span> between Atzilut and the lower worlds. Also: the relationship between <span class=\"heb\">הוי״ה</span> (sun) and <span class=\"heb\">אלקים</span> (shield). Separates \"<span class=\"heb\">קדש</span>\" from \"<span class=\"heb\">קדש הקדשים</span>.\" Aharon serves \"outside the curtain\"—in the realm of journey and process."
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "The Joy of Mitzvot — \"Asher Kidshanu\"",
+      "intro": "Why does mitzvah performance bring such extraordinary joy? The Alter Rebbe finds the answer in the very blessing we say.",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "אשר קדשנו במצוותיו",
+          "content": "\"<span class=\"heb\">אשר</span>\" isn't just a connector—it's related to \"<span class=\"heb\">אושר</span>\" (bliss). The mitzvot contain <span class=\"heb\">אין סוף ברוך הוא</span> Himself—the Source of all pleasures. When we perform a mitzvah, we connect with that infinite wellspring."
+        },
+        {
+          "theme": "green",
+          "hebrew": "כל — The Pillar of Gan Eden",
+          "content": "\"<span class=\"heb\">כל</span>\" refers to the \"pillar\" that connects Lower and Upper Gan Eden—representing all levels of spiritual pleasure. \"<span class=\"heb\">רוב כל</span>\" (abundance of all) means the countless degrees of Gan Eden pleasure. Yet the joy of mitzvot should <b>exceed</b> even this!"
+        },
+        {
+          "theme": "teal",
+          "hebrew": "מעשה ידיו vs. עצמותו",
+          "content": "Gan Eden offers \"<span class=\"heb\">מעשה ידיך</span>\"—His handiwork, like praising someone's beautiful painting. But the person's <i>essence</i>—their soul, their wisdom—isn't reached. Mitzvot offer the <b>Essence itself</b>: not radiance, but \"<span class=\"heb\">אנכי</span>\"—the \"I\" beyond all description."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Wedding Mashal"
+    },
+    {
+      "type": "parable-grid",
+      "items": [
+        {
+          "icon": "💒",
+          "title": "The Wedding",
+          "body": "Every mitzvah is a wedding ceremony—the soul (bride) uniting with Hashem (groom). The \"escort\" is needed because the finite soul cannot bridge the infinite gap alone. Aharon empowers the bride; Moshe brings the King."
+        },
+        {
+          "icon": "☀️",
+          "title": "Sun and Shield",
+          "body": "Havayah is like the sun—infinite, life-giving light. Elokim is like a shield covering the sun, allowing creation to exist without being consumed. The Parochet is this \"shield\" that separates—yet the soul yearns to peek behind it."
+        },
+        {
+          "icon": "🫒",
+          "title": "The Crushed Olive",
+          "body": "The bitter olive (ego/animal soul) must be crushed to release pure oil (bittul/wisdom). The crushing is painful—making oneself \"leftovers\"—but only crushed oil produces lasting light. Uncrushed olives remain bitter and dark."
+        },
+        {
+          "icon": "🎨",
+          "title": "The King's Painting",
+          "body": "Gan Eden is like admiring a King's beautiful painting—you appreciate his skill, his handiwork. But mitzvot are like embracing the King Himself. One moment with the King surpasses a lifetime admiring his gallery."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Opening Verse Decoded"
+    },
+    {
+      "type": "info-panel",
+      "title": "Phrase-by-Phrase Analysis",
+      "intro": "The Alter Rebbe reveals layers of meaning in every word of the verse.",
+      "items": [
+        {
+          "theme": "green",
+          "hebrew": "ואתה תצוה",
+          "content": "<b>And you shall command/connect</b>: \"<span class=\"heb\">תצוה</span>\" from \"<span class=\"heb\">צוותא</span>\"—connection. Moshe connects souls with Ein Sof through Torah. This is his role as <span class=\"heb\">שושבינא דמלכא</span>."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "ויקחו אליך שמן זית זך",
+          "content": "<b>They shall take to you pure olive oil</b>: Souls must bring \"<span class=\"heb\">שמן</span>\" (bittul/Chochmah) to Moshe's level first. The \"<span class=\"heb\">זך</span>\" (purity) comes from crushing—subduing the ego."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "כתית למאור",
+          "content": "<b>Crushed for illumination</b>: <span class=\"heb\">איתכפיא</span>—subduing the animal soul—produces spiritual light. No crushing = no light. The effort precedes the radiance."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "להעלות נר תמיד",
+          "content": "<b>To kindle a perpetual lamp</b>: Moshe's contribution—eternal light beyond time (<span class=\"heb\">יחודא עילאה</span>). This is the <span class=\"heb\">שוב</span> that complements Aharon's <span class=\"heb\">רצוא</span>."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "מחוץ לפרכת",
+          "content": "<b>Outside the curtain</b>: <span class=\"heb\">יחודא תתאה</span>—the realm where souls experience the journey from separation to connection. This is Aharon's domain."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "יערך אותו אהרן... מערב עד בקר",
+          "content": "<b>Aharon shall arrange it... from evening to morning</b>: Aharon's mode—a process in time. From darkness (this world) to light (connection). <span class=\"heb\">בראשא חשוך והדר נהורא</span>."
+        },
+        {
+          "theme": "green",
+          "hebrew": "מאת בני ישראל",
+          "content": "<b>From the children of Israel</b>: \"<span class=\"heb\">מאת</span>\" spells aleph-tav—the letters of Torah! Aharon's power to elevate comes from the letters of Torah that Jews engage in."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Practical Application"
+    },
+    {
+      "type": "parable-grid",
+      "items": [
+        {
+          "icon": "🙏",
+          "title": "Prayer as the Daily \"Wedding\"",
+          "body": "Every prayer is a mini-wedding ceremony! Pesukei D'Zimrah is \"ya'aroch\" (preparation); Kriat Shema is \"u'v'ha'alot\" (the kindling from Above). You're not just talking to Hashem—you're uniting with Him."
+        },
+        {
+          "icon": "🕯️",
+          "title": "The Joy of Mitzvot",
+          "body": "Don't perform mitzvot mechanically! Each one contains Ein Sof's Essence—not reflected light, but the Source Itself. If you're not feeling joy, you need more \"oil\"—more bittul through contemplation."
+        },
+        {
+          "icon": "🫙",
+          "title": "Making Yourself \"Shirayim\"",
+          "body": "Before prayer and Torah study, contemplate: I am being created from nothing this very instant. All my desires are being renewed by Hashem. With this awareness, ego dissolves and the soul becomes a vessel for infinite light."
+        },
+        {
+          "icon": "🌅",
+          "title": "\"Evening to Morning\" — Trust the Process",
+          "body": "Don't be discouraged starting in \"darkness.\" Aharon's path is specifically from evening to morning. Your job: do the \"arranging\"—make the effort. The \"kindling\" comes from Above."
+        }
+      ]
+    }
+  ]
+}

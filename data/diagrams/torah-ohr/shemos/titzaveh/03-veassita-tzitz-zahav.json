@@ -1,0 +1,551 @@
+{
+  "id": "torah-ohr/shemos/titzaveh/03-veassita-tzitz-zahav",
+  "meta": {
+    "sefer": "Torah Ohr",
+    "book": "Shemos",
+    "parshah": "Titzaveh",
+    "hebrewTitle": "ועשית ציץ זהב",
+    "englishTitle": "The Golden Crown of the Heart",
+    "subtitle": "When Love Shines Through Broken Walls",
+    "sourceDiscourse": "discourses/torah-ohr/shemos/titzaveh/03-ועשית ציץ זהב.json"
+  },
+  "blocks": [
+    {
+      "type": "verse",
+      "text": "וְעָשִׂיתָ צִּיץ זָהָב טָהוֹר וּפִתַּחְתָּ עָלָיו פִּתּוּחֵי חֹתָם קֹדֶשׁ לַה׳",
+      "reference": "Shemos 28:36"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "Ahavah Rabbah",
+      "hebrew": "אהבה רבה",
+      "english": "The Great Love · From Above, Not From Us",
+      "tagline": "A boundless love for Hashem that <b>cannot be generated</b> through our own meditation. This love shines down from Above, transcending our intellectual capacity—accessed only by stretching our hearts toward <span class=\"heb\">ל'אהבה</span>, toward the love itself.",
+      "badges": [
+        { "label": "Gift From Above", "variant": "primary" },
+        { "label": "Aaron's Quality", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Tzitz — Radiance",
+          "content": "The word <span class=\"heb\">ציץ</span> means 'to shine' or 'to radiate'—like the sun beginning to shine (<span class=\"heb\">נֵץ הַחַמָּה</span>). The golden headplate represents the <b>radiance of Ahavah Rabbah</b>—love that breaks through barriers and illuminates the soul."
+        },
+        {
+          "title": "Aaron the Kindler of Hearts",
+          "content": "Aaron is the <span class=\"heb\">שושבינא דמטרוניתא</span> (the queen's escort)—he draws Jewish souls close to their King. Just as Aaron physically kindled the Menorah flames 'until they rose on their own,' spiritually he kindles the flame of <span class=\"hl\">Ahavah Rabbah</span> in every Jewish heart."
+        },
+        {
+          "title": "'L'Ahavah' vs. 'L'Ehov'",
+          "content": "The Torah says <span class=\"heb\">לְאַהֲבָה את ה׳</span>—not 'to love' (<span class=\"heb\">לֶאֱהוֹב</span>) but 'toward the love.' We cannot generate this love ourselves. What we <b>can</b> do is stretch our hearts <span class=\"hl\">toward</span> a love that exists Above."
+        },
+        {
+          "title": "The Prerequisite",
+          "content": "To merit this higher love, we must first cultivate intense yearning for Hashem alone: <span class=\"heb\">מִי לִי בַשָּׁמַיִם וְעִמְּךָ לֹא חָפַצְתִּי בָאָרֶץ</span>—'Who do I have in Heaven? And besides You, I desire nothing on earth.' Even Gan Eden means nothing compared to Hashem Himself."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "red"
+    },
+    {
+      "type": "level-card",
+      "theme": "red",
+      "number": "I",
+      "label": "The Iron Wall",
+      "hebrew": "מחיצה של ברזל",
+      "english": "The Barrier of Arrogance · Amalek Within",
+      "tagline": "Since the Temple's destruction, a spiritual 'partition of iron' separates us from our Father in Heaven. But this wall exists <b>only from our side</b>—we created it through sin, and its root cause is <span class=\"heb\">גַּסּוּת הָרוּחַ</span> (arrogance).",
+      "badges": [
+        { "label": "Our Wall", "variant": "primary" },
+        { "label": "Reishit Goyim", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Root of All Evil",
+          "content": "Spiritual Amalek is <span class=\"heb\">גַּסּוּת הָרוּחַ</span>—the sense of being an independent 'something.' From this root, <b>all negative traits</b> naturally follow: anger (because 'someone' was offended), lust (because this 'self' deserves pleasure), pursuit of honor, and competitiveness."
+        },
+        {
+          "title": "'Our Wall' — Not His",
+          "content": "Scripture says 'Behold, He stands behind <b>our</b> wall'—specifically <span class=\"heb\">כָּתְלֵנוּ</span> (our wall). From Hashem's perspective, there is no barrier: 'Even darkness does not darken before You.' The iron wall is a partition only in <span class=\"hl\">our</span> perception."
+        },
+        {
+          "title": "Amalek: The Covering Over Yud-Hei",
+          "content": "Our Sages teach: as long as Amalek exists, 'the Name is not complete and the Throne is not complete.' Amalek is called <span class=\"heb\">כֵּס י-ה</span>—a covering over the letters Yud-Hei. It blocks the flow from intellect to emotion; one may understand deeply yet remain emotionally unmoved."
+        },
+        {
+          "title": "Two Manifestations",
+          "content": "<span class=\"heb\">מִבַּיִת</span> (from within): internal pride, competitiveness, inability to tolerate others' success.<br><span class=\"heb\">מִבַּחוּץ</span> (from without): pursuing honor, impressive clothing, acting important.<br>The Priestly Garments, made 'for honor and glory,' <span class=\"hl\">transform</span> this very quality toward holiness."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "red",
+      "toTheme": "green"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "II",
+      "label": "Moses & Bitul",
+      "hebrew": "משה · ביטול",
+      "english": "The Weapon Against Amalek · Self-Nullification",
+      "tagline": "Moses represents complete <span class=\"heb\">ביטול</span>—self-nullification before the Infinite. 'And we are <b>what</b>?' (<span class=\"heb\">וְנַחְנוּ מָה</span>). This quality shatters the wall of arrogance and enables the Tzitz to shine through.",
+      "badges": [
+        { "label": "V'Nachnu Mah", "variant": "primary" },
+        { "label": "Torat Moshe", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why 'V'Asita' — And YOU Shall Make",
+          "content": "The verse says <span class=\"heb\">וְעָשִׂיתָ צִּיץ</span>—'And <b>you</b> (Moses) shall make a Tzitz.' But the Tzitz is Aaron's garment! The teaching: Moses (bitul) <span class=\"hl\">creates the possibility</span> for Aaron's Ahavah Rabbah. Without humility breaking through the wall, the love cannot shine."
+        },
+        {
+          "title": "The Shechinah Speaks Through Moses",
+          "content": "Moses's utter self-nullification made him a perfect vessel—the Shechinah could speak 'from Moses's throat.' This is why all Torah is called <span class=\"heb\">תּוֹרַת מֹשֶׁה</span>—because true Torah study requires this same quality of bitul."
+        },
+        {
+          "title": "'I Have Only Torah'",
+          "content": "Our Sages warn: 'One who says \"I have only Torah\" doesn't even have Torah.' The deeper meaning: One who says '<b>I</b> have'—emphasizing the self—loses even the Torah he studies. Torah can only be truly possessed when studied with <span class=\"hl\">bitul</span>."
+        },
+        {
+          "title": "Don't Create a Hollow Space",
+          "content": "<span class=\"heb\">וְלֹא תְחַלְּלוּ</span>—'Do not desecrate' comes from <span class=\"heb\">חָלָל</span>, an empty space. Don't create a 'hollow' within yourself through arrogance. One who walks with proud posture 'pushes away the feet of the Shechinah'—his self-importance creates a void where Hashem cannot dwell."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Two Types of Love"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Aspect" },
+        { "key": "below", "label": "Love Below Daat", "theme": "teal" },
+        { "key": "above", "label": "Ahavah Rabbah", "theme": "gold" }
+      ],
+      "rows": [
+        {
+          "dimension": "Source",
+          "below": "Born from our own contemplation — meditating on Hashem's greatness generates love in the heart",
+          "above": "Shines down from Above — a gift that transcends our intellectual capacity"
+        },
+        {
+          "dimension": "Limitation",
+          "below": "Limited by how profound our understanding is — the 'child' cannot exceed its 'parent'",
+          "above": "Boundless — comes from the Infinite One Himself, not from our limited meditation"
+        },
+        {
+          "dimension": "Our Role",
+          "below": "Generate it through effort — השתדלות in contemplation",
+          "above": "Draw our hearts toward it — stretch upward in yearning"
+        },
+        {
+          "dimension": "Hebrew Form",
+          "below": "לֶאֱהֹב — 'to love' (something we do)",
+          "above": "לְאַהֲבָה — 'toward the love' (drawing toward what exists Above)"
+        },
+        {
+          "dimension": "Called",
+          "below": "אהבה — love born from understanding",
+          "above": "רעותא דליבא — the heart's deepest will, beyond intellect"
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Weapons: Torah & Mitzvot"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "III",
+      "label": "Torah",
+      "hebrew": "תורה · פנימיות",
+      "english": "Internal Light · Words in Your Mouth",
+      "tagline": "'<span class=\"heb\">וָאָשִׂים דְּבָרַי בְּפִיךָ</span>'—'I place My words in your mouth.' Torah becomes internalized within us, like food that becomes part of our being. It conquers Amalek <b>from within</b>.",
+      "badges": [
+        { "label": "Oraita MeChochmah", "variant": "primary" },
+        { "label": "Internal", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why Torah Reveals Ein Sof",
+          "content": "The Zohar teaches: <span class=\"heb\">אוריתא מחכמה נפקא</span>—Torah emanates from Chochmah. And where does Ein Sof dwell? Specifically in Chochmah. Why? Because <span class=\"heb\">חכמה</span> spells <span class=\"heb\">כֹּחַ מָה</span>—the power of 'what-ness,' of bitul. In bitul, Ein Sof can be revealed."
+        },
+        {
+          "title": "The Seal Analogy",
+          "content": "Torah's letters are called <span class=\"heb\">פִּתּוּחֵי חֹתָם</span> (signet engravings). Just as a seal imprints thought onto wax—same content, different medium—so Torah in our world contains the <span class=\"hl\">exact same wisdom</span> as in the Heavenly realm, just clothed in physical garments."
+        },
+        {
+          "title": "Hashem's Seal is Truth",
+          "content": "Why a 'signet'? Because Hashem's seal is <span class=\"heb\">אֱמֶת</span> (Truth), and 'there is no truth but Torah.' When we study Torah, the very words of Hashem are in our mouths—Truth imprinted upon our souls."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "green",
+      "toTheme": "blue"
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "IV",
+      "label": "Mitzvot",
+      "hebrew": "מצוות · מקיפים",
+      "english": "Surrounding Light · Shadow of My Hand",
+      "tagline": "'<span class=\"heb\">וּבְצֵל יָדִי כִּסִּיתִיךָ</span>'—'With the shadow of My hand I covered you.' Mitzvot surround us like a garment, drawing Ein Sof as <span class=\"heb\">מַקִּיפִים</span> (encompassing light). They conquer Amalek <b>from without</b>.",
+      "badges": [
+        { "label": "Divine Will", "variant": "primary" },
+        { "label": "External", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Inner and Outer — Complete Victory",
+          "content": "Torah draws Ein Sof into our <span class=\"heb\">פְּנִימִיּוּת</span> (inner being) through understanding. Mitzvot draw Ein Sof as <span class=\"heb\">מַקִּיפִים</span> (surrounding light) through action. Together, they conquer Amalek '<b>from within and from without</b>'—shattering the iron wall completely."
+        },
+        {
+          "title": "Asher Kidshanu",
+          "content": "We say <span class=\"heb\">אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו</span>—'Who has <b>sanctified</b> us with His mitzvot.' The word 'sanctified' indicates that something from the realm of <span class=\"heb\">קֹדֶשׁ הָעֶלְיוֹן</span> (Supernal Holy) is drawn down to us through every mitzvah."
+        },
+        {
+          "title": "Actions as Vessels",
+          "content": "Where Torah makes our minds vessels for Divine wisdom, mitzvot make our <b>actions</b> vessels for Divine will. The hands that give tzedakah, the feet that walk to shul—these physical limbs become carriers of Infinite light."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Four Letters of Hashem's Name in the Soul"
+    },
+    {
+      "type": "item-grid",
+      "columns": 4,
+      "items": [
+        {
+          "hebrew": "י",
+          "english": "Yud · Point",
+          "theme": "purple",
+          "description": "Tzimtzum — contraction. The tiny point representing Chochmah.",
+          "detail": "In our soul: the recognition that even the most sublime revelations are <b>nothing</b> compared to Hashem Himself. The flash of insight before expansion. The distance between Ein Sof and any revelation is like a drop to the ocean—and infinitely more."
+        },
+        {
+          "hebrew": "ה",
+          "english": "Hei · Expansion",
+          "theme": "purple-dim",
+          "description": "Binah — extends in length and width. Contemplation of greatness.",
+          "detail": "The shape of Hei extends in all directions, representing the expansion of Divine light—both <span class=\"heb\">סוֹבֵב כָּל עָלְמִין</span> (encompassing) and <span class=\"heb\">מְמַלֵּא כָּל עָלְמִין</span> (filling). In our soul: deep contemplation of Hashem's infinite greatness."
+        },
+        {
+          "hebrew": "ו",
+          "english": "Vav · Line",
+          "theme": "teal",
+          "description": "Connection — drawing down. The line from mind to heart.",
+          "detail": "Shaped like a line descending downward. Represents the drawing down of intellectual understanding into <b>heartfelt emotion</b>. When Yud-Hei (contemplation) flows properly, it awakens Vav-Hei (love in the heart and action in the world)."
+        },
+        {
+          "hebrew": "ה",
+          "english": "Hei · Expression",
+          "theme": "blue",
+          "description": "Revelation in lower worlds. Action and speech.",
+          "detail": "The final Hei represents how the Divine flow expresses itself in the lowest realms—through our thoughts, speech, and most importantly, our <b>actions</b>. This is the completion of the Name in the physical world."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Inscription: Why 'Kodesh' Below and 'Hashem' Above"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold-dim",
+      "number": "V",
+      "label": "Kodesh L'",
+      "hebrew": "קֹדֶשׁ לַ׳",
+      "english": "Holy To · Our Awakening From Below",
+      "tagline": "The <b>lower line</b> of the Tzitz inscription. 'Kodesh' represents the holiness we achieve through Torah and Mitzvot—our <span class=\"heb\">אִתְעָרוּתָא דִּלְתַתָּא</span> (awakening from below) that rises upward.",
+      "badges": [
+        { "label": "Lower Line", "variant": "primary" },
+        { "label": "Our Effort", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why Below?",
+          "content": "Though in the verse 'Kodesh L'' comes first, on the Tzitz it was written on the <b>bottom</b> line. This teaches that the holiness we achieve through our service, though real and precious, is still <span class=\"hl\">lower</span> than the level of Hashem's essential Name above it."
+        },
+        {
+          "title": "The Lamed of Direction",
+          "content": "The <span class=\"heb\">ל׳</span> isn't just 'to'—it indicates direction and purpose. <span class=\"heb\">קֹדֶשׁ ל׳הוי״ה</span> means: our holiness <b>serves as</b> an awakening from below that calls forth the response from Above."
+        },
+        {
+          "title": "Water Reflecting Face",
+          "content": "<span class=\"heb\">כַּמַּיִם הַפָּנִים לַפָּנִים כֵּן לֵב הָאָדָם לָאָדָם</span>—'As water reflects face to face, so the heart of man to man.' Our spiritual effort below triggers a response from Above. The 'Kodesh' awakens the 'Havaya.'"
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold-dim",
+      "toTheme": "gold"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "VI",
+      "label": "Hashem (Above)",
+      "hebrew": "הוי״ה · רעוא דרעוין",
+      "english": "The Supernal Will · Response From Above",
+      "tagline": "The <b>upper line</b> of the inscription. This is <span class=\"heb\">הוי״ה דְּלֵעֵילָא</span>—the higher level of the Name, called <span class=\"heb\">רַעֲוָא דְּרַעֲוִין</span> (Will of all wills). The source of the 13 Attributes of Mercy.",
+      "badges": [
+        { "label": "Upper Line", "variant": "primary" },
+        { "label": "13 Attributes", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Two Levels of Havaya",
+          "content": "<span class=\"heb\">הוי״ה דְּלְתַתָּא</span> (lower): The Name as it creates and sustains—'He who brings all into being from nothing.'<br><span class=\"heb\">הוי״ה דְּלֵעֵילָא</span> (higher): The source of even that creating power—the desire <b>before</b> the desire to create."
+        },
+        {
+          "title": "'Hashem, Hashem'",
+          "content": "The verse <span class=\"heb\">ה׳ ה׳</span> (with a pause between them) hints at these two levels of the same Name. Our awakening below (Kodesh) draws down the higher Havaya—the one that transcends even creation's structure."
+        },
+        {
+          "title": "Source of Forgiveness",
+          "content": "The 13 Attributes of Mercy—<span class=\"heb\">רַחוּם וְחַנּוּן נֹשֵׂא עָוֹן</span>—flow from this Supernal Will. This is why the Tzitz has the power to atone (<span class=\"heb\">נֹשֵׂא עֲוֹן הַקֳּדָשִׁים</span>)—it connects to the level that transcends strict judgment."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Three Brain Chambers & The Forehead"
+    },
+    {
+      "type": "item-grid",
+      "columns": 3,
+      "items": [
+        {
+          "hebrew": "חכמה",
+          "english": "Chochmah · Flash",
+          "theme": "purple",
+          "description": "The flash of insight — grasping the essential point.",
+          "detail": "The first intellectual faculty. During prayer, we contemplate Hashem's greatness with sudden flashes of understanding. This is the <span class=\"heb\">י</span> (Yud) of the Name—the point before expansion."
+        },
+        {
+          "hebrew": "בינה",
+          "english": "Binah · Expansion",
+          "theme": "purple-dim",
+          "description": "Development — understanding in depth and breadth.",
+          "detail": "The insight of Chochmah expands into detailed understanding. During prayer, we develop our contemplation, letting it fill our awareness. This is the first <span class=\"heb\">ה</span> (Hei)—expansion in all directions."
+        },
+        {
+          "hebrew": "דעת",
+          "english": "Daat · Connection",
+          "theme": "teal",
+          "description": "Integration — making it real and personal.",
+          "detail": "Daat connects understanding to emotion. It makes the contemplation <b>personal</b>—not just knowing, but knowing <span class=\"hl\">that this applies to me</span>. The deep attachment that should flow from mind to heart."
+        }
+      ]
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "VII",
+      "label": "The Metzach",
+      "hebrew": "מצח · רְשִׁימוּ",
+      "english": "The Forehead · What Remains Always",
+      "tagline": "The forehead (<span class=\"heb\">גֻּלְגַּלְתָּא דְּחָפְיָא עַל מוֹחָא</span>) is the skull covering specifically the Daat. After prayer, when the intense experience fades, a <span class=\"heb\">רְשִׁימוּ</span> (imprint) remains here—a simple resolve that can persist <b>always</b>.",
+      "badges": [
+        { "label": "תָּמִיד", "variant": "primary" },
+        { "label": "Reshimu", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why Love Fades After Prayer",
+          "content": "During prayer, we engage all three faculties—contemplating Hashem's greatness (Chochmah/Binah) and connecting deeply (Daat). But after prayer, the 'forehead'—the cover over Daat—reasserts itself. The deep connection fades. This is why we must pray <b>anew each day</b>."
+        },
+        {
+          "title": "The Danger of Falling",
+          "content": "After prayer, when the heart turns to business, one can become a <span class=\"heb\">נוֹפֵל</span> (fallen one)—falling from spiritual heights into pursuit of material pleasures. These pleasures expand the sense of <span class=\"heb\">יֵשׁ</span> (self-importance). 'An abomination to Hashem is every proud heart.'"
+        },
+        {
+          "title": "What IS the Reshimu?",
+          "content": "A firm decision. An <span class=\"heb\">הַסְכָּמַת הַלֵּב</span> (heart's agreement) to live according to what was decided during prayer. Not the fiery love itself—that cannot persist all day—but a <b>simple, unwavering resolve</b> to make work secondary and Torah primary."
+        },
+        {
+          "title": "'Always' — This CAN Be Constant",
+          "content": "Unlike the Daat of prayer, this simple resolve can be <span class=\"heb\">תָּמִיד</span>—'always.' A person can maintain this inner commitment while conducting business, eating, or performing any activity. The underlying purpose remains: to have free time for Torah and prayer."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "During Prayer vs. After Prayer"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Aspect" },
+        { "key": "during", "label": "During Prayer", "theme": "gold" },
+        { "key": "after", "label": "After Prayer", "theme": "blue" }
+      ],
+      "rows": [
+        {
+          "dimension": "Experience",
+          "during": "Full experience of Ahavah Rabbah — fiery love and yearning",
+          "after": "Reshimu (imprint) remains — simple resolve"
+        },
+        {
+          "dimension": "Faculty Active",
+          "during": "Deep contemplation in Chochmah-Binah-Daat",
+          "after": "The 'Metzach' (forehead) — externality of Daat"
+        },
+        {
+          "dimension": "Nature",
+          "during": "Internal, felt deeply — the soul is ablaze",
+          "after": "External, expressed in behavior and priorities"
+        },
+        {
+          "dimension": "Duration",
+          "during": "Cannot be maintained constantly — too intense",
+          "after": "Can persist 'always' throughout the day"
+        },
+        {
+          "dimension": "Content",
+          "during": "Yearning for Hashem Himself, beyond all reward",
+          "after": "Firm decision: work is secondary, Torah is primary"
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Breaking Down the Verse"
+    },
+    {
+      "type": "info-panel",
+      "title": "Every Element of the Tzitz Explained",
+      "intro": "Each word of the verse carries profound spiritual meaning in the discourse.",
+      "items": [
+        {
+          "theme": "green",
+          "hebrew": "וְעָשִׂיתָ — And YOU Shall Make",
+          "content": "Moses (bitul) creates the possibility. Without humility shattering the wall of arrogance, the Tzitz cannot shine."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "צִּיץ — Tzitz (Radiance)",
+          "content": "The shining of Ahavah Rabbah from Above. From the root 'to radiate'—love breaking through barriers."
+        },
+        {
+          "theme": "gold-dim",
+          "hebrew": "זָהָב טָהוֹר — Pure Gold",
+          "content": "Gold represents Gevurah (intensity). This is love with <b>fire</b>—passionate yearning, not cool affection. Silver is kindness; gold is fiery love."
+        },
+        {
+          "theme": "green",
+          "hebrew": "פִּתּוּחֵי חֹתָם — Signet Engravings",
+          "content": "Torah's letters—Hashem's seal of Truth. The same wisdom Above, imprinted below in physical garments."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "קֹדֶשׁ לַ׳ — Holy To (Lower Line)",
+          "content": "Our holiness through Torah/Mitzvot—the awakening from below that rises toward Hashem."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "הוי״ה — Hashem (Upper Line)",
+          "content": "The Supernal Will (<span class=\"heb\">רַעֲוָא דְּרַעֲוִין</span>) drawn down in response to our awakening."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "עַל מֵצַח אַהֲרֹן — On Aaron's Forehead",
+          "content": "The simple resolve that persists beyond prayer—on the 'externality' of Daat."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "תָּמִיד — Always",
+          "content": "Throughout the entire day, in all activities. What the fiery Daat cannot do, the simple resolve can."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "לְרָצוֹן — For Acceptance",
+          "content": "Awakening the Supernal Will and Thirteen Attributes—the source of forgiveness and mercy."
+        },
+        {
+          "theme": "red",
+          "hebrew": "נֹשֵׂא עָוֹן — Bearing Sin",
+          "content": "The atonement that flows from connecting to the level above strict judgment."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Analogies"
+    },
+    {
+      "type": "parable-grid",
+      "items": [
+        {
+          "icon": "🧱",
+          "title": "The Iron Wall with Cracks",
+          "body": "Since the Temple's destruction, an iron wall separates us from Hashem. But it's 'our wall'—we built it through sin. If we create cracks through a broken heart and teshuvah, the Ahavah Rabbah can shine through. Small cracks become lattices; larger openings become windows."
+        },
+        {
+          "icon": "🔏",
+          "title": "The Signet Seal",
+          "body": "Letters exist first in thought, then are engraved on wax. The wax-letters are the same as the thought-letters, just in a different medium. So too, Torah in our world contains the exact same wisdom as in Heaven—imprinted into physical stories and laws."
+        },
+        {
+          "icon": "🕯️",
+          "title": "Aaron Kindling the Menorah",
+          "body": "Just as Aaron lit the physical flames 'until they rose on their own,' spiritually he kindles the flame of Ahavah Rabbah in Jewish hearts. The soul's natural love is dormant; Aaron's influence awakens it to burn independently."
+        },
+        {
+          "icon": "💧",
+          "title": "Water Reflecting Face",
+          "body": "'As water reflects face to face, so the heart of man to man.' Our spiritual effort below creates a reflection Above. The 'Kodesh' we achieve awakens the 'Hashem' to respond—measure for measure, awakening for awakening."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Daily Application"
+    },
+    {
+      "type": "info-panel",
+      "title": "Practical Guidance for Our Service",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "During Prayer: Reach Beyond",
+          "content": "Don't be satisfied with understanding. The goal is to awaken desire for Hashem <b>Himself</b>—not spiritual experiences or even Gan Eden. Tell yourself: 'Who do I have in Heaven? Besides You, I desire nothing.'"
+        },
+        {
+          "theme": "red",
+          "hebrew": "Notice Your Inner Amalek",
+          "content": "Watch for arrogance—not just obvious pride, but the subtle sense of being 'someone.' Do you feel competitive? Offended? Unable to tolerate others' success? These are signs of spiritual Amalek. The antidote: 'What am I really before the Infinite?'"
+        },
+        {
+          "theme": "blue",
+          "hebrew": "After Prayer: The Resolve",
+          "content": "You can't maintain fiery feelings all day—and you don't need to. What matters is the <span class=\"heb\">רְשִׁימוּ</span>. Before leaving prayer, make a clear decision: 'My work will be secondary; Torah and connection to Hashem will be primary.'"
+        },
+        {
+          "theme": "green",
+          "hebrew": "Torah Study with Bitul",
+          "content": "Remember: you're not just learning information. You're engaging with Hashem's own wisdom, in which Ein Sof dwells. Approach with humility: 'These are not my clever ideas; this is the word of the Living G-d.'"
+        },
+        {
+          "theme": "purple",
+          "hebrew": "Don't Be One of the 'Fallen'",
+          "content": "After prayer, one can become a <span class=\"heb\">נוֹפֵל</span>—falling into pursuit of honor, pleasure, and ego. Keep asking: 'Is this expanding my ego or my connection?' Israel can engage with the world without being swallowed—but only through conscious choice."
+        }
+      ]
+    }
+  ]
+}

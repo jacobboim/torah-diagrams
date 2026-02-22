@@ -1,0 +1,333 @@
+{
+  "id": "torah-ohr/shemos/titzaveh/02-ועשית בגדי קודש",
+  "meta": {
+    "sefer": "Torah Ohr",
+    "book": "Shemos",
+    "parshah": "Titzaveh",
+    "hebrewTitle": "ועשית בגדי קודש",
+    "englishTitle": "Garments of the Soul",
+    "subtitle": "The Three Makers of Aaron's Holy Vestments",
+    "sourceDiscourse": "discourses/torah-ohr/shemos/titzaveh/02-ועשית בגדי קודש.json"
+  },
+  "blocks": [
+    {
+      "type": "verse",
+      "text": "וְעָשִׂיתָ בִגְדֵי קֹדֶשׁ לְאַהֲרֹן אָחִיךָ לְכָבוֹד וּלְתִפְאָרֶת",
+      "reference": "Exodus 28:2"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "Ein Sof",
+      "hebrew": "אין סוף ב\"ה",
+      "english": "The Infinite · Beyond All Attributes",
+      "tagline": "The source of all revelation—<span class=\"heb\">אנכי מי שאנכי</span> ('I am Who I am'). This level is <span class=\"heb\">לאו מכל מדות איהו כלל</span>—not of any attributes whatsoever.",
+      "badges": [
+        { "label": "Above Hishtalshelut", "variant": "primary" },
+        { "label": "Anochi", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Beyond Comprehension",
+          "content": "Even <span class=\"heb\">חכמה</span> (Wisdom) is infinitely removed from Ein Sof. As it says: <span class=\"heb\">והחכמה מאין תמצא</span>—'Wisdom is found from <span class=\"hl\">Nothingness</span>' (Job 28:12). The emergence is <span class=\"heb\">יש מאין</span>—existence from absolute nothing."
+        },
+        {
+          "title": "No Comparison Possible",
+          "content": "The Tikkunei Zohar states: <span class=\"heb\">לאו דאית לך צדק ידיעא... ולא מכל מדות</span>—'He has no known righteousness, nor any of these attributes.' There is <span class=\"hl\">no comparison</span> between finite and infinite."
+        },
+        {
+          "title": "All Equals Nothing",
+          "content": "As the verse says: <span class=\"heb\">כולם בחכמה עשית</span>—'All You made with wisdom.' Before Ein Sof, even supernal Chochmah is like <span class=\"hl\">physical making</span>—spirituality and physicality are equal before the Infinite."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "purple"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "I",
+      "label": "Zakan Aharon",
+      "hebrew": "זקן אהרן · רב חסד",
+      "english": "The Beard of Aaron · Abundant Kindness",
+      "tagline": "The <span class=\"heb\">צמצומים</span> (contractions) through which Ein Sof descends to illuminate Chochmah and Chesed. Like hair emerging through tiny skull openings—the vitality is <span class=\"hl\">vastly diminished</span>.",
+      "badges": [
+        { "label": "Rav Chesed", "variant": "primary" },
+        { "label": "Tzimtzum", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Hair Metaphor",
+          "content": "Hair emerges from the brain through tiny openings. If you cut your hair, you feel <span class=\"hl\">no pain</span>—showing that only the faintest illumination passes through. Similarly, for Ein Sof to illuminate Chochmah requires <span class=\"hl\">immense contraction</span>."
+        },
+        {
+          "title": "The Teacher-Student Analogy",
+          "content": "Like a teacher using words to convey wisdom to a student—the words aren't the wisdom itself, but <span class=\"hl\">vessels</span> for it. The student cannot grasp the teacher's wisdom directly; it must be 'clothed' in letters and speech."
+        },
+        {
+          "title": "What Causes This Contraction?",
+          "content": "Our <span class=\"heb\">אתערותא דלתתא</span> (arousal from below)! <span class=\"heb\">כמים הפנים לפנים</span>—'As water reflects a face.' Our love causes G-d to 'push aside' His transcendence and descend to us. <span class=\"heb\">אהבה דוחקת את הבשר</span>—love pushes aside the flesh."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "blue"
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "II",
+      "label": "Ahavah Rabbah",
+      "hebrew": "אהבה רבה · אהרן",
+      "english": "Great Love · Aaron the High Priest",
+      "tagline": "<span class=\"heb\">אהרן</span> has the same letters as <span class=\"heb\">נראה</span> (seen)! This love is like <span class=\"hl\">seeing the Divine</span>—direct, sensory-like perception. <span class=\"heb\">עין בעין נראה</span>—'Eye to eye they shall see.'",
+      "badges": [
+        { "label": "Ish HaChesed", "variant": "primary" },
+        { "label": "Shushvina d'Matronita", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Seven Shepherds",
+          "content": "Aaron is one of the <span class=\"heb\">שבעה רועים</span> (Seven Shepherds) who nourish all Jewish souls. As Kohen Gadol, he draws down <span class=\"heb\">אהבה רבה</span>—a love that <span class=\"hl\">transcends ordinary experience</span>."
+        },
+        {
+          "title": "Kindling the Flame",
+          "content": "Just as Aaron physically kindled the Menorah until the flames rose <span class=\"heb\">מאליה</span> (on their own), spiritually he ignites the flame of love in every Jewish heart—bringing <span class=\"hl\">hidden love</span> from concealment into revelation."
+        },
+        {
+          "title": "Gazing at the King's Glory",
+          "content": "The Zohar's <span class=\"heb\">לאסתכלא ביקרא דמלכא</span>—gazing at the King's glory. Deep contemplation until all faculties are <span class=\"hl\">nullified in that vision</span>. There's tremendous pleasure in this 'gazing'—an inner, essential delight."
+        },
+        {
+          "title": "Elevating Beyond Soul-Root",
+          "content": "Aaron is <span class=\"heb\">שושבינא דמטרוניתא</span>—the Matron's attendant. He elevates Jewish souls <span class=\"heb\">על צבאותם</span>—<span class=\"hl\">above their hosts</span>, beyond their natural soul-root, to Ahavah Rabbah."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "blue",
+      "toTheme": "teal"
+    },
+    {
+      "type": "level-card",
+      "theme": "teal",
+      "number": "III",
+      "label": "Chesed Olam",
+      "hebrew": "חסד עולם · אברהם",
+      "english": "Worldly Kindness · Abraham",
+      "tagline": "The <span class=\"heb\">אתערותא דלעילא</span> that <span class=\"hl\">precedes</span> our effort—awakening us from spiritual slumber. This operates <span class=\"hl\">within</span> Seder Hishtalshelut, through <span class=\"heb\">עילה ועלול</span> (cause and effect).",
+      "badges": [
+        { "label": "Chesed l'Avraham", "variant": "primary" },
+        { "label": "Hidden Natural Love", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The First Awakening",
+          "content": "Even <span class=\"hl\">before</span> our arousal from below, there must be an awakening from Above to rouse us. Human nature pulls toward worldly pleasures—we need divine help just to <span class=\"hl\">begin</span>."
+        },
+        {
+          "title": "Within the Chain of Worlds",
+          "content": "Scripture testifies: <span class=\"heb\">וחסד ה' מעולם ועד עולם</span>—'Hashem's kindness is from world to world.' The word <span class=\"heb\">עולם</span> indicates this Chesed operates <span class=\"hl\">within</span> worldly boundaries."
+        },
+        {
+          "title": "Awakening Hidden Love",
+          "content": "This awakening reveals the <span class=\"heb\">אהבה מסותרת</span>—the hidden natural love in every Jew. Like a child's love for their parent—<span class=\"hl\">not born of contemplation</span>, but natural, as the soul is 'a part of G-d Above.'"
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Garments · Torah & Mitzvot as Vessels"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "IV",
+      "label": "Torah — Chochmah",
+      "hebrew": "אורייתא מחכמה נפקת",
+      "english": "Torah Emerges from Wisdom",
+      "tagline": "Torah draws Ein Sof into <span class=\"heb\">חכמה</span>. This is the first drawing-down—<span class=\"heb\">ראשית חכמה</span>, the beginning of Hishtalshelut from <span class=\"heb\">אין</span> to <span class=\"heb\">יש</span>.",
+      "badges": [
+        { "label": "Lishmah", "variant": "primary" },
+        { "label": "Reishit Chochmah", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "V'hayu HaDevarim Ha'eileh",
+          "content": "<span class=\"heb\">אנכי</span> refers to Ein Sof itself. <span class=\"heb\">מצוך</span> is from <span class=\"heb\">צוותא</span>—connection. The verse means: The revelation of <span class=\"heb\">אנכי</span> occurs specifically through <span class=\"hl\">'these words'</span>—the words of Torah!"
+        },
+        {
+          "title": "Not in Idle Matters",
+          "content": "<span class=\"heb\">ודברת בם ולא בדברים בטלים</span>—speak in Torah, not in idle matters. Secular wisdom is 'idle' before G-d: <span class=\"heb\">לאו אורחא דמלכא לאשתעי במילי דהדיוטא</span>—it is not the King's way to speak in common matters."
+        },
+        {
+          "title": "Torah Lishmah",
+          "content": "Learning Torah <span class=\"heb\">לשמה</span> means 'for the sake of the Torah': to draw Ein Sof into Chochmah. Those on Moses' level are <span class=\"heb\">חתן</span> (bridegroom) to Torah's <span class=\"heb\">כלה</span> (bride)—they <span class=\"hl\">give</span> to Torah."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "green",
+      "toTheme": "red"
+    },
+    {
+      "type": "level-card",
+      "theme": "red",
+      "number": "V",
+      "label": "Mitzvot — Chesed",
+      "hebrew": "עולם חסד יבנה",
+      "english": "The World Is Built Through Kindness",
+      "tagline": "Mitzvot draw Ein Sof into the <span class=\"heb\">מדות</span>—especially <span class=\"heb\">חסד</span>, which is <span class=\"heb\">ראשית הבנין</span> (the beginning of building). The 248 positive mitzvot are <span class=\"heb\">רמ\"ח אברין דמלכא</span>—248 limbs of the King.",
+      "badges": [
+        { "label": "Tzedakah", "variant": "primary" },
+        { "label": "Ramach Eivarim", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Mitzvot Are Called Tzedakah",
+          "content": "<span class=\"heb\">וצדקה תהיה לנו כי נשמור לעשות</span>—'It will be righteousness for us when we observe to do.' Through mitzvot, we draw Ein Sof into Chesed, <span class=\"hl\">building</span> the worlds."
+        },
+        {
+          "title": "Derech Hashem",
+          "content": "<span class=\"heb\">ושמרו דרך ה' לעשות צדקה</span>—'Keep the way of Hashem to do righteousness.' <span class=\"heb\">דרך</span> means 'path'—like a road between cities. Mitzvot create the <span class=\"hl\">pathway</span> for divine descent."
+        },
+        {
+          "title": "Your Builders",
+          "content": "<span class=\"heb\">אל תקרי בניך אלא בוניך</span>—'Don't read \"your children\" but \"your builders.\"' Israel <span class=\"hl\">builds</span> the world through mitzvot. Knesset Yisrael is called <span class=\"heb\">תמתי</span>—'my perfect one'—we <span class=\"hl\">complete</span> G-d."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Three Makers of Aaron's Garments"
+    },
+    {
+      "type": "item-grid",
+      "columns": 3,
+      "items": [
+        {
+          "hebrew": "משה",
+          "english": "Moses",
+          "theme": "gold",
+          "description": "Souls above Hishtalshelut. Torah lishmah—drawing Ein Sof into Torah.",
+          "detail": "<b>Source:</b> <span class=\"heb\">כי מן המים משיתיהו</span>—'drawn from the water.' His soul was drawn from the <span class=\"hl\">hiddenness</span> above Hishtalshelut—the source of Torah in Ein Sof.<br><br><b>Their Role:</b> They are <span class=\"heb\">חתן</span> (bridegroom) to Torah's <span class=\"heb\">כלה</span>. The 24 books are a <span class=\"heb\">כד</span> (pitcher) drawing from the infinite sea."
+        },
+        {
+          "hebrew": "חכמי לב",
+          "english": "Wise-Hearted",
+          "theme": "green",
+          "description": "Souls of Atzilut. Complete bitul—one heart for G-d alone.",
+          "detail": "<b>Why 'Wise-Hearted'?</b> Their <span class=\"hl\">hearts</span> are entirely in Chochmah—complete nullification. One with two hearts is called <span class=\"heb\">נפרד</span> (separated).<br><br><b>Their Garment:</b> <span class=\"heb\">לקדשו</span>—'to sanctify him.' Through their bitul, they become a <span class=\"heb\">מרכבה</span> (chariot) for the level of Chochmah."
+        },
+        {
+          "hebrew": "כלל ישראל",
+          "english": "Israel in General",
+          "theme": "teal",
+          "description": "Souls of BY\"A. Kabbalat ol—faithful observance without special inspiration.",
+          "detail": "<b>Simple Yet Powerful:</b> Just <span class=\"heb\">לכהנו לי</span>—'to serve Me'—without 'to sanctify.' Simple mitzvah performance through <span class=\"heb\">קבלת עול מלכות שמים</span>.<br><br><b>Na'utz Sofan:</b> <span class=\"heb\">נעוץ סופן בתחילתן</span>—the end is rooted in the beginning. Even 'simple' service <span class=\"hl\">reaches the highest places</span>!"
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Meditation · Bechol Levavcha"
+    },
+    {
+      "type": "info-panel",
+      "title": "The Path to Ahavah Rabbah",
+      "intro": "How do we awaken this great love? Through contemplation of <span class=\"heb\">ה' אחד</span> and wholehearted devotion.",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "שמע ישראל · ה' אחד",
+          "content": "The Shema precedes <span class=\"heb\">ואהבת</span> for good reason. Through hearing and contemplating <span class=\"heb\">ה' אחד</span>—G-d's absolute unity—we naturally come to love. The <span class=\"heb\">ח</span> (8) = 7 heavens + earth; <span class=\"heb\">ד</span> (4) = 4 directions. G-d is <span class=\"heb\">א</span> (One) in all."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "לך ה' הגדולה והגבורה",
+          "content": "Even the supernal Sefirot—Chesed and Gevurah of Atzilut—are <span class=\"hl\">nullified</span> before Him. Why? <span class=\"heb\">כי נשגב שמו לבדו</span>—'His Name alone is exalted.' All worlds derive merely from His <span class=\"heb\">הוד</span> (splendor)—a mere external radiance."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "בכל לבבך · בשני יצריך",
+          "content": "With <span class=\"hl\">both</span> your inclinations! Even the Yetzer HaRa must be subdued. One whose heart is divided cannot receive Ahavah Rabbah. <span class=\"heb\">ועמך לא חפצתי בארץ</span>—'I desire nothing in earth besides You.'"
+        },
+        {
+          "theme": "green",
+          "hebrew": "כמים הפנים לפנים",
+          "content": "When we 'contract' ourselves—casting aside ego and bodily desires—then 'as water reflects a face,' the supernal love descends. Our contraction <span class=\"hl\">draws</span> G-d's contraction."
+        },
+        {
+          "theme": "red",
+          "hebrew": "בכל מאודך",
+          "content": "Through the above, we ascend to <span class=\"heb\">בכל מאודך</span>—with all your 'very.' Ahavah Rabbah that <span class=\"hl\">transcends</span> the soul's natural capacity, reaching <span class=\"heb\">כלות הנפש</span> (expiry of the soul) and <span class=\"heb\">ביטול במציאות</span> (nullification of existence)."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Birkat HaMitzvot · The Wedding Blessing"
+    },
+    {
+      "type": "prose",
+      "content": "The blessing before mitzvot is like <span class=\"heb\">ברכת חתנים</span>—a wedding blessing! The Zohar teaches: <span class=\"heb\">לית ברכתא שריא אלא באתר דדכר ונוקבא</span>—'Blessing only rests where there is male and female.' When light (Ahavah Rabbah) unites with vessel (the mitzvah), blessing flows from <span class=\"hl\">above both</span>."
+    },
+    {
+      "type": "info-panel",
+      "title": "Understanding the Blessing Formula",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "ברוך",
+          "content": "From <span class=\"heb\">מבריך</span>—'to cause to descend,' like bending a vine into the ground. We draw down from the <span class=\"hl\">highest source</span>—Moses' level, above Hishtalshelut."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "אשר קדשנו",
+          "content": "<span class=\"heb\">אשר</span> means 'because' (as Rashi explains). <span class=\"hl\">Why</span> can such exalted blessing descend? <span class=\"hl\">Because</span> You sanctified us through Your mitzvot—because there's a union of light and vessel."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "מלך העולם",
+          "content": "The end goal: revelation of divine sovereignty. <span class=\"heb\">מלכותך מלכות כל עולמים</span>—G-d's sovereignty recognized in all realms. Malchut is the ultimate <span class=\"hl\">garment</span> enabling infinite to dwell in finite."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Core Contrast"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Dimension" },
+        { "key": "avraham", "label": "Chesed Olam · Abraham", "theme": "teal" },
+        { "key": "aharon", "label": "Rav Chesed · Aaron", "theme": "blue" }
+      ],
+      "rows": [
+        { "dimension": "Source", "avraham": "Within Seder Hishtalshelut", "aharon": "Above Hishtalshelut—Ein Sof itself" },
+        { "dimension": "When It Comes", "avraham": "Before our service, to awaken us", "aharon": "After our service, as response" },
+        { "dimension": "What It Awakens", "avraham": "The natural, hidden love in every Jew", "aharon": "Transcendent love beyond the soul's capacity" },
+        { "dimension": "Relationship", "avraham": "Illa v'Alul—cause and effect", "aharon": "Yesh me'Ayin—existence from nothing" },
+        { "dimension": "Nature of Descent", "avraham": "Within worldly limits", "aharon": "Through massive tzimtzum (Zakan Aharon)" },
+        { "dimension": "Experience", "avraham": "Awakening, stirring", "aharon": "Seeing—direct perception (Nir'eh)" }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Summary"
+    },
+    {
+      "type": "prose",
+      "content": "Aaron's garments are the spiritual 'clothing' that enables infinite love to illuminate finite souls. Every Jew contributes to 'making' these garments—whether through Moses-level Torah study, through the complete bitul of the wise-hearted, or through the faithful kabbalat ol of ordinary Jews. The three 'makings' aren't competing approaches but <span class=\"hl\">complementary layers</span>. Our 'contraction' draws G-d's 'contraction': when we nullify our ego and desires, we create space for the Infinite to enter the finite."
+    }
+  ]
+}
