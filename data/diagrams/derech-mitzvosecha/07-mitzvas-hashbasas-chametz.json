@@ -1,0 +1,494 @@
+{
+  "id": "derech-mitzvosecha/07-mitzvas-hashbasas-chametz",
+  "meta": {
+    "sefer": "Derech Mitzvosecha",
+    "hebrewTitle": "מצות השבתת חמץ ואכילת מצה",
+    "englishTitle": "The Bread of Faith — Destroying Chametz & Eating Matzah",
+    "subtitle": "The Tzemach Tzedek · Pesach",
+    "sourceDiscourse": "discourses/derech-mitzvosecha/07-mitzvas-hashbasas-chametz.json"
+  },
+  "blocks": [
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "Transcendent Faith",
+      "hebrew": "אמונה / כתר / עתיק יומין",
+      "english": "Emunah · Faith · The Crown Above the Head",
+      "tagline": "The soul's direct connection to G-d that <b>transcends</b> all intellectual understanding. Not merely 'believing without proof' — but a mode of connection <b>beyond</b> what any knowledge could grasp. Corresponds to <span class=\"heb\">כתר</span> — above the head, not within it.",
+      "badges": [
+        { "label": "Above Intellect", "variant": "primary" },
+        { "label": "Soul's Foundation", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why Faith Transcends Knowledge",
+          "content": "Knowledge has a limitation: it can only grasp what the intellect can <span class=\"hl\">contain</span>. But G-d is infinite — Ein Sof — completely beyond any intellectual container. Faith connects the soul to G-d's <span class=\"hl\">essence</span> — beyond all definition and revelation."
+        },
+        {
+          "title": "Emunah Sustains All Levels",
+          "content": "Emunah is not merely the 'food' of simple souls who cannot understand. It is the foundation that sustains <span class=\"hl\">all</span> levels of spiritual development. Even the greatest scholar's understanding rests upon the foundation of faith."
+        },
+        {
+          "title": "Inherited Connection",
+          "content": "Emunah is passed down from generation to generation, rooted in the deepest part of the soul (<span class=\"heb\">יחידה</span>). All other spiritual powers — intellect, emotions, action — rest upon this foundational bond."
+        },
+        {
+          "title": "The Future Elevation",
+          "content": "In the future, what we now access through faith will become knowledge. But faith will still exist — operating at even <span class=\"hl\">higher</span> levels. The Ein Sof can never be fully comprehended; faith will always be necessary to reach the Infinite."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "blue"
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "I",
+      "label": "The Bread of Faith",
+      "hebrew": "מצה / מיכלא דמהימנותא / ביטול",
+      "english": "Matzah · Michla d'Mehemnusa · Bittul",
+      "tagline": "The Zohar calls matzah <span class=\"heb\">מיכלא דמהימנותא</span> — 'the bread of faith.' It is <b>bread</b> (mature nourishment) yet contains the <b>essence of faith</b> (transcendent connection). The flat, humble bread that didn't 'rise' — representing the soul's <span class=\"heb\">ביטול</span> (self-nullification) before G-d.",
+      "badges": [
+        { "label": "מצה", "variant": "primary" },
+        { "label": "Bittul", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why 'Bread' of Faith?",
+          "content": "Bread represents mature understanding — food that requires chewing and digestion, active participation. Matzah is a unique fusion: accessible to our understanding (bread), yet connecting us to what <span class=\"hl\">transcends</span> understanding (faith). On Pesach, even our most mature consciousness is fed by faith."
+        },
+        {
+          "title": "The Secret of Eating",
+          "content": "When you <span class=\"hl\">eat</span> something, it becomes part of you — transformed into your flesh and blood. Through eating matzah, the transcendent faith is <span class=\"hl\">internalized</span>. It illuminates our understanding, refines our emotions, and energizes our actions."
+        },
+        {
+          "title": "Guarding from Chametz",
+          "content": "Matzah must be guarded from becoming chametz. The moment the bread 'rises' — the moment understanding becomes self-referential — the connection to transcendent faith is broken. Even 18 minutes of inattention can cause fermentation."
+        },
+        {
+          "title": "Tasting the Future",
+          "content": "When we eat matzah on Pesach, we are <span class=\"hl\">tasting the future</span>. We experience a foretaste of what existence will be like when faith and knowledge are unified — the ultimate liberation from all concealment."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "blue",
+      "toTheme": "purple"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "II",
+      "label": "The Danger of Chametz",
+      "hebrew": "חמץ / ישות / סטרא אחרא",
+      "english": "Chametz · Yeshut · The Ego That Rises",
+      "tagline": "The Zohar calls chametz <span class=\"heb\">יצר הרע</span> and associates it with the Sitra Achara. Not because knowledge is evil — but because knowledge <b>disconnected from faith</b> 'ferments.' It becomes self-referential, feeding the ego rather than revealing G-d.",
+      "badges": [
+        { "label": "חמץ", "variant": "primary" },
+        { "label": "Yeshut", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Problem of 'Rising'",
+          "content": "<span class=\"heb\">ישות</span> (yeshut) — a sense of independent existence, of being a 'something' separate from G-d. When the soul experiences itself thinking 'I exist, I understand, I accomplish,' this is spiritual 'fermentation.' The ego expands, claiming divine gifts as personal possessions."
+        },
+        {
+          "title": "Da'at's Two Directions",
+          "content": "<span class=\"heb\">דעת</span> (knowledge) can go two directions: Holy Da'at reveals how G-d's reality eclipses all else → leads to bittul. Unholy Da'at turns inward, becoming self-referential → 'I know, I understand, I grasp' → creates yeshut rather than bittul."
+        },
+        {
+          "title": "Why Forbidden on Pesach",
+          "content": "Pesach = leaving <span class=\"heb\">מצרים</span> (Egypt) = breaking free from <span class=\"heb\">מיצרים</span> (constrictions). The ultimate 'strait' is the ego. On Pesach, even a <span class=\"hl\">crumb</span> is prohibited because even a trace of ego-consciousness can prevent true liberation."
+        },
+        {
+          "title": "Chametz After Pesach",
+          "content": "After Pesach, chametz is permitted — even offered at Shavuot! This proves chametz isn't intrinsically evil. The Pesach faith <span class=\"hl\">prepares</span> us for Shavuot knowledge. When properly built on faith, knowledge no longer leads to yeshut."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "teal"
+    },
+    {
+      "type": "level-card",
+      "theme": "teal",
+      "number": "III",
+      "label": "Stages of Soul Development",
+      "hebrew": "עיבור · יניקה · מוחין",
+      "english": "Ibur · Yenikah · Mochin · Gestation · Nursing · Mature Mind",
+      "tagline": "Just as a human develops from fetus to infant to adult, so the soul — and entire spiritual worlds — develop through three stages. Each stage has its own way of receiving divine nourishment. <span class=\"heb\">מלכות</span> (and all Jewish souls) rise through these stages of consciousness.",
+      "badges": [
+        { "label": "Three Stages", "variant": "primary" },
+        { "label": "Malchut's Growth", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Ibur (Gestation)",
+          "content": "The soul is 'enclosed' within a higher level, completely dependent, without independent consciousness. Like a fetus receiving nourishment through the umbilical cord. <span class=\"heb\">מלכות</span> rises up and becomes enclosed within <span class=\"heb\">זעיר אנפין</span>, receiving from within."
+        },
+        {
+          "title": "Yenikah (Nursing)",
+          "content": "The soul has 'emerged' and has some independent existence, but cannot yet understand. It receives nourishment passively — like an infant nursing from its mother. Malchut stands back-to-back with Z'A, receiving 'milk' — undigested light."
+        },
+        {
+          "title": "Mochin (Mature Mind)",
+          "content": "The soul has developed its intellectual faculties and can actively comprehend divine truth. It 'eats bread' — solid food requiring chewing and digestion. Malchut turns <span class=\"hl\">face-to-face</span> with Z'A, receiving full intellectual illumination."
+        },
+        {
+          "title": "Faith at Every Stage",
+          "content": "Here's the key insight: Emunah is not just for the 'immature.' It sustains <span class=\"hl\">all</span> levels — even the highest Mochin rests on the foundation of faith. Matzah is 'bread' (mature nourishment) yet remains 'of faith' (transcendent connection)."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "teal",
+      "toTheme": "green"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "IV",
+      "label": "The Structure of Atzilut",
+      "hebrew": "עתיק · אריך · אבא ואמא · ז\"א · מלכות",
+      "english": "The Flow of Divine Light Through the Sefirot",
+      "tagline": "Divine light flows down through multiple levels like water from a high source. <span class=\"heb\">עתיק יומין</span> → <span class=\"heb\">אריך אנפין</span> → <span class=\"heb\">אבא ואמא</span> (Chochmah/Binah) → <span class=\"heb\">זעיר אנפין</span> (6 Middot) → <span class=\"heb\">מלכות</span>. Jewish souls are rooted in Malchut — the 'food' that Malchut receives is our food as well.",
+      "badges": [
+        { "label": "Atzilut", "variant": "primary" },
+        { "label": "Kav", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Atik Yomin — Essential Delight",
+          "content": "The <span class=\"hl\">highest</span> level within Atzilut. Represents G-d's essential will and pleasure — the source of Emunah. Corresponds to <span class=\"heb\">כתר</span> in its most transcendent aspect. This is where the 'bread of faith' originates."
+        },
+        {
+          "title": "Abba & Imma — Intellectual Parents",
+          "content": "<span class=\"heb\">חכמה</span> (Chochmah) and <span class=\"heb\">בינה</span> (Binah) — the intellectual 'parents' of the lower Sefirot. Torah originates here. When Malchut receives from Abba/Imma, it has <span class=\"heb\">מוחין</span> — mature understanding."
+        },
+        {
+          "title": "Ze'ir Anpin — The Six Emotions",
+          "content": "The configuration of six emotional Sefirot (Chesed through Yesod) that actively engages with Malchut. The seven days of Pesach correspond to Z'A's seven Middot — each day illuminates one emotion with the 'bread of faith.'"
+        },
+        {
+          "title": "Malchut — The Receptive Vessel",
+          "content": "<span class=\"heb\">מלכות</span> is called <span class=\"heb\">נקודה</span> — a single point with no content of its own. It receives everything from above. Through Malchut, divine light descends to create and sustain all of Beriah, Yetzirah, and Asiyah."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "green",
+      "toTheme": "red"
+    },
+    {
+      "type": "level-card",
+      "theme": "red",
+      "number": "V",
+      "label": "The Seder Night",
+      "hebrew": "ליל הסדר / חובה ורשות / נעשה ונשמע",
+      "english": "First Night · Obligation · Seven Days · Integration",
+      "tagline": "The first night of Pesach is <span class=\"heb\">חובה</span> (obligatory) — corresponding to <span class=\"heb\">איתערותא דלעילא</span>, revelation from Above that obligates response. The remaining days are <span class=\"heb\">רשות</span> (optional but praiseworthy) — corresponding to <span class=\"heb\">איתערותא דלתתא</span>, earned through our service.",
+      "badges": [
+        { "label": "First Night", "variant": "primary" },
+        { "label": "Seven Days", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The First Night — Pure Grace",
+          "content": "The Exodus happened not because Israel had earned it. They had sunk to the 49th level of impurity. Yet G-d revealed Himself and redeemed them — pure grace, coming entirely from Above. Eating matzah that night is <span class=\"heb\">חובה</span> to receive this unearned gift."
+        },
+        {
+          "title": "Seven Days — The Seven Middot",
+          "content": "Pesach lasts seven days corresponding to the seven emotional Sefirot of Z'A. Each day, the corresponding Middah receives special nourishment from the 'bread of faith.' The entire structure of Z'A must be illuminated with faith-connection."
+        },
+        {
+          "title": "The Three Matzot",
+          "content": "We use three matzot at the Seder — corresponding to <span class=\"heb\">חכמה, בינה, דעת</span> (ChaBaD). Even though matzah is 'faith,' this faith is channeled through the three intellectual faculties: nullifying wisdom, developing understanding, and integrating connection."
+        },
+        {
+          "title": "Yachatz — The Breaking",
+          "content": "We break the middle matzah. The larger piece is hidden (afikoman) — representing the greater divine light that remains <span class=\"hl\">concealed</span> during exile, to be revealed at redemption. The smaller piece represents what's accessible now — yet sufficient for the mitzvah!"
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Opening Verse — Shemos 12:19-20"
+    },
+    {
+      "type": "verse",
+      "text": "כָּל־מַחְמֶצֶת לֹא תֹאכֵלוּ... שִׁבְעַת יָמִים מַצּוֹת תֹּאכֵלוּ",
+      "reference": "Shemos 12:19-20"
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Three Matzot — ChaBaD"
+    },
+    {
+      "type": "item-grid",
+      "columns": 3,
+      "items": [
+        {
+          "hebrew": "חכמה",
+          "english": "Chochmah",
+          "theme": "gold",
+          "description": "The First Matzah — initial flash of wisdom that transcends comprehension. 'Koach Mah' — the power of 'what?' The bittul aspect of faith.",
+          "detail": "When a person truly connects to Chochmah, they experience themselves as 'nothing' — their ego dissolves in the face of divine wisdom. This is the <b>foundation</b>: recognition that G-d exists and we are nothing before Him. Without this, the other levels cannot be built. Remains <b>complete</b> at the Seder."
+        },
+        {
+          "hebrew": "בינה",
+          "english": "Binah",
+          "theme": "green",
+          "description": "The Second Matzah — development and expansion of the initial flash. Binah 'builds' (boneh) structures of understanding from Chochmah's raw material.",
+          "detail": "This corresponds to faith that leads to contemplation. We don't just believe — we <b>meditate</b> on what we believe, allowing it to develop into detailed understanding. This is the <b>broken</b> matzah at the Seder — Binah 'breaks' the unified light of Chochmah into detailed components that can be comprehended."
+        },
+        {
+          "hebrew": "דעת",
+          "english": "Da'at",
+          "theme": "blue",
+          "description": "The Third Matzah — connection and integration. Da'at connects knowledge to the emotions and integrates it into the whole person.",
+          "detail": "Da'at is where the <b>danger of chametz is greatest</b> — knowledge can lead to bittul (through connecting to its source) or to yeshut (through becoming self-referential). This matzah represents Da'at in its <b>holy form</b>: knowledge that remains connected to faith. Remains <b>complete</b> at the Seder."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Three Stages of Development"
+    },
+    {
+      "type": "item-grid",
+      "columns": 3,
+      "items": [
+        {
+          "hebrew": "עיבור",
+          "english": "Ibur — Gestation",
+          "theme": "purple-dim",
+          "description": "Enclosed within a higher level. No independent consciousness. Malchut rises and is enclosed within Ze'ir Anpin.",
+          "detail": "Like a fetus receiving nourishment through the umbilical cord. The soul is completely dependent on its source. This corresponds to the <b>essential life-force</b> that emunah provides — the basic connection allowing the soul to exist at all."
+        },
+        {
+          "hebrew": "יניקה",
+          "english": "Yenikah — Nursing",
+          "theme": "teal",
+          "description": "Some independent existence, but passive reception. Malchut stands back-to-back with Z'A, receiving 'milk.'",
+          "detail": "The infant doesn't understand what it's receiving — it simply absorbs nourishment. Similarly, in yenikah, the soul receives divine light but doesn't truly <b>comprehend</b> it. Emunah remains the underlying connection even as awareness begins to awaken."
+        },
+        {
+          "hebrew": "מוחין",
+          "english": "Mochin — Mature Mind",
+          "theme": "green",
+          "description": "Full intellectual faculties. Active comprehension. Malchut turns face-to-face with Z'A, receiving 'bread.'",
+          "detail": "The soul actively comprehends divine truth, 'chewing' and 'processing' it until it becomes part of the soul's own understanding. This is why Torah is called <span class=\"heb\">לחם</span> (bread). Yet even here, <b>faith remains the foundation</b> upon which understanding is built."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Key Conceptual Distinctions"
+    },
+    {
+      "type": "info-panel",
+      "title": "Spiritual vs. Physical 'Eating'",
+      "items": [
+        {
+          "theme": "blue",
+          "hebrew": "לעיסה / Chewing",
+          "content": "<b>Contemplation and meditation</b> — breaking down the concept. When we 'chew' the matzah spiritually, we analyze and contemplate the faith it represents."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "בליעה / Swallowing",
+          "content": "<b>Acceptance and internalization</b> — taking it into oneself. We accept the faith and draw it into our inner consciousness."
+        },
+        {
+          "theme": "green",
+          "hebrew": "עיכול / Digestion",
+          "content": "<b>Integration</b> — letting it transform every aspect of consciousness. The faith becomes part of our spiritual substance, illuminating intellect, emotions, and actions."
+        },
+        {
+          "theme": "red",
+          "hebrew": "כזית / Kezayit",
+          "content": "The minimum <b>olive-sized portion</b> required for the mitzvah. Spiritually: a taste is not enough. We need to fully consume the bread of faith for it to become part of us."
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "Levels within Atzilut",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "עתיק יומין",
+          "content": "<b>Ancient of Days</b> — essential divine pleasure; source of faith. The highest level, representing G-d's will and delight that transcends all comprehension."
+        },
+        {
+          "theme": "gold-dim",
+          "hebrew": "אריך אנפין",
+          "content": "<b>Long/Patient Face</b> — expansive will; infinite patience. Where divine will extends toward creation in a measured way."
+        },
+        {
+          "theme": "green",
+          "hebrew": "אבא ואמא",
+          "content": "<b>Father/Mother</b> (Chochmah/Binah) — intellectual 'parents' of lower Sefirot. Source of Torah. When Malchut receives from here, it has mochin."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "זעיר אנפין",
+          "content": "<b>Short Face</b> (6 emotions) — active divine engagement with creation. The seven days of Pesach illuminate Z'A's seven Middot with the bread of faith."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "מלכות / נוקבא",
+          "content": "<b>Kingship/Feminine</b> — receives from Z'A; source of lower worlds. Jewish souls are rooted here. Malchut's 'food' is our food."
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "The Seven Days — Seven Middot",
+      "intro": "Each day of Pesach rectifies and illuminates one of the seven emotional Sefirot of Ze'ir Anpin:",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "יום א׳ — חסד",
+          "content": "<b>Chesed</b> — Loving-kindness. The expansive desire to give without limit."
+        },
+        {
+          "theme": "red",
+          "hebrew": "יום ב׳ — גבורה",
+          "content": "<b>Gevurah</b> — Strength/Restraint. The power to withhold and judge appropriately."
+        },
+        {
+          "theme": "green",
+          "hebrew": "יום ג׳ — תפארת",
+          "content": "<b>Tiferet</b> — Beauty/Harmony. The balance of chesed and gevurah in perfect synthesis."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "יום ד׳ — נצח",
+          "content": "<b>Netzach</b> — Victory/Endurance. The drive to overcome obstacles and persist."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "יום ה׳ — הוד",
+          "content": "<b>Hod</b> — Splendor/Acknowledgment. The ability to submit and accept."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "יום ו׳ — יסוד",
+          "content": "<b>Yesod</b> — Foundation. The channel that transmits all the Middot to Malchut."
+        },
+        {
+          "theme": "gold-dim",
+          "hebrew": "יום ז׳ — מלכות",
+          "content": "<b>Malchut</b> — Kingship. The receptive vessel that manifests divine presence in the world."
+        }
+      ],
+      "outro": "After the seven days of Pesach, we count forty-nine days until Shavuot — seven weeks, corresponding to seven times seven Middot. The bread of faith is 'processed' through these 49 levels until it can be received as Torah at Sinai."
+    },
+
+    {
+      "type": "section-label",
+      "text": "Parables & Analogies"
+    },
+    {
+      "type": "parable-grid",
+      "items": [
+        {
+          "icon": "👶",
+          "title": "The Child's Faith",
+          "body": "A child believes everything their parent tells them without understanding. This is not a deficiency — it is pure, direct trust. As they mature, understanding is built upon this faith, not replacing it. The knowledge becomes a garment for the original trust."
+        },
+        {
+          "icon": "🍞",
+          "title": "Bread vs. Milk",
+          "body": "Bread requires chewing and digesting — active participation. Milk is received passively. The soul's development moves from passive reception (yenikah/nursing) to active comprehension (mochin/bread). Yet matzah is 'bread of faith' — mature understanding saturated with transcendent connection."
+        },
+        {
+          "icon": "🥖",
+          "title": "The Poor Man's Bread",
+          "body": "Matzah is 'lechem oni' — bread of poverty. A poor person has broken pieces, not complete loaves. In galut, we receive divine light in a 'broken' form. Yet even broken bread is still bread! The breaking doesn't destroy — it reveals truth about our current condition."
+        },
+        {
+          "icon": "🎁",
+          "title": "The Hidden Afikoman",
+          "body": "The larger piece of broken matzah is hidden away, representing the greater divine light concealed during exile. We eat it at the end — the 'dessert' of redemption. It teaches that the hidden portion is actually greater than what we currently see."
+        },
+        {
+          "icon": "🌾",
+          "title": "The Two Loaves of Shavuot",
+          "body": "After seven weeks of refinement, we bring chametz offerings at Shavuot! The Pesach faith has rectified our vessels. Knowledge built on this foundation no longer 'ferments' into ego. The goal isn't to avoid knowledge — but to have knowledge saturated with faith."
+        },
+        {
+          "icon": "🌅",
+          "title": "The Future Revelation",
+          "body": "'The earth will be full of knowledge of G-d.' What we now believe, we will then know. What we now accept on faith, we will then see. Yet faith will still exist — operating at ever higher levels, reaching toward the truly Infinite."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Core Contrasts"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Dimension" },
+        { "key": "matzah", "label": "Matzah", "theme": "blue" },
+        { "key": "chametz", "label": "Chametz", "theme": "purple" }
+      ],
+      "rows": [
+        { "dimension": "Physical Quality", "matzah": "Flat, humble — didn't have time to rise", "chametz": "Risen, expanded — underwent fermentation" },
+        { "dimension": "Spiritual Quality", "matzah": "Bittul — self-nullification before G-d", "chametz": "Yeshut — sense of independent existence, ego" },
+        { "dimension": "Represents", "matzah": "Emunah — faith transcending intellect", "chametz": "Da'at disconnected from faith — self-referential knowledge" },
+        { "dimension": "Sefirotic Source", "matzah": "Keter/Atik — above the head, beyond vessels", "chametz": "Da'at turned inward — 'I know, I understand'" },
+        { "dimension": "On Pesach", "matzah": "Obligatory — the 'bread of faith' that nourishes the soul", "chametz": "Completely forbidden — even a crumb blocks liberation" },
+        { "dimension": "Result", "matzah": "Connection to G-d's essence; transformation of self", "chametz": "Ego inflation; spiritual 'fermentation'" }
+      ]
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Dimension" },
+        { "key": "emunah", "label": "Emunah (Faith)", "theme": "gold" },
+        { "key": "daat", "label": "Da'at (Knowledge)", "theme": "green" }
+      ],
+      "rows": [
+        { "dimension": "Location in Soul", "emunah": "Above intellect — Keter level", "daat": "Within intellect — Chochmah-Binah-Da'at" },
+        { "dimension": "What It Grasps", "emunah": "G-d's essence — infinite, undefined, Ein Sof", "daat": "G-d's revelation — defined, comprehensible" },
+        { "dimension": "Mode of Connection", "emunah": "Direct bond, beyond all vessels", "daat": "Through intellectual vessels" },
+        { "dimension": "Danger", "emunah": "None — pure, essential connection", "daat": "Can become ego-inflating if disconnected from faith" },
+        { "dimension": "Symbol", "emunah": "Matzah — flat, humble, pure", "daat": "Can become chametz — risen, self-important" },
+        { "dimension": "Goal", "emunah": "Foundation for all spiritual levels", "daat": "To be built upon faith, leading to greater bittul" }
+      ]
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Dimension" },
+        { "key": "first", "label": "First Night", "theme": "gold" },
+        { "key": "remaining", "label": "Remaining Days", "theme": "teal" }
+      ],
+      "rows": [
+        { "dimension": "Status of Eating Matzah", "first": "Chovah (obligatory)", "remaining": "Reshut (optional but praiseworthy)" },
+        { "dimension": "Type of Revelation", "first": "Itaruta d'l'eila — awakening from Above", "remaining": "Itaruta d'l'tata — awakening from below" },
+        { "dimension": "Reason", "first": "Unearned grace of the Exodus — Israel had no merit", "remaining": "Earned through our spiritual service and growth" },
+        { "dimension": "Corresponding Level", "first": "Initial redemption — G-d acting alone", "remaining": "Integration and refinement — our participation" },
+        { "dimension": "Historical Moment", "first": "The night G-d revealed Himself to redeem", "remaining": "The journey from Egypt to Sinai" }
+      ]
+    }
+  ]
+}

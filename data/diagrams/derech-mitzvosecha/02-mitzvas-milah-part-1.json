@@ -1,0 +1,515 @@
+{
+  "id": "derech-mitzvosecha/02-mitzvas-milah-part-1",
+  "meta": {
+    "sefer": "Derech Mitzvosecha",
+    "hebrewTitle": "מצות מילה - חלק א",
+    "englishTitle": "Unveiling the Hidden Light — The Spiritual Mechanics of Circumcision",
+    "subtitle": "The Tzemach Tzedek · Mitzvah of Bris Milah",
+    "sourceDiscourse": "discourses/derech-mitzvosecha/01-mitzvas-milah-part-1.json"
+  },
+  "blocks": [
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "The Infinite Light",
+      "hebrew": "אין סוף / אור אין סוף",
+      "english": "Ein Sof · The Infinite Divine Light",
+      "tagline": "The limitless divine light that fills all existence. \"The whole earth is full of His glory.\" Yet this light must pass through barriers and garments to be received by finite beings — like voltage stepped down through a transformer.",
+      "badges": [
+        { "label": "Source", "variant": "primary" },
+        { "label": "Havayah", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Flow of Divine Names",
+          "content": "The Name <span class=\"heb\">הויה</span> (Havayah) represents the infinite divine light as it flows forth. Its four letters — <span class=\"hl\">Yud</span> (Chochmah), <span class=\"hl\">Hei</span> (Binah), <span class=\"hl\">Vav</span> (six Middos), <span class=\"hl\">Hei</span> (Malchus) — correspond to the four spiritual worlds through which light descends."
+        },
+        {
+          "title": "The Name Elokim",
+          "content": "While <span class=\"heb\">הויה</span> represents revelation, <span class=\"heb\">אלקים</span> represents concealment and limitation. Elokim shares gematria with <span class=\"heb\">הטבע</span> (nature) — 86 — hinting that nature itself is divine concealment. Without Elokim's concealment, creation could not exist."
+        },
+        {
+          "title": "The Paradox of Concealment",
+          "content": "The <span class=\"hl\">purpose</span> of barriers is not to hide G-dliness but to reveal it in realms that couldn't otherwise receive it. Like a teacher simplifying concepts for a student — the concealment enables transmission, not obstruction."
+        },
+        {
+          "title": "\"I, Hashem, Have Not Changed\"",
+          "content": "From the divine perspective, nothing has changed. The Ein Sof shines now exactly as before creation. All barriers, worlds, and concealments exist only from the perspective of the receivers — not from the Source."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "purple"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "I",
+      "label": "World of Atzilus",
+      "hebrew": "עולם האצילות / אלקות בגילוי",
+      "english": "Atzilus · World of Emanation · Divine Light Revealed",
+      "tagline": "Above the <span class=\"heb\">פרסא</span> (partition), divine light shines openly. The Ein Sof is clothed within Atzilus in a revealed manner. Here, G-dliness is not hidden — the ten Sefiros are united with their Source.",
+      "badges": [
+        { "label": "Revealed Divinity", "variant": "primary" },
+        { "label": "Above the Parsa", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Ten Sefiros of Atzilus",
+          "content": "In Atzilus, the Sefiros are <span class=\"heb\">איהו וחיוהי חד</span> — \"He and His life-force are one.\" Chochmah, Binah, and the seven middos are all transparent to their divine source, like a flame unified with its coal."
+        },
+        {
+          "title": "Where Sinai's Light Comes From",
+          "content": "At Sinai, G-d revealed Himself \"face to face\" — meaning the light of Atzilus was revealed directly without the usual filters. This is why shoes had to be removed — even the holiest barriers had to be set aside for direct revelation."
+        },
+        {
+          "title": "Holy, Holy, Holy",
+          "content": "The verse \"<span class=\"heb\">קדוש קדוש קדוש</span>\" — three \"holies\" — refers to the three worlds <span class=\"hl\">below</span> Atzilus: Beriah, Yetzirah, Asiyah. Atzilus itself is beyond the threefold \"holy\" — it is the source from which holiness emanates."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "teal"
+    },
+    {
+      "type": "level-card",
+      "theme": "teal",
+      "number": "II",
+      "label": "The Parsa — Partition",
+      "hebrew": "פרסא / מסך / פרגוד",
+      "english": "The Parsa · Curtain Between Worlds",
+      "tagline": "The spiritual barrier separating <span class=\"heb\">אצילות</span> from the lower worlds of Beriah, Yetzirah, and Asiyah. Below the Parsa, divine light becomes increasingly concealed as it descends — yet \"the whole earth is full of His glory.\"",
+      "badges": [
+        { "label": "Holy Concealment", "variant": "primary" },
+        { "label": "Enables Existence", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Structure of the Parsa",
+          "content": "The Parsa corresponds to the lower <span class=\"heb\">ה</span> of Havayah combined with the first three letters of Elokim (<span class=\"heb\">אלה</span>). This represents Malchus becoming clothed in concealment as it descends to create lower realms."
+        },
+        {
+          "title": "The Transformer Analogy",
+          "content": "The Parsa functions like an electrical transformer that steps down voltage. Without it, the lower worlds could not exist — the infinite light would overwhelm any finite being. The concealment <span class=\"hl\">enables</span> reception."
+        },
+        {
+          "title": "Three Worlds Below",
+          "content": "<span class=\"hl\">Beriah</span> (Creation) — the world of divine throne and souls · <span class=\"hl\">Yetzirah</span> (Formation) — the world of angels · <span class=\"hl\">Asiyah</span> (Action) — the lowest spiritual world, connected to physical reality."
+        },
+        {
+          "title": "What the Sandal Covers",
+          "content": "The <span class=\"heb\">סנדל</span> is positioned below the Parsa. It covers most of the \"foot\" (regel) — representing the divine light that descends into lower realms. But unlike the orlah, the sandal allows light to pass through."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "teal",
+      "toTheme": "blue"
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "III",
+      "label": "The Sandal — Holy Covering",
+      "hebrew": "סנדל / חשמל / כתנות אור",
+      "english": "Sandal · Chashmal · Garments of Light",
+      "tagline": "An <span class=\"hl\">open covering</span> — it protects the sole while allowing the foot to be seen. Spiritually, this represents concealment that <span class=\"hl\">simultaneously reveals</span>. Like a magnifying glass that comes between eye and object yet enhances vision.",
+      "badges": [
+        { "label": "Reveals While Concealing", "variant": "primary" },
+        { "label": "Israel's Covering", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Arizal's Teaching",
+          "content": "Surrounding the <span class=\"heb\">יסוד</span> (spiritual foundation) is a garment called <span class=\"heb\">חשמל</span> (a radiant covering), and beyond that lies the <span class=\"heb\">ערלה</span> (foreskin). We remove the orlah through circumcision, leaving the Chashmal to function as it should."
+        },
+        {
+          "title": "Why Remove Shoes at Sinai?",
+          "content": "At Sinai, G-d wanted to reveal Himself \"face to face\" — directly. For this unmediated revelation, even the sandal-type barrier had to be removed. Under normal circumstances, the sandal enables reception; at Sinai, even this had to be set aside."
+        },
+        {
+          "title": "Kosnos Ohr — Garments of Light",
+          "content": "Rabbi Meir's Torah spelled Adam's garments as <span class=\"heb\">כתנות אור</span> (with an <span class=\"hl\">aleph</span>) — \"garments of light.\" This represents covering through which light shines — the sandal-type concealment that Israel experiences."
+        },
+        {
+          "title": "\"How Beautiful Are Your Feet in Sandals\"",
+          "content": "Shir HaShirim declares: \"<span class=\"heb\">מה יפו פעמיך בנעלים</span>\" — this alludes to the three pilgrimage festivals when Jews ascended to Jerusalem. G-d celebrates the \"sandals\" — the mechanism by which He becomes accessible to finite beings is itself beautiful."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "blue",
+      "toTheme": "red"
+    },
+    {
+      "type": "level-card",
+      "theme": "red",
+      "number": "IV",
+      "label": "The Minal / Orlah — Total Concealment",
+      "hebrew": "מנעל / ערלה / כתנות עור / קליפה",
+      "english": "Minal · Orlah · Garments of Skin · Kelipah",
+      "tagline": "A <span class=\"hl\">closed covering</span> that completely encloses. Spiritually, it represents concealment that <span class=\"hl\">blocks entirely</span> — nothing of the inner light passes through. This is the type of covering the nations experience — complete separation from holiness.",
+      "badges": [
+        { "label": "Complete Concealment", "variant": "primary" },
+        { "label": "Kelipas Nogah", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Orlah's Function",
+          "content": "The <span class=\"heb\">ערלה</span> corresponds to <span class=\"heb\">קליפת נוגה</span> (the intermediate husk). It doesn't merely filter light — it blocks it entirely. A person with this covering experiences reality as completely disconnected from G-d."
+        },
+        {
+          "title": "Kosnos Or — Garments of Skin",
+          "content": "The standard Torah text records <span class=\"heb\">כתנות עור</span> (with an <span class=\"hl\">ayin</span>) — \"garments of skin.\" For most people, the physical world does conceal. It takes spiritual work to transform these coverings into \"garments of light.\""
+        },
+        {
+          "title": "The Nations' Experience",
+          "content": "For the nations, <span class=\"heb\">חול</span> (secular) means <span class=\"hl\">chol gamur</span> — complete disconnection from holiness. They acknowledge G-d as \"G-d of gods\" but remain in their own self-importance. The knowledge doesn't transform them."
+        },
+        {
+          "title": "The Minal L'Sandalo",
+          "content": "There's a <span class=\"heb\">מנעל לסנדלו</span> — \"a shoe for the sandal\" — an outer protective layer that shields the holy process of revelation from the kelippos below. This ensures light isn't corrupted as it descends."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "red",
+      "toTheme": "gold-dim"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold-dim",
+      "number": "V",
+      "label": "The Akev — Lowest from Highest",
+      "hebrew": "עקב / צדיק / כתר",
+      "english": "The Heel · Lowest Level · Receives from Kesser",
+      "tagline": "The heel is the <span class=\"hl\">lowest</span> part of the body — yet it receives from <span class=\"heb\">כתר</span> (Crown), the <span class=\"hl\">highest</span> Sefirah! Like a tall building that needs the deepest foundation, the lowest levels require the highest source to sustain them.",
+      "badges": [
+        { "label": "Lowest = Highest Source", "variant": "primary" },
+        { "label": "Am Yisrael", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Paradoxical Structure",
+          "content": "Why does the lowest receive from the highest? The <span class=\"heb\">עקב</span> descends into realms of concealment — it requires the power of <span class=\"heb\">כתר</span>, which transcends all limitations, to give it life. Only infinite power can sustain existence in the lowest realm."
+        },
+        {
+          "title": "Israel — Am v'Yisrael",
+          "content": "Jews are called <span class=\"heb\">עם ישראל</span>. The word <span class=\"heb\">עם</span> relates to \"dimness\" (lowliness), yet <span class=\"heb\">ישראל</span> contains <span class=\"heb\">לי ראש</span> — \"I have a head\" (supreme elevation). Israel dwells in the lowest world yet receives from the highest source."
+        },
+        {
+          "title": "The Kabbalistic Structure",
+          "content": "The letters <span class=\"heb\">צדי\"ק</span> represent aspects of how light descends: <span class=\"heb\">צד</span> (94) = internal aspect; <span class=\"heb\">י\"ק</span> (110) = external aspect extending below. The Tzaddik bridges highest and lowest."
+        },
+        {
+          "title": "Shabbos and Weekdays",
+          "content": "Three days after Shabbos receive from the <span class=\"hl\">previous</span> Shabbos; three days before receive from the <span class=\"hl\">upcoming</span> Shabbos. Even the \"heel\" of the week — the lowest, most mundane days — draws from Shabbos's holiness."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold-dim",
+      "toTheme": "green"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "VI",
+      "label": "Milah — Revealing the Hidden",
+      "hebrew": "מילה / מל י\"ה / ברית",
+      "english": "Circumcision · Revealing Yud-Hei · The Covenant",
+      "tagline": "The word <span class=\"heb\">מילה</span> can be read as \"<span class=\"heb\">מל י\"ה</span>\" — \"reveal the Yud-Hei.\" By removing the orlah, we open the channel for <span class=\"heb\">בטול</span> (self-nullification) that flows from Chochmah. The barrier to divine perception is cut away.",
+      "badges": [
+        { "label": "Removes the Barrier", "variant": "primary" },
+        { "label": "Avraham's Covenant", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why Remove the Orlah?",
+          "content": "The orlah represents the type of covering that conceals <span class=\"hl\">completely</span> — the nations' experience of reality. We remove it because it doesn't belong to us. A Jew is meant to experience reality through the sandal-type covering where G-d's light shines through."
+        },
+        {
+          "title": "Avraham's Name Change",
+          "content": "Before milah: <span class=\"heb\">אברם</span> — \"exalted father\" — divine wisdom elevated and removed. After milah: <span class=\"heb\">אברהם</span> — the letter <span class=\"heb\">ה</span> added, representing <span class=\"heb\">התפשטות</span> (expansion) — now wisdom could flow into the world."
+        },
+        {
+          "title": "Milah Enables Bittul",
+          "content": "Through circumcision, every Jewish male gains the capacity for knowledge to penetrate to the heart and effect real change. Learning about G-d automatically leads to nullification before Him — unlike Aristotle, who remained in ego despite his knowledge."
+        },
+        {
+          "title": "Father of Many Nations",
+          "content": "After Avraham's circumcision, he became \"father of many nations\" — converts could now join. The removal of his orlah opened a channel for divine light to reach even those completely cut off. This continues throughout history."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Opening Verse — The Command of Circumcision"
+    },
+    {
+      "type": "verse",
+      "text": "וְעָרֵל זָכָר אֲשֶׁר לֹא יִמּוֹל אֶת בְּשַׂר עָרְלָתוֹ — וְנִכְרְתָה הַנֶּפֶשׁ הַהִוא מֵעַמֶּיהָ, אֶת בְּרִיתִי הֵפַר",
+      "reference": "Bereishis 17:14"
+    },
+
+    {
+      "type": "section-label",
+      "text": "Two Types of Covering — The Core Distinction"
+    },
+    {
+      "type": "item-grid",
+      "columns": 2,
+      "items": [
+        {
+          "hebrew": "סנדל",
+          "english": "Sandal — Open Covering",
+          "theme": "blue",
+          "description": "Conceals in order to reveal. Like a magnifying glass that enhances vision. Protects while allowing transmission.",
+          "detail": "The sandal represents <b>holy concealment</b> — the type of covering that Israel experiences. The Parsa, Shabbos, and the soul's garments all function this way: they filter divine light so it can be received without being overwhelmed, but the light still <b>shines through</b>. This is <span class=\"heb\">כתנות אור</span> — garments of light (with an aleph)."
+        },
+        {
+          "hebrew": "מנעל / ערלה",
+          "english": "Minal / Orlah — Closed Covering",
+          "theme": "red",
+          "description": "Completely encloses. Blocks divine light entirely. Nothing of the inner reality passes through.",
+          "detail": "The minal/orlah represents <b>complete concealment</b> — the type the nations experience. Even when they acknowledge G-d intellectually, it doesn't change them. This is <span class=\"heb\">כתנות עור</span> — garments of skin (with an ayin). The orlah <b>must be removed</b> through circumcision because it doesn't belong to the Jewish soul."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Key Distinctions & Supporting Teachings"
+    },
+    {
+      "type": "info-panel",
+      "title": "Core Conceptual Pairs",
+      "items": [
+        {
+          "theme": "blue",
+          "hebrew": "סנדל vs. מנעל",
+          "content": "<b style=\"color:var(--blue-bright)\">Sandal</b> — open covering that reveals while concealing; the Parsa, Chashmal, holy garments · <b style=\"color:var(--red-bright)\">Minal</b> — closed covering that blocks entirely; kelipah, orlah, the nations' experience"
+        },
+        {
+          "theme": "gold",
+          "hebrew": "שבת vs. ימי החול",
+          "content": "<b style=\"color:var(--gold-bright)\">Shabbos</b> — Parsa transparent, divine light revealed, \"rest\" = withdrawal from descent · <b style=\"color:var(--teal-bright)\">Weekdays</b> — concealment through Parsa, light descends into garments, condition of independent existence (yesh)"
+        },
+        {
+          "theme": "green",
+          "hebrew": "ישראל vs. אומות העולם",
+          "content": "<b style=\"color:var(--green-bright)\">Israel</b> — \"chullin she'na'asu al taharat hakodesh\" — secular connected to holiness · <b style=\"color:var(--red-bright)\">Nations</b> — \"chol gamur\" — complete disconnection from holiness"
+        },
+        {
+          "theme": "purple",
+          "hebrew": "הויה vs. אלקים",
+          "content": "<b style=\"color:var(--gold-bright)\">Havayah</b> — infinite divine light flowing forth; revelation · <b style=\"color:var(--purple-bright)\">Elokim</b> — power of concealment and limitation; gematria = nature (86)"
+        },
+        {
+          "theme": "teal",
+          "hebrew": "כתנות אור vs. כתנות עור",
+          "content": "<b style=\"color:var(--blue-bright)\">Kosnos Ohr</b> (with aleph) — garments of light; covering through which light shines · <b style=\"color:var(--red-bright)\">Kosnos Or</b> (with ayin) — garments of skin; covering that completely hides"
+        },
+        {
+          "theme": "gold-dim",
+          "hebrew": "ביטול vs. ישות",
+          "content": "<b style=\"color:var(--green-bright)\">Bittul</b> — self-nullification before G-d; knowledge that transforms (Rambam) · <b style=\"color:var(--red-bright)\">Yeshus</b> — self-importance; knowledge that feeds ego (Aristotle)"
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "The Four Letters of Havayah",
+      "intro": "The structure of divine flow through the Name Havayah (יהוה):",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "י (יוד)",
+          "content": "<b>Yud</b> — represents <span class=\"hl\">Chochmah</span> (Wisdom). The initial flash of divine insight. Corresponds to the world of Atzilus. The smallest letter containing infinite potential."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "ה (הא עליון)",
+          "content": "<b>Upper Hei</b> — represents <span class=\"hl\">Binah</span> (Understanding). The expansion and elaboration of the initial insight. The \"mother\" that gives birth to the emotions."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "ו (ואו)",
+          "content": "<b>Vav</b> — represents the <span class=\"hl\">six Middos</span> (emotional attributes) from Chesed to Yesod. The vertical line connecting above to below. The six days of creation."
+        },
+        {
+          "theme": "green",
+          "hebrew": "ה (הא תתאה)",
+          "content": "<b>Lower Hei</b> — represents <span class=\"hl\">Malchus</span> (Kingship). How divinity is expressed in creation. Combined with the first letters of Elokim, it forms the Parsa."
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "Rambam vs. Aristotle — Two Responses to Knowledge",
+      "intro": "A striking illustration of the difference between bittul and yeshus — why the orlah must be removed:",
+      "items": [
+        {
+          "theme": "red",
+          "hebrew": "אריסטו",
+          "content": "<b>Aristotle's Response</b>: Philosophical achievement <span class=\"hl\">increased</span> his sense of self. \"Look at what <b>I</b> have accomplished!\" Knowledge fed his ego rather than humbling him. This is the essence of kelipah — acknowledgment of G-d that doesn't lead to transformation."
+        },
+        {
+          "theme": "green",
+          "hebrew": "הרמב\"ם",
+          "content": "<b>Rambam's Response</b>: Philosophical understanding produced <span class=\"hl\">increased bittul</span>. The more he understood G-d's greatness, the more he felt his own insignificance. Knowledge led him to \"throw himself aside\" completely. This is what circumcision enables."
+        }
+      ],
+      "outro": "The orlah represents the capacity for spiritual knowledge <b>without</b> spiritual transformation — pure intellectualism devoid of bittul. Through milah, a Jew gains the capacity for knowledge to penetrate the heart and effect real change."
+    },
+
+    {
+      "type": "section-label",
+      "text": "Key Parables — How Concealment Works"
+    },
+    {
+      "type": "parable-grid",
+      "items": [
+        {
+          "icon": "🔌",
+          "title": "The Transformer",
+          "body": "The Parsa functions like an electrical transformer stepping down voltage. Without it, the infinite light would overwhelm finite beings. The concealment enables reception — not obstruction."
+        },
+        {
+          "icon": "🔍",
+          "title": "The Magnifying Glass",
+          "body": "The sandal-type concealment is like a magnifying glass between eye and object. It comes between — yet actually enhances vision. Concealment that reveals."
+        },
+        {
+          "icon": "☀️",
+          "title": "Sun Through Clouds",
+          "body": "Havayah is the sun; Elokim is the clouds filtering its intensity. The clouds don't block the sun — they allow the earth to benefit from warmth without being scorched."
+        },
+        {
+          "icon": "🏗️",
+          "title": "Building and Foundation",
+          "body": "A tall building needs the deepest foundation. The akev (heel) — descending into realms of concealment — requires Kesser, which transcends all limitations, to sustain it."
+        },
+        {
+          "icon": "👨‍🏫",
+          "title": "Teacher and Student",
+          "body": "A teacher must simplify concepts for a student. The divine light must be \"contracted\" to be received by limited beings. The concealment is pedagogical — not punitive."
+        },
+        {
+          "icon": "👟",
+          "title": "Shoe and Ground",
+          "body": "The minal l'sandalo (shoe for the sandal) protects the foot from the ground. There's an outer covering shielding the holy process from kelippos below — preventing corruption during descent."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Sandal vs. Minal — The Core Contrast"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Dimension" },
+        { "key": "sandal", "label": "סנדל (Sandal)", "theme": "blue" },
+        { "key": "minal", "label": "מנעל / ערלה (Minal/Orlah)", "theme": "red" }
+      ],
+      "rows": [
+        {
+          "dimension": "Type",
+          "sandal": "Open covering — partially visible",
+          "minal": "Closed covering — completely enclosed"
+        },
+        {
+          "dimension": "Function",
+          "sandal": "Filters and transmits divine light",
+          "minal": "Blocks divine light entirely"
+        },
+        {
+          "dimension": "Spiritual Role",
+          "sandal": "Holy concealment that reveals (the Parsa)",
+          "minal": "Total concealment (kelipah)"
+        },
+        {
+          "dimension": "Who Experiences It",
+          "sandal": "Israel — \"chullin al taharat hakodesh\"",
+          "minal": "Nations — \"chol gamur\" (complete separation)"
+        },
+        {
+          "dimension": "Garment Type",
+          "sandal": "Kosnos Ohr — garments of light (aleph)",
+          "minal": "Kosnos Or — garments of skin (ayin)"
+        },
+        {
+          "dimension": "Response to Knowledge",
+          "sandal": "Bittul — knowledge transforms (Rambam)",
+          "minal": "Yeshus — knowledge inflates ego (Aristotle)"
+        },
+        {
+          "dimension": "What Milah Does",
+          "sandal": "Left intact — the Chashmal remains",
+          "minal": "Removed — the orlah is cut away"
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Shabbos vs. Weekdays — The Rhythm of Revelation"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Aspect" },
+        { "key": "shabbos", "label": "שבת (Shabbos)", "theme": "gold" },
+        { "key": "weekdays", "label": "ימי החול (Weekdays)", "theme": "teal" }
+      ],
+      "rows": [
+        {
+          "dimension": "Divine Mode",
+          "shabbos": "Revelation — Parsa transparent",
+          "weekdays": "Concealment — light descends into garments"
+        },
+        {
+          "dimension": "Creation State",
+          "shabbos": "Beings elevated toward source",
+          "weekdays": "Yesh (independent existence) — \"subjects before the King\""
+        },
+        {
+          "dimension": "Human Task",
+          "shabbos": "Experience revealed G-dliness",
+          "weekdays": "Work with physical reality — drawing down Shabbos"
+        },
+        {
+          "dimension": "Spiritual Dynamic",
+          "shabbos": "Light returns to source — divine \"rest\"",
+          "weekdays": "Light invested in garments — divine \"work\""
+        },
+        {
+          "dimension": "Connection",
+          "shabbos": "Direct — \"face to face\"",
+          "weekdays": "Through filters — \"chullin al taharat hakodesh\""
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Future Revelation — When All Barriers Fall"
+    },
+    {
+      "type": "prose",
+      "content": "\"<span class=\"heb\">וראו כל בשר יחדו כי פי ה׳ דבר</span>\" — <b>\"All flesh will see together that the mouth of Hashem has spoken.\"</b><br><br>In the future, not only Israel but all flesh — the entire physical world — will perceive G-dliness openly. All barriers, including the orlah-type concealment affecting the nations, will be removed. Every circumcision performed today participates in this cosmic process — each removal of the orlah brings the world one step closer to the time when all concealment will end and G-d's glory will be visible to all."
+    }
+  ]
+}

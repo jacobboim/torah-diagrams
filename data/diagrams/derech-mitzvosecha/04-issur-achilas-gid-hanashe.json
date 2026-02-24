@@ -1,0 +1,348 @@
+{
+  "id": "derech-mitzvosecha/04-issur-achilas-gid-hanashe",
+  "meta": {
+    "sefer": "Derech Mitzvosecha",
+    "book": "Derech Mitzvosecha",
+    "hebrewTitle": "איסור אכילת גיד הנשה",
+    "englishTitle": "The Sacred Threshold — Sciatic Nerve & Cosmic Vulnerability",
+    "subtitle": "The Tzemach Tzedek · Derech Mitzvosecha",
+    "sourceDiscourse": "discourses/derech-mitzvosecha/04-issur-achilas-gid-hanashe.json"
+  },
+  "blocks": [
+    {
+      "type": "verse",
+      "text": "עַל כֵּן לֹא יֹאכְלוּ בְנֵי יִשְׂרָאֵל אֶת גִּיד הַנָּשֶׁה",
+      "reference": "Bereishit 32:33"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "Ein Sof & the Sefirot",
+      "hebrew": "אין סוף / עשר ספירות",
+      "english": "The Infinite One · Ten Divine Attributes",
+      "tagline": "God is utterly infinite and simple — \"He is not defined by any attribute whatsoever.\" Yet He emanated ten <span class=\"heb\">ספירות</span> to guide the worlds, uniting with them completely: <span class=\"hl\">\"He and His vessels are one.\"</span>",
+      "badges": [
+        { "label": "Ihu V'Garmohi Chad", "variant": "primary" },
+        { "label": "L'Hanhig", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why Sefirot Exist",
+          "content": "The infinite God cannot directly sustain finite creation. The Sefirot serve as intermediary <span class=\"hl\">Kelim</span> (vessels) through which His light is stepped down and channeled — yet He unites with them completely."
+        },
+        {
+          "title": "The Three Divisions",
+          "content": "<span class=\"heb\">חב\"ד</span> (intellect) = Head · <span class=\"heb\">חג\"ת</span> (emotions) = Torso · <span class=\"heb\">נה\"י</span> (action) = Legs. These form the structure of <span class=\"hl\">Zeir Anpin</span>, with which Jacob's soul corresponds."
+        },
+        {
+          "title": "Each Contains Ten",
+          "content": "Every Sefirah contains all ten within itself! Chesed has Chochmah-of-Chesed, Chesed-of-Chesed, Netzach-of-Chesed, etc. This creates a \"head,\" \"torso,\" and \"end\" within each single attribute."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "green"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "I",
+      "label": "The Body — Inner Attributes",
+      "hebrew": "גופא / חסד גבורה תפארת",
+      "english": "Gufa · Chesed, Gevurah, Tiferet",
+      "tagline": "The \"torso\" of the Sefirot — the core emotional attributes. These are called <span class=\"hl\">\"inside the body\"</span> because they operate with <span class=\"heb\">עונג</span> (pleasure), expressing the soul's inner self.",
+      "badges": [
+        { "label": "Inside the Body", "variant": "primary" },
+        { "label": "With Pleasure", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Chabad of the Attribute",
+          "content": "When kindness flows from an <span class=\"hl\">intellectual reason</span> — loving someone because of some understanding of their worth. There's pleasure in the comprehension itself. This is the \"head\" of Chesed."
+        },
+        {
+          "title": "Chesed of Chesed",
+          "content": "When kindness flows from <span class=\"hl\">innate nature</span> — giving simply because that's who you are. Abraham gave even to idol worshippers. There's pleasure in the act of giving itself. This is the \"torso\" of Chesed."
+        },
+        {
+          "title": "Why Pleasure Matters",
+          "content": "<span class=\"heb\">אין למעלה מן העונג</span> — \"There is nothing higher than pleasure.\" Pleasure indicates the <span class=\"hl\">inner self</span> is invested. When pleasure is present, the soul's essence shines through the action."
+        },
+        {
+          "title": "Protected from Attack",
+          "content": "The angel <span class=\"hl\">couldn't touch</span> Jacob's \"body\" — the inner attributes illuminated by Supernal Pleasure (Atik Yomin). The inner light itself provides protection."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "green",
+      "toTheme": "teal"
+    },
+    {
+      "type": "level-card",
+      "theme": "teal",
+      "number": "II",
+      "label": "The Thighs — Outside the Body",
+      "hebrew": "ירכין דלבר מגופא / נצח הוד",
+      "english": "Yeruchin d'L'var mi'Gufa · Netzach & Hod",
+      "tagline": "The \"legs\" of the Sefirot — Netzach (Victory) and Hod (Acknowledgment). These are called <span class=\"hl\">\"outside the body\"</span> because they operate <span class=\"heb\">בלי עונג</span> — through determination alone, without inner pleasure.",
+      "badges": [
+        { "label": "Outside the Body", "variant": "primary" },
+        { "label": "No Pleasure", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Netzach of Chesed",
+          "content": "When kindness flows through <span class=\"hl\">victory and conquest</span> — forcing oneself to give despite no love, no natural inclination, and no intellectual reason. Pure will overcoming all resistance."
+        },
+        {
+          "title": "Aravei Nachal — No Taste or Smell",
+          "content": "Netzach and Hod are compared to <span class=\"heb\">ערבי נחל</span> (willows) — which have neither taste nor fragrance. <span class=\"hl\">Taste</span> and <span class=\"hl\">fragrance</span> symbolize pleasure and inner meaning. Netzach operates without these."
+        },
+        {
+          "title": "Why Vulnerable",
+          "content": "Without the inner light of pleasure, Netzach lacks the protection that comes from Divine illumination. The \"Mochin\" (intellectual light) have withdrawn, leaving only bare will without understanding."
+        },
+        {
+          "title": "The Angel's Target",
+          "content": "<span class=\"heb\">וירא כי לא יכול לו ויגע בכף ירכו</span> — \"He saw he could not prevail, so he touched the socket of his thigh.\" The angel attacked the <span class=\"hl\">only vulnerable point</span>."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Three Levels Within Every Attribute"
+    },
+    {
+      "type": "item-grid",
+      "columns": 3,
+      "items": [
+        {
+          "hebrew": "מוחין",
+          "english": "Mochin — Head",
+          "theme": "gold",
+          "description": "Intellectual reason driving the attribute",
+          "detail": "Kindness because of a <span class=\"hl\">reason</span> — understanding why the person deserves it. <b>Pleasure in comprehension.</b> The wisdom that motivates the emotion."
+        },
+        {
+          "hebrew": "עצם המדה",
+          "english": "Essence — Torso",
+          "theme": "green",
+          "description": "Innate nature expressing itself",
+          "detail": "Kindness as <span class=\"hl\">natural disposition</span> — giving because that's who you are. <b>Pleasure in the act itself.</b> Abraham's kindness to all, even idol worshippers."
+        },
+        {
+          "hebrew": "נצח",
+          "english": "Netzach — End",
+          "theme": "teal",
+          "description": "Determination overcoming resistance",
+          "detail": "Kindness through <span class=\"hl\">conquest</span> — forcing oneself despite no love or reason. <b>No pleasure — pure will.</b> The vulnerable outer dimension."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "teal",
+      "toTheme": "purple"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "III",
+      "label": "Back to Back — The Vulnerable State",
+      "hebrew": "אחור באחור",
+      "english": "Achor b'Achor · External Connection",
+      "tagline": "When Z\"A and Malchut unite \"back to back,\" only the <span class=\"hl\">outer</span> dimensions connect. The mind rules the heart externally — the heart submits but isn't transformed. This state is necessary for creation, but leaves an opening for attack.",
+      "badges": [
+        { "label": "Atkafya", "variant": "primary" },
+        { "label": "Subjugation", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Desert State",
+          "content": "Between Egypt and the Land — the person has left spiritual bondage but hasn't arrived at transformation. They <span class=\"hl\">understand</span> intellectually but the heart still wants worldly things. Service through effort, not delight."
+        },
+        {
+          "title": "Why Necessary for Creation",
+          "content": "<span class=\"heb\">אין מלך בלא עם</span> — \"No king without a nation.\" For creatures to experience themselves as separate beings, Divine light must be <span class=\"hl\">concealed</span>. Back to back creates this concealment."
+        },
+        {
+          "title": "The Arizal's Teaching",
+          "content": "\"Had they been face to face, the external forces would not have prevailed.\" The blemish occurred specifically because of the back-to-back positioning — Netzach of Z\"A aligned with Hod of Malkhut."
+        },
+        {
+          "title": "Opening for Attack",
+          "content": "In back-to-back, the \"prosecuting\" forces can claim Israel doesn't deserve Divine flow. Without the inner light flowing, there's no nullification of opposition."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "blue"
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "IV",
+      "label": "Face to Face — Complete Union",
+      "hebrew": "פנים בפנים",
+      "english": "Panim b'Panim · Inner Transformation",
+      "tagline": "When the mind's understanding penetrates the heart's <span class=\"hl\">inner essence</span>. The person truly <span class=\"heb\">delights</span> in Godliness — not forcing compliance, but genuine transformation. <span class=\"hl\">It'hafcha</span> — the heart itself is changed.",
+      "badges": [
+        { "label": "It'hafcha", "variant": "primary" },
+        { "label": "Transformation", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Land of Israel",
+          "content": "\"A good and spacious land\" — expanded consciousness (Gadlut). Here the person has real <span class=\"hl\">knowledge</span> (Da'at) of God. The heart doesn't just comply; it genuinely <span class=\"heb\">חפץ</span> (desires) holiness."
+        },
+        {
+          "title": "Protected State",
+          "content": "Against someone in face-to-face — whose heart genuinely delights in Godliness — <span class=\"hl\">Amalek has no power</span>. The inner light nullifies all opposition automatically."
+        },
+        {
+          "title": "Mochin d'Gadlut",
+          "content": "\"Mature consciousness\" is the source of mercy. A mature adult can understand and accommodate perspectives beyond their own. Greater wisdom creates greater <span class=\"hl\">capacity for mercy</span>."
+        },
+        {
+          "title": "The Goal",
+          "content": "The progression from back-to-back to face-to-face is the entire spiritual journey. Our service below awakens corresponding realities above — <span class=\"heb\">באתערותא דלתתא אתערותא דלעילא</span>."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The War Against Amalek"
+    },
+    {
+      "type": "level-card",
+      "theme": "red",
+      "number": "!",
+      "label": "Amalek — Brazen Defiance",
+      "hebrew": "עמלק / יודע רבו ומתכוון למרוד בו",
+      "english": "Amalek · Knows His Master and Intentionally Rebels",
+      "tagline": "Amalek is not concealment — he <span class=\"hl\">knows</span> the truth and defies it anyway. \"Kingship without a crown\" — claiming authority with no justification. He attacks the connection between mind and heart, severing <span class=\"heb\">הדעת</span>.",
+      "badges": [
+        { "label": "Chutzpah", "variant": "primary" },
+        { "label": "Severs Da'at", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Different from Regular Sin",
+          "content": "Most spiritual obstacles work through <span class=\"hl\">concealment</span> — a \"spirit of folly\" that makes one forget the truth. Amalek witnessed the miracles and attacks anyway! Brazen, irrational defiance."
+        },
+        {
+          "title": "Target: The Stiff Neck",
+          "content": "Jews are \"stiff-necked\" — the neck (connection between head and heart) is strong. Even when the heart wants otherwise, it follows clear truth. Amalek attacks this <span class=\"hl\">very connection</span>."
+        },
+        {
+          "title": "The Weak Ones at the Rear",
+          "content": "<span class=\"heb\">ויזנב בך כל הנחשלים אחריך</span> — those in \"back to back\" state, where mind rules heart but hasn't transformed it. Against genuine face-to-face delight, Amalek has no power."
+        },
+        {
+          "title": "From Generation to Generation",
+          "content": "<span class=\"heb\">מלחמה לה׳ בעמלק מדר דר</span> — \"God's war against Amalek from dor dor.\" Wherever there's a back-to-back transmission from higher to lower, Amalek fights to sever it."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Contrast: Face to Face vs. Back to Back"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Dimension" },
+        { "key": "panim", "label": "Face to Face · פנים בפנים", "theme": "blue" },
+        { "key": "achor", "label": "Back to Back · אחור באחור", "theme": "purple" }
+      ],
+      "rows": [
+        { "dimension": "Connection Type", "panim": "Inner of upper → inner of lower", "achor": "Outer of upper → outer of lower" },
+        { "dimension": "Pleasure Revealed", "panim": "Yes — the light is \"felt\"", "achor": "No — connection without feeling" },
+        { "dimension": "Heart's State", "panim": "Transformed (It'hafcha)", "achor": "Subjugated (Atkafya)" },
+        { "dimension": "Service Mode", "panim": "Spontaneous delight", "achor": "Effort and discipline" },
+        { "dimension": "Effect on Creation", "panim": "Strong Divine presence", "achor": "Concealment — independent selfhood" },
+        { "dimension": "Vulnerability", "panim": "Protected from attack", "achor": "Open to accusers" },
+        { "dimension": "Amalek's Power", "panim": "None — nullified by light", "achor": "Can sever the connection" },
+        { "dimension": "Analogy", "panim": "The Land of Israel", "achor": "The Desert — in-between" }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Physical Reflects Spiritual"
+    },
+    {
+      "type": "info-panel",
+      "title": "The Gid Hanashe — Matter Reflects Spirit",
+      "intro": "\"The lower world is patterned after the upper world.\" Every physical reality has a spiritual root — and the sciatic nerve reflects the cosmic truth of Netzach.",
+      "items": [
+        {
+          "theme": "teal",
+          "hebrew": "גיד הנשה",
+          "content": "The sciatic nerve in animals corresponds to <span class=\"hl\">Netzach</span> above — \"outside the body.\" Since a blemish occurred in the supernal \"thigh,\" it's reflected in the physical thighs of animals."
+        },
+        {
+          "theme": "green",
+          "hebrew": "אין בגידין בנותן טעם",
+          "content": "\"There is no taste-giving quality in sinews\" — the gid hanashe is <span class=\"hl\">tasteless</span>, \"like wood.\" This reflects the spiritual reality: Netzach has no \"taste\" — no revealed inner pleasure."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "א\"ת גיד הנשה",
+          "content": "The letters <span class=\"heb\">א\"ת</span> hint to <span class=\"hl\">Tisha B'Av</span> (ט\"ב = א\"ת in gematria). This sinew's kelipah holds sway on Tisha B'Av. Netzach builds Jerusalem; its blemish = Temple destruction."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "ויזרח לו השמש",
+          "content": "\"And the sun shone for him\" — Jacob was healed by the rising sun. This foreshadows the future redemption when the \"sun of righteousness\" will shine with complete healing."
+        }
+      ],
+      "outro": "By refraining from eating the gid hanashe, we acknowledge the cosmic wound — while our determined service hastens its complete healing."
+    },
+    {
+      "type": "section-label",
+      "text": "The Soul's Journey"
+    },
+    {
+      "type": "item-grid",
+      "columns": 3,
+      "items": [
+        {
+          "hebrew": "מצרים",
+          "english": "Egypt",
+          "theme": "red",
+          "description": "Spiritual bondage — faith alone",
+          "detail": "The person believes in God but only with <span class=\"hl\">abstract faith</span>. The emotions are trapped in worldly desires. \"The people believed\" — but the heart hasn't moved."
+        },
+        {
+          "hebrew": "מדבר",
+          "english": "Desert",
+          "theme": "purple",
+          "description": "In-between — understanding without transformation",
+          "detail": "The person has left Egypt but hasn't reached the Land. <span class=\"hl\">Tevunah</span> — understanding that rules the heart externally. Back to back. <b>Amalek attacks here.</b>"
+        },
+        {
+          "hebrew": "ארץ ישראל",
+          "english": "Land of Israel",
+          "theme": "blue",
+          "description": "Destination — genuine knowledge and delight",
+          "detail": "\"A good and spacious land\" — expanded consciousness. <span class=\"hl\">Da'at</span> — true knowledge. The heart is transformed, genuinely delighting in holiness. Face to face."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Core Teaching"
+    },
+    {
+      "type": "prose",
+      "content": "The prohibition of <span class=\"heb\">גיד הנשה</span> is far more than a dietary restriction — it's a window into the very structure of Divine service and cosmic history.<br><br>The Sefirot are arranged in \"head, torso, and end\" — with <span class=\"hl\">Netzach</span> belonging to the \"end,\" the part \"outside the body\" where inner pleasure isn't revealed. This makes Netzach vulnerable to attack, because it operates through will and determination rather than illuminated understanding.<br><br>The angel struck there, and the blemish reverberates through history: in the cessation of prophecy, in the destruction of Jerusalem, in every Jew's struggle to translate knowledge into living reality. <span class=\"hl\">Amalek</span> exploits this vulnerability, attacking wherever the connection between higher and lower is merely external.<br><br>But the repair also comes through us. When we persist in service despite not \"feeling\" it — when we study \"more than usual\" — we create connection above and prevent the cosmic severance. Our determined effort, even without delight, has supreme value.<br><br><span class=\"heb\">ויזרח לו השמש</span> — \"And the sun shone for him.\" Just as Jacob was healed by the rising sun, so too will the Jewish people be healed when the ultimate Sun rises. The blemish in Netzach will be completely rectified. Jerusalem will be rebuilt. And the taste that was never in this sinew will be revealed as infinite sweetness."
+    }
+  ]
+}

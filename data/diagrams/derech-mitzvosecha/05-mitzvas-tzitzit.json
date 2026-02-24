@@ -1,0 +1,446 @@
+{
+  "id": "derech-mitzvosecha/05-mitzvas-tzitzit",
+  "meta": {
+    "sefer": "Derech Mitzvosecha",
+    "author": "Tzemach Tzedek",
+    "hebrewTitle": "מצות ציצית",
+    "englishTitle": "Threads of Infinity — The Mitzvah That Encompasses All",
+    "subtitle": "Why Tzitzit Equals All the Mitzvot Combined",
+    "sourceDiscourse": "discourses/derech-mitzvosecha/05-mitzvas-tzitzit.json"
+  },
+  "blocks": [
+    {
+      "type": "verse",
+      "text": "וּרְאִיתֶם אֹתוֹ וּזְכַרְתֶּם אֶת כָּל מִצְוֹת ה׳",
+      "reference": "Bamidbar 15:39"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "Ein Sof",
+      "hebrew": "אין סוף / סובב כל עלמין",
+      "english": "The Infinite · Sovev Kol Almin · Encompassing Light",
+      "tagline": "The transcendent light that encompasses all worlds equally — \"before Him, all are considered as nothing.\" This light doesn't enter into vessels but surrounds them all. It is the only power capable of creating <span class=\"heb\">יש מאין</span> — something from absolute nothing.",
+      "badges": [
+        { "label": "Transcendent", "variant": "primary" },
+        { "label": "Creates Yesh", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Unlimited Power",
+          "content": "Creating existence from absolute nothingness requires <span class=\"hl\">unlimited</span> power. The inner light (Memalei) adapts to vessels and is therefore limited — it cannot bridge the infinite gap between nothing and something. Only Sovev can accomplish this."
+        },
+        {
+          "title": "Equal to All",
+          "content": "This light relates equally to the highest angel and the lowest physical matter — no hierarchy exists from its perspective. It is <span class=\"heb\">יחיד</span> (singular) rather than <span class=\"heb\">אחד</span> (unified), meaning creation doesn't register as a separate reality at all."
+        },
+        {
+          "title": "Ne'utz Techilatan B'Sofan",
+          "content": "\"The beginning is embedded in the end.\" The highest levels connect specifically with the <span class=\"hl\">lowest</span>. Like sunlight that is hottest near the sun, cold in the middle atmosphere, but hot again at the earth — the transcendent has a special connection to the physical."
+        },
+        {
+          "title": "The Mashal of the Soul",
+          "content": "Thought exists revealed only in the brain — strike the head, thinking is confused. Yet when one thinks \"move my foot,\" the foot moves <span class=\"hl\">instantly</span>. The soul's essence encompasses all limbs equally, affecting them without dwelling within them internally."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "teal"
+    },
+    {
+      "type": "level-card",
+      "theme": "teal",
+      "number": "I",
+      "label": "Filling Light",
+      "hebrew": "ממלא כל עלמין / אור פנימי",
+      "english": "Memalei Kol Almin · Inner Light · The Chain of Worlds",
+      "tagline": "The light that \"fills\" the inner dimension of created beings — adapting to each recipient's vessel like intellect dwelling in the brain. This creates the hierarchy of worlds: from highest Atzilut to lowest Asiyah.",
+      "badges": [
+        { "label": "Inner Chain", "variant": "primary" },
+        { "label": "50,000 Jubilees", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Adapted Revelation",
+          "content": "Unlike Sovev, this light enters and unites with recipients internally. Each world perceives it within vessels suited to receive it — the greater the vessel, the more refined the revelation. This is the <span class=\"heb\">קו וחוט</span> (line and thread) descending through all levels."
+        },
+        {
+          "title": "Infinite Ascent Within Memalei",
+          "content": "The Kabbalists speak of 50,000 Yovlot (Jubilees) — cosmic cycles of elevation. From our physical world through Gan Eden, Atzilut, all the way to Chochmah of Adam Kadmon — all are levels <span class=\"hl\">within</span> Memalei, the inner light adapted to vessels."
+        },
+        {
+          "title": "Cannot Reach Sovev",
+          "content": "Even after 50,000 Jubilees of ascent, one cannot reach Sovev! Why? Because Sovev relates equally to all levels — it is hidden from the greatest angels as it is from the lowest creations. Only a \"glimmer\" descends into Chochmah of Adam Kadmon."
+        },
+        {
+          "title": "The Reward: Gan Eden",
+          "content": "Gan Eden — the spiritual paradise — is the revelation of Memalei drawn through Torah study. Souls delight in comprehending ta'amei mitzvot (reasons for commandments) — a contracted gleam of the hidden Ta'am Kamus. This is reward for the soul <span class=\"hl\">without</span> a body."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "teal",
+      "toTheme": "green"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "II",
+      "label": "Torah's Exalted Root",
+      "hebrew": "חכמה דאדם קדמון / משל הקדמוני",
+      "english": "Chochmah of Adam Kadmon · Mashal HaKadmoni · The Ancient Parable",
+      "tagline": "Torah is called <span class=\"heb\">משל הקדמוני</span> — the parable of the Ancient One. Its root extends to Chochmah of Adam Kadmon, where the <span class=\"hl\">Sovev light</span> first descends into the framework of limited worlds. Stories of fields and oxen are parables for supernal truths.",
+      "badges": [
+        { "label": "Torah's Source", "variant": "primary" },
+        { "label": "Chochmah Ila'ah", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Higher Than Chochmah of Atzilut",
+          "content": "The regular \"Chochmah\" that flows to Malchut is <span class=\"heb\">חכמה שבדיבור</span> — practical wisdom guiding creation. But Torah is <span class=\"heb\">חכמה עילאה</span> rooted in Chochmah of Adam Kadmon — infinitely higher, containing within it the hidden Ein Sof light."
+        },
+        {
+          "title": "Sinai: Revelation Beyond 50,000 Jubilees",
+          "content": "At Sinai, when Hashem proclaimed \"<span class=\"heb\">אנכי ה׳ אלקיך</span>,\" He revealed the Sovev light concealed within the Pnimiyut of Adam Kadmon — a revelation beyond anything possible in 50,000 Jubilees of spiritual ascent!"
+        },
+        {
+          "title": "Transmission Through Se'arot",
+          "content": "How can such exalted light reach us? Through <span class=\"heb\">שערות</span> (hairs) — extreme contraction. A hair contains minimal vitality yet connects to the brain's essence. The 32 Tzitzit threads = 32 pathways of Chochmah descending through ultimate tzimtzum."
+        },
+        {
+          "title": "White = Rachamim Peshutim",
+          "content": "White threads represent <span class=\"heb\">רחמים פשוטים</span> — simple, pure compassion. This is Divine flow descending not from any action below, but purely from the intensity of the light above. White = undifferentiated light of Ein Sof transcending relationship with creation."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "green",
+      "toTheme": "purple"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "III",
+      "label": "Divine Will",
+      "hebrew": "רצון עליון / גלגלתא / מקיף",
+      "english": "Ratzon Elyon · Supernal Will · Gulgalta · The Encompassing Aspect",
+      "tagline": "The mitzvot are the <span class=\"heb\">רצון עליון</span> — Supernal Will. Like the skull (<span class=\"heb\">גלגלתא</span>) that encompasses the brain, the Will transcends intellect entirely. Through mitzvot, we draw down the transcendent Sovev light.",
+      "badges": [
+        { "label": "Mitzvot's Source", "variant": "primary" },
+        { "label": "Li Rosh", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Israel = Li Rosh",
+          "content": "The Zohar interprets \"Yisrael\" as <span class=\"heb\">לי ראש</span> — \"to Me a head.\" When Jews perform mitzvot, they draw down not just the \"hair\" (contracted revelation), but the actual <span class=\"hl\">skull and brain</span> themselves — the complete Rosh!"
+        },
+        {
+          "title": "Skull and Brain",
+          "content": "The physical head has two components: the <span class=\"hl\">gulgalta</span> (skull) which is visible, and the <span class=\"hl\">mocha</span> (brain) hidden within. Mitzvot = the revealed Will (we know what to do). Ta'amei Mitzvot = the hidden reason/pleasure concealed within."
+        },
+        {
+          "title": "The Reward: Techiyat HaMetim",
+          "content": "Resurrection of the Dead is the revelation of Sovev drawn through mitzvot — and this can <span class=\"hl\">only</span> be revealed in the physical world, to souls in bodies! The highest light specifically connects to the lowest place."
+        },
+        {
+          "title": "Shaking the Head",
+          "content": "Chazal teach: When Israel says <span class=\"heb\">אמן יהא שמיה רבא</span>, HaKadosh Baruch Hu \"shakes His head.\" This \"shaking\" is a hamshachah — drawing down — of the Rosh itself into the lower worlds through our physical service."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "blue"
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "IV",
+      "label": "The Tallit",
+      "hebrew": "טלית / פריסו דמלכא / מקיף הגדול",
+      "english": "The Prayer Shawl · Prishu d'Malka · The Great Encompassing Light",
+      "tagline": "The Tallit represents <span class=\"heb\">אור מקיף הגדול</span> — the great encompassing light surrounding all of Ze'ir Anpin from head to toe. It is the <span class=\"heb\">פריסו דמלכא</span> — the King's garment. Wrapping in it symbolizes enveloping oneself in transcendent light.",
+      "badges": [
+        { "label": "Sovev Symbol", "variant": "primary" },
+        { "label": "No Kedushah", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Numerical Hint",
+          "content": "The gematria of \"Tallit\" (with kollel) = 10 × 45 (the value of Name מ\"ה), corresponding to the ten sefirot of Ze'ir Anpin. Just as a physical Tallit envelops the body, the spiritual Tallit alludes to Divine light encompassing the supernal Adam of Atzilut."
+        },
+        {
+          "title": "Never Entered Inside",
+          "content": "The Tallit represents an encompassing light that <span class=\"hl\">never entered</span> Ze'ir Anpin at all — it always remained outside, surrounding all of Z\"A. This is different from the Tzitzit which were first internal, then emerged."
+        },
+        {
+          "title": "Why No Intrinsic Holiness?",
+          "content": "A puzzling halacha: The Tallit has no intrinsic kedushah and may be used for mundane purposes. Why? Precisely because it represents an <span class=\"hl\">infinitely exalted</span> light, that light cannot truly \"clothe itself\" within the physical garment!"
+        },
+        {
+          "title": "Wrapping in Majesty",
+          "content": "When you wrap in the Tallit each morning, contemplate: You are enveloping yourself in Sovev Kol Almin — the light drawn through all your mitzvot. The Tallit is the King's garment — you are wrapping yourself in Divine majesty."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "blue",
+      "toTheme": "red"
+    },
+    {
+      "type": "level-card",
+      "theme": "red",
+      "number": "V",
+      "label": "The Tzitzit",
+      "hebrew": "ציצית / שערות / מקיף החוזר",
+      "english": "The Fringes · Se'arot (Hairs) · The Returning Encompassing Light",
+      "tagline": "The Tzitzit are like <span class=\"heb\">שערות</span> — hairs emerging from the head: \"<span class=\"heb\">ויקחני בציצית ראשי</span>.\" They represent the <span class=\"heb\">מקיף החוזר</span> — light that was first <span class=\"hl\">internal</span> in the Mochin, then burst forth to become encompassing.",
+      "badges": [
+        { "label": "Tashmishei Mitzvah", "variant": "primary" },
+        { "label": "32 Threads", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Hair-Like Transmission",
+          "content": "Hairs emerge from the head and surround it. They contain minute vitality from the brain within their hollow core. Similarly, Tzitzit represent contracted emanation from hidden Ta'am Kamus — transmitting from the lofty Mochin to the lowest Malchut."
+        },
+        {
+          "title": "Why Tzitzit Have Kedushah",
+          "content": "Unlike the Tallit, Tzitzit threads are <span class=\"heb\">תשמישי מצוה</span> and may not be treated disrespectfully. Why? Because they represent a more <span class=\"hl\">contracted</span> light — one that can actually invest within the physical threads themselves."
+        },
+        {
+          "title": "32 Threads = 32 Pathways",
+          "content": "The 32 threads (4 corners × 8 threads) correspond to the <span class=\"heb\">לב נתיבות חכמה</span> — 32 pathways of Chochmah. Through these \"hairs,\" the exalted Chochmah rooted in Adam Kadmon reaches down to Malchut."
+        },
+        {
+          "title": "Reaching Risha d'Nukva",
+          "content": "The Tzitzit extend to <span class=\"heb\">רישא דנוקבא</span> — the head of Malchut. They draw light from the lofty Mochin all the way down to the world of physical action. This is the mechanism for infinite light reaching finite existence."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Two Colors — White & Techeiles"
+    },
+    {
+      "type": "item-grid",
+      "columns": 2,
+      "items": [
+        {
+          "hebrew": "לבן / חוטי לבן",
+          "english": "White Threads",
+          "theme": "gold",
+          "description": "Pure compassion from above — Rachamim Peshutim. Represents Chochmah Ila'ah where 'His hair is like pure white wool.' Bittul b'metzius — total nullification where separate existence is inconceivable.",
+          "detail": "White represents <b>Esha Chivra</b> (white fire) — Divine light as it exists purely in Atzilut, where \"He and His garments are one.\" Here, Name M\"H (45) shines, creating complete bittul. The white threads flow from the intensity of the supernal light itself — not in response to any action from below."
+        },
+        {
+          "hebrew": "תכלת / חוטי תכלת",
+          "english": "Techeiles Threads",
+          "theme": "blue",
+          "description": "Light engaging physicality — Gevurot d'Abba. Resembles the sea, which resembles the firmament. Creates bittul hayesh — nullification of the 'something' that feels itself existing.",
+          "detail": "<b>Esha Techola</b> (blue fire) — like the flame near the wick that consumes physical material. Techeiles represents Chochmah <b>contracting</b> through Gevurot to engage with lower worlds. It nullifies kelipah while bringing true life to the kosher world. \"Eretz ochelet yoshveha\" — but for those with yirah, \"Tovah ha'aretz me'od me'od!\""
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Two Types of Reward — The Core Debate"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "aspect", "label": "Aspect" },
+        { "key": "ganEden", "label": "Gan Eden", "theme": "green" },
+        { "key": "techiyat", "label": "Techiyat HaMetim", "theme": "gold" }
+      ],
+      "rows": [
+        { "aspect": "Light Type", "ganEden": "Memalei / Ohr Pnimi — inner light adapted to vessels", "techiyat": "Sovev / Ohr Makif — transcendent light equally encompassing" },
+        { "aspect": "Drawn By", "ganEden": "Torah study — accessing Chochmah", "techiyat": "Mitzvot — connecting to Ratzon Elyon" },
+        { "aspect": "Soul State", "ganEden": "Soul without body — purely spiritual perception", "techiyat": "Soul in body — physical vessel for infinite light" },
+        { "aspect": "Location", "ganEden": "Spiritual paradise — realm of refined comprehension", "techiyat": "This physical world — where the highest connects to the lowest" },
+        { "aspect": "Content", "ganEden": "Delight in ta'amei mitzvot — understanding Divine reasons", "techiyat": "Revelation of Ein Sof — the Essence Itself" },
+        { "aspect": "Rambam vs Ramban", "ganEden": "Rambam: This is the ultimate goal", "techiyat": "Ramban (& Chassidut): This is the ultimate goal" }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Soul's Descent — Why Physical Mitzvot?"
+    },
+    {
+      "type": "info-panel",
+      "title": "The Bewildering Journey Explained",
+      "intro": "Before entering a body, the soul stood before Hashem like the angels. Then it descended into a physical body to perform mitzvot with wool, grain, and wine. How can this be an ascent?",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "נעוץ תחילתן בסופן",
+          "content": "The beginning is embedded in the end. Because Sovev is <b>unlimited</b>, it doesn't need appropriate vessels. It can illuminate the physical world — and has a <b>special connection</b> to the lowest point. This is why the ultimate reward (Techiyat HaMetim) occurs specifically here."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "משל השמש",
+          "content": "The sun's heat: The first layer near the sun is hot. The middle layer is colder. But the third layer near earth is hot again — <b>even hotter</b> than the middle! When light reaches its endpoint, it \"strikes\" and reflects with greater intensity."
+        },
+        {
+          "theme": "green",
+          "hebrew": "תורה ומצוות יחד",
+          "content": "Through Torah, we access Memalei — inner light rooted in Chochmah of Adam Kadmon. Through Mitzvot, we draw Sovev — the transcendent Will. Together, they accomplish what neither can alone: revealing Ein Sof in this lowest world."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "דירה בתחתונים",
+          "content": "The purpose of creation: Hashem desired a dwelling in the <b>lowest realms</b>. Physical mitzvot accomplish this precisely because they are physical — the transcendent can only be revealed in the specific place where it seems most absent."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Conceptual Pairs & Key Distinctions"
+    },
+    {
+      "type": "info-panel",
+      "title": "Fundamental Dualisms",
+      "items": [
+        {
+          "theme": "blue",
+          "hebrew": "טלית vs. ציצית",
+          "content": "<b style=\"color:var(--blue-bright)\">Tallit</b> — Ohr Makif HaGadol; encompasses all of Z\"A; never entered inside; no inherent kedushah · <b style=\"color:var(--red-bright)\">Tzitzit</b> — Makif HaChozer; emerges from Mochin outward; encompasses only the upper sefirot; tashmishei mitzvah"
+        },
+        {
+          "theme": "gold",
+          "hebrew": "גלגלתא vs. מוחא",
+          "content": "<b style=\"color:var(--purple-bright)\">Gulgalta</b> (skull) = revealed Ratzon Elyon; we know what Hashem wants · <b style=\"color:var(--green-bright)\">Mocha</b> (brain) = hidden Ta'am Kamus; reasons remain concealed — \"Shtok! Kach alah b'machshavah!\""
+        },
+        {
+          "theme": "green",
+          "hebrew": "תורה vs. מצוות",
+          "content": "<b style=\"color:var(--green-bright)\">Torah</b> — from Chochmah; draws Ohr Pnimi; reward is Gan Eden (souls without bodies) · <b style=\"color:var(--purple-bright)\">Mitzvot</b> — from Ratzon; draw Ohr Makif; reward is Resurrection (souls in bodies)"
+        },
+        {
+          "theme": "purple",
+          "hebrew": "ביטול במציאות vs. ביטול היש",
+          "content": "<b style=\"color:var(--gold-bright)\">Bittul B'Metzius</b> — total nullification in Atzilut where Name M\"AH shines; white fire · <b style=\"color:var(--blue-bright)\">Bittul HaYesh</b> — nullifying the \"something\" in B\"YA; techeiles engaging physicality"
+        }
+      ]
+    },
+
+    {
+      "type": "info-panel",
+      "title": "Techeiles: Fire Meeting the Wick",
+      "items": [
+        {
+          "theme": "blue",
+          "hebrew": "אשא חיורא ואשא תכלא",
+          "content": "Look at a flame: most is bright white/yellow — the essential color. Near the wick, the flame is darker, blue. Why? <b>Engagement with physicality</b> changes the fire's appearance. Techeiles = light descending to consume and transform physical matter."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "תכלת דומה לים",
+          "content": "\"Techeiles resembles the sea, and the sea resembles the firmament.\" The sea = Malchut. The firmament = the Makif (encompassing aspect). Techeiles represents the <b>Makif dimension</b> of Malchut — inspiring genuine yirah in the heart."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "גבורות דאבא",
+          "content": "The Arizal: Techeiles derives from <b>Gevurot d'Abba</b> — tzimtzum within Chochmah. Pure Chochmah-light cannot engage with separate beings directly. Contraction is needed to create bittul hayesh in actual existing entities."
+        },
+        {
+          "theme": "red",
+          "hebrew": "ביטול = חיים",
+          "content": "The Spies erred: \"<span class=\"heb\">ארץ אוכלת יושביה</span>\" — they thought nullification is destructive. But <b>meraglei shikra haveh!</b> True bittul brings life: \"<span class=\"heb\">ואתם הדבקים בה׳ חיים כולכם היום</span>.\""
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Se'arot — The Paradox of Hair-Like Transmission"
+    },
+    {
+      "type": "info-panel",
+      "title": "How Infinity Reaches Finitude",
+      "intro": "A difficulty in the Arizal: Malchut receives from Netzach-Hod-Yesod (lower aspects) — yet also receives from Mochin (upper aspects) via se'arot. How do these reconcile?",
+      "items": [
+        {
+          "theme": "green",
+          "hebrew": "עליון למטה = שערות",
+          "content": "When influence flows between <b>close levels</b>, it flows directly from the \"body\" of the upper level. But across a vast gap — from much higher to much lower — it can <b>only come through se'arot</b> (hairs). Hair represents extreme tzimtzum."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "The Paradox",
+          "content": "Se'arot contain the <b>most contracted</b> form of brain vitality — cutting hair causes no pain. Yet precisely because they connect to the brain's <b>essence</b>, they can transmit a higher level than the \"body\" itself! The most external channel carries the most internal source."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "Regular vs. Exalted Mochin",
+          "content": "Regular Mochin d'Nukva come from NHY of Z\"A — close levels transmitting normally. But the exalted Chochmah of Torah, rooted in Adam Kadmon, can <b>only reach Malchut via se'arot</b> — the 32 threads corresponding to 32 pathways."
+        }
+      ],
+      "outro": "This is why Tzitzit (hairs) can transmit what the Tallit (body) cannot: the inner essence contracted to its minimum, paradoxically carrying the maximum revelation to the farthest distance."
+    },
+
+    {
+      "type": "section-label",
+      "text": "Tallit & Tzitzit — The Core Contrast"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Dimension" },
+        { "key": "tallit", "label": "Tallit", "theme": "blue" },
+        { "key": "tzitzit", "label": "Tzitzit", "theme": "red" }
+      ],
+      "rows": [
+        { "dimension": "Represents", "tallit": "Ohr Makif HaGadol — the great encompassing light", "tzitzit": "Makif HaChozer — the returning encompassing light" },
+        { "dimension": "Origin", "tallit": "Light that never entered Z\"A — always external", "tzitzit": "Light that was first internal, then emerged outward" },
+        { "dimension": "Scope", "tallit": "Encompasses all of Z\"A from head to toe", "tzitzit": "Encompasses only the Mochin (upper 3 sefirot)" },
+        { "dimension": "Symbol", "tallit": "King's garment (Prishu d'Malka) — Ratzon / Mitzvot", "tzitzit": "Hairs (Se'arot) — Ta'am Kamus / Chochmah / Torah" },
+        { "dimension": "Kedushah", "tallit": "No inherent holiness — too exalted to invest", "tzitzit": "Tashmishei Mitzvah — contracted enough to invest" },
+        { "dimension": "Analogy", "tallit": "The skull (Gulgalta) — revealed will", "tzitzit": "Hairs emerging from skull — contracted brain vitality" }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Why Tzitzit Equals All the Mitzvot"
+    },
+    {
+      "type": "info-panel",
+      "title": "The Complete Picture",
+      "items": [
+        {
+          "theme": "blue",
+          "hebrew": "טלית = מצוות",
+          "content": "The <b>Tallit</b> represents the Ohr Makif / Sovev / Ratzon Elyon — the transcendent light drawn down through all the mitzvot. It is the encompassing garment of Divine majesty wrapping the entire structure of creation."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "ציצית (לבן) = תורה",
+          "content": "The <b>white Tzitzit threads</b> represent the Ohr Pnimi / Memalei / Ta'am Kamus — the inner light of Torah wisdom flowing from Chochmah of Adam Kadmon through the 32 pathways of contraction."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "ציצית (תכלת) = עולם המעשה",
+          "content": "The <b>techeiles threads</b> represent the same light contracting further to engage the physical world — creating bittul hayesh and destroying kelipah while enlivening holy existence."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "שקולה מצוה זו",
+          "content": "Because Tzitzit encompasses <b>both dimensions</b> of Divine service — the mitzvot aspect (Tallit/Makif) and the Torah aspect (threads/Pnimi) — it is \"equivalent to all the mitzvot combined.\" It is a microcosm of everything."
+        }
+      ],
+      "outro": "\"<span class=\"heb\">וראיתם אותו וזכרתם את כל מצות ה׳</span>\" — When a Jew looks at his Tzitzit, he sees a physical representation of the entire structure of Torah and mitzvot: the transcendent and the immanent, white and techeiles, Gan Eden and Techiyat HaMetim. Threads of infinity woven into daily garments, reminding us of our cosmic purpose."
+    }
+  ]
+}

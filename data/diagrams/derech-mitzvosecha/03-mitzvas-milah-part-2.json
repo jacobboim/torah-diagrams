@@ -1,0 +1,375 @@
+{
+  "id": "derech-mitzvosecha/03-mitzvas-milah-part-2",
+  "meta": {
+    "sefer": "Derech Mitzvosecha",
+    "author": "The Tzemach Tzedek of Lubavitch",
+    "hebrewTitle": "מצות מילה - חלק ב",
+    "englishTitle": "The Revelation of the Hidden Light — Circumcision and Adam Kadmon",
+    "subtitle": "Why the Eighth Day Accesses What No Other Mitzvah Can",
+    "sourceDiscourse": "discourses/derech-mitzvosecha/03-mitzvas-milah-part-2.json"
+  },
+  "blocks": [
+    {
+      "type": "verse",
+      "text": "וַאֲנִי הִנֵּה בְרִיתִי אִתָּךְ וְהָיִיתָ לְאַב הֲמוֹן גּוֹיִם",
+      "reference": "Genesis 17:4 — Ani with zakef gadol, hinting at Ayin / Keter / A\"K"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "The Hidden Light",
+      "hebrew": "אור הגנוז / עצמות",
+      "english": "Or HaGanuz · The Concealed Essence",
+      "tagline": "The deepest Divine light — hidden since creation, awaiting revelation. Through removing the <span class=\"heb\">ערלה</span>, we don't merely draw down light; we <b>remove what conceals</b> the light that was always there.",
+      "badges": [
+        { "label": "Source of All", "variant": "primary" },
+        { "label": "Beyond Garments", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why Create Imperfection?",
+          "content": "The Roman noblewoman asked Rabbi Akiva: If G-d doesn't want the foreskin, why create it? Answer: Like the <span class=\"hl\">lupine bean</span> that must be boiled seven times — G-d deliberately created things requiring human effort to perfect."
+        },
+        {
+          "title": "Bread of Shame",
+          "content": "True <span class=\"hl\">hatavah shleimah</span> (complete goodness) cannot be a handout. When someone receives what they didn't earn, they experience <span class=\"heb\">נהמא דכיסופא</span> — \"bread of shame.\" The struggle is the gift."
+        },
+        {
+          "title": "Earning the Light",
+          "content": "Through our work of <span class=\"heb\">סור מרע ועשה טוב</span>, we cause Divine revelation. The light that results becomes truly <b>our own</b> — both because we worked for it, and because we ourselves brought it into existence."
+        },
+        {
+          "title": "The Breaking of Vessels",
+          "content": "The <span class=\"hl\">shevirat hakelim</span> was an act of kindness — sparks fell to create opportunity for elevation. When we elevate them through Torah and mitzvot, an even greater light emerges than existed before."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "gold-dim"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold-dim",
+      "number": "I",
+      "label": "Primordial Man",
+      "hebrew": "אדם קדמון / רעוא דכל רעואין",
+      "english": "Adam Kadmon · Re'ua d'Chol Re'uvin · The Will of All Wills",
+      "tagline": "The original, simple, all-encompassing Divine Will to create. Not a specific mode of revelation, but the soul's <b>movement toward</b> creation while remaining itself. From A\"K's perspective, <span class=\"heb\">אצילות ועשיה שווים</span> — Atzilut and Asiyah are equal.",
+      "badges": [
+        { "label": "Simple Will", "variant": "primary" },
+        { "label": "Contains All", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why 'Adam'?",
+          "content": "The name hints at <span class=\"heb\">אדמה</span> — \"I will be similar\" to the Infinite One. A\"K contains all of creation in one unified reality — from highest spiritual realms to lowest physical matter, all in one 'body.' This is the <span class=\"hl\">shleimusa d'kula</span> (completeness of everything)."
+        },
+        {
+          "title": "Why 'Kadmon' (Primordial)?",
+          "content": "Before there was a specific will for wisdom, kindness, Torah, or Israel — there was one undivided Will to create. This <span class=\"hl\">Ratzon HaPashut</span> (Simple Will) is not basic but <b>undivided</b>, containing everything in potential."
+        },
+        {
+          "title": "The Verse's Secret",
+          "content": "\"<span class=\"heb\">אני</span>\" (I) with <span class=\"hl\">zakef gadol</span> hints at <span class=\"heb\">אין</span> (Ayin/infinity) — the level of Keter. The special cantillation indicates the highest ascent: to the peak of A\"K itself."
+        },
+        {
+          "title": "Equal Before A\"K",
+          "content": "Because A\"K contains all creation equally, the highest angelic realm and the lowest physical rock are <b>identical</b> before this all-encompassing Will. This is what makes its light so transcendent — and why all barriers must be removed for it to shine."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold-dim",
+      "toTheme": "purple"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "II",
+      "label": "Victory Beyond Reason",
+      "hebrew": "נצח דא״ק / רצון פשוט",
+      "english": "Netzach of A\"K · The Paradox of Lowest Yet Highest",
+      "tagline": "All influence from A\"K comes specifically from <span class=\"heb\">נצח-הוד-יסוד</span>, not the higher sefirot. Why? Because from A\"K's perspective, there's no <b>logical reason</b> to give to such lowly creations. The giving can only be through <span class=\"hl\">Netzach</span> — determination beyond reason.",
+      "badges": [
+        { "label": "Beyond Logic", "variant": "primary" },
+        { "label": "King's Treasures", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Three Levels of Kindness",
+          "content": "<b>1.</b> Chesed from Chochmah — giving because one intellectually understands its value.<br><b>2.</b> Chesed from emotion — giving because one enjoys it.<br><b>3.</b> <span class=\"hl\">Chesed from Netzach</span> — giving with determination, even without understanding or enjoyment. \"I will do this no matter what.\""
+        },
+        {
+          "title": "The King's Hidden Treasures",
+          "content": "For routine matters, a king uses his regular budget. But when facing a formidable enemy and needing <span class=\"hl\">nitzachon</span> (victory) at all costs, he opens his most hidden treasure vaults — wealth no one has ever seen. He would never spend these for ordinary purposes. But for victory — <b>everything</b>."
+        },
+        {
+          "title": "The Paradox Revealed",
+          "content": "Netzach seems \"lower\" (below intellect and emotion), yet it reaches the <span class=\"hl\">deepest essence</span> — the simple will that transcends all faculties. Similarly above: Though Netzach of A\"K seems external, it actually draws from the innermost <span class=\"heb\">פנימיות</span> of A\"K."
+        },
+        {
+          "title": "Avraham's Example",
+          "content": "Avraham's hospitality to idol-worshipping Arabs was Netzach-level kindness. He certainly didn't love idol worshippers, and there was no intellectual pleasure in serving them. Yet he persisted in kindness — that's <span class=\"hl\">Netzach</span>."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "blue"
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "III",
+      "label": "Encompassing Light",
+      "hebrew": "אור מקיף / סובב כל עלמין",
+      "english": "Or Makif · Sovev Kol Almin · Light Without Garments",
+      "tagline": "The light of A\"K is <span class=\"heb\">אור מקיף</span> — it surrounds everything equally <b>without becoming invested</b>. It's present everywhere, but not <i>within</i> anything. No garments protect it. If kelipot exist, they would draw from it — so the <span class=\"hl\">orlah must be removed</span>.",
+      "badges": [
+        { "label": "No Garments", "variant": "primary" },
+        { "label": "Equal to All", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why Orlah Blocks Only A\"K",
+          "content": "The orlah doesn't block Atzilut — Avraham received prophecy <i>before</i> circumcision! Atzilut's light comes through <span class=\"hl\">garments</span> that protect it, ensuring it reaches only proper destinations. But A\"K has no garments — the kelipot would draw from its exposed light."
+        },
+        {
+          "title": "The Eighth Day",
+          "content": "Seven = fullness of creation (7 days, 7 sefirot). <span class=\"hl\">Eight = beyond creation</span>. Shabbat is the holiest <i>within</i> the seven. The light of A\"K is <b>above</b> this framework entirely — hence the eighth day."
+        },
+        {
+          "title": "Why Milah Overrides Shabbat",
+          "content": "A higher level overrides a lower one. The \"eighth\" (A\"K) transcends the \"seventh\" (Shabbat/Atzilut). King David sang \"<span class=\"heb\">למנצח על השמינית</span>\" — recognizing that the eighth, accessed through milah, is the true source of joy."
+        },
+        {
+          "title": "I and He Cannot Dwell Together",
+          "content": "\"<span class=\"heb\">אני והוא אין יכולים לדור במקום אחד</span>\" — G-d and ego cannot coexist. The very presence of kelipot prevents Or Makif from shining. <b>Remove the barrier</b>, and the light shines <span class=\"heb\">ממילא</span> (on its own)."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "blue",
+      "toTheme": "green"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "IV",
+      "label": "Internal Light",
+      "hebrew": "אור פנימי / ממלא כל עלמין",
+      "english": "Or Pnimi · Memale Kol Almin · Light Through Garments",
+      "tagline": "The light of Atzilut enters and becomes <b>invested</b> in the recipient. It shines through 'garments' that transform it to match each level. The Ten Utterances animate creation from within — \"<span class=\"heb\">יהי רקיע</span>\" still stands within the heavens, vivifying them constantly.",
+      "badges": [
+        { "label": "Through Vessels", "variant": "primary" },
+        { "label": "Hierarchical", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Different for Each World",
+          "content": "Unlike Or Makif (equal to all), Or Pnimi creates <span class=\"hl\">hierarchy</span>. The light transforms as it descends: Atzilut → Beriah → Yetzirah → Asiyah. Each world receives according to its capacity through progressively denser garments."
+        },
+        {
+          "title": "Why Don't Creations Feel G-d?",
+          "content": "Divine light is within everything — but the concealing garments hide its source. On <span class=\"hl\">Shabbat</span>, these garments become more transparent and we sense the Divine within creation. But even then, it's still internal light working through garments."
+        },
+        {
+          "title": "Most Mitzvot Work Here",
+          "content": "Positive commandments draw down Or Pnimi through <span class=\"heb\">אתערותא דלתתא</span> (arousal from below). We perform an action with a physical object, awakening its spiritual counterpart above. This is the normal mechanism of revelation."
+        },
+        {
+          "title": "Circumcision is Different",
+          "content": "Milah doesn't <i>draw down</i> light — it <span class=\"hl\">removes what prevents</span> light from shining. The light of A\"K is so lofty that our actions cannot \"reach\" it. We can only remove the obstacle; then it shines on its own."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "green",
+      "toTheme": "red"
+    },
+    {
+      "type": "level-card",
+      "theme": "red",
+      "number": "V",
+      "label": "The Physical Barrier",
+      "hebrew": "ערלה / מחסום הגשמי",
+      "english": "Orlah · The Foreskin · The Barrier That Must Be Removed",
+      "tagline": "The orlah exists above in spiritual realms as a concealing barrier, and manifests in the physical body. Man is an <span class=\"heb\">עולם קטן</span> (microcosm). Through removing the physical covering below, we reveal the most hidden Divine treasures above.",
+      "badges": [
+        { "label": "Microcosm", "variant": "primary" },
+        { "label": "Removal = Revelation", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Covenant in the Flesh",
+          "content": "\"<span class=\"heb\">בריתי אתך</span>\" — the covenant is with the <span class=\"hl\">innermost Divinity</span> (A\"K). Through circumcision, this deepest connection is established not just spiritually but <b>in the physical body itself</b>. The body becomes holy."
+        },
+        {
+          "title": "Milah and Priah — Two Stages",
+          "content": "<span class=\"hl\">Milah</span> (thick skin) removes the barrier to the lower level of A\"K. <span class=\"hl\">Priah</span> (thin membrane) removes the barrier to the higher, more internal level. For the lower level, even a thin covering doesn't obstruct — but for the higher level, even the thinnest barrier must go."
+        },
+        {
+          "title": "Why Kareit for Circumcision?",
+          "content": "Only two positive mitzvot carry <span class=\"heb\">כרת</span>: circumcision and Pesach. Why? Because these connect to the <span class=\"hl\">deepest root of the soul</span>. Neglecting circumcision blocks the soul's ultimate source — A\"K, \"the root of roots.\""
+        },
+        {
+          "title": "Avraham Became Tamim",
+          "content": "Despite all his spiritual accomplishments, Avraham wasn't called <span class=\"heb\">תמים</span> (complete) until after circumcision. <span class=\"hl\">Tamim</span> means wholeness that can only come from A\"K, the \"completeness of everything.\" Only through milah did he achieve this."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Two Stages of Circumcision"
+    },
+    {
+      "type": "item-grid",
+      "columns": 2,
+      "items": [
+        {
+          "hebrew": "מילה",
+          "english": "Milah · Cutting",
+          "theme": "blue",
+          "description": "Removal of the thick foreskin. Accesses the lower, more external level of Adam Kadmon. Performed even in Egypt before the deeper revelation.",
+          "detail": "The <b>milah</b> removes the major barrier — the thick covering that separates entirely. This opens the channel to A\"K's external aspect. In Egypt, even as the Jews were redeemed, they hadn't yet reached the highest revelation. The milah alone was sufficient for that level."
+        },
+        {
+          "hebrew": "פריעה",
+          "english": "Priah · Uncovering",
+          "theme": "gold",
+          "description": "Removal of the thin membrane. Accesses the higher, more internal level of A\"K. Required specifically before entering the Land of Israel.",
+          "detail": "The <b>priah</b> removes even the subtle barrier — the thin membrane that remains. Upon entering the Land — \"<span class=\"heb\">ארץ אשר ה׳ אלקיך דורש אותה תמיד</span>\" (the land G-d constantly watches) — a higher level of revelation would shine. This greater light required complete removal of all barriers."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Core Conceptual Pairs"
+    },
+    {
+      "type": "info-panel",
+      "title": "Key Distinctions in the Discourse",
+      "items": [
+        {
+          "theme": "blue",
+          "hebrew": "אור מקיף vs. אור פנימי",
+          "content": "<b style=\"color:var(--blue-bright)\">Or Makif</b> — encompasses without investing; equal to all; no garments; requires removal of barriers · <b style=\"color:var(--green-bright)\">Or Pnimi</b> — invests within; hierarchical; works through garments; drawn down by action"
+        },
+        {
+          "theme": "gold",
+          "hebrew": "שמיני vs. שבעה",
+          "content": "<b style=\"color:var(--gold-bright)\">Eight</b> — beyond creation; Adam Kadmon; overrides Shabbat · <b>Seven</b> — fullness of creation; includes Shabbat; the natural order"
+        },
+        {
+          "theme": "purple",
+          "hebrew": "הסרה vs. המשכה",
+          "content": "<b style=\"color:var(--purple-bright)\">Removal</b> (circumcision) — eliminates barrier; light shines on its own; accesses A\"K · <b>Drawing down</b> (other mitzvot) — awakens spiritual counterpart; draws Or Pnimi; works within Atzilut"
+        },
+        {
+          "theme": "green",
+          "hebrew": "נהמא דכיסופא vs. שכר עבודה",
+          "content": "<b>Bread of Shame</b> — unearned gift; diminished by the knowledge of not deserving · <b style=\"color:var(--green-bright)\">Earned Reward</b> — fruit of labor; complete goodness; truly one's own"
+        },
+        {
+          "theme": "red",
+          "hebrew": "לא תעשה vs. עשה",
+          "content": "<b style=\"color:var(--red-bright)\">Negative commands</b> — rooted in Yud-Heh (Chochmah-Binah); about removal; higher source · <b>Positive commands</b> — rooted in Vav-Heh (emotions); about drawing down; works through vessels"
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "The Paradox of Netzach",
+      "intro": "The attribute of Netzach (Victory/Eternity) appears lowest among the sefirot — yet reaches the highest source. This paradox explains why all influence from A\"K comes specifically through Netzach.",
+      "items": [
+        {
+          "theme": "purple",
+          "hebrew": "הנמוך ביותר = הגבוה ביותר",
+          "content": "<b>Seemingly lower</b> — below intellect and emotion; operates \"without reason\"<br><b>Actually highest</b> — reaches deeper than intellect and emotion; draws from the simple will that transcends all structure"
+        },
+        {
+          "theme": "gold",
+          "hebrew": "אוצרות המלך הגנוזים",
+          "content": "For ordinary matters, the king uses his regular treasury. For <span class=\"hl\">nitzachon</span> (victory), he opens the <b>hidden vaults</b> — wealth accumulated over generations that no one has ever seen. He would never spend these for routine purposes. But for victory — everything."
+        },
+        {
+          "theme": "green",
+          "hebrew": "ההליכה לפני השכל",
+          "content": "A baby develops some intellect before learning to walk. Yet <b>walking</b> (Netzach-Hod, the \"two supports of truth\") develops later. Why? Because the ability to walk comes from a <span class=\"hl\">deeper root</span> than intellect. What's higher comes later — and more externally."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "עם קשה עורף",
+          "content": "Moshe pleaded: \"For it is a stiff-necked people — <b>therefore forgive!</b>\" Israel's stubbornness reflects their Netzach-level connection — persisting in faith even without understanding. This <span class=\"heb\">קשיות עורף</span> evokes forgiveness from Keter itself."
+        }
+      ],
+      "outro": "The lower manifestation of \"beyond reason\" corresponds to the higher level of \"beyond reason.\" What appears as obstinacy below is actually connection to the Simple Will above."
+    },
+
+    {
+      "type": "section-label",
+      "text": "Three Key Parables"
+    },
+    {
+      "type": "parable-grid",
+      "items": [
+        {
+          "icon": "🫘",
+          "title": "The Lupine Bean",
+          "body": "Rabbi Akiva's answer to the noblewoman: The turmosin (lupine bean) is inedible in its natural state — it must be boiled seven times before becoming sweet. G-d deliberately created things requiring human effort to perfect. The difficulty is the point."
+        },
+        {
+          "icon": "👑",
+          "title": "The King's Hidden Treasures",
+          "body": "For routine matters, a king uses his regular budget. But when needing victory at all costs, he opens vaults of wealth accumulated over generations that no one has ever seen. Netzach — determination to win — unlocks what logic never could."
+        },
+        {
+          "icon": "👶",
+          "title": "The Walking Child",
+          "body": "A baby develops some intellect before learning to walk. Yet walking comes from a deeper root than intellect — it develops later precisely because it's higher. What's most essential expresses through what seems most external."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Circumcision vs. Other Mitzvot — The Core Contrast"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Dimension" },
+        { "key": "milah", "label": "Circumcision", "theme": "gold" },
+        { "key": "mitzvot", "label": "Other Mitzvot", "theme": "green" }
+      ],
+      "rows": [
+        { "dimension": "Mechanism", "milah": "Removal — eliminates barrier blocking light", "mitzvot": "Drawing — awakens spiritual counterpart above" },
+        { "dimension": "Light Accessed", "milah": "Or Makif / Light of Adam Kadmon", "mitzvot": "Or Pnimi / Light of Atzilut" },
+        { "dimension": "Source Level", "milah": "Corresponds to Yud-Heh (Chochmah-Binah)", "mitzvot": "Corresponds to Vav-Heh (emotions)" },
+        { "dimension": "How Light Comes", "milah": "Shines on its own once barrier removed", "mitzvot": "Drawn down by our effort" },
+        { "dimension": "Relation to Levels", "milah": "Atzilut and Asiyah are equal before it", "mitzvot": "Different for each world in the chain" },
+        { "dimension": "The Kelipot", "milah": "Block it entirely (no garments)", "mitzvot": "Don't block it (garments protect)" },
+        { "dimension": "Overrides Shabbat?", "milah": "Yes — the \"eighth\" transcends the \"seventh\"", "mitzvot": "No — within the framework of creation" },
+        { "dimension": "Punishment for Neglect", "milah": "Kareit — blocks soul's deepest root", "mitzvot": "Varies — loss of particular illumination" }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Ultimate Purpose"
+    },
+    {
+      "type": "prose",
+      "content": "Circumcision establishes that the <b>Jewish body itself</b> — not just the soul — is a vessel for the highest Divine revelations. The physical flesh becomes holy. A Jew's mundane activities become <span class=\"heb\">חולין על טהרת הקודש</span> — secular matters performed with sacred purity.<br><br>This is the ultimate purpose of creation: not escape from the physical world, but its <span class=\"hl\">transformation</span> into a dwelling place for G-d. Through removing the orlah, we reveal that the \"sackcloth garment\" of physicality can become transparent to infinite light — that the lowest place can house the highest revelation."
+    }
+  ]
+}

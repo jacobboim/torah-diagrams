@@ -68,8 +68,9 @@ export function useDiagramNav(): NavGroup[] {
 
     for (const entry of entries) {
       const sefer = entry.diagram.meta.sefer;
-      const book = entry.diagram.meta.book || null; // null if no book
-      const parshah = entry.diagram.meta.parshah || 'General';
+      // For Derech Mitzvosecha, ignore the book field since it's not organized by books
+      const book = (sefer === 'Derech Mitzvosecha') ? null : (entry.diagram.meta.book || null);
+      const parshah = entry.diagram.meta.parshah?.trim() || (sefer === 'Derech Mitzvosecha' ? 'Chelek Aleph' : 'General');
 
       if (!seferMap.has(sefer)) seferMap.set(sefer, new Map());
       const bookMap = seferMap.get(sefer)!;

@@ -1,0 +1,459 @@
+{
+  "id": "derech-mitzvosecha/08-mitzvas-hakaras-usefiras-haomer",
+  "meta": {
+    "sefer": "Derech Mitzvosecha",
+    "book": "Derech Mitzvosecha",
+    "parshah": "",
+    "hebrewTitle": "מצות הקרבת וספירת העומר",
+    "englishTitle": "The Omer Journey — From Barley to Revelation",
+    "subtitle": "The Tzemach Tzedek · Sefirat HaOmer",
+    "sourceDiscourse": "discourses/derech-mitzvosecha/08-mitzvas-hakaras-usefiras-haomer.json"
+  },
+  "blocks": [
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "The Fiftieth Gate",
+      "hebrew": "כתר / אנכי / שער הנ׳",
+      "english": "Keter · Anochi · The Unlimited Source",
+      "tagline": "\"Anochi Hashem Elokecha\" — the infinite Essence beyond all measure. This is the level revealed at Sinai on Shavuot: not <span class=\"heb\">שיעור ה׳</span> (measured light) but <span class=\"heb\">אנכי</span> itself — transcending all boundaries and limitations (<span class=\"heb\">מצרים</span>).",
+      "badges": [
+        { "label": "Shavuot", "variant": "primary" },
+        { "label": "Day 50", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Beyond Egypt — Beyond Measure",
+          "content": "\"Asher hotzeiticha me'eretz <span class=\"hl\">Mitzrayim</span>\" — who took you out of the land of Egypt. <span class=\"heb\">מצרים</span> means <span class=\"heb\">מצרים</span> — limitations. The Exodus represents transcending all boundaries, including the <span class=\"heb\">שיעור</span> (measure) that limits even the angels."
+        },
+        {
+          "title": "The 370 Lights",
+          "content": "On Shavuot, the <span class=\"heb\">ש״ע נהורין</span> (370 lights) are revealed from Keter, illuminating Chochmah directly. This is the <span class=\"hl\">he'arat panim</span> — the illumination of the divine face that is not filtered or measured like the Omer's light."
+        },
+        {
+          "title": "Not Counted — Automatically Revealed",
+          "content": "We count 49 days but the verse says \"count fifty days.\" The fiftieth is Keter — it cannot be counted because it is the source of all counting. When all 49 aspects are present, the 50th is automatically revealed."
+        },
+        {
+          "title": "Da'at Elyon — Transcendent Knowledge",
+          "content": "This level corresponds to <span class=\"heb\">דעת עליון</span> — innate recognition of G-d's absolute reality that transcends rational understanding. It is the source of <span class=\"hl\">mesiras nefesh</span> — self-sacrifice beyond reason."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "green"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "I",
+      "label": "Human Food",
+      "hebrew": "חיטה / מזון אדם / דעת עליון",
+      "english": "Wheat · Shtei HaLechem · Food of the Divine Soul",
+      "tagline": "\"A child does not know to call 'father' until it tastes grain.\" Wheat awakens <span class=\"heb\">דעת עליון</span> — the innate, supra-rational recognition of G-d as <span class=\"heb\">אנכי</span>. This is the food of the <span class=\"heb\">נפש האלוקית</span> — the divine soul.",
+      "badges": [
+        { "label": "מזון אדם", "variant": "primary" },
+        { "label": "Shavuot Offering", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Tree of Knowledge = Wheat",
+          "content": "The Sages identify the Tree of Knowledge as a wheat tree. Why? Because wheat awakens <span class=\"hl\">da'at</span> — but not ordinary intellectual knowledge. Rather, it awakens the faculty by which a child innately recognizes its parents without explanation."
+        },
+        {
+          "title": "Root in Tohu",
+          "content": "Wheat's spiritual root is in <span class=\"heb\">דעת דתוהו</span> — the knowledge-faculty of the World of Chaos, where there is no hierarchy of levels. From this source, transcendence can enter limitation. This is why wheat brings hidden knowledge into revelation."
+        },
+        {
+          "title": "Why Chametz on Shavuot",
+          "content": "The Shtei HaLechem must be chametz (leavened). After 49 days of refinement, the revelation comes in <span class=\"hl\">gadlut</span> (expanded consciousness). Even the ego — which chametz represents — can be elevated into a vessel for holiness."
+        },
+        {
+          "title": "Two Loaves — Two Souls",
+          "content": "The <span class=\"heb\">שתי הלחם</span> (Two Loaves) hint that the transcendent light of Shavuot now reaches <span class=\"hl\">both</span> the divine soul and the (transformed) animal soul. Through the counting, even \"animal food\" becomes capable of receiving \"human food.\""
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "green",
+      "toTheme": "purple"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "II",
+      "label": "The Measured Light",
+      "hebrew": "שיעור ה׳ / מלכות / חמש מוצאות",
+      "english": "Shi'ur Hei · The Measure of Malchut · Five Mouths of Speech",
+      "tagline": "The word <span class=\"heb\">שעורה</span> (barley) means <span class=\"heb\">שיעור ה׳</span> — \"the measure of Hei.\" The letter Hei refers to Malchut, through which divine light is measured, divided, and transmitted to the angels through five channels of divine speech.",
+      "badges": [
+        { "label": "שיעור ה׳", "variant": "primary" },
+        { "label": "Malchut", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why Must Light Be Measured?",
+          "content": "The divine light within the higher Sefirot cannot flow directly to created beings — it would overwhelm them. The five <span class=\"heb\">גבורות</span> in Malchut divide and portion the light, like breath passing through five articulation points to become distinct letters."
+        },
+        {
+          "title": "The Five Mouths",
+          "content": "Just as speech emerges through five points (lips, teeth, tongue, palate, throat), divine \"speech\" — the creative force sustaining existence — divides into five channels. Each angel receives from a specific channel, explaining their different modes of service."
+        },
+        {
+          "title": "The Palate — Source of All",
+          "content": "The palate (<span class=\"heb\">חיך</span>) corresponds to Chochmah within Malchut — the unified source containing all particular channels. This is why there are only four faces in the Chariot, not five. The fifth is the source that divides into four."
+        },
+        {
+          "title": "Gevurah Creates Individuation",
+          "content": "Every angel exists through a unique combination of divine \"letters\" — its spiritual DNA. The Gevurot make this individuation possible. Without the \"measuring\" function, the light would be too intense for any creature to receive."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "teal"
+    },
+    {
+      "type": "level-card",
+      "theme": "teal",
+      "number": "III",
+      "label": "The Heavenly Chariot",
+      "hebrew": "מרכבה / ארבע חיות / ארבע מחנות",
+      "english": "Merkavah · Four Chayot · The Angelic Camps",
+      "tagline": "Yechezkel's vision: four <span class=\"heb\">חיות</span> (holy creatures) with faces of lion, ox, eagle, and man — representing four camps of angels. Each receives a distinct type of divine vitality from a different \"mouth\" in Malchut, explaining their different modes of service.",
+      "badges": [
+        { "label": "Four Camps", "variant": "primary" },
+        { "label": "Omdim — Standing", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Separated Wings, United Faces",
+          "content": "\"Their faces and wings are separated from above.\" A hidden meaning: Their <span class=\"hl\">faces</span> (inner essence) are NOT separated — only their <span class=\"hl\">wings</span> (outward service). At the level of <span class=\"heb\">פנימיות</span>, all angels share connection to the unified source."
+        },
+        {
+          "title": "Why Angels Are 'Standing'",
+          "content": "Angels are called <span class=\"heb\">עומדים</span> (standing) — remaining in a fixed state. They receive a measured portion and cannot grow beyond it. Jewish souls are <span class=\"heb\">הולכים</span> (walking) — capable of infinite growth because they're rooted beyond the measured light."
+        },
+        {
+          "title": "The Lion-Fire Consuming Offerings",
+          "content": "In the Temple, a heavenly fire shaped like a lion descended to consume the offerings. This was an angel from Michael's camp — <span class=\"heb\">פני אריה</span>. The lion (Chesed) elevates offerings from the left (Gevurah), sweetening the severities."
+        },
+        {
+          "title": "'He Makes Peace in His Heights'",
+          "content": "Occasionally, the unified source reveals itself within the four channels. Then angels transcend their distinctions and unite in proclaiming <span class=\"heb\">קדוש</span> — a surge of light far greater than their usual portion."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "teal",
+      "toTheme": "red"
+    },
+    {
+      "type": "level-card",
+      "theme": "red",
+      "number": "IV",
+      "label": "Animal Food",
+      "hebrew": "שעורה / מאכל בהמה / נפש הבהמית",
+      "english": "Barley · Se'orah · Food of the Animal Soul",
+      "tagline": "Barley is called <span class=\"heb\">מאכל בהמה</span> — animal food. It corresponds to the measured light (<span class=\"heb\">שיעור ה׳</span>) that sustains the angels and, by extension, the <span class=\"heb\">נפש הבהמית</span> (animal soul), which derives from the \"waste\" of the angelic level.",
+      "badges": [
+        { "label": "מאכל בהמה", "variant": "primary" },
+        { "label": "Pesach Offering", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why Barley Grows First",
+          "content": "Barley ripens before wheat. The physical mirrors the spiritual: the Gevurot \"build\" Malchut before the Chasadim flow through it. Barley (Gevurah) precedes wheat (Chesed) because vessels must be formed before light can be received."
+        },
+        {
+          "title": "Se'arah — The Storm",
+          "content": "<span class=\"heb\">שעורה</span> is spelled with a <span class=\"heb\">שׂ</span>, connecting it to <span class=\"heb\">סערה</span> — storm/tempest. This represents the power of <span class=\"hl\">Gevurah</span> (constriction) that measures and divides the divine light for transmission."
+        },
+        {
+          "title": "The Omer Offering's Power",
+          "content": "The Kohen waves the barley and offers it on the altar, elevating the divine sparks back to their source. This creates a circuit: the light that descended returns purified, awakening a new flow of <span class=\"heb\">שיעור ה׳</span> for the coming year."
+        },
+        {
+          "title": "Sifted Through 13 Sieves",
+          "content": "The Omer was sifted through thirteen sieves — corresponding to the thirteen attributes of mercy. This removes all impurity before elevation. The thorough testing validates that Malchut remained \"faithful\" in her descent into the physical world."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Four Angelic Camps — Merkavah Structure"
+    },
+    {
+      "type": "verse",
+      "text": "וּפְנֵיהֶם וְכַנְפֵיהֶם פְּרֻדוֹת מִלְמָעְלָה",
+      "reference": "Yechezkel 1:11"
+    },
+    {
+      "type": "item-grid",
+      "columns": 4,
+      "items": [
+        {
+          "hebrew": "פני אריה",
+          "english": "Michael · Lion",
+          "theme": "gold",
+          "description": "Camp of Chesed (Right). Serves through burning love — אהבה. Roars 'Kadosh!' in passionate desire to cleave to G-d.",
+          "detail": "The lion-fire that descended to consume Temple offerings came from this camp. Michael represents the <b>right side</b> — drawing close through love. The lion's roar is the ecstatic proclamation of divine holiness."
+        },
+        {
+          "hebrew": "פני שור",
+          "english": "Gavriel · Ox",
+          "theme": "purple",
+          "description": "Camp of Gevurah (Left). Serves through awe and trembling — יראה. Bellows before G-d's overwhelming majesty.",
+          "detail": "The ox represents the <b>left side</b> — pushing away through awe. The ox's bellowing is the trembling response to divine majesty. Offerings come from this side and are elevated through the lion (right absorbing left)."
+        },
+        {
+          "hebrew": "פני נשר",
+          "english": "Uriel · Eagle",
+          "theme": "blue",
+          "description": "Camp of Rachamim (Center). Serves through compassion — a harmonious blend of love and awe, soaring above duality.",
+          "detail": "The eagle soars above, encompassing both right and left. Rachamim (compassion) blends love and awe into a unified service. This camp receives from the center column — Tiferet — the harmony of attributes."
+        },
+        {
+          "hebrew": "פני אדם",
+          "english": "Adam · Human",
+          "theme": "green",
+          "description": "The Fourth Camp — All-encompassing. Contains and unifies all three modes. The human face that includes lion, ox, and eagle.",
+          "detail": "The human face represents <b>Malchut</b> receiving from all three. \"Adam\" (אדם) = 45 = the name M\"AH, which pervades all Atzilut. The human is the purpose of creation — including and directing all lower forces."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Counting Journey — 49 Days of Transformation"
+    },
+    {
+      "type": "info-panel",
+      "title": "Why Count 49 Days?",
+      "intro": "The purpose of counting the Omer is to gradually bring the transcendent light of 'wheat' — destined for the divine soul — into the structure of the animal soul as well.",
+      "items": [
+        {
+          "theme": "red",
+          "hebrew": "לעומר — To the Omer",
+          "content": "We say \"Today is X days <b>la'Omer</b>\" — to the Omer. The Omer represents the animal soul. The preposition \"to\" indicates we are directing the count <span class=\"hl\">toward</span> the animal soul — downloading transcendent light into its structure."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "49 = 7 × 7 Attributes",
+          "content": "Seven emotional attributes (Chesed through Malchut), each containing all seven = 49 distinct aspects. These are the 49 gates of Binah accessible through human effort. The 50th gate (Keter) is given only by G-d."
+        },
+        {
+          "theme": "green",
+          "hebrew": "\"Two Days\" Not \"Day Two\"",
+          "content": "\"Today is <b>two days</b> of the Omer\" — cumulative, not ordinal. Each day includes all previous days because the light comes from the 50th gate, which contains all 49 equally. Counting builds a unified structure."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "שבתות תמימות — Complete Weeks",
+          "content": "The Torah specifies \"complete weeks\" because missing a day undermines the entire edifice. The revelation depends on all 49 aspects being drawn down in order. Temimut (completeness) is essential."
+        }
+      ],
+      "outro": "By counting 49, we actually accomplish the revelation of the 50th — the Keter that is automatically manifest when all its components are present."
+    },
+    {
+      "type": "info-panel",
+      "title": "Transformation: From Darkness to Light",
+      "items": [
+        {
+          "theme": "purple",
+          "hebrew": "דם נעקר ונעשה חלב",
+          "content": "\"Blood is purified and becomes milk.\" <b>Blood</b> = Gevurot (strict, limiting forces). <b>Milk</b> = Chasadim (flowing, nurturing forces). Through counting, the animal soul's limiting nature is transmuted into a vehicle for unlimited service."
+        },
+        {
+          "theme": "red",
+          "hebrew": "Before: Contemplative Only",
+          "content": "Ordinarily, the animal soul serves G-d only to the extent it <span class=\"hl\">understands</span>. It contemplates G-d's greatness, becomes inspired, feels love or awe — but this has a limit: the limit of comprehension."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "After: Mesiras Nefesh",
+          "content": "Through the Omer count, the animal soul receives gradual infusion of transcendent light. By Shavuot, even the animal soul can achieve <span class=\"hl\">mesiras nefesh</span> — self-sacrifice that transcends reason — through its transformed nature."
+        },
+        {
+          "theme": "green",
+          "hebrew": "Creating the Vessel",
+          "content": "If transcendent light simply \"arrived\" at Shavuot, the animal soul would be overwhelmed. Each day's count creates the vessel. By day 50, the animal soul has been transformed into a receptacle for full revelation."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Omer Offering — Elevation Process"
+    },
+    {
+      "type": "info-panel",
+      "title": "The Kohen's Role: Elevating Sparks",
+      "items": [
+        {
+          "theme": "green",
+          "hebrew": "שלוחי דרחמנא — Agents of the Merciful One",
+          "content": "\"Kohanim are agents of the Merciful One.\" The Kohen represents Chesed — \"the right hand that draws close.\" When he performs the offering, it is as if G-d Himself is performing it. His hand extends G-d's right hand."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "תנופה = תנו פה — Give Here the Mouth",
+          "content": "The Omer requires <span class=\"heb\">תנופה</span> — waving in six directions. The Zohar interprets this as <span class=\"heb\">תנו פה</span> — \"give here the mouth.\" Malchut is called <span class=\"heb\">פה</span> (mouth). The waving elevates Malchut back to its source."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "The Chain of Descent",
+          "content": "Physical barley is the <span class=\"hl\">end point</span> of a long descent: divine light in Malchut → angels → spiritual worlds → physical grain. In descending, it absorbed impurities from the \"breaking of vessels.\" Offering elevates the spark, stripped of impurities."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "Result: Blessing in the Fields",
+          "content": "When barley is elevated, it awakens new <span class=\"heb\">שיעור ה׳</span> from above. This flows to: (1) the <span class=\"hl\">nefesh habehamit</span> — giving strength for contemplation, and (2) the <span class=\"hl\">physical earth</span> — enabling it to grow new grain."
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "The Sotah Connection — Testing the 'Eishes Chayil'",
+      "intro": "The Zohar draws a startling parallel: both the Omer and the Sotah (suspected adulteress) bring barley offerings. Both involve using Gevurot to test and purify.",
+      "items": [
+        {
+          "theme": "purple",
+          "hebrew": "בדיקה דאשת חיל — Testing the Woman of Valor",
+          "content": "Malchut is called the \"bride\" of Z\"A. When she descends into the physical world, she encounters impurity. The Omer offering \"tests\" whether the spark of holiness remained pure or became mixed with evil."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "If Pure — Elevated and Blessed",
+          "content": "Like the innocent Sotah who is blessed with children, the pure portion of the barley ascends as \"a pleasing aroma to Hashem.\" The <span class=\"heb\">אשת חיל</span> (Woman of Valor) is validated, and the divine \"marriage\" continues."
+        },
+        {
+          "theme": "red",
+          "hebrew": "13 Sieves = 13 Attributes",
+          "content": "Thirteen sieves correspond to the 13 attributes of mercy. Malchut is examined through each attribute. The thorough testing ensures only the pure portion is elevated — the impure is separated and discarded."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Key Parables — How the Light Descends"
+    },
+    {
+      "type": "parable-grid",
+      "items": [
+        {
+          "icon": "🗣️",
+          "title": "The Five Mouths of Speech",
+          "body": "Just as human speech emerges unified from the heart and divides through five articulation points (lips, teeth, tongue, palate, throat), divine speech emerges unified and divides through five Gevurot in Malchut — creating the distinct letter-combinations that sustain each creature."
+        },
+        {
+          "icon": "🦁",
+          "title": "The Fire-Lion",
+          "body": "A heavenly lion-fire descended to consume Temple offerings — an angel from Michael's camp. The lion (right/Chesed) absorbs and elevates offerings from the left (ox/Gevurah), sweetening severities. In the future, \"the lion will eat straw\" — receiving only the overflow."
+        },
+        {
+          "icon": "👶",
+          "title": "The Child Recognizing Father",
+          "body": "A child knows its father not through analysis but through innate recognition. Similarly, the Jewish soul has an innate connection to G-d transcending reason — this is the da'at elyon that wheat awakens and that enables mesiras nefesh."
+        },
+        {
+          "icon": "🩸",
+          "title": "Blood Becomes Milk",
+          "body": "During the Omer period, 'blood is purified and becomes milk.' The Gevurot (strict, bloody) are sweetened into Chasadim (nurturing, milky). The animal soul's limiting nature transforms into unlimited capacity for divine service."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Future Era — When Lions Eat Straw"
+    },
+    {
+      "type": "info-panel",
+      "title": "Messianic Transformation",
+      "intro": "\"The lion will eat straw like the ox\" (Yeshayahu 11:7). Currently angels transmit the light; in the future, Jewish souls will receive directly from the Source.",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "Souls Receive Directly",
+          "content": "The divine light will be so intensified that even the \"straw\" will contain more holiness than today's \"barley.\" Angels will receive from the <span class=\"hl\">overflow</span> because the primary flow will be too elevated for them!"
+        },
+        {
+          "theme": "green",
+          "hebrew": "Moshe's Request Fulfilled",
+          "content": "Moshe said: \"If Your Presence does not go with us, do not bring us up.\" In his Mishkan, fire came directly \"from before Hashem\" without angelic intermediary. The future restores this — at an even higher level."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "Angels Ask 'What Has G-d Done?'",
+          "content": "Currently angels are \"insiders\" — they transmit and understand the flow. In the future, they'll stand \"outside the partition\" of the righteous, watching in amazement as souls receive revelations beyond angelic comprehension."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "Greater Than Moshe",
+          "content": "Mashiach will be greater even than Moshe. The entire spiritual structure will operate through <span class=\"hl\">direct connection</span> between G-d and Israel, with angels serving only in a supportive role."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Core Contrasts — Barley vs. Wheat, Pesach vs. Shavuot"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Dimension" },
+        { "key": "barley", "label": "Barley · Pesach", "theme": "red" },
+        { "key": "wheat", "label": "Wheat · Shavuot", "theme": "green" }
+      ],
+      "rows": [
+        { "dimension": "Called", "barley": "מאכל בהמה — Animal food", "wheat": "מזון אדם — Human food" },
+        { "dimension": "Sustains", "barley": "Angels and נפש הבהמית (animal soul)", "wheat": "Jewish souls (נפש האלוקית)" },
+        { "dimension": "Light Type", "barley": "שיעור ה׳ — Measured, portioned", "wheat": "כתר — Beyond all measure" },
+        { "dimension": "Knowledge", "barley": "Contemplative understanding of G-d", "wheat": "Innate recognition of Essence (דעת עליון)" },
+        { "dimension": "Offering", "barley": "Omer — Second day of Pesach", "wheat": "שתי הלחם — Shavuot" },
+        { "dimension": "Form", "barley": "Unleavened", "wheat": "Chametz (leavened)" },
+        { "dimension": "State", "barley": "קטנות — Constricted consciousness", "wheat": "גדלות — Expanded consciousness" }
+      ]
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Dimension" },
+        { "key": "matzah", "label": "Matzah · Pesach", "theme": "purple" },
+        { "key": "chametz", "label": "Chametz · Shavuot", "theme": "gold" }
+      ],
+      "rows": [
+        { "dimension": "Made From", "matzah": "Wheat", "chametz": "Wheat" },
+        { "dimension": "Form", "matzah": "Unleavened — flat, humble", "chametz": "Leavened — risen, expanded" },
+        { "dimension": "Consciousness", "matzah": "קטנות — Sudden revelation, not integrated", "chametz": "גדלות — After 49 days of preparation" },
+        { "dimension": "Revelation", "matzah": "דעת עליון in \"below da'at\" — felt, not understood", "chametz": "דעת עליון in \"within da'at\" — consciously integrated" },
+        { "dimension": "Ego Status", "matzah": "Dangerous — must be eliminated", "chametz": "Transformed — becomes a vessel for holiness" }
+      ]
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Dimension" },
+        { "key": "present", "label": "Present Era", "theme": "teal" },
+        { "key": "future", "label": "Future Era", "theme": "gold" }
+      ],
+      "rows": [
+        { "dimension": "Primary Recipients", "present": "Angels receive, transmit to souls", "future": "Souls receive directly from Source" },
+        { "dimension": "Angels' Role", "present": "מלאכים — Active messengers", "future": "Outside the partition, asking 'What has G-d done?'" },
+        { "dimension": "Lion Receives", "present": "Barley — the primary flow", "future": "Straw — the overflow" },
+        { "dimension": "Level of Light", "present": "שיעור ה׳ — Measured", "future": "Beyond all measure" },
+        { "dimension": "Divine Presence", "present": "Through angelic intermediary", "future": "פנים בפנים — Face to face" }
+      ]
+    }
+  ]
+}

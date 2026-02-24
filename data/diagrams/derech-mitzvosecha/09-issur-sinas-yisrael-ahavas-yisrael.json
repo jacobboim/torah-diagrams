@@ -1,0 +1,461 @@
+{
+  "id": "derech-mitzvosecha/09-issur-sinas-yisrael-ahavas-yisrael",
+  "meta": {
+    "sefer": "Derech Mitzvosecha",
+    "author": "Tzemach Tzedek",
+    "hebrewTitle": "איסור שנאת ישראל ומצות אהבת ישראל",
+    "englishTitle": "One Soul, Many Bodies — The Mystical Foundation of Loving Your Fellow",
+    "subtitle": "Why Ahavas Yisrael Is 'The Entire Torah'",
+    "sourceDiscourse": "discourses/derech-mitzvosecha/09-issur-sinas-yisrael-ahavas-yisrael.json"
+  },
+  "blocks": [
+    {
+      "type": "verse",
+      "text": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ — דַּעֲלָךְ סְנֵי לְחַבְרָךְ לָא תַּעֲבִיד, זוֹ הִיא כָּל הַתּוֹרָה כֻּלָּהּ",
+      "reference": "Vayikra 19:18 · Shabbat 31a"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "The Ultimate Unity",
+      "hebrew": "אור אין סוף / חכמה עילאה",
+      "english": "Or Ein Sof · Chochmah Ila'ah · Where All Souls Are One",
+      "tagline": "In the <span class=\"heb\">אור אין סוף</span> itself, all sefirot exist without any division—like a single point containing everything. All Jewish souls are unified in their source in <span class=\"heb\">חכמה עילאה</span>, where the Ein Sof dwells.",
+      "badges": [
+        { "label": "Absolute Unity", "variant": "primary" },
+        { "label": "Before Differentiation", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Unity Like Hiyuli",
+          "content": "In the Or Ein Sof, there are no defined sefirot of Chesed and Gevurah—just undifferentiated unity. All exists like <span class=\"hl\">Hiyuli</span> (primordial matter) containing everything in potential. This is the ultimate source of all souls."
+        },
+        {
+          "title": "Chochmah Ila'ah — The Dwelling Place",
+          "content": "The verse says: <span class=\"heb\">בני בכורי ישראל</span> — 'My firstborn son, Israel.' Just as a son is drawn from a 'drop from the father's brain,' so too all Jewish souls are drawn from <span class=\"hl\">Chochmah Ila'ah</span> where Ein Sof dwells."
+        },
+        {
+          "title": "Why This Unity Matters",
+          "content": "Because this is the ultimate source, when it shines into the sefirot even after they've emerged as distinct entities, it enables them to recognize their common root and include one another. The same applies to souls."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "purple"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "I",
+      "label": "The Supernal Template",
+      "hebrew": "אדם העליון / פרצוף",
+      "english": "Adam HaElyon · The Supernal Configuration",
+      "tagline": "Adam HaRishon is called 'Adam' from <span class=\"heb\">אדמה לעליון</span> — 'I will resemble the Supernal One.' Just as the Adam HaElyon is a comprehensive partzuf of ten sefirot, so too Adam HaRishon's soul is a comprehensive configuration containing all particular souls.",
+      "badges": [
+        { "label": "Partzuf of Ten", "variant": "primary" },
+        { "label": "Template", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Comprehensive Configuration",
+          "content": "The Adam HaElyon is the supernal 'human form'—a configuration (<span class=\"hl\">partzuf</span>) in which all ten sefirot exist as one organic whole, each containing aspects of all the others."
+        },
+        {
+          "title": "Source of Hitkalelut",
+          "content": "Through <span class=\"heb\">שם מ\"ה</span> (the Divine Name of value 45) that shines from the 'forehead' of Adam HaElyon, the sefirot recognize their common source and can integrate with one another—even opposites like Chesed and Gevurah."
+        },
+        {
+          "title": "The Tikkunei Zohar's Teaching",
+          "content": "'Shem M\"H is the <span class=\"hl\">path of Atzilut</span>.' A path connects distant places. The sefirot are 'distant' from each other—each has its own nature. Shem M\"H is the path that connects them by revealing their common source."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "green"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "II",
+      "label": "The Comprehensive Soul",
+      "hebrew": "נשמת אדם הראשון / נשמה כללית",
+      "english": "Soul of Adam HaRishon · The Neshamah Klalit",
+      "tagline": "The soul of Adam HaRishon was a <span class=\"heb\">נשמה כללית</span>—a comprehensive soul containing all Jewish souls of all generations. This soul comprises 613 particular souls corresponding to the 248 spiritual 'limbs' and 365 spiritual 'sinews.'",
+      "badges": [
+        { "label": "613 Root Souls", "variant": "primary" },
+        { "label": "All Generations", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Arizal's Revelation",
+          "content": "The Arizal teaches: '<span class=\"hl\">All Israel is the secret of one body</span> of the soul of Adam HaRishon. Each Jew is a particular limb.' This explains the concept of <span class=\"heb\">ערבות</span>—mutual responsibility."
+        },
+        {
+          "title": "613 Root Souls",
+          "content": "Each of the 613 particular souls further divides into countless sparks—the individual souls of all Jews throughout history. Each soul is rooted in a specific 'location' within Adam HaRishon's soul."
+        },
+        {
+          "title": "Hierarchy Within Unity",
+          "content": "Souls of <span class=\"hl\">tzaddikim and leaders</span> are rooted in the 'head/brain' of Adam HaRishon. Souls of simpler Jews are rooted in lower aspects, even the 'heels.' Yet all remain interconnected through the comprehensive soul."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "green",
+      "toTheme": "teal"
+    },
+    {
+      "type": "level-card",
+      "theme": "teal",
+      "number": "III",
+      "label": "Mutual Inclusion",
+      "hebrew": "התכללות / עולם התיקון",
+      "english": "Hitkalelut · The World of Tikun · Each Contains All",
+      "tagline": "In <span class=\"heb\">עולם התיקון</span>, the sefirot exist in a state of <span class=\"heb\">התכללות</span>—mutual inclusion. Each sefirah contains aspects of all the others! Chesed contains Gevurah, Gevurah contains Chesed. The same is true of souls.",
+      "badges": [
+        { "label": "Tikun", "variant": "primary" },
+        { "label": "Integration", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Tohu vs. Tikun",
+          "content": "In <span class=\"hl\">Olam HaTohu</span>, the sefirot existed in separation—each standing alone, 'one beneath the other.' This led to Shevirat HaKelim. In Tikun, sefirot integrate and include one another."
+        },
+        {
+          "title": "Chesed Within Gevurah",
+          "content": "'One who spares his rod <span class=\"hl\">hates</span> his son.' Withholding discipline seems like chesed but is actually a form of hatred! True love requires sometimes saying 'no'—this is <span class=\"hl\">gevurah within chesed</span>."
+        },
+        {
+          "title": "Why Integration Is Possible",
+          "content": "The hitkalelut occurs through the revelation of Or Ein Sof. Because this is the ultimate source, when it shines into distinct entities, they can recognize their common root and include one another—even opposites."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "teal",
+      "toTheme": "blue"
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "IV",
+      "label": "The Body Analogy",
+      "hebrew": "משל הגוף / כללית החיות",
+      "english": "The Human Body · Comprehensive Vitality in the Brain",
+      "tagline": "Although the body is divided into distinct limbs, each limb actually contains elements of all the others. The hand has vitality from the foot through the blood vessels, and vice versa. This is why the brain feels the pain of all 248 limbs.",
+      "badges": [
+        { "label": "Unified Source", "variant": "primary" },
+        { "label": "Interconnection", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Brain Contains All",
+          "content": "The 'comprehensive vitality' (<span class=\"hl\">klalit hachayut</span>) resides in the brain. In the brain, all faculties exist in an undifferentiated state—like Hiyuli. From here they descend to specific limbs."
+        },
+        {
+          "title": "The Brain Feels All Pain",
+          "content": "A blow to the hand hurts the hand, but the brain also perceives that pain. Remarkably, sometimes the brain feels <span class=\"hl\">greater pain</span> from a blow to a fingernail than to the hand itself!"
+        },
+        {
+          "title": "Medical Proof",
+          "content": "This is why medical treatments can affect one limb by acting on another—through bloodletting in one limb, healing occurs in a different limb. The veins that connect all limbs prove their essential unity."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "blue",
+      "toTheme": "red"
+    },
+    {
+      "type": "level-card",
+      "theme": "red",
+      "number": "V",
+      "label": "Individual Souls",
+      "hebrew": "נשמות פרטיות / בך רעך גם כן",
+      "english": "Particular Souls · 'In You Is Your Friend Also'",
+      "tagline": "Now, after Adam HaRishon's soul has divided into countless sparks in separate bodies—it might seem like the limbs have been 'severed.' But the separation is only from the perspective of the <b>bodies</b>! The <b>souls</b> were never truly separated.",
+      "badges": [
+        { "label": "Apparent Separation", "variant": "primary" },
+        { "label": "True Unity", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Only Bodies Divide",
+          "content": "Like limbs that still contain veins connecting them—the hand has elements of the foot, and the foot has elements of the hand—so too each soul contains aspects of all other souls. <span class=\"hl\">בך רעך גם כן</span> — 'in you is your friend also.'"
+        },
+        {
+          "title": "Why the Arizal Confessed",
+          "content": "The Arizal would say confessions for sins committed by other Jews. His soul was rooted in the 'brain' of Adam HaRishon. Just as the brain feels all limbs' pain, he felt the pain caused by any Jew's sin!"
+        },
+        {
+          "title": "'Love Your Fellow As Yourself' — Literally",
+          "content": "The Torah's formulation makes perfect sense: <span class=\"heb\">ואהבת לרעך כמוך</span>—literally as yourself, because he literally <span class=\"hl\">is</span> part of you! This isn't poetry. The souls are truly interconnected."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "red",
+      "toTheme": "gold"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "VI",
+      "label": "The Cosmic Result",
+      "hebrew": "יחוד קודשא בריך הוא ושכינתיה",
+      "english": "Yichud Kudsha Brich Hu u'Shchintei · Unity of Hashem with His Shechinah",
+      "tagline": "The purpose of all mitzvot is <span class=\"heb\">יחוד קוב\"ה ושכינתיה</span>. The Shechinah is the source of Jewish souls. When Jews unite with each other through Ahavas Yisrael, this <b>directly causes</b> unification above—'in the measure a person measures, so it is measured to him.'",
+      "badges": [
+        { "label": "Purpose of Torah", "variant": "primary" },
+        { "label": "Unity Below → Unity Above", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "How Unity Below Causes Unity Above",
+          "content": "Since Ahavas Yisrael is itself an act of unification—Jews connecting with Jews—it directly causes the ultimate unification: Hashem connecting with the source of Jewish souls. <span class=\"hl\">Measure for measure</span>."
+        },
+        {
+          "title": "'He Didn't See Iniquity in Yaakov'",
+          "content": "When Israel is united, Hashem's love for them 'covers all sins.' The verse says: 'He didn't see iniquity in Yaakov' — not because Hashem doesn't know, but because <span class=\"hl\">love creates a covering</span> that prevents faults from taking effect."
+        },
+        {
+          "title": "The Supernal Adam Doesn't See His Fault",
+          "content": "'Yaakov's beauty resembled Adam HaRishon's beauty.' When Jews unite, 'one becomes one with one'—they unify with Hashem. Then <span class=\"heb\">אדם העליון אינו רואה מום בעצמו</span> — the Supernal Adam overlooks faults just as a person overlooks his own."
+        },
+        {
+          "title": "Why 'The Entire Torah'",
+          "content": "All mitzvot create some form of Yichud. But Ahavas Yisrael creates the <span class=\"hl\">essential Yichud</span>—the revelation of Hashem's love for Israel that is the foundation of all connection. The other mitzvot are 'commentary.'"
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Structure of Jewish Souls"
+    },
+    {
+      "type": "item-grid",
+      "columns": 4,
+      "items": [
+        {
+          "hebrew": "אדם העליון",
+          "english": "Adam HaElyon",
+          "theme": "gold",
+          "description": "Supernal configuration of ten sefirot as one partzuf. The ultimate source — 'Father.'",
+          "detail": "The template for all that follows. All ten sefirot exist here as an organic whole, each containing aspects of all the others through the revelation of Shem M\"H."
+        },
+        {
+          "hebrew": "נשמת אדם הראשון",
+          "english": "Soul of Adam HaRishon",
+          "theme": "purple",
+          "description": "All Jewish souls as one comprehensive soul. 'Son' — drawn from above.",
+          "detail": "'My firstborn son, Israel.' Just as a son is drawn from the father's brain, so Adam HaRishon's soul was drawn from Chochmah Ila'ah where Ein Sof dwells."
+        },
+        {
+          "hebrew": "תרי\"ג שרשים",
+          "english": "613 Root Souls",
+          "theme": "green",
+          "description": "Correspond to 248 limbs + 365 sinews. Components of the whole.",
+          "detail": "Each root soul corresponds to a specific 'limb' or 'sinew' of Adam HaRishon's comprehensive soul. Leaders are in the 'head,' simpler Jews in lower aspects."
+        },
+        {
+          "hebrew": "נשמות פרטיות",
+          "english": "Individual Souls",
+          "theme": "teal",
+          "description": "Countless sparks from each root. Rooted in specific 'limb.'",
+          "detail": "Each soul contains aspects of all other souls through its connection to the comprehensive source. The bodies are separate; the souls remain interconnected."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Key Teachings on Ahavas Yisrael"
+    },
+    {
+      "type": "info-panel",
+      "title": "Why Accept Ahavas Yisrael Before Prayer?",
+      "intro": "The Arizal taught: Accept upon yourself the mitzvah of 'Love your fellow as yourself' before prayer, 'for it is a great foundation in serving Hashem.'",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "נשמה שלימה",
+          "content": "For the soul to truly elevate to its source—where all souls exist as one—it must be <b>complete and healthy</b>. A soul is 'healthy' when it's connected to all other souls."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "הפגם של שנאה",
+          "content": "If a person harbors hatred, he <b>separates from his soul</b> that portion of his fellow that was included in him. This creates a <span class=\"hl\">mum</span> (blemish)—an incompleteness."
+        },
+        {
+          "theme": "red",
+          "hebrew": "בעל מום לא יקרב",
+          "content": "'Anyone who has a blemish shall not approach to offer...' The <b>incomplete soul cannot unite</b> with the Complete Unity. Or Ein Sof 'cannot tolerate' a deficient offering."
+        },
+        {
+          "theme": "green",
+          "hebrew": "תמים תהיה",
+          "content": "Accepting Ahavas Yisrael makes the soul <b>'whole' and 'unblemished,'</b> enabling it to ascend to its source. 'Be tamim (complete) with Hashem your G-d.'"
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "The Secret of Self-Love — Hillel's Teaching",
+      "intro": "Why did Hillel phrase this in the negative — 'what is hateful to you, don't do' — rather than the positive?",
+      "items": [
+        {
+          "theme": "purple",
+          "hebrew": "אין אדם רואה חובה לעצמו",
+          "content": "'A person doesn't see fault in himself.' He knows his flaws intellectually, but they don't <b>'take up space'</b> emotionally. Why? Because of <span class=\"hl\">self-love</span>."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "אהבה מכסה",
+          "content": "When you love yourself deeply, that love creates a <b>'covering' (makif)</b> over your faults. The awareness exists, but it doesn't translate into emotional rejection. <span class=\"heb\">אהבה תכסה על כל פשעים</span>."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "כשחברך מראה פגמך",
+          "content": "When <b>someone else</b> points out your fault—even something you knew—you become angry! Because now the fault is being 'seen' and gaining weight. Love's covering is removed."
+        },
+        {
+          "theme": "green",
+          "hebrew": "הפירוש של הלל",
+          "content": "'What is hateful to you'—the revelation of your faults—'don't do to your fellow.' <b>Don't look at his faults as significant.</b> Let your love cover them just as your self-love covers your own."
+        }
+      ],
+      "outro": "This doesn't mean ignoring evil! A true friend helps his friend improve. The point is that awareness of faults shouldn't create emotional <b>distance or rejection</b>. Know his faults, help him grow, but let love cover them."
+    },
+    {
+      "type": "info-panel",
+      "title": "Two Levels of Unity",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "אחדות בשורש",
+          "content": "<b>Unity in the Source:</b> In the Or Ein Sof, all sefirot/souls exist as a single 'point' without distinction—like Hiyuli containing everything in potential. This isn't surprising."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "אחדות לאחר ההתפשטות",
+          "content": "<b>Unity After Emergence:</b> After distinct entities emerge, they still integrate with each other through the revelation of their common source. <span class=\"hl\">This is the remarkable innovation.</span>"
+        }
+      ],
+      "outro": "The source continues to shine into differentiated reality, creating <b>integration within plurality</b>. This is how distinct souls remain interconnected despite their apparent separation in different bodies."
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Three Parables — Understanding Soul Connection"
+    },
+    {
+      "type": "parable-grid",
+      "items": [
+        {
+          "icon": "🧠",
+          "title": "The Brain & the Limbs",
+          "body": "The brain contains the unified source of all vitality. From it, faculties descend to specific limbs—sight to the eye, hearing to the ear. Yet the brain feels all pain, sometimes more intensely for a fingernail than a hand. So too, souls of great tzaddikim (rooted in the 'brain') feel the pain of all Israel."
+        },
+        {
+          "icon": "🫀",
+          "title": "The Veins Connecting Limbs",
+          "body": "Each limb contains elements of all others through the blood vessels. The hand has vitality from the foot, and vice versa. This is why treatment to one limb can heal another. Similarly, each soul contains aspects of every other soul—'in you is your friend also.'"
+        },
+        {
+          "icon": "💝",
+          "title": "Self-Love Covering Faults",
+          "body": "You know your own weaknesses better than anyone—yet they don't make you hate yourself. Your self-love creates a 'covering' that prevents intellectual awareness from becoming emotional rejection. Love your fellow the same way: know his faults, help him improve, but don't let them create distance."
+        },
+        {
+          "icon": "🌊",
+          "title": "Many Waters Cannot Extinguish",
+          "body": "When a person has deep, essential love for someone, even wrongs don't 'take up space.' They're nullified before the overwhelming love. As the verse says: 'Many waters cannot extinguish the love'—even floods of wrongdoing cannot put out the fire of essential love."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Core Contrast — The Two Perspectives"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Dimension" },
+        { "key": "bodyPrimary", "label": "Body Primary", "theme": "red" },
+        { "key": "soulPrimary", "label": "Soul Primary", "theme": "green" }
+      ],
+      "rows": [
+        { "dimension": "Identity", "bodyPrimary": "You are your physical self in this body", "soulPrimary": "You are a soul connected to all souls" },
+        { "dimension": "Other Jews", "bodyPrimary": "Separate beings, potential competitors", "soulPrimary": "Part of yourself, siblings from one source" },
+        { "dimension": "Type of Love", "bodyPrimary": "Conditional, based on qualities/actions", "soulPrimary": "Unconditional, inherent — 'as yourself'" },
+        { "dimension": "Division", "bodyPrimary": "Real — each person is truly separate", "soulPrimary": "Illusory — only bodies divide, not souls" },
+        { "dimension": "Result", "bodyPrimary": "Love is difficult, requires effort", "soulPrimary": "Love is natural once perspective shifts" },
+        { "dimension": "Cosmic Effect", "bodyPrimary": "Separation below causes separation above", "soulPrimary": "Unity below causes Yichud above" }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Practical Application"
+    },
+    {
+      "type": "info-panel",
+      "title": "The Tanya's Path — Body Secondary, Soul Primary",
+      "intro": "The Alter Rebbe explains in Tanya (Chapter 32) that making 'the body secondary and the soul primary' is the 'straight and easy path' to fulfilling Ahavas Yisrael.",
+      "items": [
+        {
+          "theme": "green",
+          "hebrew": "נפש עיקר וגוף טפל",
+          "content": "When a person's body is 'despised and lowly in his eyes' and his joy is 'only in the soul'—he <b>naturally</b> loves every Jew. From the soul's perspective, all are truly brothers."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "כולם אחים ממש",
+          "content": "'All Israel are truly brothers from the root of their souls in Hashem Echad—<b>only the bodies are divided</b>.' When the soul is primary, you see every Jew as your sibling."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "השינוי המעשי",
+          "content": "In moments of conflict, ask: 'Am I seeing this person as a <b>separate body competing with me</b>, or as a <b>soul interconnected with mine</b>?' This shift transforms relationships."
+        }
+      ],
+      "outro": "Recognize that your unity with fellow Jews isn't just personal—it has <b>cosmic effects</b>. Every act of love and unity creates corresponding unity above. You have the power, through simple Ahavas Yisrael, to bring blessing to all of Israel."
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Complete Teaching — 'All This Is the Entire Torah'"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "component", "label": "Component" },
+        { "key": "actionBelow", "label": "Action Below", "theme": "teal" },
+        { "key": "effectAbove", "label": "Effect Above", "theme": "gold" }
+      ],
+      "rows": [
+        { "component": "Jews Love Each Other", "actionBelow": "Unity through Ahavas Yisrael", "effectAbove": "Awakens Hashem's love for Israel" },
+        { "component": "Jews Unite as One", "actionBelow": "Complete souls without blemish", "effectAbove": "Hashem unites with Shechinah" },
+        { "component": "Love Covers Faults", "actionBelow": "Don't 'see' each other's failings", "effectAbove": "Hashem overlooks Israel's faults" },
+        { "component": "Souls Are Complete", "actionBelow": "No separation through hatred", "effectAbove": "'Blemished one shall not approach' — reversed" },
+        { "component": "Prayer Ascends", "actionBelow": "Soul is 'healthy,' all limbs connected", "effectAbove": "Soul truly unites with its all-encompassing source" }
+      ]
+    },
+
+    {
+      "type": "prose",
+      "content": "This is why Hillel could tell the convert that <span class=\"heb\">דעלך סני לחברך לא תעביד — זו היא כל התורה כולה</span>: because Ahavas Yisrael directly achieves the <b>purpose</b> of all 613 mitzvot — the complete unification of Hashem with Israel. The other mitzvot are 'commentary' — elaborations and specifications of this fundamental unity.<br><br>May we merit to truly love every Jew with the unconditional, covering love described in this discourse — recognizing that in every Jewish soul we encounter, we are meeting a part of ourselves. And through our unity below, may we cause the ultimate unity above."
+    }
+  ]
+}

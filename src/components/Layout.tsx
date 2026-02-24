@@ -1,4 +1,5 @@
 import { useState, useCallback, useEffect } from 'react';
+import { useNavigate, useParams } from 'react-router-dom';
 import DiagramNav from './DiagramNav';
 import DiagramRenderer from './DiagramRenderer';
 import ThemeSwitcher from './ThemeSwitcher';
@@ -25,11 +26,30 @@ function getInitialSidebar(): boolean {
 
 export default function Layout() {
   const entries = useDiagramRegistry();
-  const [activeId, setActiveId] = useState<string | null>(
-    entries.length > 0 ? entries[0].id : null
-  );
+  const navigate = useNavigate();
+  const { '*': urlPath } = useParams();
+
+  // Determine active ID from URL or default to first diagram
+  const [activeId, setActiveId] = useState<string | null>(() => {
+    if (urlPath && entries.some(e => e.id === urlPath)) {
+      return urlPath;
+    }
+    return entries.length > 0 ? entries[0].id : null;
+  });
+
   const [sidebarOpen, setSidebarOpen] = useState(getInitialSidebar);
   const [isDark, setIsDark] = useState(getInitialDark);
+
+  // Sync activeId with URL changes
+  useEffect(() => {
+    if (urlPath && entries.some(e => e.id === urlPath)) {
+      setActiveId(urlPath);
+    } else if (!urlPath && entries.length > 0) {
+      // No URL path, navigate to first diagram
+      navigate(`/${entries[0].id}`, { replace: true });
+      setActiveId(entries[0].id);
+    }
+  }, [urlPath, entries, navigate]);
 
   // Apply scheme to <html>
   useEffect(() => {
@@ -44,8 +64,10 @@ export default function Layout() {
 
   const handleSelect = useCallback((id: string) => {
     setActiveId(id);
+    navigate(`/${id}`);
+    window.scrollTo(0, 0);
     if (window.innerWidth <= 768) setSidebarOpen(false);
-  }, []);
+  }, [navigate]);
 
   const activeDiagram = entries.find((e) => e.id === activeId)?.diagram ?? null;
 

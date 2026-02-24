@@ -1,0 +1,472 @@
+{
+  "id": "derech-mitzvosecha/10-issur-arayot",
+  "meta": {
+    "sefer": "Derech Mitzvosecha",
+    "hebrewTitle": "איסור ערות",
+    "englishTitle": "Secrets of Sacred Unions — The Mystical Meaning of the Forbidden Relations",
+    "subtitle": "The Tzemach Tzedek of Chabad",
+    "sourceDiscourse": "discourses/derech-mitzvosecha/10-issur-arayot.json"
+  },
+  "blocks": [
+    {
+      "type": "verse",
+      "text": "וְאִשָּׁה אֶל אֲחֹתָהּ לֹא תִקָּח לִצְרֹר לְגַלּוֹת עֶרְוָתָהּ",
+      "reference": "Vayikra 18:18"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "World of Divine Unity",
+      "hebrew": "עולם האצילות / אחדות פשוטה",
+      "english": "Atzilut · Achdut Peshutah · Simple Unity",
+      "tagline": "\"Ihu v'chayohi v'garmohi chad behon\" — He, His life-force, and His vessels are one within them. In Atzilut, the ten Sefirot remain absolutely unified with their Infinite Source. Here, unions of the 'close' reveal the deepest truth of divine oneness.",
+      "badges": [
+        { "label": "Simple Unity", "variant": "primary" },
+        { "label": "Ihu v'Garmohi Chad", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "What Is 'Simple Unity'?",
+          "content": "Our concept of 'unity' means combining separate things. But <span class=\"hl\">achdut peshutah</span> means there was never any separation to begin with. The Sefirot aren't ten things that became one — they are one reality appearing as ten. Utterly beyond human comprehension."
+        },
+        {
+          "title": "Raza d'Meheimanuta",
+          "content": "Because simple unity transcends comprehension, the Zohar calls it the <span class=\"hl\">secret of faith</span>. We believe in this unity even though we cannot truly grasp it. This is why the Ramban called the prohibition of arayot 'a secret from the secrets of creation.'"
+        },
+        {
+          "title": "Union of the 'Close'",
+          "content": "Close relatives are, by nature, already connected — almost 'one being.' In Atzilut, a union between 'close' Sefirot (like Z'A and Malchut) reveals and expresses their inherent unity. This is the most perfect, complete union possible."
+        },
+        {
+          "title": "Why 'Close' Is Holy Here",
+          "content": "Union of the 'distant' creates unity from separation. Union of the 'close' <span class=\"hl\">reveals</span> inherent unity. In Atzilut, where everything is already unified, such unions manifest the deepest truth of divine oneness."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "purple"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "I",
+      "label": "Divine Unions (Yichudim)",
+      "hebrew": "יחודים עליונים / זיווגי הספירות",
+      "english": "Yichudim · Unions of the Sefirot · Masculine & Feminine",
+      "tagline": "In the Sefirot, there exist unions described in terms of 'masculine' (mashpi'a — giver) and 'feminine' (mekabel — receiver). Through these <span class=\"heb\">יחודים</span>, abundant spiritual energy flows into the worlds — far beyond the normal quota.",
+      "badges": [
+        { "label": "Yichudim", "variant": "primary" },
+        { "label": "Mashpi'a & Mekabel", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Abba v'Ima",
+          "content": "<span class=\"hl\">Father and Mother</span> — the union of Chochmah (wisdom, 'Abba') with Binah (understanding, 'Ima'). The fundamental intellectual dynamic in the divine realm."
+        },
+        {
+          "title": "Z'A & Nukva",
+          "content": "<span class=\"hl\">Male and Female</span> — the union of Ze'ir Anpin (the six emotional Sefirot) with Malchut (Kingship, 'Nukva'). Foundation of all creation."
+        },
+        {
+          "title": "The Astonishing Truth",
+          "content": "All these exalted unions are technically in categories of <span class=\"heb\">עריות</span>! Malchut is called both 'daughter' and 'sister' of Z'A. The Zohar discusses how Z'A and Malchut can be 'brother and sister' — yet their union sustains creation."
+        },
+        {
+          "title": "Beyond the Normal Flow",
+          "content": "Divine light normally contracts from level to level. But through yichudim, the lower 'rises up' to unite with the higher, creating an extraordinary influx — <span class=\"hl\">tosefet or l'ein ketz</span> — infinite addition of light."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "teal"
+    },
+    {
+      "type": "level-card",
+      "theme": "teal",
+      "number": "II",
+      "label": "Worlds of Separation",
+      "hebrew": "עלמא דפירודא / בי״ע",
+      "english": "Alma d'Peruda · Beriah-Yetzirah-Asiyah · The Lower Worlds",
+      "tagline": "Below Atzilut lie the 'worlds of separation' — Beriah, Yetzirah, Asiyah. Here, creatures exist as <span class=\"heb\">יש</span> — independent beings with their own sense of self. 'Simple unity' cannot exist here; everything is separate and distinct.",
+      "badges": [
+        { "label": "Separation", "variant": "primary" },
+        { "label": "Yesh", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why the Union Cannot Descend",
+          "content": "The exalted unions of Atzilut — unions revealing 'simple unity' — literally cannot exist in the lower worlds. It's like running software requiring absolute unity on hardware built for multiplicity."
+        },
+        {
+          "title": "Feeding the Kelipot",
+          "content": "When someone attempts such a union in the physical world, the intense light associated with these unions is intercepted by the <span class=\"hl\">kelipot</span> (shells/husks). Result: 'The evil becomes greatly strengthened.'"
+        },
+        {
+          "title": "Gilui Ervah — The Revealed Secret",
+          "content": "The Torah calls these prohibitions 'uncovering nakedness' — <span class=\"heb\">גילוי ערוה</span>. The sin is in the <span class=\"hl\">revealing</span>, exposing divine secrets in a place where they cannot be properly received."
+        },
+        {
+          "title": "The Word 'Ervah'",
+          "content": "<span class=\"heb\">ערוה</span> contains the letters <span class=\"heb\">רע</span> (evil) and <span class=\"heb\">ו-ה</span>. Through forbidden acts, evil receives sustenance from the holiness of Vav-Hei — the lower letters of Hashem's Name."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "teal",
+      "toTheme": "red"
+    },
+    {
+      "type": "level-card",
+      "theme": "red",
+      "number": "III",
+      "label": "The Physical World",
+      "hebrew": "עולם הגשמי / כרת",
+      "english": "The Physical Realm · Where These Unions Are Forbidden · Karet",
+      "tagline": "In our world, attempting to replicate Atzilut's unions causes catastrophic spiritual damage. The punishment is <span class=\"heb\">כרת</span> — spiritual 'cutting off' — not arbitrary anger but a natural consequence of severing one's connection to the realm of true unity.",
+      "badges": [
+        { "label": "Karet", "variant": "primary" },
+        { "label": "Gilui Ervah", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Natural Consequence",
+          "content": "Karet — spiritual excision — is the natural result of attempting to access unity that cannot exist in the realm of separation. By feeding the kelipot, one severs the connection between themselves and the source of unity above."
+        },
+        {
+          "title": "Like Revealing Secrets",
+          "content": "The Zohar teaches that revealing Torah secrets to the unworthy is like <span class=\"heb\">גילוי עריות</span>. Just as secrets shouldn't be exposed to one who will misuse them, divine union-secrets shouldn't be 'exposed' in the world of separation."
+        },
+        {
+          "title": "Broadcasting in the Marketplace",
+          "content": "It's like publicizing the king's most intimate matters in the marketplace. The information exists — but revealing it in the wrong venue is a terrible desecration of holiness."
+        },
+        {
+          "title": "Boundaries Protect",
+          "content": "Every Torah prohibition is ultimately protective. The boundaries Hashem sets keep us safe — spiritually and cosmically. Observing these boundaries is not restriction but wisdom."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Three Forbidden Relations & Their Supernal Roots"
+    },
+    {
+      "type": "item-grid",
+      "columns": 3,
+      "items": [
+        {
+          "hebrew": "אשה אל אחותה",
+          "english": "Wife's Sister",
+          "theme": "blue",
+          "description": "Leah & Rachel = Thought (machshavah) & Speech (dibur). Two 'sisters' in the divine realm. Yaakov's union with both drew light from the concealed world to the revealed.",
+          "detail": "<b>Leah</b> = alma d'itkasya (concealed world), upper Hei of Hashem's Name<br><b>Rachel</b> = alma d'itgalya (revealed world), lower Hei<br><br>Yaakov (the Middot) loved Rachel — his purpose was 'to draw light into revelation.' Their union brought <span class=\"hl\">tosefet or l'ein ketz</span> — infinite light — from concealment to manifestation. 'Baruch Hashem min ha'olam v'ad ha'olam.'"
+        },
+        {
+          "hebrew": "אם ובת",
+          "english": "Mother & Daughter",
+          "theme": "purple",
+          "description": "Hidden in 'Shema' and 'Echad.' The union of son with mother (Z'A & Tevunah) and father with daughter (Yisrael Saba & Malchut) — encoded in the daily declaration of unity.",
+          "detail": "<b>Shema (שמע)</b>: ש-מ (Malchut/daughter) + ע גדולה (Yisrael Saba/father, gematria 70)<br><b>Echad (אחד)</b>: א-ח (Z'A/son, gematria 9) + ד גדולה (Tevunah/mother)<br><br>Large letters = <span class=\"heb\">עד</span> (witness) — the concealed realm. Small letters = <span class=\"heb\">אשמח</span> (I rejoice) — because when lower rises to higher, there is special joy Above!"
+        },
+        {
+          "hebrew": "אח ואחות",
+          "english": "Brother & Sister",
+          "theme": "green",
+          "description": "Z'A and Malchut begin as 'brother and sister' — before the 'nesirah' (separation) transforms them into 'husband and wife.' The nesirah happens through Chesed.",
+          "detail": "Before full emergence, Z'A and Malchut exist together in Binah like twins — called <span class=\"heb\">אחוונא</span> (brotherhood = willows growing intertwined).<br><br>They first emerge 'back to back' (<span class=\"heb\">אחור באחור</span>) — seeming equality. Then <span class=\"hl\">Chesed separates them</span> (nesirah), revealing Z'A's true elevation. Now they can unite 'face to face' as husband and wife.<br><br>This is the meaning of <span class=\"heb\">חסד הוא</span> — 'it is chesed' — the very process that transforms brother/sister into the foundation of creation."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Yaakov Avinu — Why He Could Marry Two Sisters"
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "IV",
+      "label": "Before Sinai",
+      "hebrew": "קודם מתן תורה / מרכבה",
+      "english": "The Pre-Sinai Dispensation · The Avot as Merkavah",
+      "tagline": "Before Sinai, there was a fundamental decree separating upper and lower: 'The upper cannot descend below, and the lower cannot ascend above.' Yaakov's union affected only Atzilut — not the 'world of separation.' His was the Atzilut union itself, taking place through holy vessels.",
+      "badges": [
+        { "label": "Merkavah", "variant": "primary" },
+        { "label": "Pre-Sinai", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Yaakov as Chariot",
+          "content": "The Avot are described as <span class=\"hl\">merkavah</span> — a chariot for the divine. Yaakov, Leah, and Rachel were not ordinary humans; they were channels through which the Sefirot of Atzilut manifested below."
+        },
+        {
+          "title": "Effects Remained Above",
+          "content": "Before Sinai, even when tzaddikim did holy actions, the spiritual effects remained in the upper worlds. The light didn't fully 'descend' into the physical realm. No kelipot could intercept."
+        },
+        {
+          "title": "After Sinai — Everything Changed",
+          "content": "After Sinai, every mitzvah creates connection between upper and lower; every sin creates corresponding damage. The physical world became a true arena for cosmic consequences. Now such unions would draw that exalted light into the realm of separation."
+        },
+        {
+          "title": "'The Torah is Destined to Forbid Them'",
+          "content": "Yaakov said this not because he did anything wrong, but recognizing that in the future framework, such an act would become forbidden. His union built the Jewish people — all twelve tribes emerged from it."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "blue",
+      "toTheme": "gold-dim"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold-dim",
+      "number": "V",
+      "label": "The Preserved Wine",
+      "hebrew": "יין המשומר / עדינות דעדינות",
+      "english": "Yayin HaMeshumar · Wine from Creation · Yaakov's Subtle Sensitivity",
+      "tagline": "The Gemara tells of a future feast where Yaakov declines the cup of blessing, saying: 'I married two sisters... and the Torah is destined to forbid them.' Though he acted properly, a <span class=\"heb\">דקות דדקות</span> — an exceedingly subtle connection — remains.",
+      "badges": [
+        { "label": "Future Feast", "variant": "primary" },
+        { "label": "Subtle Sensitivity", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Preserved Wine",
+          "content": "The <span class=\"hl\">yayin hameshumar</span> is wine preserved 'in its grapes from the six days of creation' — pure divine light with no 'handle' for the kelipot. From a level so high that negativity cannot even approach."
+        },
+        {
+          "title": "The Teacher's Discomfort",
+          "content": "Like a teacher whose student later misinterprets his teachings. The teacher taught correctly, but feels uncomfortable being associated with the misinterpretation. Yaakov felt a 'subtle embarrassment' about blessing over perfectly pure wine."
+        },
+        {
+          "title": "His Bed Was Complete",
+          "content": "Despite this sensitivity, Yaakov's union was supremely holy. 'His bed was complete' — all twelve tribes were righteous. He is called <span class=\"heb\">שלימו דאבהן</span> — the completion of the Patriarchs."
+        },
+        {
+          "title": "David Accepts",
+          "content": "Finally, David accepts the cup: 'I will bless, and it is fitting for me to bless!' David, through teshuvah and total bitul, had the spiritual standing to bless over the most sublime levels without any subtle discomfort."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Nesirah — How Brother & Sister Become Husband & Wife"
+    },
+    {
+      "type": "info-panel",
+      "title": "The Process of Separation and Union",
+      "intro": "The Kabbalistic process of 'nesirah' (sawing/separation) explains how Z'A and Malchut — originally 'brother and sister' — become 'husband and wife' capable of true union.",
+      "items": [
+        {
+          "theme": "purple",
+          "hebrew": "בבטן הבינה",
+          "content": "<b>In the Womb of Binah</b> — Z'A (emotions) and Malchut (kingship/speech) exist together like twins, connected, growing together. They are called <span class=\"heb\">אח ואחות</span> — brother and sister."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "אחור באחור",
+          "content": "<b>Back to Back</b> — When they first emerge, they share a 'single wall.' The mashpia (giver/Z'A) conceals itself so completely that it appears equal to the mekabel (receiver/Malchut). Like a teacher who dumbs down his teaching to seem no wiser than the student. This is not yet true union."
+        },
+        {
+          "theme": "green",
+          "hebrew": "חסד בא ופרש ביניהם",
+          "content": "<b>Chesed Separates Them</b> — For true union, there must first be <span class=\"hl\">nesirah</span> — separation. The Zohar says: 'Chesed came and separated them.' When divine Chesed illuminates Z'A, his true elevated nature becomes apparent. Now there is a real giver and receiver."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "פנים בפנים",
+          "content": "<b>Face to Face</b> — After nesirah, Z'A and Malchut can unite <span class=\"heb\">פנים בפנים</span> rather than <span class=\"heb\">אחור באחור</span>. Now the union is complete — not the joining of equals, but the elevation of the receiver through the giver. This is 'husband and wife.'"
+        }
+      ],
+      "outro": "The Torah's phrase <span class=\"heb\">חסד הוא</span> ('it is chesed') hints at this: the supernal union of 'brother and sister' is accomplished <b>through Chesed</b> — the very process of separation that enables true face-to-face union. 'Olam chesed yibaneh' — the world is built through chesed."
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Hidden Unions in Shema Yisrael"
+    },
+    {
+      "type": "info-panel",
+      "title": "Encoded in 'Shema' and 'Echad'",
+      "intro": "The first verse of Kriat Shema contains large letters (Ayin and Dalet) and small letters. Together, these encode the supernal unions of 'father and daughter' and 'son and mother.'",
+      "items": [
+        {
+          "theme": "blue",
+          "hebrew": "שמע = אב ובת",
+          "content": "<b>Shema (שמע)</b> — The large <span class=\"heb\">ע</span> (= 70) refers to <span class=\"hl\">Yisrael Saba</span> — the 'seven lower' aspects of Chochmah. This is 'Abba' (father).<br><br>The <span class=\"heb\">ש-מ</span> refers to <span class=\"hl\">Malchut</span> — called 'Bat' (daughter) — specifically in its role of birur (elevating the 288 sparks).<br><br>Thus in 'Shema' we find the union of <b>father and daughter</b> — speech ascending to wisdom, like falling silent in deep contemplation."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "אחד = בן ואם",
+          "content": "<b>Echad (אחד)</b> — The large <span class=\"heb\">ד</span> refers to <span class=\"hl\">Malchut d'Tevunah</span> — the Malchut aspect within Binah. This is 'Ima' (mother).<br><br>The <span class=\"heb\">א-ח</span> (= 9) refers to <span class=\"hl\">Z'A</span> who has 'nine Sefirot' (before Malchut separates). This is 'Ben' (son).<br><br>Thus in 'Echad' we find the union of <b>son and mother</b> — emotion ascending to understanding, causing new contemplation."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "עד + אשמח",
+          "content": "<b>Large letters = עד (Witness)</b> — Testimony is given about something hidden. These letters refer to <span class=\"heb\">עלמא דאתכסיא</span> — the concealed world.<br><br><b>Small letters = אשמח (I Will Rejoice)</b> — These unions are 'innovations' — lower rising to higher, higher descending to lower. When this reversal occurs, there is <span class=\"hl\">special joy Above</span>!<br><br>The Zohar says: 'One who unifies this unification in Kriat Shema — joy is prepared for him from Above!'"
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Core Contrast — Atzilut vs. The Lower Worlds"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Aspect" },
+        { "key": "atzilut", "label": "In Atzilut", "theme": "gold" },
+        { "key": "lower", "label": "In Lower Worlds", "theme": "teal" }
+      ],
+      "rows": [
+        { "dimension": "Nature of Reality", "atzilut": "Achdut peshutah — simple, absolute unity", "lower": "Peruda — separation, multiplicity" },
+        { "dimension": "The Sefirot", "atzilut": "One reality appearing as ten", "lower": "Distinct, separate entities" },
+        { "dimension": "'Close' Unions", "atzilut": "Reveal inherent unity — the holiest", "lower": "Cannot exist; cause catastrophe" },
+        { "dimension": "Effect of Such Unions", "atzilut": "Greatest divine revelation", "lower": "Kelipot absorb the light" },
+        { "dimension": "Outcome", "atzilut": "Divine light increases", "lower": "'Evil becomes greatly strengthened'" },
+        { "dimension": "Status", "atzilut": "Supremely holy", "lower": "Most severe prohibition (karet)" },
+        { "dimension": "The 'Revealing'", "atzilut": "Appropriate revelation of unity", "lower": "Gilui ervah — forbidden exposure" }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Two Types of Union"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Aspect" },
+        { "key": "distant", "label": "Union of 'Distant'", "theme": "teal" },
+        { "key": "close", "label": "Union of 'Close'", "theme": "gold" }
+      ],
+      "rows": [
+        { "dimension": "Starting Point", "distant": "Two separate entities", "close": "Two entities already essentially one" },
+        { "dimension": "What It Achieves", "distant": "Creates connection", "close": "Reveals inherent unity" },
+        { "dimension": "Level of Unity", "distant": "Composite unity (yachad)", "close": "Simple unity (achdut peshutah)" },
+        { "dimension": "Where It Applies", "distant": "All worlds including lower", "close": "Atzilut only" },
+        { "dimension": "Physical Analogy", "distant": "Marriage between strangers", "close": "'Forbidden' relations" },
+        { "dimension": "Superiority", "distant": "Lower — unity from separation", "close": "Infinitely higher — expresses truth" }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Practical Applications"
+    },
+    {
+      "type": "info-panel",
+      "title": "Lessons for Our Divine Service",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "גבולות הקדושה",
+          "content": "<b>Respecting Boundaries of Holiness</b> — Some forms of unity belong only in their proper place. Our job is not to force ultimate unity into our reality, but to prepare the world for when that unity will be properly revealed."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "סוד התורה",
+          "content": "<b>The Danger of Revealing Prematurely</b> — Revealing secrets to the unready, sharing profound ideas in inappropriate contexts, forcing spiritual experiences before their time — all carry similar dangers. Holy things exposed wrongly can empower the 'other side.'"
+        },
+        {
+          "theme": "green",
+          "hebrew": "שמחה בעבודה",
+          "content": "<b>Joy in Divine Service</b> — When 'lower rises to higher' — when we, from our lowly state, reach upward toward G-d — there is special joy Above. The letters of Shema and Echad spell <span class=\"heb\">אשמח</span>. Our service creates unique divine pleasure."
+        },
+        {
+          "theme": "red",
+          "hebrew": "חומרא כהגנה",
+          "content": "<b>Severity as Protection</b> — The severe punishments for arayot reflect natural consequence, not arbitrary anger. Channeling infinite light into a vessel that cannot contain it creates damage. The Torah's boundaries protect us cosmically."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Supporting Teachings"
+    },
+    {
+      "type": "info-panel",
+      "title": "The Yichudim and Their Categories",
+      "items": [
+        {
+          "theme": "blue",
+          "hebrew": "אבא ואמא",
+          "content": "<b>Abba v'Ima</b> — Chochmah & Binah. The fundamental 'father-mother' union. Corresponds to the relationship of insight and understanding."
+        },
+        {
+          "theme": "green",
+          "hebrew": "ז\"א ונוקבא",
+          "content": "<b>Z'A & Nukva</b> — Middot & Malchut. Sometimes called 'brother and sister,' sometimes 'father and daughter.' Foundation of the worlds."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "ישראל סבא ומלכות",
+          "content": "<b>Yisrael Saba & Malchut</b> — Lower aspect of Chochmah with Malchut. The 'father and daughter' union hinted in <span class=\"heb\">שמע</span>."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "ז\"א ותבונה",
+          "content": "<b>Z'A & Tevunah</b> — Middot with the lower aspect of Binah. The 'son and mother' union hinted in <span class=\"heb\">אחד</span>."
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "Leah and Rachel — The Two Sisters",
+      "items": [
+        {
+          "theme": "purple",
+          "hebrew": "לאה = עלמא דאתכסיא",
+          "content": "<b>Leah — The Concealed World</b><br>Upper Hei of Hashem's Name · Machshavah (thought) · Inner garment of the soul · Creates the hidden worlds (almin stimin) · Thought reveals the soul's powers within oneself"
+        },
+        {
+          "theme": "blue",
+          "hebrew": "רחל = עלמא דאתגליא",
+          "content": "<b>Rachel — The Revealed World</b><br>Lower Hei of Hashem's Name · Dibur (speech) · Outer garment of the soul · Creates the revealed worlds · Speech reveals the soul's powers externally"
+        },
+        {
+          "theme": "green",
+          "hebrew": "יעקב = המידות",
+          "content": "<b>Yaakov — The Middot of Atzilut</b><br>Represents the emotional attributes · Must unite with both thought and speech · Drew light from 'alma d'itkasya' to 'alma d'itgalya' · 'Baruch Hashem min ha'olam v'ad ha'olam'"
+        },
+        {
+          "theme": "teal",
+          "hebrew": "עקבי לאה ברוש רחל",
+          "content": "<b>The Heel and the Head</b><br>Normally, only the 'heel' (lowest aspect) of thought enters the 'head' (highest aspect) of speech. 'What the heart truly feels, the pen cannot write.' But Yaakov's union brought the <span class=\"hl\">essence</span> of the Middot into speech."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Before and After Sinai"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Aspect" },
+        { "key": "before", "label": "Before Sinai", "theme": "blue" },
+        { "key": "after", "label": "After Sinai", "theme": "red" }
+      ],
+      "rows": [
+        { "dimension": "Upper-Lower Connection", "before": "Separate — 'decree' between them", "after": "Connected — mitzvot bridge them" },
+        { "dimension": "Effect of Actions", "before": "Remain in upper worlds", "after": "Descend into physical world" },
+        { "dimension": "Yaakov's Marriage", "before": "Affected Atzilut only", "after": "Would affect lower worlds" },
+        { "dimension": "Two Sisters", "before": "Permitted (for the Avot)", "after": "Forbidden — creates cosmic damage" },
+        { "dimension": "Light Drawn Down", "before": "Stayed above", "after": "Descends to world of separation" },
+        { "dimension": "Kelipot", "before": "Could not intercept", "after": "Receive sustenance from misplaced light" }
+      ]
+    }
+  ]
+}

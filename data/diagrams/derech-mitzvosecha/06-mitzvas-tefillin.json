@@ -1,0 +1,347 @@
+{
+  "id": "derech-mitzvosecha/06-mitzvas-tefillin",
+  "meta": {
+    "sefer": "Derech Mitzvosecha",
+    "hebrewTitle": "מצות תפילין",
+    "englishTitle": "Crown of the Mind — The Mystical Meaning of Tefillin",
+    "subtitle": "The Tzemach Tzedek of Chabad",
+    "sourceDiscourse": "discourses/derech-mitzvosecha/06-mitzvas-tefillin.json"
+  },
+  "blocks": [
+    {
+      "type": "verse",
+      "text": "שִׂימֵנִי כַחוֹתָם עַל לִבֶּךָ כַּחוֹתָם עַל זְרוֹעֶךָ",
+      "reference": "Shir HaShirim 8:6"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "Divine Will",
+      "hebrew": "רצון / כתר",
+      "english": "Ratzon · Keter · The Source of All Mitzvot",
+      "tagline": "Every mitzvah originates in the divine Will — <span class=\"heb\">כתר</span>. When we fulfill G-d's command, we connect not only to the specific spiritual effect but to the Will itself. This is what Abraham's lofty service could not achieve.",
+      "badges": [
+        { "label": "Chad Archa", "variant": "primary" },
+        { "label": "Source of 613", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Beyond Abraham",
+          "content": "Abraham reached the inner dimensions of Chesed through his prayers, drawing down <span class=\"hl\">Mochin d'Gadlut</span>. Yet he was not <b>commanded</b> about Tefillin. Without the command, the Ratzon remains concealed. Our physical mitzvah after Sinai accesses what even the Avot could not."
+        },
+        {
+          "title": "Bittul Ha'Yesh",
+          "content": "What creates divine pleasure? The <span class=\"hl\">bittul ha'yesh</span> — nullification of independent existence. When animal hide becomes Tefillin parchment, a 'thing' reveals it exists only to serve G-d. This nullification causes <span class=\"heb\">נחת רוח</span> Above."
+        },
+        {
+          "title": "The Three Dimensions",
+          "content": "Every mitzvah contains: (1) <b>Specific effect</b> — affects particular Sefirot; (2) <b>General source</b> — all mitzvot share one root in the divine Will; (3) <b>The link</b> — divine pleasure from bittul connects them. The pleasure from below illuminates the structure above."
+        },
+        {
+          "title": "Two Intentions",
+          "content": "When putting on Tefillin, hold two thoughts: (1) \"I am subjugating my mind and heart to G-d\" — this affects the Mochin and Middot; (2) \"I am fulfilling the King's command\" — this connects to Keter, the divine Will itself."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "green"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "I",
+      "label": "Divine Intellect",
+      "hebrew": "מוחין / חכמה בינה דעת",
+      "english": "Mochin · Chochmah · Binah · Da'at",
+      "tagline": "The four <span class=\"heb\">פרשיות</span> of Tefillin correspond to four Mochin — Chochmah, Binah, and Da'at (which divides into Chesed and Gevurah). These are the 'brains' that descend into and illuminate the emotional attributes.",
+      "badges": [
+        { "label": "Four Parshiyot", "variant": "primary" },
+        { "label": "21 Divine Names", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Four Parshiyot",
+          "content": "<span class=\"heb\">קדש</span> = Chochmah (initial flash of insight). <span class=\"heb\">והיה כי יביאך</span> = Binah (expansion of understanding). <span class=\"heb\">שמע</span> = Chesed (love — \"v'ahavta\" appears here). <span class=\"heb\">והיה אם שמוע</span> = Gevurah (fear/awe — acceptance of commandments)."
+        },
+        {
+          "title": "21 Mentions of Hashem's Name",
+          "content": "In the four parshiyot, Hashem's name appears exactly <span class=\"hl\">21 times</span>. This corresponds to 'three times seven' — three levels of Mochin (ChaBaD) descending into seven Middot (Chesed through Malchut). Each descent requires prior <span class=\"heb\">עיבור</span> (gestation)."
+        },
+        {
+          "title": "Mochin d'Katnut vs. d'Gadlut",
+          "content": "<span class=\"hl\">Mochin d'Katnut</span>: basic intellectual guidance — the child acts without understanding why. <span class=\"hl\">Mochin d'Gadlut</span>: the Middot themselves are transformed. They don't just follow intellect — they <b>feel</b> its truth. Intellectual-emotional fusion."
+        },
+        {
+          "title": "Letters and Parchment",
+          "content": "Letters represent <span class=\"hl\">tzimtzum</span> — contracted, defined divine light. The blank parchment surrounding them represents the <span class=\"heb\">אין סוף</span> in absolute simplicity. The specific is always surrounded by the infinite."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "green",
+      "toTheme": "teal"
+    },
+    {
+      "type": "level-card",
+      "theme": "teal",
+      "number": "II",
+      "label": "Emotional Attributes",
+      "hebrew": "זעיר אנפין / מדות",
+      "english": "Z'A · Zeir Anpin · The Six Middot",
+      "tagline": "The configuration of six emotional Sefirot — from Chesed through Yesod. When Mochin descend into Z'A, this is called 'G-d wearing Tefillin.' The straps hanging over the heart represent this descent from intellect to emotion.",
+      "badges": [
+        { "label": "Six Middot", "variant": "primary" },
+        { "label": "Tefillin Shel Rosh", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "G-d Wears Tefillin",
+          "content": "The Zohar declares: 'The Holy One wears Tefillin.' G-d has no body — this refers to the descent of Mochin into Z'A's Middot. Every morning when a Jew puts on Tefillin, the worlds receive new light through this cosmic process."
+        },
+        {
+          "title": "The Black Straps",
+          "content": "Straps represent the Middot emerging from Mochin. They are <span class=\"hl\">black</span> — signifying tzimtzum and concealment. When divine light descends from Mochin to Middot, it undergoes contraction. Yet the straps have no letters — hinting their root is <b>higher</b> than Mochin, in Atik."
+        },
+        {
+          "title": "Ma'abarta — The Bridge",
+          "content": "The <span class=\"heb\">מעברתא</span> connects the Tefillin box to the straps. It represents the transition point between intellect and emotion — the narrow passage through which understanding becomes feeling."
+        },
+        {
+          "title": "The Letter Shin",
+          "content": "On the Tefillin box: a three-headed <span class=\"heb\">ש</span> (the three Mochin as normally revealed) and a four-headed <span class=\"heb\">ש</span> (Da'at splitting into its two aspects). The external letter hints at the four parshiyot within."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "teal",
+      "toTheme": "purple"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "III",
+      "label": "Divine Presence",
+      "hebrew": "מלכות / שכינה",
+      "english": "Malchut · The Shechinah · Receiving Kingdom",
+      "tagline": "The Tefillin Shel Yad represent the flow from Z'A into Malchut — the 'recessed seal.' This is the more concealed dimension, which is why the arm Tefillin must be covered: 'A sign for you, but not for others to see.'",
+      "badges": [
+        { "label": "Tefillin Shel Yad", "variant": "primary" },
+        { "label": "Concealed Flow", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why Covered?",
+          "content": "Tefillin Shel Yad must be placed on a <span class=\"hl\">covered</span> part of the arm. This flow from Z'A to Malchut is more concealed — light clothed in vessels. The verse says: <span class=\"heb\">והיה לך לאות</span> — 'a sign for <b>you</b>' alone."
+        },
+        {
+          "title": "Aliyat Ha'Olamot",
+          "content": "Tefillin Shel Yad correspond to 'Aliyat Ha'Olamot' — where the lower level rises and <b>clothes</b> the higher without being absorbed. Malchut's identity remains distinct. This is 'bulitah' (protrusion) from below, drawing 'sheki'ah' (concealed light) from above."
+        },
+        {
+          "title": "The World of Beriah",
+          "content": "This corresponds to the spiritual rectification of <span class=\"hl\">Beriah</span> — the world of intellectual angels who serve G-d with fiery love while still feeling their own existence. The love is real; the self is still present."
+        },
+        {
+          "title": "His Left Hand",
+          "content": "<span class=\"heb\">שמאלו תחת לראשי</span> — 'His left hand beneath my head.' The Tefillin Shel Yad, placed on the left arm, represents Gevurah (severity/constriction). The light descends clothed and concealed — divine support from below."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Four Parshiyot — Portals of Divine Intellect"
+    },
+    {
+      "type": "item-grid",
+      "columns": 4,
+      "items": [
+        {
+          "hebrew": "קַדֶּשׁ",
+          "english": "Kadesh",
+          "theme": "green",
+          "description": "Chochmah — the initial flash of divine wisdom. Sanctification as the first spark of insight.",
+          "detail": "Corresponds to <b>Chochmah</b> — the seminal point of wisdom before expansion. The command to 'sanctify' captures the moment of pure revelation, undeveloped but containing all potential. <span class=\"heb\">ראשית חכמה</span>."
+        },
+        {
+          "hebrew": "וְהָיָה כִּי יְבִאֲךָ",
+          "english": "V'hayah Ki Yevi'acha",
+          "theme": "blue",
+          "description": "Binah — the expansion and development of understanding. 'When He brings you...'",
+          "detail": "Corresponds to <b>Binah</b> — understanding that develops the initial insight. The journey from Egypt to the Land represents the expansion of consciousness from point to palace. <span class=\"heb\">מארץ מצרים</span> = leaving constriction."
+        },
+        {
+          "hebrew": "שְׁמַע",
+          "english": "Shema",
+          "theme": "gold",
+          "description": "Chesed — 'V'ahavta' appears here. Love born from contemplation of divine unity.",
+          "detail": "Corresponds to <b>Chesed</b> — the emotional expression of love. Here <span class=\"heb\">ואהבת את ה׳ אלהיך</span> appears: love with all your heart, soul, and might. Intellect births emotion; understanding becomes feeling."
+        },
+        {
+          "hebrew": "וְהָיָה אִם שָׁמֹעַ",
+          "english": "V'hayah Im Shamo'a",
+          "theme": "red",
+          "description": "Gevurah — acceptance of commandments. Fear/awe and practical commitment.",
+          "detail": "Corresponds to <b>Gevurah</b> — the emotional expression of awe and acceptance. Here the mitzvot are enumerated with reward and consequence. Love descends into commitment; feeling becomes action."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Two Seals — Protruding and Recessed"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Dimension" },
+        { "key": "boleit", "label": "Chotam Boleit · Protruding", "theme": "gold" },
+        { "key": "shokeia", "label": "Chotam Shokei'a · Recessed", "theme": "purple" }
+      ],
+      "rows": [
+        { "dimension": "Tefillin", "boleit": "Shel Rosh (head)", "shokeia": "Shel Yad (arm)" },
+        { "dimension": "Placement", "boleit": "Revealed location — visible to all", "shokeia": "Covered location — 'a sign for you alone'" },
+        { "dimension": "Divine Light", "boleit": "Revealed, unclothed, direct illumination", "shokeia": "Concealed, clothed in vessels" },
+        { "dimension": "Avodah That Draws It", "boleit": "Bittul — complete self-nullification", "shokeia": "Ahavah — love and emotional arousal" },
+        { "dimension": "Prayer Section", "boleit": "Shemoneh Esrei — standing in silence", "shokeia": "Shema and its blessings — arousing love" },
+        { "dimension": "Type of Elevation", "boleit": "Ha'alat Ma\"N — absorbed into the higher", "shokeia": "Aliyat Ha'Olamot — clothing the higher" },
+        { "dimension": "World Rectified", "boleit": "Atzilut — world of total unity", "shokeia": "Beriah — world of intellectual service" },
+        { "dimension": "Effect from Above", "boleit": "Bulitah — protrusion (revealed light)", "shokeia": "Sheki'ah — recession (concealed light)" }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Key Distinctions & Supporting Teachings"
+    },
+    {
+      "type": "info-panel",
+      "title": "Two Modes of Spiritual Elevation",
+      "items": [
+        {
+          "theme": "purple",
+          "hebrew": "עליית העולמות",
+          "content": "<b>Aliyat Ha'Olamot</b> (Elevation of the Worlds): The lower level rises and <b>clothes</b> the higher. It remains its own distinct entity but now serves as a garment. Like love containing wisdom — the love is still love, but it holds the truth of the intellect within."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "העלאת מ״ן",
+          "content": "<b>Ha'alat Ma\"N</b> (Elevation of 'Female Waters'): The lower level rises and is <b>absorbed</b> into the higher. Its distinct identity is lost — it becomes part of the higher reality. Like a fetus in its mother's womb — no independent existence."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "עיבור שני",
+          "content": "<b>Ibur Sheni</b> (Second Gestation): After Z'A has developed through Mochin d'Katnut, it rises <b>back</b> to be absorbed in Binah. This is not regression but ascent — emerging with <span class=\"hl\">Mochin d'Gadlut</span>, completely new elevated consciousness."
+        },
+        {
+          "theme": "green",
+          "hebrew": "יציאת מצרים",
+          "content": "<b>Yetziat Mitzrayim</b>: 'Mitzrayim' relates to <span class=\"heb\">מֵצַר</span> (constriction) — specifically the '50 gates of Binah.' The Exodus = Z'A emerging from this gestation with new, elevated consciousness. All four parshiyot hint at this journey."
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "Physical Components & Spiritual Meanings",
+      "items": [
+        {
+          "theme": "green",
+          "hebrew": "אותיות על קלף",
+          "content": "<b>Letters on Parchment</b>: Letters = Mochin (contracted, defined divine light). Blank parchment surrounding them = Ein Sof (infinite light before contraction). The specific never loses its connection to the infinite."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "רצועות שחורות",
+          "content": "<b>Black Straps</b>: Represent Middot emerging from Mochin. Black = tzimtzum and concealment. Yet straps are <b>plain</b> (no letters) — hinting their root is higher than Mochin, in Atik. Paradox: highest root appears lowest."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "מעברתא",
+          "content": "<b>Ma'abarta</b> (Bridge): The connection between box and straps. Represents the transition from intellect to emotion — the narrow passage through which understanding becomes feeling."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "אות ש׳",
+          "content": "<b>Letter Shin</b>: Three-headed (ChaBaD as normally revealed) and four-headed (Da'at splitting into Chesed and Gevurah). The external letter hints at the internal contents: four aspects of divine intellect."
+        }
+      ]
+    },
+    {
+      "type": "info-panel",
+      "title": "The Two Prayer Modes",
+      "items": [
+        {
+          "theme": "purple",
+          "hebrew": "תפלה מיושב",
+          "content": "<b>Tefillah Miyoshev</b> (Sitting Prayer): Pesukei D'Zimra through Shema — arousing <span class=\"hl\">ahavah</span> (love) through contemplation of G-d's greatness. This is 'protrusion' from below (bulitah) — emotions alive and felt. Draws down 'recession' from above."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "תפלה מעומד",
+          "content": "<b>Tefillah Mi'omeid</b> (Standing Prayer): Shemoneh Esrei — complete <span class=\"hl\">bittul</span> (self-nullification) before G-d, expressed in bowing and silent prayer. This is 'recession' from below (sheki'ah) — disappearing before the King. Draws down 'protrusion' from above."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Abraham vs. Us — The Power of Command"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Dimension" },
+        { "key": "avraham", "label": "Abraham Avinu", "theme": "green" },
+        { "key": "us", "label": "Us After Sinai", "theme": "gold" }
+      ],
+      "rows": [
+        { "dimension": "Type of Service", "avraham": "Spiritual elevation through prayer and contemplation", "us": "Physical mitzvah — leather boxes, parchment, straps" },
+        { "dimension": "What Was Achieved", "avraham": "Drew down the inner dimension of Chesed — Mochin within Middot", "us": "Draw down both Mochin AND Ratzon (the divine Will)" },
+        { "dimension": "Level Accessed", "avraham": "'Haloch v'nasoa HaNegbah' — ascending in love", "us": "Connection to Keter — source of all 613 commands" },
+        { "dimension": "Was He Commanded?", "avraham": "No — not commanded about Tefillin", "us": "Yes — explicit commandment from Sinai" },
+        { "dimension": "Key Advantage", "avraham": "Extraordinary spiritual heights", "us": "Access to the Ratzon that only command reveals" }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "The Appendix — Revelation Even Now"
+    },
+    {
+      "type": "info-panel",
+      "title": "Why 'Protruding Seal' — Even in This World",
+      "intro": "In the World to Come, all divine light drawn by all mitzvot will be revealed. So why call only Tefillin Shel Rosh a 'protruding seal'? The answer: this term refers not just to the future, but to a quality visible even now.",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "אותותינו ראינו",
+          "content": "<b>We Have Seen Our Signs</b>: The <b>result</b> of light drawn through Tefillin Shel Rosh is visible even now! Through Shemoneh Esrei — corresponding to these Tefillin — we ask G-d for our needs. When He answers, the effect is <span class=\"hl\">visible in this world</span>: the sick recovers, the rain falls."
+        },
+        {
+          "theme": "green",
+          "hebrew": "חומץ ידלוק",
+          "content": "<b>Vinegar Will Burn</b>: Rabbi Chanina ben Dosa: 'He who told oil to burn will tell vinegar to burn!' And it burned. The 'protruding seal' — revealed light from bittul — can actually <span class=\"hl\">change the natural order</span>. Letters of creation can be rearranged."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "שלוש רמות",
+          "content": "<b>Three Levels of Distinction</b>: (1) <b>In this world</b> — effects visible in answered prayers; (2) <b>In spiritual worlds</b> — light revealed without garments; (3) <b>In the World to Come</b> — qualitative distinction even then. Protruding seal = present reality, not just future promise."
+        }
+      ]
+    },
+
+    {
+      "type": "section-label",
+      "text": "Core Message — The Crown on Every Head"
+    },
+    {
+      "type": "prose",
+      "content": "The Tefillin are not merely 'phylacteries' — they are the <b>crown of the Jewish mind</b>. When we bind them upon our heads and arms, we participate in the same process that sustains the spiritual worlds: the descent of Mochin into Middot, the elevation of Malchut to Z'A, and the revelation of Ein Sof through the vessels of creation.<br><br>Most importantly: our physical mitzvot after Sinai contain something that even the Avot could not access — <span class=\"hl\">the direct revelation of divine Will</span>. Abraham reached the inner dimensions of Chesed; we reach the <b>Will behind all dimensions</b>.<br><br><span class=\"heb\">\"שימני כחותם על לבך\"</span> — Set me as a seal upon your heart. Every morning, when a Jew puts on Tefillin, the worlds themselves receive new light."
+    }
+  ]
+}
