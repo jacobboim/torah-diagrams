@@ -1,0 +1,334 @@
+{
+  "id": "kedushas-levi/purim/04-kedusha-revit-purim",
+  "meta": {
+    "sefer": "Kedushas Levi",
+    "parshah": "Purim",
+    "hebrewTitle": "קדושה רביעית לפורים",
+    "englishTitle": "When Evil Transforms to Good",
+    "subtitle": "The Secret of Purim Joy",
+    "sourceDiscourse": "discourses/kedushas-levi/purim/04-kedusha-revit-purim.json"
+  },
+  "blocks": [
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "The Good King",
+      "hebrew": "מלך טוב",
+      "english": "All Is Good · No Category of 'Bad'",
+      "tagline": "The deepest secret of Purim: there is <b>no category of 'bad'</b> in the world at all. Everything—absolutely everything—comes from the Good King and is therefore good. Haman's every scheme became Israel's salvation.",
+      "badges": [
+        { "label": "Gam Zu L'Tovah", "variant": "primary" },
+        { "label": "All Is Good", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Purim Revelation",
+          "content": "What appears evil is actually concealed good. Every scheme of Haman turned into salvation for Israel. The day he chose by lot for destruction became our greatest celebration. This isn't just history—it's a template for viewing all of life."
+        },
+        {
+          "title": "Tanna D'Bei Eliyahu",
+          "content": "The teaching: 'It was for my benefit that my cow's leg broke.' When something apparently bad happens, think: this is actually good. We must believe that all events come from the Creator, the Good King."
+        },
+        {
+          "title": "The Power of This Recognition",
+          "content": "When a person deeply internalizes that all apparent evil transforms to good—this very thinking <b>purifies their consciousness</b>. Every circumstance that appears bad, when one says <span class=\"heb\">גם זו לטובה</span>, will actually turn to good."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "purple"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "I",
+      "label": "Ad D'Lo Yada",
+      "hebrew": "עד דלא ידע",
+      "english": "Until One Doesn't Know · Beyond Categories",
+      "tagline": "We must become intoxicated 'until one doesn't know between cursed is Haman and blessed is Mordechai'—meaning: reaching the recognition that <b>both categories are actually good</b>.",
+      "badges": [
+        { "label": "Beyond Distinction", "variant": "primary" },
+        { "label": "Higher Consciousness", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "First Interpretation",
+          "content": "There is no distinction between the 'cursed Haman' category (things that appear evil) and the 'blessed Mordechai' category (things that appear good). They are ALL good—there is no evil whatsoever from the Good King."
+        },
+        {
+          "title": "Second Interpretation",
+          "content": "When a wicked person intends evil but good comes from their actions, that good emerges 'without their <span class=\"heb\">דעת</span>'—like a drunk who doesn't know what they're doing. The good was not their intention, yet God transformed it anyway."
+        },
+        {
+          "title": "The Drunk as Metaphor",
+          "content": "A drunk acts without conscious intent. Similarly, evil-doers produce good 'without their knowledge.' Events that appear negative are actually for our benefit—we simply cannot perceive the good, like being intoxicated to reality."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "blue"
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "II",
+      "label": "Purim & Shavuot",
+      "hebrew": "קבלת התורה מאהבה",
+      "english": "Accepting Torah · From Love",
+      "tagline": "Just as Shavuot celebrates receiving Torah at Sinai, Purim celebrates <b>re-accepting</b> Torah from love of the miracle. Both days require physical joy because Torah is a gift we treasure.",
+      "badges": [
+        { "label": "Torah Reception", "variant": "primary" },
+        { "label": "No Fasting", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why Mar the Son of Ravina Didn't Fast",
+          "content": "He fasted the entire year except for Shavuot and Purim. On Shavuot, we rejoice to show Torah is pleasant and accepted. On Purim, we rejoice because Israel re-accepted Torah from love—and this re-acceptance is dear to us."
+        },
+        {
+          "title": "The Meal Must Be During the Day",
+          "content": "Torah was given openly, in daylight—'I did not speak from the beginning in secret.' Since Purim's essence is re-accepting Torah, the seudah must likewise be during the day, not at night."
+        },
+        {
+          "title": "How to Conduct the Seudah",
+          "content": "Don't engage in foolish behavior. Rather, accept the yoke of Torah and mitzvot anew. With every <span class=\"heb\">כזית</span> you eat, intend that you're rejoicing in Torah and mitzvot, just as in the days of Mordechai and Esther."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "blue",
+      "toTheme": "green"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "III",
+      "label": "Elevation of Sparks",
+      "hebrew": "העלאת ניצוצות",
+      "english": "Sparks from the Kelipot · Ba'al Teshuvah Joy",
+      "tagline": "The holy sparks trapped within Haman and Achashverosh were elevated through the miracle. This is why wine is required—wine represents the joy of the <span class=\"heb\">בעל תשובה</span>, the greatest joy of all.",
+      "badges": [
+        { "label": "Nitzotzot", "variant": "primary" },
+        { "label": "Wine = Joy", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Sparks in Achashverosh",
+          "content": "Even though Achashverosh was wicked, he decreed to hang Haman and avenged Israel. Because God manipulated him to do good, he merited that his son Darius would build the Second Temple! There were <span class=\"heb\">ניצוצות קדושה</span> within him."
+        },
+        {
+          "title": "Sparks in Haman",
+          "content": "Though his intention was evil, salvation came through his deeds. He prepared the gallows on which he was hung. His advice to kill Vashti led to Esther becoming queen. His descendants <b>taught Torah to the masses</b>—the 'Bnei Barak.'"
+        },
+        {
+          "title": "Why the Greater Joy",
+          "content": "The delight from elevating sparks trapped in <span class=\"heb\">קליפות</span> is greater than from tzaddikim. Like a son who visits from a distant place—the delight is greater than from a son always present. Hence we increase wine-drinking."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "green",
+      "toTheme": "red"
+    },
+    {
+      "type": "level-card",
+      "theme": "red",
+      "number": "IV",
+      "label": "Drawing Down Blessing",
+      "hebrew": "פרסומי ניסא",
+      "english": "Publicizing the Miracle · Activating the Energy",
+      "tagline": "When we recount the miracle through reading the Megillah and rejoicing, we <b>activate that same miraculous energy</b> for today. We draw down the same type of salvation into our current circumstances.",
+      "badges": [
+        { "label": "Pirsumei Nisa", "variant": "primary" },
+        { "label": "For Today", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why Retelling Matters",
+          "content": "When we recount a miracle, that miracle continues to shine for us. By telling the story and celebrating, we draw down the same type of salvation—the Purim-type miracle where enemies are compelled to do good."
+        },
+        {
+          "title": "What We Need in Galut",
+          "content": "During exile, we especially need this type of miracle: the hearts of nations inclined toward us, rulers doing good with us. Since we live under foreign dominion, we publicize the Purim miracle to draw down this influence."
+        },
+        {
+          "title": "Intention While Eating",
+          "content": "During eating and drinking, intend that the nations should do good with us. Pray that anyone who wants to do evil—from that very act, great good should sprout forth, just as with Haman's schemes."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Key Teaching"
+    },
+    {
+      "type": "verse",
+      "text": "חַיָּב אִינַשׁ לִבְסוֹמֵי בְּפוּרַיָּא עַד דְּלָא יָדַע בֵּין אָרוּר הָמָן לְבָרוּךְ מָרְדְּכַי",
+      "reference": "Megillah 7b"
+    },
+    {
+      "type": "section-label",
+      "text": "Three Types of Divine Salvation"
+    },
+    {
+      "type": "item-grid",
+      "columns": 3,
+      "items": [
+        {
+          "hebrew": "פסח",
+          "english": "Pesach",
+          "theme": "purple",
+          "description": "Miracles that CHANGE nature—splitting the sea, the ten plagues.",
+          "detail": "God saved us through supernatural wonders that altered the very fabric of creation. This is open, revealed salvation. Reminds us that even when the world operates 'naturally,' God transcends natural law."
+        },
+        {
+          "hebrew": "חנוכה",
+          "english": "Chanukah",
+          "theme": "blue",
+          "description": "Victory THROUGH battle—the few over the many.",
+          "detail": "God gave the holy ones power over their enemies through military victory. This is salvation through human effort <b>empowered</b> by God. When we must fight, God gives us strength."
+        },
+        {
+          "hebrew": "פורים",
+          "english": "Purim",
+          "theme": "gold",
+          "description": "Enemies COMPELLED to do good—the most remarkable of all.",
+          "detail": "God placed into the hearts of our very enemies the thoughts and actions that became our salvation. The wicked themselves, <b>against their will</b>, did good for Israel. Most relevant in galut."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Haman's Schemes → Israel's Salvation"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "scheme", "label": "Haman's Scheme" },
+        { "key": "intent", "label": "His Intent", "theme": "red" },
+        { "key": "result", "label": "What Actually Happened", "theme": "green" }
+      ],
+      "rows": [
+        { "scheme": "The Gallows", "intent": "To hang Mordechai", "result": "He and his ten sons were hanged on it" },
+        { "scheme": "Advising to Kill Vashti", "intent": "Achashverosh would marry his daughter", "result": "Esther became queen and saved her people" },
+        { "scheme": "'The Man Whom the King Honors'", "intent": "Thought it was for himself", "result": "He had to lead Mordechai through the streets" },
+        { "scheme": "The Pur (Lot)", "intent": "Chose a day of destruction", "result": "That day became our greatest celebration" }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Two Meanings of 'Ad D'Lo Yada'"
+    },
+    {
+      "type": "info-panel",
+      "title": "Understanding the Intoxication",
+      "intro": "The requirement to drink 'until one doesn't know' has two profound interpretations:",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "הכל טוב",
+          "content": "<b>Everything Is Good:</b> Reach the recognition that there's no real distinction between 'bad' (cursed Haman category) and 'good' (blessed Mordechai category). All is actually good from the Good King."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "טוב בלי כוונה",
+          "content": "<b>Good Without Intent:</b> Evil-doers produce good 'without their <span class=\"heb\">דעת</span>' (knowledge/intent)—like a drunk who doesn't know what they're doing. The good was not their intention, yet it emerged anyway."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "מעבר להבנה",
+          "content": "<b>Beyond Comprehension:</b> Events that appear negative are for our benefit—we simply cannot perceive the good. The benefit comes 'without our <span class=\"heb\">דעת</span>,' beyond our understanding, like being intoxicated."
+        }
+      ],
+      "outro": "This is the illumination of Purim: from all of Haman's evil schemes came only good. We internalize that from the Good King, only good can come."
+    },
+    {
+      "type": "section-label",
+      "text": "Elevation of Holy Sparks"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "person", "label": "Person" },
+        { "key": "evil", "label": "Evil Intent", "theme": "red" },
+        { "key": "result", "label": "What Actually Resulted", "theme": "green" },
+        { "key": "sparks", "label": "Elevation of Sparks", "theme": "gold" }
+      ],
+      "rows": [
+        { "person": "Achashverosh", "evil": "Participated in plot against Jews", "result": "Ordered Haman's hanging, saved Israel", "sparks": "His son built Second Temple" },
+        { "person": "Haman", "evil": "Planned genocide of Jews", "result": "Prepared his own gallows, Esther became queen", "sparks": "His descendants taught Torah (Bnei Barak)" }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Why Wine Is Required"
+    },
+    {
+      "type": "info-panel",
+      "title": "The Secret of Joy",
+      "intro": "Why is there greater obligation to drink wine on Purim than other holidays?",
+      "items": [
+        {
+          "theme": "green",
+          "hebrew": "ניצוצות קדושה",
+          "content": "<b>Holy Sparks Elevated:</b> The sparks trapped within Haman and Achashverosh experienced great elevation through Purim. Though wicked, their actions became vehicles for holiness."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "שמחת בעל תשובה",
+          "content": "<b>Ba'al Teshuvah Joy:</b> The delight from elevating sparks from <span class=\"heb\">קליפות</span> is greater than from tzaddikim. Like a son who visits from afar—the joy is greater than from a son always present."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "יין = שמחה",
+          "content": "<b>Wine = Joy:</b> Since Purim has elevation of sparks from within the <span class=\"heb\">קליפה</span>—great joy like that of a <span class=\"heb\">בעל תשובה</span>—we must increase our joy. Wine is the <span class=\"heb\">סוד</span> (secret) of joy."
+        }
+      ],
+      "outro": "Wine also hints to the seventy members of the Sanhedrin HaGedolah who were in the World of Delight."
+    },
+    {
+      "type": "section-label",
+      "text": "Practical Application"
+    },
+    {
+      "type": "parable-grid",
+      "items": [
+        {
+          "icon": "🔄",
+          "title": "Transform Your Perspective",
+          "body": "When something apparently bad happens, your immediate response should be: 'This is actually good—I just can't see how yet.' Say 'gam zu l'tovah' and mean it. This recognition actually draws down the good."
+        },
+        {
+          "icon": "🍷",
+          "title": "The Purim Seudah",
+          "body": "Don't just feast—accept Torah anew. With every bite, intend that you're celebrating the yoke of Torah and mitzvot. The meal must be during the day. Avoid foolish behavior—the joy should be 'in Hashem.'"
+        },
+        {
+          "icon": "📖",
+          "title": "Drawing Down Blessing",
+          "body": "When reading the Megillah, you're not just remembering history—you're activating miraculous energy for today. Have in mind that nations among whom we live should have their hearts inclined toward our good."
+        },
+        {
+          "icon": "✨",
+          "title": "Sparks from Unlikely Sources",
+          "body": "There is potential holiness everywhere. Even from the most unlikely sources—people who seem far from goodness—blessing can emerge. When you see good from unexpected places, rejoice with ba'al teshuvah joy."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Core Teaching"
+    },
+    {
+      "type": "prose",
+      "content": "Purim reveals the deepest secret of Divine providence: <b>there is no category of 'bad'</b> in the world at all. Everything comes from the Good King, and therefore everything—even what appears evil—is actually good. Haman's every scheme became Israel's salvation. The day he chose for destruction became our greatest celebration.<br><br>This is why we must drink 'until we don't know between cursed Haman and blessed Mordechai'—because ultimately <b>there is no difference</b>. Both categories are good. The evil-doer produces good 'without their knowledge,' and we benefit 'without our comprehension.' But the truth remains: from the Good King, only good can come.<br><br>May we merit to truly internalize this teaching, saying <span class=\"heb\">גם זו לטובה</span> not as empty words but as deep recognition. And may our difficulties be transformed into revealed blessings, just as every scheme of Haman became Israel's salvation."
+    }
+  ]
+}

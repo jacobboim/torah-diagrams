@@ -1,0 +1,344 @@
+{
+  "id": "kedushas-levi/purim/02-kedusha-shniya",
+  "meta": {
+    "sefer": "Kedushas Levi",
+    "parshah": "Purim",
+    "hebrewTitle": "קדושה שניה לפורים",
+    "englishTitle": "Letters of Transformation",
+    "subtitle": "How Purim Refined the Very Shape of Torah",
+    "sourceDiscourse": "discourses/kedushas-levi/purim/02-kedusha-shniya.json"
+  },
+  "blocks": [
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "Upper Worlds",
+      "hebrew": "עולם השכל",
+      "english": "The World of Intellect · No Form",
+      "tagline": "In the upper worlds—the realm of angels and pure intellect—there is no 'up' or 'down,' no boundaries or physical form. Divine light exists without shape or limitation.",
+      "badges": [
+        { "label": "Formless", "variant": "primary" },
+        { "label": "Spiritual Realm", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Teaching from the Maggid",
+          "content": "The Maggid of Mezritch taught: In the upper worlds, there are no letter shapes at all! Letters have form only when divine light enters physical garments. Shape represents how the Infinite contracts to enter finitude."
+        },
+        {
+          "title": "Above Letters",
+          "content": "Letter shapes shouldn't apply to angels and the world of intellect. So why do Hebrew letters have specific forms? Because they represent how the <b>upper lights clothe themselves within physical reality</b>."
+        },
+        {
+          "title": "The Yud and the Vav",
+          "content": "Each letter encodes a principle: <span class=\"heb\">י</span> (Yud) represents <span class=\"heb\">צמצום</span> (contraction)—like a teacher contracting wisdom for a student. <span class=\"heb\">ו</span> (Vav) represents <span class=\"heb\">התפשטות</span> (expansion)—how something spreads outward."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "purple"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "I",
+      "label": "Before Purim",
+      "hebrew": "כתב עברי",
+      "english": "Ktav Ivri · The Ancient Script",
+      "tagline": "Before the miracle of Purim, Torah was written in <span class=\"heb\">כתב עברי</span> (ancient Hebrew script). This reflected a world where only the <b>spiritual realms</b> were fully rectified—nature remained unrectified.",
+      "badges": [
+        { "label": "Ancient Script", "variant": "primary" },
+        { "label": "Spiritual Worlds Only", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Ktav Ivri Explained",
+          "content": "Rashi describes Ktav Ivri as the script used in amulets and protective writings, associated with angels. It was appropriate when <b>only</b> the spiritual worlds were refined. The physical world hadn't yet been elevated."
+        },
+        {
+          "title": "White Script (Ktav Libona'ah)",
+          "content": "Another opinion calls the original 'white script.' The Kedushas Levi explains: <b>white</b> represents the upper worlds (intellect), while <b>black</b> represents the lower world (physical). Before Purim, only the 'white' realm was rectified."
+        },
+        {
+          "title": "Moda'a Raba",
+          "content": "There was still a <span class=\"heb\">מודעא רבא לאורייתא</span>—a 'legal claim' against Torah. The natural world wasn't fully rectified, and the light couldn't flow properly into physicality."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "blue"
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "II",
+      "label": "The Purim Miracle",
+      "hebrew": "תחת הנעצוץ",
+      "english": "Under the Thorns · In Haman's Territory",
+      "tagline": "Unlike all previous miracles that <b>changed</b> nature, Purim's miracle occurred <b>within</b> nature. The <span class=\"heb\">חיצונים</span> (impure forces) were defeated on their own ground.",
+      "badges": [
+        { "label": "Within Nature", "variant": "primary" },
+        { "label": "Enemy's Territory", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "'Under the Thorns Shall Rise the Cypress'",
+          "content": "Isaiah prophesied: <span class=\"heb\">תחת הנעצוץ יעלה ברוש</span>—in the very place of the <span class=\"heb\">חיצונים</span> (thorns/impurity), holiness arose. This is Mordechai rising in place of Haman, <b>in Haman's own territory</b>."
+        },
+        {
+          "title": "Haman and Vashti Replaced",
+          "content": "Haman (masculine <span class=\"heb\">קליפה</span>) was replaced by Mordechai. Vashti (feminine <span class=\"heb\">קליפה</span>) was replaced by Esther. Both dimensions of impurity within nature were transformed to holiness."
+        },
+        {
+          "title": "Nature Itself Did God's Bidding",
+          "content": "Achashverosh—more wicked than Haman—<b>himself</b> commanded that Mordechai be honored and Haman hanged. No external miracle was needed; nature itself became the vehicle of salvation."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "blue",
+      "toTheme": "green"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "III",
+      "label": "After Purim",
+      "hebrew": "כתב אשורית",
+      "english": "Ktav Ashurit · The Blessed Script",
+      "tagline": "After Purim, the script changed to <span class=\"heb\">כתב אשורית</span>—from <span class=\"heb\">אשרי</span> (blessed) or <span class=\"heb\">מאושר</span> (most excellent). Now the letters could reflect light flowing <b>all the way down</b> into rectified physicality.",
+      "badges": [
+        { "label": "Refined Script", "variant": "primary" },
+        { "label": "Physical World Rectified", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why the Script Changed",
+          "content": "Letter shapes represent how divine light <b>functions within physical reality</b>. Before Purim, physicality wasn't refined—so letters had a 'higher' form. After Purim, when nature itself was elevated, letters could take their true, refined form."
+        },
+        {
+          "title": "Black Fire on White Fire",
+          "content": "Torah is 'black fire on white fire.' White = the upper worlds/Divine Will; black = physical manifestation. After Purim, the letters became <b>black</b>—representing the light now shining even in the lowest realm."
+        },
+        {
+          "title": "'L'Ot Olam' — Eternal Letters",
+          "content": "The verse concludes: <span class=\"heb\">והיה לה׳ לאות עולם</span>—'an eternal sign.' The Gemara says this refers to the Megillah reading. <span class=\"heb\">אות</span> means LETTERS—through Purim we merited eternal letters, Ktav Ashurit."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "green",
+      "toTheme": "teal"
+    },
+    {
+      "type": "level-card",
+      "theme": "teal",
+      "number": "IV",
+      "label": "The Four Worlds",
+      "hebrew": "ד׳ עולמות",
+      "english": "Completing the Fourth World · Asiyah",
+      "tagline": "The four worlds (Atzilut, Beriah, Yetzirah, Asiyah) correspond to the four letters of God's Name. Before Purim, only <b>three</b> were rectified. The Megillah completed the <b>fourth</b>—Asiyah/nature.",
+      "badges": [
+        { "label": "Y-H-V-H", "variant": "primary" },
+        { "label": "Fourth Completed", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "'Three, Not Four'",
+          "content": "When Esther asked to establish the Megillah, the Sages initially said: 'Have I not written for you <b>three</b> times?' This refers to the three upper worlds already rectified—Atzilut, Beriah, Yetzirah. The fourth (Asiyah/nature) was still concealed."
+        },
+        {
+          "title": "'B'Sefer Zu Megillah'",
+          "content": "Then they found the verse: 'Write this in a <b>book</b> (<span class=\"heb\">ספר</span>).' <span class=\"heb\">ספר</span> corresponds to Malchut, which dwells in Asiyah. The Megillah rectified the <b>fourth</b> world—now 'four' was permitted!"
+        },
+        {
+          "title": "The Final Hey",
+          "content": "The final <span class=\"heb\">ה</span> of YHVH corresponds to Asiyah—the world of nature. Through Purim, this final letter was fully revealed. God's complete Name now shines even into physical reality."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "teal",
+      "toTheme": "red"
+    },
+    {
+      "type": "level-card",
+      "theme": "red",
+      "number": "V",
+      "label": "Matanos L'Evyonim",
+      "hebrew": "מתנות לאביונים",
+      "english": "Gifts to the Poor · The Natural World",
+      "tagline": "The 'poor' (<span class=\"heb\">אביונים</span>) represent the <b>natural world</b> itself—'impoverished' because God's presence is concealed there. On Purim, we 'give' divine light to this spiritually hungry realm.",
+      "badges": [
+        { "label": "Spiritual Poverty", "variant": "primary" },
+        { "label": "Netzach & Hod", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Who Are the 'Evyonim'?",
+          "content": "In the upper worlds, divine presence is manifest. But in this world, God's presence is concealed. The natural world is 'poor' (<span class=\"heb\">אביון</span>)—desperately lacking the revealed divine presence that the upper worlds enjoy."
+        },
+        {
+          "title": "The Gift of Purim",
+          "content": "On Purim, reading the Megillah 'gives' to this poverty! We reveal that God's sovereignty extends even into nature. This is <span class=\"heb\">מתנות לאביונים</span> at its deepest level—the gift of divine light to the impoverished physical world."
+        },
+        {
+          "title": "Two Gifts to Two Poor",
+          "content": "The <span class=\"heb\">הלכה</span> requires two gifts to two poor people. This corresponds to <b>Netzach and Hod</b>—the 'poor' sefirot that function in the realm of faith, where God's governance is believed rather than seen."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Prophetic Verse"
+    },
+    {
+      "type": "verse",
+      "text": "תַּחַת הַנַּעֲצוּץ יַעֲלֶה בְרוֹשׁ... וְהָיָה לַה׳ לְאוֹת עוֹלָם",
+      "reference": "Isaiah 55:13"
+    },
+    {
+      "type": "section-label",
+      "text": "The Four Worlds Before and After Purim"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "world", "label": "World" },
+        { "key": "letter", "label": "Letter of Name", "theme": "gold" },
+        { "key": "before", "label": "Before Purim", "theme": "purple" },
+        { "key": "after", "label": "After Purim", "theme": "green" }
+      ],
+      "rows": [
+        { "world": "Atzilut", "letter": "Yud (י)", "before": "Rectified", "after": "Rectified" },
+        { "world": "Beriah", "letter": "Hey (ה)", "before": "Rectified", "after": "Rectified" },
+        { "world": "Yetzirah", "letter": "Vav (ו)", "before": "Rectified", "after": "Rectified" },
+        { "world": "Asiyah (Nature)", "letter": "Final Hey (ה)", "before": "Concealed, unrectified", "after": "Revealed through Megillah" }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Petachya Is Mordechai"
+    },
+    {
+      "type": "info-panel",
+      "title": "The Opener of Seventy Gates",
+      "intro": "The Gemara states: 'Petachya—this is Mordechai. And why was he called Petachya? Because he would open matters and knew seventy languages.' What does 'opening' have to do with languages?",
+      "items": [
+        {
+          "theme": "blue",
+          "hebrew": "שבעים שרים",
+          "content": "<b>Seventy Ministers:</b> Every nation has a heavenly <span class=\"heb\">שר</span> (minister) who determines their script and language. The way a <span class=\"heb\">שר</span> receives divine energy determines the shape of that nation's letters."
+        },
+        {
+          "theme": "green",
+          "hebrew": "שירת השר",
+          "content": "<b>The Song of Each Minister:</b> Each <span class=\"heb\">שר</span> sings a song to Hashem—this song determines how it receives divine energy. Gabriel taught Yosef the seventy languages by teaching him each <span class=\"heb\">שר</span>'s song."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "פתיחה = פתח",
+          "content": "<b>'Opening' = Source:</b> The 'beginning' (<span class=\"heb\">פתיחה</span>) of each nation is its <span class=\"heb\">שר</span>'s connection to holiness. Mordechai could 'open' these gates because he knew each <span class=\"heb\">שר</span>'s song."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "השפעה על אחשורוש",
+          "content": "<b>Influencing Achashverosh:</b> A tzaddik who knows a nation's spiritual song can influence that nation's <span class=\"heb\">שר</span>. This is how Mordechai compelled Achashverosh to honor the Jews!"
+        }
+      ],
+      "outro": "Israel's script (Ktav Ashurit) and language (Lashon HaKodesh) are perfect because we receive directly from Hashem, not through an intermediary. We serve the 'God of gods.'"
+    },
+    {
+      "type": "section-label",
+      "text": "Why Megillah Needs Sirtut (Ruled Lines)"
+    },
+    {
+      "type": "item-grid",
+      "columns": 2,
+      "items": [
+        {
+          "hebrew": "מזוזה",
+          "english": "Mezuzah",
+          "theme": "blue",
+          "description": "Requires ruled lines—protecting the physical house from harmful forces.",
+          "detail": "The spiritual power of Torah's letters extends <b>all the way down</b> to protect physical property. This represents divine light reaching from beginning to end—<span class=\"heb\">אמת</span> (Aleph to Tav)."
+        },
+        {
+          "hebrew": "מגילה",
+          "english": "Megillah",
+          "theme": "purple",
+          "description": "Also requires ruled lines—revealing God within natural events.",
+          "detail": "Just as mezuzah brings protection to the physical, the Megillah reveals that 'in the heavens above and on earth below, there is none other'—even in nature."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "content": "<b>Why Lines?</b> The Arizal teaches that lines on a person's forehead reveal their <span class=\"heb\">רצון</span> (will). <span class=\"heb\">שרטוט</span> (ruled lines) on a scroll represents the revelation of <b>Divine Will</b>. Hashem's ultimate Will was to create a dwelling in the <b>lowest</b> worlds. Mezuzah and Megillah both show this Will reaching its destination—hence they need <span class=\"heb\">שרטוט</span>."
+    },
+    {
+      "type": "section-label",
+      "text": "Why Purim Will Never Be Nullified"
+    },
+    {
+      "type": "info-panel",
+      "title": "An Eternal Holiday",
+      "intro": "The Sages teach: 'All festivals are destined to be nullified in the future, except for Purim.' Why should Purim, of all holidays, be eternal?",
+      "items": [
+        {
+          "theme": "purple",
+          "hebrew": "מטרת שאר החגים",
+          "content": "<b>Other Holidays' Purpose:</b> Pesach, Shavuot, Sukkot commemorate miracles that <b>changed</b> nature. They remind us that even when the world operates 'naturally,' Hashem controls everything."
+        },
+        {
+          "theme": "green",
+          "hebrew": "ימות המשיח",
+          "content": "<b>The Messianic Era:</b> In the future, nature itself will be rectified—'the cow and bear shall graze together.' We won't <b>need</b> miracles that change nature, because nature itself will be holy."
+        },
+        {
+          "theme": "gold",
+          "hebrew": "פורים כבר מגלם את העתיד",
+          "content": "<b>Purim Already Embodies This:</b> The miracle happened <b>within</b> nature—nature itself did God's bidding. This is exactly what the Messianic era will look like. Purim is a preview of the future!"
+        }
+      ],
+      "outro": "Purim won't be nullified because its essential quality—God's presence revealed <b>through</b> nature, not against it—is precisely what will characterize the Messianic age. It already embodies the goal."
+    },
+    {
+      "type": "section-label",
+      "text": "Practical Application"
+    },
+    {
+      "type": "parable-grid",
+      "items": [
+        {
+          "icon": "👁️",
+          "title": "See the 'Reishit' in Everything",
+          "body": "Mordechai saw the 'beginning' within every 'end.' When you look at any created thing, ask: 'Why does this exist? What is its purpose in Hashem's plan?' This contemplation refines the world itself."
+        },
+        {
+          "icon": "🎁",
+          "title": "Give Tzedakah with Complete Joy",
+          "body": "Give matanos l'evyonim with absolute simcha—no hesitation, no regret. Your act creates a cascade of divine kindness flowing through all worlds. You're giving delight to angels beyond number."
+        },
+        {
+          "icon": "🌱",
+          "title": "Trust That Nature Is Holy",
+          "body": "The 'coincidences' that work in your favor, the subtle providential guidance—this IS divine intervention. Recognize God working THROUGH nature, just as He did at Purim."
+        },
+        {
+          "icon": "✍️",
+          "title": "Letters Matter",
+          "body": "Since letter shapes represent how divine light flows into physicality, the WORDS you use carry real spiritual power. Holy words draw holy light into the world."
+        }
+      ]
+    }
+  ]
+}

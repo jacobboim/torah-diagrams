@@ -1,0 +1,299 @@
+{
+  "id": "kedushas-levi/purim/01-kedusha-rishona",
+  "meta": {
+    "sefer": "Kedushas Levi",
+    "parshah": "Purim",
+    "hebrewTitle": "קדושה ראשונה לפורים",
+    "englishTitle": "The Scroll That Reveals",
+    "subtitle": "Why Purim Changed Everything",
+    "sourceDiscourse": "discourses/kedushas-levi/purim/01-kedusha-rishona.json"
+  },
+  "blocks": [
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "Ein Sof",
+      "hebrew": "מלכותו בכל משלה",
+      "english": "His Kingdom · Rules Over All",
+      "tagline": "The Purim miracle revealed a profound truth: God's providence operates <b>within</b> nature itself, not just above it. Every 'natural' event is secretly orchestrated by the King.",
+      "badges": [
+        { "label": "Hidden Miracles", "variant": "primary" },
+        { "label": "Divine Providence", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Name 'Megillah'",
+          "content": "The scroll is called <span class=\"heb\">מגילה</span> from <span class=\"heb\">גילוי</span> (revelation). It reveals that even within the 'natural' world where God's governance seems hidden (<span class=\"heb\">מכוסה</span>), His kingdom actually rules over all. The concealed becomes revealed."
+        },
+        {
+          "title": "The Greater Miracle",
+          "content": "When a king marches with his armies, it's impressive but expected. But when a king walks <b>alone</b> in the forest, without royal garments—and still commands respect—that's truly remarkable. Purim shows God working <b>through</b> nature, not against it."
+        },
+        {
+          "title": "Why Greater Love",
+          "content": "Precisely because the miracle was hidden, the love was greater. Israel saw that God doesn't abandon us when He's concealed—He's <b>still</b> orchestrating everything. This inspired deeper, more mature love than even the spectacular miracles of Egypt."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "purple"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "I",
+      "label": "At Sinai",
+      "hebrew": "מתן תורה",
+      "english": "The Giving of Torah · Open Miracles",
+      "tagline": "At Sinai, Israel accepted Torah amid <b>revealed</b> miracles—the manna, the well, the clouds of glory. But God held the mountain over them for times when miracles would be hidden.",
+      "badges": [
+        { "label": "Revealed Miracles", "variant": "primary" },
+        { "label": "The Mountain", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Na'aseh V'Nishma",
+          "content": "At Sinai, Israel achieved such spiritual refinement that they said 'we will do' before 'we will hear.' Their purified souls already <b>knew</b> the Torah—the 248 spiritual limbs and 365 sinews revealing the 613 mitzvos directly."
+        },
+        {
+          "title": "Why the Coercion?",
+          "content": "If they willingly accepted, why hold the mountain over them? The Kedushas Levi explains: it was for <b>future times</b>—when thoughts become coarse, when miracles aren't obvious. The coercion was insurance for spiritual darkness."
+        },
+        {
+          "title": "The Legal Claim",
+          "content": "This coercion creates a <span class=\"heb\">מודעא רבא לאורייתא</span>—a 'great legal claim' against Torah's binding nature. When Israel descends from that elevated state, they could argue they only accepted under duress."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "blue"
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "II",
+      "label": "In Shushan",
+      "hebrew": "קיימו וקבלו",
+      "english": "They Established · And Accepted",
+      "tagline": "In the days of Mordechai and Esther, Israel <b>re-accepted</b> the Torah—this time from pure love. They 'established what they had already accepted,' transforming coercion into willing embrace.",
+      "badges": [
+        { "label": "Hidden Miracle", "variant": "primary" },
+        { "label": "Love", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "From Love of the Miracle",
+          "content": "Rashi explains they re-accepted 'from love of the miracle.' But Purim's miracle was hidden! The answer: <b>precisely because</b> it was hidden, the love was greater. They saw God present even in concealment."
+        },
+        {
+          "title": "Nature Doing God's Bidding",
+          "content": "At Purim, the miracle happened <b>within</b> nature—Achashverosh himself honored Mordechai, Haman fell by his own schemes. No seas split, yet Divine providence orchestrated every 'coincidence.'"
+        },
+        {
+          "title": "No More Legal Claim",
+          "content": "Because they experienced hidden miracles and still recognized God, the 'legal claim' is nullified. They willingly accepted Torah even in the state where God seems hidden—which is our normal state."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "blue",
+      "toTheme": "green"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "III",
+      "label": "The Megillah",
+      "hebrew": "מקרא מגילה",
+      "english": "Reading the Scroll · Spiritual Technology",
+      "tagline": "The Megillah contains hidden letter-combinations (<span class=\"heb\">צירופי אותיות</span>) that are the spiritual vitality of the <b>natural world</b>. Reading it purifies our physicality and the entire world of nature.",
+      "badges": [
+        { "label": "Letter Codes", "variant": "primary" },
+        { "label": "Purification", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why It Surpasses Torah Study",
+          "content": "We interrupt Torah study to hear the Megillah. Why? Because Torah corresponds to the <b>upper</b> worlds, but the Megillah corresponds to the <b>natural</b> world. It meets us where we are and purifies even our physicality."
+        },
+        {
+          "title": "The Strict Requirements",
+          "content": "Must be from a proper scroll, in Hebrew, not backwards, not by heart—because the power lies in the actual <span class=\"heb\">צירופי אותיות</span> (letter-combinations). These codes only work in their exact form."
+        },
+        {
+          "title": "Hidden Divine Names",
+          "content": "God's Name appears only in first letters (<span class=\"heb\">ראשי תיבות</span>) and last letters (<span class=\"heb\">סופי תיבות</span>)—never as a standalone word. This reflects how God is hidden 'within' nature, revealed only through looking deeper."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "green",
+      "toTheme": "red"
+    },
+    {
+      "type": "level-card",
+      "theme": "red",
+      "number": "IV",
+      "label": "Us Today",
+      "hebrew": "מחדש בכל יום",
+      "english": "Renewed Each Year · Purification",
+      "tagline": "Each Purim, reading the Megillah gives us a <b>new beginning</b>—parallel to Yom Kippur. What passed is gone; from this moment, we accept Torah and mitzvos anew with purified hearts.",
+      "badges": [
+        { "label": "New Beginning", "variant": "primary" },
+        { "label": "Like Yom Kippur", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Yom HaKippurim Is K'Purim",
+          "content": "The Zohar teaches Yom Kippur is 'like Purim.' Both purify from this point forward, both deal with the <span class=\"heb\">חיצונים</span> (external forces), both mark fresh starts. But Purim does so through <b>joy</b>."
+        },
+        {
+          "title": "Purifying the World",
+          "content": "Since the Megillah rectifies the natural world, reading it purifies not just the reader but <b>all of nature</b>. Through each word, all worlds are elevated—even this physical world."
+        },
+        {
+          "title": "Heart Burning with Intention",
+          "content": "Approach the Megillah with burning hearts! Know that from this reading forward, you accept Torah anew. Intend that through each word, God rejoices in His creations."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Key Verse"
+    },
+    {
+      "type": "verse",
+      "text": "קִיְּמוּ וְקִבְּלוּ הַיְּהוּדִים",
+      "reference": "Esther 9:27"
+    },
+    {
+      "type": "section-label",
+      "text": "Core Distinctions"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Dimension" },
+        { "key": "revealed", "label": "Revealed Miracles", "theme": "purple" },
+        { "key": "hidden", "label": "Hidden Miracles", "theme": "blue" }
+      ],
+      "rows": [
+        { "dimension": "Nature", "revealed": "Overturned—seas split, plagues fall", "hidden": "Preserved—events unfold 'naturally'" },
+        { "dimension": "God's Hand", "revealed": "Obvious to all", "hidden": "Visible only to the discerning" },
+        { "dimension": "Example", "revealed": "Exodus, Sinai", "hidden": "Purim" },
+        { "dimension": "Torah Acceptance", "revealed": "Under mountain (coerced)", "hidden": "From love of the miracle" },
+        { "dimension": "Recognition Required", "revealed": "Immediate and overwhelming", "hidden": "Deeper, more mature perception" }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Body-Soul-Torah Correspondence"
+    },
+    {
+      "type": "item-grid",
+      "columns": 3,
+      "items": [
+        {
+          "hebrew": "רמ״ח אברים",
+          "english": "248 Limbs",
+          "theme": "green",
+          "description": "The physical body has 248 limbs corresponding to 248 positive mitzvos.",
+          "detail": "Just as physical limbs instinctively know what nourishment they need, so too the <b>spiritual</b> limbs naturally recognize their corresponding mitzvos. One who transcends physicality can perceive Torah directly."
+        },
+        {
+          "hebrew": "שס״ה גידים",
+          "english": "365 Sinews",
+          "theme": "teal",
+          "description": "The physical body has 365 sinews corresponding to 365 negative mitzvos.",
+          "detail": "The spiritual sinews warn against what damages the soul. This is how Avraham Avinu knew the entire Torah before it was given—his refined being revealed the 613 mitzvos directly."
+        },
+        {
+          "hebrew": "מסך המבדיל",
+          "english": "The Dividing Curtain",
+          "theme": "red",
+          "description": "Materiality acts as a curtain blocking spiritual perception.",
+          "detail": "Why can't we perceive Torah from within ourselves? Because <span class=\"heb\">חומריות</span> (materiality) creates a barrier. At Sinai, this curtain was removed; through the Megillah, it is thinned."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Divine Names in the Megillah"
+    },
+    {
+      "type": "info-panel",
+      "title": "Hidden Names in the Scroll",
+      "intro": "God's Name never appears explicitly in the Megillah—only encoded in the first or last letters of words. This reflects how God operates within nature: present but concealed.",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "ראשי תיבות",
+          "content": "<b>First Letters:</b> 'I am first' — God initiates events.<br>Example: <span class=\"heb\">יבא המלך והמן היום</span> = YHVH"
+        },
+        {
+          "theme": "gold-dim",
+          "hebrew": "סופי תיבות",
+          "content": "<b>Last Letters:</b> 'I am last' — God completes events.<br>Example: <span class=\"heb\">כל זה איננו שוה לי</span> = YHVH"
+        },
+        {
+          "theme": "purple",
+          "hebrew": "אין שם מפורש",
+          "content": "<b>No Explicit Name:</b> 'Besides Me there is no God' — His presence <b>within</b> nature remains concealed. We see Him only by looking deeper at the 'coincidences.'"
+        }
+      ],
+      "outro": "The Arizal identifies many such hidden Names throughout the Megillah, revealing that the text is encoded with the spiritual vitality of the natural world."
+    },
+    {
+      "type": "section-label",
+      "text": "Two Reasons for the Mountain"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "dimension", "label": "Dimension" },
+        { "key": "elevated", "label": "The Elevated State", "theme": "gold" },
+        { "key": "coercion", "label": "The Coercion For", "theme": "red" }
+      ],
+      "rows": [
+        { "dimension": "In the Soul", "elevated": "Clear, refined consciousness", "coercion": "Times of spiritual darkness when mitzvos feel burdensome" },
+        { "dimension": "In the World", "elevated": "Open miracles everywhere", "coercion": "Times when nature conceals God's providence" }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Practical Application"
+    },
+    {
+      "type": "parable-grid",
+      "items": [
+        {
+          "icon": "📜",
+          "title": "Kavvanah During Megillah",
+          "body": "Approach Megillah reading with burning hearts. Know this isn't merely recounting history—it's a moment of spiritual transformation. Intend that from this reading forward, you accept Torah anew."
+        },
+        {
+          "icon": "🌿",
+          "title": "Finding God in 'Nature'",
+          "body": "When things seem random or coincidental, look deeper. The same God who split the sea arranges the 'accidents' of your life. The Megillah teaches us to see the miracle within the mundane."
+        },
+        {
+          "icon": "🔄",
+          "title": "New Beginnings",
+          "body": "Like Yom Kippur, Purim offers a fresh start. Whatever spiritual failures have accumulated—'what passed is gone.' Let your soul be renewed like an eagle's youth."
+        },
+        {
+          "icon": "💖",
+          "title": "The Joy of Recognition",
+          "body": "Rejoice not despite the hiddenness but because of it. You've discovered that you're never truly alone, even when it seems so. This is the unique joy of Purim."
+        }
+      ]
+    }
+  ]
+}

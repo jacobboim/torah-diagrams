@@ -1,0 +1,360 @@
+{
+  "id": "kedushas-levi/purim/03-kedusha-shlishit",
+  "meta": {
+    "sefer": "Kedushas Levi",
+    "parshah": "Purim",
+    "hebrewTitle": "קדושה שלישית - סוד משלוח מנות",
+    "englishTitle": "The Gift Between Friends",
+    "subtitle": "The Secret of Mishloach Manos",
+    "sourceDiscourse": "discourses/kedushas-levi/purim/03-kedusha-shlishit.json"
+  },
+  "blocks": [
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "∞",
+      "label": "Purpose of Creation",
+      "hebrew": "לשעשע באיומסו",
+      "english": "To Delight · In Those Who Fear Him",
+      "tagline": "Why was the world created? So that God could delight in those who fear Him. Every prayer, every mitzvah brings <span class=\"heb\">נחת רוח</span> (spiritual pleasure) to the Creator—and this is the purpose of our existence.",
+      "badges": [
+        { "label": "Nachas Ruach", "variant": "primary" },
+        { "label": "Divine Joy", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Creator's Pleasure",
+          "content": "When a person prays, studies Torah, and serves God through mitzvos, God experiences tremendous joy. As the Sages teach regarding sacrifices: <span class=\"heb\">נחת רוח לפניו</span>—'it brings a pleasant spirit before Him, because His will was fulfilled.'"
+        },
+        {
+          "title": "Sos Asis B'Hashem",
+          "content": "The verse 'I will greatly rejoice in God' means: <b>I rejoice in the fact that I bring joy to God</b> through my actions. Our joy should come from knowing that our service truly matters to the Infinite One."
+        },
+        {
+          "title": "The Wonder of It",
+          "content": "A being formed from a putrid drop, whose end is worms and decay, can rise so high through their actions that they bring pleasure to the Holy One! This itself is one of God's greatest kindnesses and wonders."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "gold",
+      "toTheme": "purple"
+    },
+    {
+      "type": "level-card",
+      "theme": "purple",
+      "number": "I",
+      "label": "Shemini Sheb'Sheminis",
+      "hebrew": "שמינית שבשמינית",
+      "english": "An Eighth of an Eighth · The Pride We Need",
+      "tagline": "The Talmud says we need 'an eighth of an eighth of pride.' This cryptic measure means: we must have <b>confidence that our service matters to God</b>—anything less borders on heresy.",
+      "badges": [
+        { "label": "World of Delight", "variant": "primary" },
+        { "label": "Not False Humility", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "The Danger of False Humility",
+          "content": "If someone says 'What am I that God should have pleasure from my actions?'—they may think this is humility. But it's not! Such an attitude actually borders on <span class=\"heb\">מינות</span> (heresy), denying God's love for us."
+        },
+        {
+          "title": "What Is the 'Eighth'?",
+          "content": "The 'world of delight' (<span class=\"heb\">עולם העונג</span>) is called the 'eighth measure.' Binah (Understanding) corresponds to this realm. When we need 'joy from joy'—delight that God has delight from us—this is <span class=\"heb\">שמינית שבשמינית</span>."
+        },
+        {
+          "title": "Where Not to Be Humble",
+          "content": "Be humble in all matters—except this one. We should NOT say, 'How can I, formed from clay, bring joy to the Creator?' In this alone we must have confidence: our service truly brings God joy."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "purple",
+      "toTheme": "blue"
+    },
+    {
+      "type": "level-card",
+      "theme": "blue",
+      "number": "II",
+      "label": "The Tzaddik's Power",
+      "hebrew": "צדיק גוזר והקב״ה מקיים",
+      "english": "The Tzaddik Decrees · God Fulfills",
+      "tagline": "Through prayer, tzaddikim can actually <b>annul Divine decrees</b>. The Sages teach: 'Who rules over Me? The tzaddik! God decrees, and the tzaddik annuls it.' This is God's greatest delight in Israel.",
+      "badges": [
+        { "label": "Prayer Power", "variant": "primary" },
+        { "label": "Divine Pride in Israel", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Like a Father with His Son",
+          "content": "This is like a father who delights so much in his child that he nullifies his own will for the child's sake. As Shimon ben Shatach told Choni HaMe'agel: 'You are like a son who acts spoiled before his father, and the father does his will.'"
+        },
+        {
+          "title": "When This Works",
+          "content": "This happens only when Israel is beloved before God. In times of <span class=\"heb\">הסתר פנים</span> (concealment of God's face), the situation differs. But when beloved, the tzaddikim can actually change outcomes."
+        },
+        {
+          "title": "Yisrael Asher Becha Espa'ar",
+          "content": "God takes such pride in Israel, as the verse says: <span class=\"heb\">ישראל אשר בך אתפאר</span>—'Israel, in whom I take pride.' He <b>wants</b> us to have influence over His decrees."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "blue",
+      "toTheme": "green"
+    },
+    {
+      "type": "level-card",
+      "theme": "green",
+      "number": "III",
+      "label": "Elokeinu vs. Elokim",
+      "hebrew": "אלקינו",
+      "english": "Our God · Governance Connected to Us",
+      "tagline": "When we say <span class=\"heb\">אלקינו</span> (our God), we mean: His governance is, as it were, <b>ours</b>. We can transform judgment to mercy. The tzaddikim have power to shape how God rules the world.",
+      "badges": [
+        { "label": "Divine Governance", "variant": "primary" },
+        { "label": "Suffix = Relationship", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "Why the Suffix Matters",
+          "content": "The Name YHVH never takes a suffix—we don't say 'Hashem-einu.' But Elokim does: <span class=\"heb\">אלקיכם, אלקינו</span>. This is because Elokim describes God as Judge, and when we're righteous, His judgments are connected to our influence."
+        },
+        {
+          "title": "Hashem Elokeinu Hashem Echad",
+          "content": "Rashi explains: 'Hashem who is now <b>our</b> God (not the nations') will in the future be Hashem Echad.' Currently, nations receive abundance not through Israel. But in the future, everyone will see that all flows through us."
+        },
+        {
+          "title": "Elijah's Generation",
+          "content": "At Mount Carmel, they cried 'Hashem Hu <b>HaElokim</b>'—without suffix. Why? Because that generation wasn't righteous. The miracle was to sanctify God's Name, not in their merit. Hence 'Elokim' alone, not 'Elokeinu.'"
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "green",
+      "toTheme": "red"
+    },
+    {
+      "type": "level-card",
+      "theme": "red",
+      "number": "IV",
+      "label": "Haman's Claim",
+      "hebrew": "אלהיהם ישן הוא",
+      "english": "Their God Is Sleeping · The Challenge",
+      "tagline": "Haman claimed that the attribute of <span class=\"heb\">אלקינו</span>—where God responds to Israel—is 'asleep,' not active. Since the Temple was destroyed, Israel no longer has power to annul decrees.",
+      "badges": [
+        { "label": "The Accusation", "variant": "primary" },
+        { "label": "Sleeping Attribute", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "What 'Sleeping' Means",
+          "content": "When someone has good qualities but doesn't use them, we say those qualities are 'sleeping.' Haman claimed that God's responsiveness to Israel—the <span class=\"heb\">אלקינו</span> attribute—was dormant, not active."
+        },
+        {
+          "title": "The Psalm's Plea",
+          "content": "This is what the Psalmist meant: <span class=\"heb\">עורה למה תישן ה׳</span>—'Awake! Why do You sleep, O Lord?' The plea is for God to 'activate' His quality of responsiveness to Israel, transforming from 'Elokim' to 'Elokeinu.'"
+        },
+        {
+          "title": "Nebuchadnezzar's Same Error",
+          "content": "Nebuchadnezzar tried to sing songs declaring 'God does as He wishes—period.' His message: no room for human influence. The angel slapped him to ensure the world continues to be governed according to Israel's prayers."
+        }
+      ]
+    },
+    {
+      "type": "connector",
+      "fromTheme": "red",
+      "toTheme": "gold"
+    },
+    {
+      "type": "level-card",
+      "theme": "gold",
+      "number": "V",
+      "label": "The Secret of Mishloach Manos",
+      "hebrew": "משלוח מנות איש לרעהו",
+      "english": "Ish L'Rei'eihu · God to His Friends",
+      "tagline": "Mordechai and Esther tore up a heavenly decree through prayer—proving that even in exile, tzaddikim can overturn decrees. <span class=\"heb\">איש לרעהו</span> = God (<span class=\"heb\">איש</span>) sending a gift to His friends (the tzaddikim).",
+      "badges": [
+        { "label": "The Gift", "variant": "primary" },
+        { "label": "Prayer Power", "variant": "secondary" }
+      ],
+      "details": [
+        {
+          "title": "'Ish' Refers to God",
+          "content": "The Midrash teaches that <span class=\"heb\">איש</span> (man) can refer to God, as in <span class=\"heb\">ה׳ איש מלחמה</span>—'Hashem is a Man of war.' So <span class=\"heb\">משלוח מנות איש לרעהו</span> = the gift from God to His 'friend'—the tzaddik."
+        },
+        {
+          "title": "Israel as God's 'Friends'",
+          "content": "The Gemara teaches that Israel is called 'brothers and friends' to God regarding this ability to annul decrees. Among the nations, none can do what God does. But Israel? Elijah revived the dead, controlled rain—tzaddikim do what God does!"
+        },
+        {
+          "title": "The Gift = Prayer Power",
+          "content": "What gift does God send? The <b>power to annul decrees</b>—this is a <span class=\"heb\">מתנה</span> (gift) sent from God to the tzaddikim. Even the <b>thought</b> to pray comes from Above as a gift."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Key Verse"
+    },
+    {
+      "type": "verse",
+      "text": "מִשְׁלוֹחַ מָנוֹת אִישׁ לְרֵעֵהוּ וּמַתָּנוֹת לָאֶבְיוֹנִים",
+      "reference": "Esther 9:22"
+    },
+    {
+      "type": "section-label",
+      "text": "Two Approaches to Divine Sovereignty"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "aspect", "label": "Aspect" },
+        { "key": "nebuchadnezzar", "label": "Nebuchadnezzar", "theme": "red" },
+        { "key": "david", "label": "David HaMelech", "theme": "green" }
+      ],
+      "rows": [
+        { "aspect": "Core Message", "nebuchadnezzar": "God does as He wishes—period", "david": "God fulfills the will of those who fear Him" },
+        { "aspect": "Implication", "nebuchadnezzar": "No room for human influence", "david": "Prayer can change outcomes" },
+        { "aspect": "Songs/Psalms", "nebuchadnezzar": "'As He wishes with hosts of heaven'", "david": "'R'tzon yerei'av ya'aseh'" },
+        { "aspect": "God's Response", "nebuchadnezzar": "Angel slapped him", "david": "These are Israel's eternal prayers" },
+        { "aspect": "Motivation", "nebuchadnezzar": "Wanted Temple to stay destroyed", "david": "Wanted Israel to have influence" }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Thought That Comes to the Tzaddik"
+    },
+    {
+      "type": "info-panel",
+      "title": "Everything Comes from God",
+      "intro": "Even though tzaddikim can annul decrees, we must know that everything—including the thought to pray—comes from God.",
+      "items": [
+        {
+          "theme": "gold",
+          "hebrew": "מחשבה מלמעלה",
+          "content": "<b>Divine Inspiration:</b> When a thought comes to a tzaddik to pray—that thought itself is from God! There is no thought without Divine involvement. All holy thoughts come from Him."
+        },
+        {
+          "theme": "blue",
+          "hebrew": "גזירה טובה",
+          "content": "<b>Good Decrees:</b> When a good decree is issued, it's revealed to all worlds and descends through the chain of worlds to reach Israel below—openly and publicly."
+        },
+        {
+          "theme": "purple",
+          "hebrew": "גזירה קשה",
+          "content": "<b>Harsh Decrees:</b> When a harsh decree is issued, God sends the thought to pray <b>secretly</b>, hidden from the upper worlds. He discreetly inspires the tzaddik so the credit goes to them."
+        }
+      ],
+      "outro": "Like a father helping his son discover an insight so it can be called 'the son's discovery'—God gives us the inspiration and then attributes the victory to us."
+    },
+    {
+      "type": "section-label",
+      "text": "Why It's Called a 'Gift'"
+    },
+    {
+      "type": "item-grid",
+      "columns": 2,
+      "items": [
+        {
+          "hebrew": "זכות",
+          "english": "Merit-Based",
+          "theme": "green",
+          "description": "When God decrees good because of Israel's merit...",
+          "detail": "They <b>deserve</b> the reward—it's not a gift. Their righteous actions earned the favorable decree through the normal channels of Divine justice."
+        },
+        {
+          "hebrew": "מתנה",
+          "english": "Pure Gift",
+          "theme": "gold",
+          "description": "When Israel deserves harsh judgment but God inspires prayer...",
+          "detail": "The inspiration to pray is a <b>pure gift</b>! They don't deserve it; it comes from God's abundant kindness. This is <span class=\"heb\">משלוח מנות</span>—the gift God sends."
+        }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "The Numbers of Purim"
+    },
+    {
+      "type": "contrast-table",
+      "columns": [
+        { "key": "mitzvah", "label": "Mitzvah" },
+        { "key": "requirement", "label": "Requirement", "theme": "blue" },
+        { "key": "represents", "label": "Represents", "theme": "gold" },
+        { "key": "why", "label": "Why?", "theme": "green" }
+      ],
+      "rows": [
+        { "mitzvah": "Mishloach Manos", "requirement": "2 portions to 1 person", "represents": "Tzaddik's prayer-power", "why": "One cause → two effects (love for Israel, judgment on enemies)" },
+        { "mitzvah": "Matanos L'Evyonim", "requirement": "2 gifts to 2 people", "represents": "The visible miracle", "why": "Two distinct visible outcomes (joy for Jews, downfall of Haman)" }
+      ]
+    },
+    {
+      "type": "section-label",
+      "text": "Nebuchadnezzar's Punishment"
+    },
+    {
+      "type": "info-panel",
+      "title": "Measure for Measure",
+      "intro": "Why was Nebuchadnezzar transformed from human to beast? Because he denied the two ways God 'fulfills the will' of created beings.",
+      "items": [
+        {
+          "theme": "blue",
+          "hebrew": "פנימיות",
+          "content": "<b>Internal (Pnimiyus):</b> When Israel is righteous, God fulfills their will—tzaddikim can annul decrees through prayer. Nebuchadnezzar <b>denied</b> this exists."
+        },
+        {
+          "theme": "teal",
+          "hebrew": "חיצוניות",
+          "content": "<b>External (Chitzoniyus):</b> God constantly renews creation; every creature wants to remain as it was created, and God maintains each being in its form. This is basic Divine kindness."
+        },
+        {
+          "theme": "red",
+          "hebrew": "העונש",
+          "content": "<b>The Punishment:</b> Since Nebuchadnezzar denied Israel's influence, God withdrew even the <b>external</b> kindness—maintaining him as human. He wanted to stay human, but that wish was not granted."
+        }
+      ],
+      "outro": "He denied Israel's power to have their wishes granted—so his own wish (to remain human) was not granted. Measure for measure."
+    },
+    {
+      "type": "section-label",
+      "text": "The Destruction of the Yetzer for Idolatry"
+    },
+    {
+      "type": "prose",
+      "content": "In the merit of Purim, the early Second Temple era saw the 'killing' of the <span class=\"heb\">יצר הרע</span> for idolatry. Previously, there was actual spiritual pleasure in idol worship! How? Holy thoughts pass through the 'world of delight'—when the Temple stood, even misdirected thoughts could tap into that flow.<br><br>The Men of the Great Assembly removed this—now <b>only holy pursuits</b> can draw from the 'world of delight.' This occurred in Mordechai's merit. He embodied the truth that God is the source of all life—making it impossible to draw pleasure from idolatry."
+    },
+    {
+      "type": "section-label",
+      "text": "Practical Application"
+    },
+    {
+      "type": "parable-grid",
+      "items": [
+        {
+          "icon": "💪",
+          "title": "The 'Pride' We Must Cultivate",
+          "body": "Don't doubt that your service matters to God. 'What am I that my prayers should make a difference?' isn't humility—it borders on denial of God's love. Know with certainty that your service brings Divine joy."
+        },
+        {
+          "icon": "🎁",
+          "title": "Mishloach Manos as Spiritual Awakening",
+          "body": "When you give mishloach manos, contemplate: God gives us the gift of being able to influence outcomes through prayer. Every inspiration to pray, to do teshuvah, is itself a Divine gift."
+        },
+        {
+          "icon": "⏰",
+          "title": "'Their God Is Sleeping' - Not on Our Watch",
+          "body": "Every prayer that's answered, every decree that's overturned, proves that 'Elokeinu' is awake. Our task is to live with awareness that God delights in us and responds to us."
+        },
+        {
+          "icon": "👨‍👦",
+          "title": "Like a Father with His Son",
+          "body": "God gives us the insight, then lets us take credit for the discovery. Like a father teaching his son, He wants our prayers to 'succeed.' What extraordinary love!"
+        }
+      ]
+    }
+  ]
+}
